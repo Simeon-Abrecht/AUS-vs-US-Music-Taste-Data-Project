@@ -45,3 +45,20 @@ def remove_double_braces(df: pd.DataFrame) -> pd.DataFrame:
         df_clean[col] = df_clean[col].str.replace(r'\{\{|\}\}', '', regex=True)
     
     return df_clean
+
+
+
+def drop_b_sides(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+
+    # If already exactly 100 rows, assume clean
+    if len(df) == 100:
+        return df
+
+    # Remove B-sides
+    df = df[~df["song_title"].str.contains(r"\{c/w", na=False)]
+
+    # Reassign ranks
+    df["rank"] = range(1, len(df) + 1)
+
+    return df
