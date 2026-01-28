@@ -62,3 +62,23 @@ def drop_b_sides(df: pd.DataFrame) -> pd.DataFrame:
     df["rank"] = range(1, len(df) + 1)
 
     return df
+
+
+
+def remove_artefacts(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Removes any text enclosed in curly braces '{}' from the 'song_title' column.
+
+    Args:
+        df (pd.DataFrame): Input DataFrame.
+
+    Returns:
+        pd.DataFrame: A new DataFrame with text inside '{}' removed from 'song_title'.
+    """
+    df_clean = df.copy()
+    
+    if 'song_title' in df_clean.columns:
+        # Remove anything in curly braces including the braces themselves
+        df_clean['song_title'] = df_clean['song_title'].str.replace(r'\{.*?\}', '', regex=True).str.strip()
+    
+    return df_clean
