@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,The Prayer,Anthony Callea,[],2005,0d2c0f7d-c38b-4ad9-8fbc-e86f146647cd,d915a89a-a4ec-4dc0-8ce6-c234581cb3e9,254000,[]
+2,Don't Cha,The Pussycat Dolls,['Busta Rhymes'],2005,c49fc577-c0e6-4ff1-bb0b-9bd164652252,1fda852b-92e9-4562-82fa-c52820a77b23,242000,"['pop', 'dance', 'rnb']"
+3,Lonely,Akon,[],2005,2f5b3629-969c-41a6-8def-6f9ae8936865,1138a764-2212-4d0a-b02d-0dc14df91e08,235000,"['rnb', 'hip hop', 'rap']"
+4,Axel F,Crazy Frog,[],2005,5edf0422-8bec-48ac-8478-320900e2eba7,3df914b9-e0bc-493c-875a-c412f84ecdad,171000,[]
+5,Over and Over,Nelly,['Tim McGraw'],2005,b6a23a4b-a5bb-4c7e-993b-1341c690f55c,811900b2-68fc-4d41-8bad-69b7a1f4d628,229000,[]
+6,Switch,Will Smith,[],2005,d618e233-3211-4419-b280-6706f5226d86,5bae7081-64ef-4473-825a-38d310deb14c,197000,[]
+7,Let Me Love You,Mario,[],2005,,f236134b-7ebb-4ba8-b155-1791193d05ec,251000,"['rnb', 'soul', 'pop']"
+8,Nasty Girl,Nitty,[],2005,6dd18693-ba66-4fa8-89b7-c6946ac1b558,ed5788df-e22c-43cb-8099-12edc547c412,249000,[]
+9,Feel Good Inc,Gorillaz,[],2005,,e21857d5-3256-4547-afb3-4b6ded592596,236000,"['alternative', 'electronic', 'rock']"
+10,Don't Phunk With My Heart,Black Eyed Peas,[],2005,a28fd793-c89a-47a4-a850-873665aed8cb,d5be5333-4171-427e-8e12-732087c6b78e,241000,[]
+11,You're Beautiful,James Blunt,[],2005,,ebee61b4-bbdd-4087-9bcb-d5aa099088ec,203000,[]
+12,Ghetto Gospel,2Pac,[],2005,056e1814-02cd-32f3-8b4f-43140fca8847,382f1005-e9ab-4684-afd4-0bdae4ee37f2,238000,[]
+13,"1, 2 Step",Ciara,['Missy Elliott'],2005,65665acf-041f-3d38-98e2-6cc8eaea787a,03172286-f7ed-4864-a4db-459cd5ca9790,202000,[]
+14,Almost Here,Delta Goodrem & Brian McFadden,[],2005,cc6e74f3-2401-46e5-989b-99fba6cde4b6,,227000,[]
+15,4ever,The Veronicas,[],2005,,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,210000,[]
+16,These Boots Are Made for Walkin',Jessica Simpson,[],2005,c5709326-44c5-3306-8cd6-6499426bc51a,fe37acd4-893c-4b2c-8ad2-7fd394280354,221000,[]
+17,We Belong Together,Mariah Carey,[],2005,,494e8d09-f85b-4543-892f-a5096aed1cd4,201000,"['rnb', 'pop', 'soul']"
+18,Bad Day,Daniel Powter,[],2005,,32cfbaf8-87aa-466b-9c1a-331ad9075ea2,234000,[]
+19,Beautiful Soul,Jesse McCartney,[],2005,34fcd3cb-1310-4b50-a229-7902b9af64e3,9d075d6e-9492-4343-ac95-93a808f61477,196000,[]
+20,Voodoo Child,Rogue Traders,[],2005,0eb88548-ca10-4dbb-813d-989aef66e059,7536267d-77be-4984-b7b6-59f24afe82dd,237000,[]
+21,Hollaback Girl,Gwen Stefani,[],2005,66059d42-86db-4128-84d9-f998bf6f42c5,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,204000,"['pop', 'dance', 'rock']"
+22,Since U Been Gone,Kelly Clarkson,[],2005,,d339efbb-77b9-4147-ba9e-59f2f24550b2,189000,"['pop', 'rock']"
+23,Lonely No More,Rob Thomas,[],2005,074498e2-5efa-39b2-8034-0b8c6b220a27,e42680f7-e439-4666-9c2c-536c2b3c6db3,227000,[]
+24,Candy Shop,50 Cent,['Olivia'],2005,3cd9f882-d7a1-4a83-9908-2025ce484990,8e68819d-71be-4e7d-b41d-f1df81b01d3f,209000,"['rap', 'hip hop']"
+25,Incomplete,Backstreet Boys,[],2005,0509c981-6979-40b2-b148-a9cd228205ce,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad,239000,[]
+26,Rich Girl,Gwen Stefani,['Eve'],2005,,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,243000,"['pop', 'dance']"
+27,Das Kleine Krokodil,Schnappi,[],2005,95071ae7-6a59-3a43-a181-0e69d9b009c1,e557d666-3595-4d82-8830-9cef343ab3a6,0,[]
+28,The Special Two,Missy Higgins,[],2005,62630f11-9265-481d-b9c7-d2a30bb169f1,3ac2a4a2-52b3-498b-bbc8-31443c68dfe0,266000,[]
+29,Get Right,Jennifer Lopez,[],2005,,f0602f55-1770-483d-89bd-4bae0d0ac086,227000,[]
+30,Numb/Encore,Jay-Z & Linkin Park,[],2005,0f4c7a1d-3dab-48ce-b467-fc8816915adb,,205000,[]
+31,Boulevard of Broken Dreams,Green Day,[],2005,67f8fb08-cb83-469c-a083-86b98a157a9a,084308bd-1654-436f-ba03-df6697104e19,261000,"['rock', 'punk', 'alternative']"
+32,Obsession (No Es Amor),Frankie J,['Baby Bash'],2005,564093b4-5dcc-3b36-b40a-ee53b6ff9f02,6ced1a26-0002-4bdd-8e69-5f80f04826b7,206000,[]
+33,Gold Digger,Kanye West,['Jamie Foxx'],2005,1abbab1d-b5f5-45a5-9fc5-464ca48747e2,,207000,"['rap', 'hip hop', 'pop']"
+34,Rain,Anthony Callea,[],2005,2ace5d7b-30c8-4c1c-ac01-3820397aa509,d915a89a-a4ec-4dc0-8ce6-c234581cb3e9,228000,[]
+35,Shine,Shannon Noll,[],2005,59dfc246-6a77-32a7-ba9a-77cca9734cce,5b07a1d0-9dc7-410c-a3f8-0b7cb159b852,214000,[]
+36,Drop it Like it's Hot,Snoop Dogg,['Pharrell'],2005,,f90e8b26-9e52-4669-a5c9-e28529c47894,266000,"['rap', 'hip hop']"
+37,Signs,Snoop Dogg,['Charlie Wilson and Justin Timberlake'],2005,3b43be7b-5b93-48c9-8c06-fd6f5f24d8c4,f90e8b26-9e52-4669-a5c9-e28529c47894,237000,[]
+38,Stop the Music,P-Money & Scribe,[],2005,,,309000,[]
+39,Pon De Replay,Rihanna,[],2005,ead5083d-8ef4-4a55-88ac-33d6d9107cf7,73e5e69d-3554-40d8-8516-00cb38737a1c,214000,"['dance', 'pop', 'rnb']"
+40,What You Waiting For?,Gwen Stefani,[],2005,,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,222000,"['pop', 'dance', 'rock']"
+41,Lose Control,Missy Elliott,"['Ciara', 'Fatman Scoop']",2005,08499db2-75dc-359c-b59b-d52edbaff391,a0b8cb9e-7532-45fe-a74c-30e7c4009a39,199000,[]
+42,Wonderful,Ja Rule,"['R. Kelly', 'Ashanti']",2005,e8f51c5c-d045-4866-a039-4aa81fe122cb,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,270000,[]
+43,C'mon Aussie C'mon,Shannon Noll,[],2005,f3c8e17c-57c7-3c65-ba96-49ccdf13128a,5b07a1d0-9dc7-410c-a3f8-0b7cb159b852,208000,[]
+44,My Humps,Black Eyed Peas,[],2005,,d5be5333-4171-427e-8e12-732087c6b78e,327000,"['pop', 'dance', 'hip hop']"
+45,Photograph,Nickelback,[],2005,742bc57f-c5cc-45e6-9ea0-ab98b365fa0f,bc710bcf-8815-42cf-bad2-3f1d12246aeb,258000,[]
+46,Untitled (How Could This Happen to Me?),Simple Plan,[],2005,cf0a1757-3129-4431-9bf3-0510de8070cf,b345af35-205e-4eca-8006-029e5c20127e,239000,[]
+47,"Evie Parts 1, 2 \& 3",The Wrights,[],2005,,,,[]
+48,Don't Lie,Black Eyed Peas,[],2005,00bee6fa-68d1-4b82-ad0c-b58ec64ae83f,d5be5333-4171-427e-8e12-732087c6b78e,219000,[]
+49,Hung Up,Madonna,[],2005,062a6000-347a-35ae-9ebe-c50d778fa7a6,79239441-bfd5-4981-a70c-55c3f15c1287,336000,"['pop', 'dance']"
+50,Soldier,Destiny's Child,['T.I. and Lil Wayne'],2005,0eecbdcc-38ba-3744-bf5f-cabc019df0c6,,244000,[]
+51,Maybe Tonight,Kate DeAraugo,[],2005,221cf91e-3364-353b-83eb-1ca23563c90b,fa70fff1-c7a4-4958-92da-7f9fa4138846,218000,[]
+52,I Just Wanna Live,Good Charlotte,[],2005,00e5365c-4f5b-40d5-bd79-99b925291532,b267ca80-034e-4dc1-9ed4-ec45f1fed41d,166000,[]
+53,Girl,Destiny's Child,[],2005,0592145f-bdf3-4b63-8783-22abcdae0a66,,219000,[]
+54,La La,Ashlee Simpson,[],2005,0e641700-6ab3-37a7-aa29-2425c57f2b47,463c514e-c30d-4a2a-a87b-762535253a80,224000,[]
+55,I Like the Way,BodyRockers,[],2005,793a229b-2fe3-49d8-8cfd-ec43aa689b56,fd0e3da0-5c32-4881-a7cc-7dfa58e265cf,200000,[]
+56,Underwear Goes Inside the Pants,Lazyboy,[],2005,0234db68-5a72-418e-8607-e499778b9de3,e47fbf55-6aeb-4f6c-81f7-6dfdc7452539,294000,[]
+57,Welcome to My Life,Simple Plan,[],2005,a49a6ede-a1af-468c-a0c7-e995db013e09,b345af35-205e-4eca-8006-029e5c20127e,203000,[]
+58,Lose My Breath,Destiny's Child,[],2005,aa5408a3-bbdf-4f88-83d6-da0a4a261bdb,,238000,"['rnb', 'pop', 'dance']"
+59,These Kids,Joel Turner & The Modern Day Poets,[],2005,4bf38115-0c69-4e0b-a2f7-f9ef90e2a3f4,98bf9373-7eb4-46b3-bbf8-ddb80e47c537,239000,[]
+60,It's Like That,Mariah Carey,[],2005,03f57f02-5b0c-3289-98d2-f9c495fd39b6,494e8d09-f85b-4543-892f-a5096aed1cd4,345000,[]
+61,Oh,Ciara,['Ludacris'],2005,24a4b820-31ca-40c6-8f0c-b93aeec6c514,03172286-f7ed-4864-a4db-459cd5ca9790,256000,[]
+62,Shut Up!,Simple Plan,[],2005,734c2b53-90fb-4053-9957-07f9bf4d0569,b345af35-205e-4eca-8006-029e5c20127e,181000,[]
+63,Like Toy Soldiers,Eminem,[],2005,28679a72-b636-4d3a-9c4b-6c865990d67c,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,296000,[]
+64,Dare,Gorillaz,[],2005,6df48694-b9a2-4277-be21-d1d68c351d1d,e21857d5-3256-4547-afb3-4b6ded592596,281000,[]
+65,Rumors,Lindsay Lohan,[],2005,d227c1fd-d923-4a65-a048-b6f531f8021b,63b43c69-b822-4268-bdad-bcde12531f50,194000,[]
+66,Tilt Ya Head Back,Nelly and Christina Aguilera,[],2005,0c207d4c-3bef-3883-a568-c8e40a23ec69,811900b2-68fc-4d41-8bad-69b7a1f4d628,211000,[]
+67,Do Somethin',Britney Spears,[],2005,319c88c4-6d2d-4dc0-9cef-d9c75bee376a,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,181000,[]
+68,Have a Nice Day,Bon Jovi,[],2005,bd4ca251-b634-432f-b3be-9e14a3be1b12,5dcdb5eb-cb72-4e6e-9e63-b7bace604965,228000,[]
+69,Ass Like That,Eminem,[],2005,15f86550-82d0-4044-8ddd-f02badce265f,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,265000,[]
+70,Just a Lil Bit,50 Cent,[],2005,3948e870-3c26-401a-91f2-3ccbd0da2435,8e68819d-71be-4e7d-b41d-f1df81b01d3f,237000,"['rap', 'hip hop']"
+71,Push the Button,Sugababes,[],2005,,dfa715ac-b536-44df-af43-570d3ea3edec,218000,[]
+72,Listen With Your Heart,Casey Donovan,[],2005,fee47eb6-cbcc-4718-8fff-a92f6159e575,e374a1ba-aa51-4492-b175-1977999165cb,241000,[]
+73,Mockingbird,Eminem,[],2005,c3b0cf69-f679-4f04-acf0-3d30c0b4e497,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,250000,"['rap', 'hip hop']"
+74,Ten Days,Missy Higgins,[],2005,3148ef64-ef01-494f-baf1-991c190f2d27,3ac2a4a2-52b3-498b-bbc8-31443c68dfe0,226000,[]
+75,Hell No!,Ricki-Lee,[],2005,,,193000,[]
+76,Way to Go!,Rogue Traders,[],2005,0acf8305-4408-3f4e-9015-ba0b48f76503,7536267d-77be-4984-b7b6-59f24afe82dd,196000,[]
+77,1 Thing,Amerie,[],2005,,56ef1af4-5184-49f8-a972-583f35c2485c,237000,"['rnb', 'pop', 'dance']"
+78,Pony,Kasey Chambers,[],2005,759cc7c5-6c02-4d89-8b0d-da12a20e8db8,7333182d-8933-4896-adaa-fe98e6b59bd7,282000,[]
+79,Popcorn,Crazy Frog,[],2005,b75dcdb9-f708-45d6-b47d-4d9e8cf1405d,3df914b9-e0bc-493c-875a-c412f84ecdad,161000,[]
+80,Sunshine,Ricki-Lee,[],2005,b044fecd-7178-499c-8033-4cf12eea3575,,182000,[]
+81,Better Days,Pete Murray,[],2005,567af23b-d096-4b38-bfb2-73f53d2ffd42,a683a4b1-e863-4183-84ce-dcb63cca4ed9,224000,[]
+82,Flashdance,Deep Dish,[],2005,49663f46-c5d4-31cd-8c28-7125b9ea3c44,f1b1cf71-bd35-4e99-8624-24a6e15f133a,195000,[]
+83,Midas Touch,Midnight Star,[],2005,,3d30a740-e36b-45b9-a395-a3b3696d1d7c,233000,[]
+84,Shake it Off,Mariah Carey,[],2005,5a04a0b4-a0cc-4442-8f6b-9eba7fac70aa,494e8d09-f85b-4543-892f-a5096aed1cd4,230000,[]
+85,Pointless Relationship,Tammin,[],2005,2942f619-e99a-3a59-acef-5bcf468cee08,,206000,[]
+86,Hey Bitty,Nitty,[],2005,421d603d-17a9-402a-9d12-6b482dd22d6d,ed5788df-e22c-43cb-8099-12edc547c412,170000,[]
+87,Wake Me Up When September Ends,Green Day,[],2005,083995fc-7c41-3935-a113-838e8964a6da,084308bd-1654-436f-ba03-df6697104e19,285000,"['rock', 'alternative', 'punk']"
+88,Ooh Ahh,Tamara,[],2005,2ac586f3-8e5a-49a6-90ec-c6f2e60f07fd,8d8fe4d0-4bb4-406f-a63f-99537c6d0e7d,220000,[]
+89,So Good,Bratz Rock Angelz,[],2005,,,0,[]
+90,Just Lose It,Eminem,[],2005,4703530f-15b4-4be8-a926-d7080b8be20c,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,238000,[]
+91,Tripping,Robbie Williams,[],2005,ca7aef3e-ed67-4c8c-8443-908fa15094dc,db4624cf-0e44-481e-a9dc-2142b833ec2f,243000,[]
+92,Caught Up,Usher,[],2005,1dec3220-42c6-4fd6-965e-8ec30251a897,3414d446-735a-443c-931f-10634f57e5b9,225000,[]
+93,Catch My Disease,Ben Lee,[],2005,07766f99-fa7f-3350-9b19-56a8ca40c1b3,3a9f3479-4f0c-4355-8ccd-c9ed5cd01586,254000,[]
+94,Put Your Hands Up,Random,[],2005,432863ac-593f-39a5-93a0-e52f15ceb72e,0eda3518-15fa-48ee-a1b2-1e41e8407f1d,207000,[]
+95,Hate it or Love It,The Game,['50 Cent'],2005,618bfc73-b5f2-48a3-9f03-fc4604b42cf9,07cc14fb-4784-4a25-804b-2686ed5ef52c,240000,"['rap', 'hip hop']"
+96,This is How a Heart Breaks,Rob Thomas,[],2005,3476b1fe-1690-33a2-b464-a369f81de830,e42680f7-e439-4666-9c2c-536c2b3c6db3,209000,[]
+97,She's No You,Jesse McCartney,[],2005,205de243-9da2-3db7-aece-a52e2dfd669d,9d075d6e-9492-4343-ac95-93a808f61477,213000,[]
+98,Whatever Will Be,Tammin,[],2005,1da008c1-205b-38a7-81b4-831dfe2a2b95,,0,[]
+99,N Dey Say,Nelly,[],2005,45a5c486-5cde-48b8-b2e6-26e23a46d89e,811900b2-68fc-4d41-8bad-69b7a1f4d628,218000,[]
+100,Wake Up,Hilary Duff,[],2005,00dbf5f6-6dca-3a9a-bf16-73cbf8699561,bfaf9b70-d1fd-4d3e-b730-3e67e6f8f9bb,218000,[]

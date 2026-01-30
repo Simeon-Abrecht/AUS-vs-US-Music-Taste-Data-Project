@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Big Girls Don't Cry,Fergie,[],2007,4ed1adbb-ea50-45f1-9e7e-238d339e1fcf,4f9675d2-f6d5-486c-9b26-33dcca998500,267000,[]
+2,Girlfriend,Avril Lavigne,[],2007,402627ea-4960-43da-904b-addbdae7ff4c,0103c1cc-4a09-4a5d-a344-56ad99a77193,217000,"['pop', 'rock']"
+3,Umbrella,Rihanna,['Jay-Z'],2007,,73e5e69d-3554-40d8-8516-00cb38737a1c,249000,"['pop', 'rnb', 'dance']"
+4,Straight Lines,Silverchair,[],2007,c694f166-5a5e-4544-9e54-47c64f770035,b0799818-22cb-4564-8e68-3c410d0722ee,257000,[]
+5,Lips of an Angel,Hinder,[],2007,6f677702-81e5-472e-b9d7-784a78bd57cb,39b22a9e-59dd-412b-ac3c-0725c807c72b,261000,"['rock', 'alternative']"
+6,Apologize,Timbaland pres. OneRepublic,[],2007,,,184000,[]
+7,Grace Kelly,Mika,[],2007,,e4914285-d20d-4fc2-ae32-42cba8aeeed0,187000,['pop']
+8,Candyman,Christina Aguilera,[],2007,,b202beb7-99bd-47e7-8b72-195c8d72ebdd,193000,[]
+9,The Sweet Escape,Gwen Stefani,['Akon'],2007,,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,246000,"['pop', 'dance', 'rnb']"
+10,Beautiful Girls,Sean Kingston,[],2007,,f7eb3be3-1065-4a53-94d4-e2d0c15c0b33,227000,"['rnb', 'reggae', 'pop']"
+11,The Way I Are,Timbaland,['Keri Hilson and D.O.E.'],2007,014cf1c4-0e5a-3ecc-9b8e-bfd25944a07a,daa09819-5da5-4c7a-8bef-eb372bb27ff1,181000,"['dance', 'rnb', 'pop']"
+12,Dance Floor Anthem (I Don't Want to Be in Love),Good Charlotte,[],2007,1a85f7fe-c485-49aa-a2d6-e7295cb4abe2,b267ca80-034e-4dc1-9ed4-ec45f1fed41d,247000,[]
+13,Glamorous,Fergie,['Ludacris'],2007,,4f9675d2-f6d5-486c-9b26-33dcca998500,174000,"['pop', 'dance', 'rnb']"
+14,"This Ain't a Scene, It's an Arms Race",Fall Out Boy,[],2007,,516cef4d-0718-4007-9939-f9b38af3f784,212000,"['rock', 'alternative', 'emo']"
+15,In This Life,Delta Goodrem,[],2007,6f86987b-edc4-3eb0-9984-972e97a41396,8c5755b4-2de6-4158-bca9-e354cbf07437,227000,[]
+16,Thnks Fr Th Mmrs,Fall Out Boy,[],2007,,516cef4d-0718-4007-9939-f9b38af3f784,204000,"['rock', 'alternative', 'emo']"
+17,Destination Calabria,Alex Gaudino,['Crystal Waters'],2007,,836d43ae-5086-4f45-9e23-b02edca37653,105000,[]
+18,How to Save a Life,The Fray,[],2007,b097abcd-bb6a-4d05-ae50-6f47949593c2,2ddd167f-5b8a-4372-b350-6ad50493bac0,263000,"['alternative', 'rock', 'indie']"
+19,Stronger,Kanye West,[],2007,040cc48d-ad1a-469f-b1f4-1fcec9525d15,,311000,"['rap', 'dance', 'hip hop']"
+20,20 Good Reasons,Thirsty Merc,[],2007,320ced65-d311-41e1-bd74-c0e06483eed9,88bd1dbb-040c-4595-a4fe-9732bd7025b3,229000,[]
+21,Hey There Delilah,Plain White T's,[],2007,6bd0a198-bbfb-3b19-a192-cab215258f62,,232000,"['indie', 'rock', 'alternative']"
+22,Hook Me Up,The Veronicas,[],2007,e3753994-1835-4cbf-a784-79c51381be6e,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,176000,[]
+23,Love Today,Mika,[],2007,,e4914285-d20d-4fc2-ae32-42cba8aeeed0,235000,[]
+24,How Far We've Come,Matchbox Twenty,[],2007,bc9fdb42-57be-41cd-8501-204d12fc4c1a,75af9d25-cf32-49c0-9192-60bd8e9784e6,211000,[]
+25,Say it Right,Nelly Furtado,[],2007,,13655113-cd16-4b43-9dca-cadbbf26ee05,223000,"['pop', 'dance', 'rnb']"
+26,Rock This Party (Everybody Dance Now),Bob Sinclar & Cutee B,"['Dollarman', 'Big Ali', 'Makedah']",2007,9fdcff19-d470-4f66-971a-c9c0cfe6646a,,199000,[]
+27,Into the Night,Santana,['Chad Kroeger'],2007,0989f325-62d5-3380-a2fe-286bf80158a6,9a3bf45c-347d-4630-894d-7cf3e8e0b632,222000,[]
+28,Can't Touch It,Ricki-Lee,[],2007,5e8142ca-2e5d-42c5-93c8-fd0b4a1c43b1,,172000,[]
+29,UFO,Sneaky Sound System,[],2007,b9a8f11e-7f75-4956-a275-9e4d2a8cc79c,495fe320-091e-43eb-9321-54a20e7c3f98,242000,[]
+30,Suddenly I See,KT Tunstall,[],2007,,951d2103-9c7d-4849-ae60-88bf6aa4790b,200000,"['pop', 'indie', 'rock']"
+31,What Goes Around...Comes Around,Justin Timberlake,[],2007,424f70c9-9d63-3d0b-b9a3-287fe65517d7,596ffa74-3d08-44ef-b113-765d43d12738,315000,[]
+32,Put Your Hands Up for Detroit,Fedde Le Grand,[],2007,,ffa93e03-f6c5-4d78-b0d5-07d0d6de46aa,58000,[]
+33,When You're Gone,Avril Lavigne,[],2007,,0103c1cc-4a09-4a5d-a344-56ad99a77193,240000,"['pop', 'rock']"
+34,Smack That,Akon,['Eminem'],2007,2cd8b877-791f-44a6-98a9-fd70954b0fd6,1138a764-2212-4d0a-b02d-0dc14df91e08,212000,"['rap', 'hip hop']"
+35,Leave Me Alone (I'm Lonely),Pink,[],2007,,9c6158ed-53d0-4094-b424-b641c5cab36d,0,[]
+36,Light Surrounding You,Evermore,[],2007,17baa695-6484-3441-ad0a-a87acd473a86,174b0914-d1f5-4553-a8a7-e55c9da6320b,0,[]
+37,Keep Your Hands Off My Girl,Good Charlotte,[],2007,10ee404f-68ff-4ab5-b7c9-d8ac5943f547,b267ca80-034e-4dc1-9ed4-ec45f1fed41d,207000,[]
+38,Fergalicious,Fergie,['Will.i.am'],2007,,4f9675d2-f6d5-486c-9b26-33dcca998500,292000,"['pop', 'dance', 'rnb']"
+39,What I've Done,Linkin Park,[],2007,0e9bb9bb-7485-4258-9d5f-2dc97775a4e8,f59c5520-5f46-4d2c-b2c4-822eabf53419,205000,"['rock', 'alternative']"
+40,Never Again,Kelly Clarkson,[],2007,056ca2a2-86fb-3d58-ab0e-59039b710608,d339efbb-77b9-4147-ba9e-59f2f24550b2,216000,[]
+41,Dear Mr. President,Pink,['Indigo Girls'],2007,bfe6ca77-38b7-4cff-bcdb-1c6350b6d19e,f4d5cc07-3bc9-4836-9b15-88a08359bc63,272000,[]
+42,Irreplaceable,Beyonce,[],2007,796de46b-3924-44dc-a724-297f1506ec4e,859d0860-d480-4efd-970c-c05d5f1776b8,228000,"['rnb', 'pop', 'soul']"
+43,I Wanna Love You,Akon,['Snoop Dogg'],2007,0bb15e92-494a-341e-9e63-2ba61455b43f,1138a764-2212-4d0a-b02d-0dc14df91e08,247000,"['rnb', 'rap']"
+44,Shut Up and Drive,Rihanna,[],2007,627693f3-776d-4646-9ade-2c8bc8e83316,73e5e69d-3554-40d8-8516-00cb38737a1c,230000,"['pop', 'dance', 'rnb']"
+45,Makes Me Wonder,Maroon 5,[],2007,,0ab49580-c84f-44d4-875f-d83760ea2cfe,211000,"['pop', 'rock', 'alternative']"
+46,Gimme More,Britney Spears,[],2007,8153cfa6-9975-44e6-a26f-ed21c02f5498,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,251000,"['pop', 'dance']"
+47,Ayo Technology,50 Cent,['Justin Timberlake'],2007,5f9fd972-c5d5-4ff8-8599-f5fd9b8526b9,8e68819d-71be-4e7d-b41d-f1df81b01d3f,248000,['rap']
+48,No One,Alicia Keys,[],2007,,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,254000,"['soul', 'rnb', 'pop']"
+49,The Others,TV Rock vs. Dukes of Windsor,[],2007,19c86491-c610-49fc-aac6-f84e606c1d8a,,286000,[]
+50,All Good Things (Come to an End),Nelly Furtado,[],2007,,13655113-cd16-4b43-9dca-cadbbf26ee05,311000,[]
+51,Beautiful Liar,Beyonce & Shakira,[],2007,72c037cf-7ffb-3c5b-bb20-00fae5da315f,859d0860-d480-4efd-970c-c05d5f1776b8,201000,"['rnb', 'pop']"
+52,Clumsy,Fergie,[],2007,f2da5e36-c42f-4129-ab30-90bee1da625d,4f9675d2-f6d5-486c-9b26-33dcca998500,255000,"['pop', 'rnb', 'dance']"
+53,Pictures,Sneaky Sound System,[],2007,71d72922-fabc-32c7-aab3-e760335d7b36,495fe320-091e-43eb-9321-54a20e7c3f98,196000,[]
+54,Don't Give Up,Shannon Noll & Natalie Bassingthwaighte,[],2007,,,0,[]
+55,Give it to Me,Timbaland,"['Nelly Furtado', 'Justin Timberlake']",2007,e19f1f08-9824-4d95-b189-d14ca3d8c7fc,daa09819-5da5-4c7a-8bef-eb372bb27ff1,213000,"['rnb', 'pop', 'hip hop']"
+56,Lost and Running,Powderfinger,[],2007,0318c9c7-f5b7-340c-a69e-8e0ebf78c529,e9ce3f55-b35c-4f8d-8304-be24f381587e,259000,[]
+57,The Creeps,Camille Jones vs. Fedde Le Grand,[],2007,d5dd9840-318c-4e4d-af02-b234004200f0,,200000,[]
+58,The Pretender,Foo Fighters,[],2007,cb4ebd36-f753-41a6-8633-6c2e41407d8d,67f66c07-6e61-4026-ade5-7e782fad3a5d,269000,"['rock', 'alternative']"
+59,Little Wonders,Rob Thomas,[],2007,188bf705-096f-3cf4-bb48-fcee76945f44,e42680f7-e439-4666-9c2c-536c2b3c6db3,225000,[]
+60,Steer,Missy Higgins,[],2007,b12d1ee1-268a-4f3d-9c96-b3cfbafe8bad,3ac2a4a2-52b3-498b-bbc8-31443c68dfe0,230000,[]
+61,My Love,Justin Timberlake,['T.I.'],2007,26396706-52fa-4778-85c8-f358d2ad1330,596ffa74-3d08-44ef-b113-765d43d12738,276000,[]
+62,Don't Matter,Akon,[],2007,,1138a764-2212-4d0a-b02d-0dc14df91e08,293000,"['rnb', 'hip hop', 'rap']"
+63,Don't Hold Back,The Potbelleez,[],2007,037f3d30-a7ad-3e05-a3d2-530c603b3a4b,3ddf3e25-0e3e-4c5f-a526-6f117df8f39d,206000,[]
+64,I Don't Feel Like Dancin',Scissor Sisters,[],2007,,4236d929-9a81-4c8e-97c3-8d3306780f50,247000,[]
+65,Teenagers,My Chemical Romance,[],2007,3519966e-6555-40a6-8e05-fae59ef6f5dc,c07f0676-9143-4217-8a9f-4c26bd636f13,161000,"['rock', 'emo', 'alternative']"
+66,SexyBack,Justin Timberlake,[],2007,,596ffa74-3d08-44ef-b113-765d43d12738,243000,[]
+67,Opinions Won't Keep You Warm at Night,Kisschasy,[],2007,03840897-a1a6-4c56-84fb-76796efed519,30d2f93d-05e5-4db4-bcb7-7d551dcf6365,186000,[]
+68,Don't You Wanna Feel,Rogue Traders,[],2007,8a261c7e-6554-3119-af99-a08785d7493d,7536267d-77be-4984-b7b6-59f24afe82dd,196000,[]
+69,Happy Ending,Mika,[],2007,fef3a558-ff27-4e19-bd0a-43efa4955186,e4914285-d20d-4fc2-ae32-42cba8aeeed0,270000,[]
+70,Hit Me Up,Gia Farrell,[],2007,0b0b3c31-ca45-438f-ac61-e1282e79d18a,4db040b0-b7b8-4aea-ab4e-f47891ab830e,196000,[]
+71,Here I Am,Natalie Gauci,[],2007,ac9375ad-f85a-3d78-b9b7-89400adeb9cf,4d19eba5-8f32-48be-bf48-e7b3eaf7cb86,226000,[]
+72,Cupid's Chokehold,Gym Class Heroes,[],2007,0c63c318-d62c-49d9-95f5-1c9b6f500480,f4d4b515-0b74-423f-a161-db184330c37c,238000,[]
+73,Just a Song About Ping Pong,Operator Please,[],2007,e572de9f-4bbd-4589-8535-54c7f9666529,fb6f10d0-8ee4-4f8f-8e0e-5e797fe9d699,137000,[]
+74,Better Than Me,Hinder,[],2007,00b907bc-b9a6-405b-bcd5-73c180ae56ca,39b22a9e-59dd-412b-ac3c-0725c807c72b,223000,[]
+75,LoveStoned/I Think She Knows,Justin Timberlake,[],2007,2f2d6d38-6f80-4361-b37d-f89be7bb3667,596ffa74-3d08-44ef-b113-765d43d12738,326000,[]
+76,1973,James Blunt,[],2007,847ede53-9142-4e79-a71e-07fee4eafb30,ebee61b4-bbdd-4087-9bcb-d5aa099088ec,280000,[]
+77,Joker \& the Thief,Wolfmother,[],2007,,,,[]
+78,Untouched,The Veronicas,[],2007,,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,202000,"['pop', 'dance']"
+79,4 in the Morning,Gwen Stefani,[],2007,06554b38-18a5-4230-ac2f-511f88c77f2c,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,291000,[]
+80,It's Not Over,Daughtry,[],2007,4f2b4a27-e1bc-4257-a0b3-c025413d977c,21e3292e-dac8-4609-b57d-402f926aa41f,215000,[]
+81,2 Hearts,Kylie Minogue,[],2007,4cafaff7-de56-46be-a67d-e539e6893488,2fddb92d-24b2-46a5-bf28-3aed46f4684c,173000,[]
+82,Too Little Too Late,JoJo,[],2007,4651c82d-331a-4ceb-8b02-7fb875d66f0e,ed29398b-bbf3-42a0-8eff-8631509c271d,223000,"['pop', 'rnb']"
+83,Wind it Up,Gwen Stefani,[],2007,88fb6b56-d2e4-48bb-8960-a6300086846c,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,190000,[]
+84,Like This,Kelly Rowland,['Eve'],2007,9b9af4e4-a85f-4205-b4ed-41414d1bc8d5,31bea673-d23a-4889-8da1-7cb040863268,215000,[]
+85,Welcome to the Black Parade,My Chemical Romance,[],2007,338fe40e-28a7-464c-b118-7d70b2b4f241,c07f0676-9143-4217-8a9f-4c26bd636f13,277000,"['rock', 'alternative', 'emo', 'punk']"
+86,Let Me Think About It,Ida Corr vs. Fedde Le Grand,[],2007,238fd11c-2dbd-4c64-b243-76c1db70ae91,,162000,[]
+87,Everything,Michael Buble,[],2007,002f1b27-243d-47c7-a3f9-f288966b3a08,611700cf-27f0-4dc9-ae80-c513a767853e,212000,[]
+88,If You Don't Mean It,Dean Geyer,[],2007,85d385e1-6c00-3b11-88dd-fa8f2f72f7ff,9ea88acd-4ec5-4d03-ba36-3f37e74ae854,193000,[]
+89,Don't Miss You,Amy Pearson,[],2007,,b3b24d7d-3add-4537-b0f3-2f2e214ba38d,203000,[]
+90,"The Take Over, The Breaks Over",Fall Out Boy,[],2007,a39c28ea-a2b6-4bc4-bc5c-9171ededefaa,516cef4d-0718-4007-9939-f9b38af3f784,215000,[]
+91,Loud,Shannon Noll,[],2007,04c31dc6-4159-3c82-b95a-6c00aa0d2075,5b07a1d0-9dc7-410c-a3f8-0b7cb159b852,190000,[]
+92,Buy U a Drank (Shawty Snappin'),T-Pain,['Yung Joc'],2007,,,228000,[]
+93,I Love It,Sneaky Sound System,[],2007,31dc25db-e089-484f-91eb-083d238348d5,495fe320-091e-43eb-9321-54a20e7c3f98,230000,[]
+94,I Got it From My Mama,Will.i.am,[],2007,59a946b0-3c34-4faa-b669-3cbac900b739,d574c9bd-46f6-440a-8d6a-8412a283eeb1,245000,[]
+95,I'm Your Funny Bear,Gummi Bear,[],2007,862a1e2e-52ad-4334-9272-fae8dc7f4f6a,f7c9fe0f-c7f3-499b-b172-8a49a716ab52,192000,[]
+96,Wake Up Call,Maroon 5,[],2007,1b6156f1-bf57-47ac-8c4a-978c95f6c79b,0ab49580-c84f-44d4-875f-d83760ea2cfe,201000,[]
+97,Clothes Off!!!,Gym Class Heroes,[],2007,532e7c85-4eee-3499-9fef-c8269263f965,f4d4b515-0b74-423f-a161-db184330c37c,0,[]
+98,Not Ready to Make Nice,Dixie Chicks,[],2007,00862cfc-a41f-3135-b2a2-005de6c9a9ef,,232000,[]
+99,Tell Me,P. Diddy,['Christina Aguilera'],2007,d7b9514c-f7fc-3830-9f64-376e8b0f824e,,246000,[]
+100,Better Than,John Butler Trio,[],2007,05f70555-f69e-3b55-9c7f-d8751a762139,,209000,[]

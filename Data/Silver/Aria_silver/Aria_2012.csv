@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Call Me Maybe,Carly Rae Jepsen,[],2012,,09887aa7-226e-4ecc-9a0c-02d2ae5777e1,193000,"['pop', 'dance']"
+2,Gangnam Style,Psy,[],2012,023535cc-21a0-4b3a-bc7d-fa3d1eb39ff2,,219000,[]
+3,Battle Scars,Guy Sebastian,['Lupe Fiasco'],2012,,f116b984-45ae-49d0-9445-efc5a61458a1,250000,[]
+4,Whistle,Flo Rida,[],2012,,4593d49a-7f67-46ba-9ec0-126bd676286f,225000,['pop']
+5,Wild Ones,Flo Rida,['Sia'],2012,147a96b2-c763-4112-a990-90b40512b2d9,4593d49a-7f67-46ba-9ec0-126bd676286f,0,[]
+6,Starships,Nicki Minaj,[],2012,1ab5a945-b17a-438f-b217-20e34126cf73,1036b808-f58c-4a3e-b461-a2c4492ecf1b,210000,"['pop', 'dance']"
+7,Boom Boom,Justice Crew,[],2012,9dec976d-6807-40ec-9301-1bbeb016b7b4,5bd06912-a77f-41ce-9be7-9134b8cf9b66,186000,[]
+8,Skinny Love,Birdy,[],2012,,1b8bdee5-783a-4eca-88e5-3e9460739546,201000,[]
+9,Thrift Shop,Macklemore & Ryan Lewis,['Wanz'],2012,0a338e69-dd00-3796-b352-848153dce93a,97b226c8-7140-4da3-91ac-15e62e131a81,236000,[]
+10,Don't You Worry Child,Swedish House Mafia,['John Martin'],2012,,99075985-0d80-4692-a15e-b16f78831792,212000,[]
+11,Payphone,Maroon 5,['Wiz Khalifa'],2012,,0ab49580-c84f-44d4-875f-d83760ea2cfe,222000,['pop']
+12,We Are Young,Fun,['Janelle Monae'],2012,7b1eeee7-f16c-48e5-8d52-d75138f1e0a2,fc62d051-fe73-4c8e-85a8-d5102306fa1a,233000,[]
+13,Brother,Matt Corby,[],2012,8a36639b-0a60-4283-8762-587f9443eec6,f4c42c60-96ae-4f1e-816a-b011bc48210b,252000,[]
+14,Lego House,Ed Sheeran,[],2012,171895b8-ae2d-4d94-8a77-1830df2953ce,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,183000,[]
+15,Some Nights,Fun,[],2012,0f74a890-723f-4148-bce0-410a7ef9a2bf,fc62d051-fe73-4c8e-85a8-d5102306fa1a,277000,[]
+16,Good Time,Owl City and Carly Rae Jepsen,[],2012,,,0,[]
+17,What Makes You Beautiful,One Direction,[],2012,,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,198000,['pop']
+18,One More Night,Maroon 5,[],2012,,0ab49580-c84f-44d4-875f-d83760ea2cfe,219000,"['pop', 'rock']"
+19,We Are Never Ever Getting Back Together,Taylor Swift,[],2012,,20244d07-534f-4eff-b4d4-930878889970,191000,"['pop', 'country']"
+20,Hall of Fame,The Script,['Will.i.am'],2012,,4c98aa1b-34eb-4336-987f-5e50aa059c00,201000,[]
+21,Bangarang,Skrillex,['Sirah'],2012,06002dd8-5c20-45d4-8fcf-97213b943bd3,ae002c5d-aac6-490b-a39a-30aa9e2edf2b,0,[]
+22,One Thing,One Direction,[],2012,0d00b4ff-ff43-4b41-abfa-6dd2d26e4dcf,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,197000,['pop']
+23,Boys Like You,360,['Gossling'],2012,df9a4021-e6a1-4d1a-b9e1-e7b222578656,51be60bc-6276-47cd-95cb-79a30f054b21,212000,[]
+24,Paradise,Coldplay,[],2012,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,276000,"['rock', 'alternative']"
+25,Earthquake,Labrinth,['Tinie Tempah'],2012,715a6114-b088-4ed0-bc2b-8a24d15f3de9,dc99e6fd-c710-4f79-b74b-127b4d0b7849,216000,[]
+26,Bom Bom,Sam and The Womp,[],2012,01600cd1-9764-48b9-8a72-6f47bd61da5b,48ea491f-6ce7-4ee1-8b6f-3f5271904dc6,173000,[]
+27,I Knew You Were Trouble,Taylor Swift,[],2012,57fa745f-9c3e-410f-a9e6-1b11f229ec4d,20244d07-534f-4eff-b4d4-930878889970,395000,[]
+28,Locked Out of Heaven,Bruno Mars,[],2012,2ee757bd-1c77-4d7d-adf9-a6c529160f4b,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,233000,"['pop', 'rnb']"
+29,I Cry,Flo Rida,[],2012,0458861a-038f-3e12-9129-07af5feeaabb,4593d49a-7f67-46ba-9ec0-126bd676286f,222000,"['dance', 'hip hop']"
+30,Never Let Me Go,Florence + The Machine,[],2012,0a33c05f-5859-409e-95fe-0da84eaa2f00,5fee3020-513b-48c2-b1f7-4681b01db0c6,0,[]
+31,Feel the Love,Rudimental,['John Newman'],2012,03322bd3-2473-4fe7-a258-a83bc9bc1754,b09ced80-aa65-43c1-9aa7-58b1e982eada,245000,[]
+32,Diamonds,Rihanna,[],2012,,73e5e69d-3554-40d8-8516-00cb38737a1c,224000,"['pop', 'rnb']"
+33,Ass Back Home,Gym Class Heroes,['Neon Hitch'],2012,1d20e087-f79e-474f-877b-2d5399f24d66,f4d4b515-0b74-423f-a161-db184330c37c,224000,[]
+34,Set it Off,Timomatic,[],2012,040325ea-c73c-46b1-8bce-d84f582ccc59,,199000,[]
+35,Wide Awake,Katy Perry,[],2012,2c2b2fff-b527-4cfd-90ae-41647a7d2d35,122d63fc-8671-43e4-9752-34e846d62a9c,219000,['pop']
+36,Throw Your Hands Up (Dancar Kuduro),Qwote,['Pitbull and Lucenzo'],2012,44ca07eb-d6fb-4ec7-9896-af418b233fba,07db4077-5c61-4add-821e-59beea5d1d4d,211000,[]
+37,Sexy and I Know It,LMFAO,[],2012,915cc017-efbd-3a76-98fe-58f109c65c5d,ed5d9086-e8cd-473a-b96c-d81ad6c98f0d,199000,"['dance', 'pop', 'electronic']"
+38,Little Talks,Of Monsters and Men,[],2012,d7eefff4-115a-4086-9c9b-0a4a6035f927,9e103f85-7af7-41d7-b83b-49ba8f0c5abf,266000,"['indie', 'folk', 'alternative']"
+39,Back in Time,Pitbull,[],2012,01b8678e-66c2-3887-9b2a-7848c956ecda,d262ea27-3ffe-40f7-b922-85c42d625e67,205000,[]
+40,Somebody That I Used to Know,Gotye,['Kimbra'],2012,,6f6fd596-76e0-4b82-aa37-f558ac2d337b,244000,"['indie', 'alternative', 'electronic']"
+41,I Won't Let You Go,James Morrison,[],2012,191c638e-b9be-4747-8dfd-737941a44f12,88a8d8a9-7c9b-4f7b-8700-7f0f7a503688,229000,[]
+42,Lonely Boy,The Black Keys,[],2012,377400cc-2d7a-4e27-81ea-fc008a843c05,d15721d8-56b4-453d-b506-fc915b14cba2,197000,[]
+43,Die Young,Kesha,[],2012,,,213000,[]
+44,Turn Me On,David Guetta,['Nicki Minaj'],2012,6f568778-4b14-419b-b5f1-ebfa3edaf8ad,302bd7b9-d012-4360-897a-93b00c855680,199000,[]
+45,Part of Me,Katy Perry,[],2012,4134b972-74d7-4820-801f-43d497e8e04b,122d63fc-8671-43e4-9752-34e846d62a9c,216000,"['pop', 'dance']"
+46,Don't Wake Me Up,Chris Brown,[],2012,df2dae57-27f5-4c0b-b0bf-ac599427bb93,c234fa42-e6a6-443e-937e-2f4b073538a3,330000,[]
+47,Scream \& Shout,Will.i.am,['Britney Spears'],2012,,,,[]
+48,Blow Me (One Last Kiss),Pink,[],2012,,9c6158ed-53d0-4094-b424-b641c5cab36d,257000,[]
+49,Sitting on Top of the World,Delta Goodrem,[],2012,86d7b237-07a4-4759-a760-4a225bd1e05d,8c5755b4-2de6-4158-bca9-e354cbf07437,240000,[]
+50,Hey Hey Hey (Pop Another Bottle),Laurent Wery,"['Swift K.I.D', 'Dev']",2012,6ee6c3fb-5aa6-3fe0-ba68-4bfc91474d60,,187000,[]
+51,Try,Pink,[],2012,,9c6158ed-53d0-4094-b424-b641c5cab36d,247000,[]
+52,Spectrum (Say My Name) (Calvin Harris Remix),Florence + The Machine,[],2012,8b2438e5-5cc5-4bf1-b8bf-fcba4590b12e,5fee3020-513b-48c2-b1f7-4681b01db0c6,0,[]
+53,Where Have You Been,Rihanna,[],2012,,73e5e69d-3554-40d8-8516-00cb38737a1c,243000,"['dance', 'pop', 'electronic']"
+54,Pumped Up Kicks,Foster the People,[],2012,,e0e1a584-dd0a-4bd1-88d1-c4c62895039d,221000,['indie']
+55,Sweet Nothing,Calvin Harris,['Florence Welch'],2012,b605543c-5a9e-48cd-9fe9-ba4ef6f5f85d,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,213000,[]
+56,Drive By,Train,[],2012,,bfd5aec5-62a2-4560-a316-7c46c17babda,196000,"['pop', 'rock', 'alternative']"
+57,Turn All the Lights On,T-Pain,['Ne-Yo'],2012,c01a79ee-d2f8-4320-b138-19efa0dd3fb8,,213000,[]
+58,She Wolf (Falling to Pieces),David Guetta,['Sia'],2012,,302bd7b9-d012-4360-897a-93b00c855680,208000,[]
+59,Summer Paradise,Simple Plan,"[""K'naan""]",2012,dd35df88-75f1-4190-a9fb-a8bc03aa6d3e,b345af35-205e-4eca-8006-029e5c20127e,234000,[]
+60,"Young, Wild \& Free",Snoop Dogg & Wiz Khalifa,['Bruno Mars'],2012,,,,[]
+61,I Love It,Hilltop Hoods,['Sia'],2012,08ced1bd-32f7-4256-ab67-85b5971eb354,16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac,0,[]
+62,Boyfriend,Justin Bieber,[],2012,,e0140a67-e4d1-4f13-8a01-364355bee46e,173000,"['pop', 'rnb']"
+63,I Love It,Icona Pop,['Charli XCX'],2012,8100d87d-e534-4428-a4e8-89d9be40b853,c5f259d0-abd8-418e-81ee-3965fd4e4e9a,155000,"['dance', 'pop', 'electronic']"
+64,Fight for You,Jason Derulo,[],2012,86772ac0-c71a-3b33-a912-dfdc72bb76f9,,242000,[]
+65,Turn Up the Love,Far East Movement,['Cover Drive'],2012,02ebb8dc-a6e7-4963-a802-56f1e83d2453,6bd5655c-b7fe-48ee-8925-c2d2d8798618,195000,[]
+66,Take Care,Drake,['Rihanna'],2012,feab1ba0-3a6e-318f-b12b-33079934471a,9fff2f8a-21e6-47de-a2b8-7f449929d43f,277000,"['pop', 'rnb']"
+67,A Thousand Years,Christina Perri,[],2012,ec7a8e1c-0d80-4c6d-93d2-564030445fa6,38d363c7-fdcb-4308-9474-a0d14ab8d9b7,285000,['pop']
+68,Beauty and a Beat,Justin Bieber,['Nicki Minaj'],2012,,e0140a67-e4d1-4f13-8a01-364355bee46e,144000,"['pop', 'dance']"
+69,Girl on Fire (Inferno Version),Alicia Keys,['Nicki Minaj'],2012,489a8cdc-f93e-4dba-8f92-e0472ab94b92,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,271000,[]
+70,Turn Up the Music,Chris Brown,[],2012,,c234fa42-e6a6-443e-937e-2f4b073538a3,227000,[]
+71,We'll Be Coming Back,Calvin Harris,['Example'],2012,0e9aff6b-255d-4172-a464-c043e6846598,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,236000,[]
+72,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,[],2012,,,252000,[]
+73,The Fighter,Gym Class Heroes,['Ryan Tedder'],2012,04a1c921-a6aa-3fb2-ae45-4cb3ec6876bf,f4d4b515-0b74-423f-a161-db184330c37c,224000,[]
+74,What You've Done to Me,Samantha Jade,[],2012,40ca2333-2198-3dc5-b2f7-ed5b2578c868,13f7c436-a682-45f7-8876-ac7dbecc7a6c,211000,[]
+75,Good Feeling,Flo Rida,[],2012,,4593d49a-7f67-46ba-9ec0-126bd676286f,248000,"['electronic', 'dance']"
+76,Levels,Avicii,[],2012,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,199000,[]
+77,Live While We're Young,One Direction,[],2012,,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,307000,['pop']
+78,As Long as You Love Me,Justin Bieber,['Big Sean'],2012,04450037-d036-407a-8e81-c66093edb798,e0140a67-e4d1-4f13-8a01-364355bee46e,221000,"['pop', 'rap']"
+79,Don't Worry Be Happy,Guy Sebastian,[],2012,0ca31abb-0aa7-4741-ad02-16f21acaf777,f116b984-45ae-49d0-9445-efc5a61458a1,253000,[]
+80,This is Love,Will.i.am,['Eva Simons'],2012,,d574c9bd-46f6-440a-8d6a-8412a283eeb1,0,[]
+81,Mind Your Manners,Chiddy Bang,['Icona Pop'],2012,5d30f8bb-29d8-3a19-a049-28f3bffe610c,d452681b-41e0-46a0-bb17-e77d23dfc220,179000,[]
+82,Wings,Little Mix,[],2012,,38f59974-2f4d-4bfa-b2e3-d2696de1b675,219000,[]
+83,If Looks Could Kill,Timomatic,[],2012,30b7899f-5eb5-43fa-9eb8-e8db6d808124,,218000,[]
+84,How We Do (Party),Rita Ora,[],2012,,c9dd033c-0270-463c-b3ec-f4b7712486fe,245000,[]
+85,Party Rock Anthem,LMFAO,['Lauren Bennett and GoonRock'],2012,,ed5d9086-e8cd-473a-b96c-d81ad6c98f0d,264000,"['dance', 'electronic', 'pop', 'techno']"
+86,Count on Me,Bruno Mars,[],2012,5c3988e7-2bfc-4a5d-901a-03b06e78ba63,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,197000,"['pop', 'rnb']"
+87,Pound the Alarm,Nicki Minaj,[],2012,003215cf-d47f-42b2-b085-b3d9589a9db5,1036b808-f58c-4a3e-b461-a2c4492ecf1b,255000,[]
+88,I'm All Yours,Jay Sean,['Pitbull'],2012,497f8638-a95b-4a0c-a8b9-71e6c5475738,e03cf5b6-d2ec-4465-adee-226b518bcfcd,218000,[]
+89,We Found Love,Rihanna,['Calvin Harris'],2012,0659f4db-a64d-378e-9529-584c217d23e5,73e5e69d-3554-40d8-8516-00cb38737a1c,216000,[]
+90,I Will Wait,Mumford & Sons,[],2012,006100f9-ee53-4257-886d-9ad846762870,c44e9c22-ef82-4a77-9bcd-af6c958446d6,275000,"['folk', 'indie', 'country']"
+91,The A Team,Ed Sheeran,[],2012,1835aad5-98e7-4de2-82a4-c8c95b1c0b69,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,259000,['pop']
+92,Both of Us,B.o.B,['Taylor Swift'],2012,,94c338ff-1985-4429-9dc8-997b61bb5932,216000,[]
+93,Moves Like Jagger,Maroon 5,['Christina Aguilera'],2012,,0ab49580-c84f-44d4-875f-d83760ea2cfe,202000,[]
+94,Scream,Usher,[],2012,,3414d446-735a-443c-931f-10634f57e5b9,235000,[]
+95,Hangover,Taio Cruz,['Flo Rida'],2012,,ba7d2626-38ce-4859-8495-bdb5732715c4,245000,[]
+96,International Love,Pitbull,['Chris Brown'],2012,01040b0e-5753-47b6-9a17-9bbcbd8ffa7b,d262ea27-3ffe-40f7-b922-85c42d625e67,228000,[]
+97,Brokenhearted,Karmin,[],2012,4b2c1d1f-cd5f-42e0-999b-4726c3e76f4f,a81303f1-64a5-4359-83ce-767f5fc3a542,227000,[]
+98,Dedication to My Ex (Miss That),Lloyd,"['Andre 3000', 'Lil Wayne']",2012,927e8214-5785-49f1-b7fc-cd5b28009f2f,e9296a90-9c59-4657-9165-1f1b5319de00,227000,[]
+99,What Doesn't Kill You (Stronger),Kelly Clarkson,[],2012,4d6033c2-eba5-33ab-bf3d-f2e2c9956a8d,d339efbb-77b9-4147-ba9e-59f2f24550b2,0,[]
+100,Live My Life,Far East Movement,['Justin Bieber'],2012,001cb36d-dd3b-4ac6-92ad-889a54cd28e4,6bd5655c-b7fe-48ee-8925-c2d2d8798618,255000,[]

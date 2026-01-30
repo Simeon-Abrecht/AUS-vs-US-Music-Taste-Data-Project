@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Youngblood,5 Seconds of Summer,[],2018,079cab5d-0ae6-4524-81f9-5235a284ec49,830e5c4e-6b7d-431d-86ab-00c751281dc5,203000,"['rock', 'pop']"
+2,God's Plan,Drake,[],2018,dec4c665-2b90-40f6-95b0-4d50dfefcc01,9fff2f8a-21e6-47de-a2b8-7f449929d43f,198000,['rap']
+3,Perfect,Ed Sheeran,[],2018,b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,263000,['pop']
+4,Be Alright,Dean Lewis,[],2018,d04e680c-4c43-44e5-ab8f-7098e2640254,21e9df94-3c2c-4c15-b069-fefa58bcd650,197000,['pop']
+5,Meant to Be,Bebe Rexha & Florida Georgia Line,[],2018,a0214343-d172-48bc-b597-4ee6fb2e3549,,164000,[]
+6,I Fall Apart,Post Malone,[],2018,0244aeee-a350-40a7-a904-c5ca8e76bdd5,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,224000,"['rap', 'hip hop']"
+7,Psycho,Post Malone,['Ty Dolla Sign'],2018,3705870d-0c13-475e-80d2-db9c2c87e3db,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,221000,[]
+8,Girls Like You,Maroon 5,['Cardi B'],2018,,0ab49580-c84f-44d4-875f-d83760ea2cfe,215000,[]
+9,Shotgun,George Ezra,[],2018,81614e2f-298e-4644-aaed-36fe57fb1eb3,2c5e2a98-d9ea-46b5-9618-d9bb4863a920,199000,[]
+10,Eastside,Benny Blanco & Halsey & Khalid,[],2018,,,0,[]
+11,Better Now,Post Malone,[],2018,2b632288-0cca-4cc8-85cc-8272f862920e,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,231000,"['rap', 'rnb']"
+12,Rockstar,Post Malone,['21 Savage'],2018,ff18a32b-47eb-4335-88bd-f22c768ecf96,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,186000,[]
+13,Love Lies,Khalid & Normani,[],2018,53d3f945-529a-42ca-90b5-0059ad09a202,,195000,[]
+14,These Days,Rudimental,"['Jess Glynne', 'Macklemore', 'Dan Caplen']",2018,4d5fe55f-5119-43ee-a38f-77b66af2816e,b09ced80-aa65-43c1-9aa7-58b1e982eada,0,[]
+15,The Middle,Zedd & Maren Morris & Grey,[],2018,,,0,[]
+16,In My Feelings,Drake,[],2018,89e78796-60ee-4fb4-b63e-285e77903816,9fff2f8a-21e6-47de-a2b8-7f449929d43f,217000,['rap']
+17,All the Stars,Kendrick Lamar & SZA,[],2018,8f056243-ec20-4068-bcaf-1e64f7db94d5,,196000,[]
+18,IDGAF,Dua Lipa,[],2018,ea73c102-9fa9-4f6e-a262-a9b347aca4cf,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,218000,"['pop', 'dance', 'rnb']"
+19,River,Eminem,['Ed Sheeran'],2018,c1e7cbfb-9075-4536-b737-5d628dc3fe73,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,221000,[]
+20,One Kiss,Calvin Harris & Dua Lipa,[],2018,1f215b13-829c-4077-9098-e287d1d87f50,,214000,[]
+21,Sad!,XXXTentacion,[],2018,bb1620e8-774b-4baa-acb4-565aae92c56d,61af87f4-16ee-4431-8504-cc06187079fb,166000,"['rap', 'emo']"
+22,Nice for What,Drake,[],2018,d85d92c4-5ff0-4d20-96b1-3e28957d7618,9fff2f8a-21e6-47de-a2b8-7f449929d43f,210000,"['rap', 'hip hop']"
+23,Havana,Camila Cabello,['Young Thug'],2018,90aaf59b-b1dd-4a4f-b7e2-4c8cac6c7617,01b8b5bf-06cb-45da-85fb-61ada72fcd69,217000,[]
+24,This is Me,Keala Settle & The Greatest Showman Ensemble,[],2018,2b33e534-36c5-4c15-945d-907076e4c691,,234000,[]
+25,Shape of You,Ed Sheeran,[],2018,d7500dd6-b815-4299-88c6-3fbda358f1fc,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,233000,['pop']
+26,No Tears Left to Cry,Ariana Grande,[],2018,708bfd0d-3b96-44b1-b89e-65b925498f26,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,223000,"['pop', 'dance']"
+27,Friends,Marshmello & Anne-Marie,[],2018,13bc9a5c-ac80-4c20-93d3-47f832c49a49,,203000,[]
+28,2002,Anne-Marie,[],2018,b66b519f-c8a0-459e-a7e9-a33fa2a1eed1,e3d5b5ec-101a-4529-9f2d-01dca64cf44e,186000,['pop']
+29,Rise,Jonas Blue,"['Jack', 'Jack']",2018,774a0331-caf9-4301-8adf-97a7f729afaf,17678771-5799-4017-851a-319f25b6948d,192000,[]
+30,Silence,Marshmello,['Khalid'],2018,b349448d-79a5-45b8-a7d3-36f86e6a6a6a,301b45a4-b8b9-410e-8344-4b4eaf96691a,181000,"['rnb', 'rap', 'electronic']"
+31,I Said Hi,Amy Shark,[],2018,0a0e6070-55a1-4957-b94a-43dfef5196cf,e6bbfac7-47e5-4faf-a3e2-42fdedff72d3,170000,[]
+32,High Hopes,Panic! at the Disco,[],2018,bb7f1441-860d-4bad-8307-88be25c90acc,b9472588-93f3-4922-a1a2-74082cdf9ce8,192000,"['alternative', 'rock', 'pop', 'indie']"
+33,Happier,Marshmello,['Bastille'],2018,9cf8f1b6-16aa-46a4-89f4-4b540702e03c,301b45a4-b8b9-410e-8344-4b4eaf96691a,214000,[]
+34,Never Be the Same,Camila Cabello,[],2018,9cad40db-6897-45be-8bbd-330df8f5ba14,01b8b5bf-06cb-45da-85fb-61ada72fcd69,226000,['pop']
+35,Feel it Still,Portugal. The Man,[],2018,,3599a39e-4e10-4cb5-90d4-c8a015ebc73b,177000,"['pop', 'indie', 'funk']"
+36,I Like It,Cardi B & Bad Bunny & J Balvin,[],2018,,,0,[]
+37,Let You Down,NF,[],2018,02b83093-fede-4b50-b035-02f1deef2e20,5660a8c7-d0d9-4181-89b4-8e125328e31e,209000,"['rap', 'hip hop']"
+38,Lucid Dreams,Juice Wrld,[],2018,19bc9a65-fb28-4c32-9b79-81348bf75563,4e4ebde4-0c56-4dec-844b-6c73adcdd92d,239000,"['hip hop', 'rap']"
+39,Finesse (Remix),Bruno Mars,['Cardi B'],2018,,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,217000,[]
+40,Body,Loud Luxury,['Brando'],2018,05e8e97b-3200-418e-b1c2-628e07645020,4c445344-9df2-407e-9bf3-8a5c0b86777e,162000,"['house', 'dance']"
+41,Lovely,Billie Eilish & Khalid,[],2018,1fc545d3-94b6-4a3d-bff3-bb8b861943d6,,200000,[]
+42,Hurt Somebody,Noah Kahan & Julia Michaels,[],2018,,,167000,[]
+43,Go Bang,Pnau,[],2018,558cb913-b576-4b16-9c72-333a282dfa77,b04df404-eefa-4ae4-9f3e-ba220d9dce16,189000,[]
+44,Nevermind,Dennis Lloyd,[],2018,d211bd2a-b629-41ee-8445-c6ec7a72eaf2,026c1c22-8d1c-473c-a33f-a27fd02d6975,158000,[]
+45,Candy Paint,Post Malone,[],2018,118e7169-5651-4690-b8c0-f903a55d1f4c,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,229000,"['rap', 'hip hop']"
+46,Wolves,Selena Gomez & Marshmello,[],2018,,,197000,[]
+47,Mine,Bazzi,[],2018,2777ea12-6bbf-4e1c-8b68-ffd21b53c0d7,edf81f9b-d3f0-4d57-9636-d08e851b1640,131000,"['rnb', 'pop']"
+48,Sicko Mode,Travis Scott,[],2018,448220f6-1c06-4dd2-ab30-537a28b4edb8,e4a51f17-a57b-47b1-b37b-f552d0f8e9e6,312000,['rap']
+49,Humble,Kendrick Lamar,[],2018,bdb0435f-9d43-4d62-a1c7-35ef01b82ba0,381086ea-f511-4aba-bdf9-71c753dc5077,177000,[]
+50,Thunder,Imagine Dragons,[],2018,,012151a8-0f9a-44c9-997f-ebd68b5389f9,187000,"['pop', 'alternative', 'rock', 'indie']"
+51,Promises,Calvin Harris & Sam Smith,[],2018,416612cb-759e-4b40-9e1c-ce560cf7ddaf,,213000,[]
+52,Fire,Peking Duk,[],2018,b173c2e8-41b6-4980-b841-f04e54ebf3c7,a5bf304f-dce8-4482-b912-3921c23e40c8,221000,[]
+53,Shallow,Lady Gaga & Bradley Cooper,[],2018,e8191687-56bf-4e69-860f-a898735ec268,,217000,[]
+54,New Rules,Dua Lipa,[],2018,76ac63ee-9b00-4f70-b443-1c0c3bd1e445,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,209000,"['pop', 'dance']"
+55,Young Dumb \& Broke,Khalid,[],2018,,,,[]
+56,Healing Hands,Conrad Sewell,[],2018,03ca3f07-b42f-48da-ad02-a131ca1b9a23,758faf3d-bda4-489a-8701-b66d7e7b7ac7,250000,[]
+57,Freaky Friday,Lil Dicky,['Chris Brown'],2018,,3268f062-6e76-480a-a384-e1dd2a276afb,215000,[]
+58,Back to You,Selena Gomez,[],2018,5025c41d-7cda-4277-b758-aad8e12eb177,e4bc69e2-a064-4f93-ada1-f7f209cc1cc3,209000,[]
+59,Let Me Go,Hailee Steinfeld & Alesso,"['Florida Georgia Line', 'Watt']",2018,,,0,[]
+60,"Thank U, Next",Ariana Grande,[],2018,94b776eb-8ee9-4e52-9d80-f6d1d85a81f1,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,207000,"['pop', 'rnb']"
+61,Call Out My Name,The Weeknd,[],2018,be0ecb8e-7100-46c7-bf6b-bb71c65b8734,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,228000,"['rnb', 'soul']"
+62,Ocean,Martin Garrix,['Khalid'],2018,8ea96857-af4a-419a-8764-47dcd1a27600,3e1f2ee4-16be-4406-bf18-6173840cf2b1,216000,[]
+63,I Miss You,Clean Bandit,['Julia Michaels'],2018,34c85816-d2a6-4281-90ed-7e713c93f1dc,dacc2d64-7e59-42a8-87a9-10c53919aff2,205000,[]
+64,Jackie Chan,Tiesto & Dzeko,"['Preme', 'Post Malone']",2018,,,0,[]
+65,In My Blood,Shawn Mendes,[],2018,,b7d92248-97e3-4450-8057-6fe06738f735,211000,[]
+66,Without Me,Halsey,[],2018,01aeecae-dff0-4a57-a8f1-d3a7acd2763f,3377f3bb-60fc-4403-aea9-7e800612e060,202000,"['pop', 'rnb', 'alternative']"
+67,Solo,Clean Bandit,['Demi Lovato'],2018,,dacc2d64-7e59-42a8-87a9-10c53919aff2,223000,[]
+68,Say Something,Justin Timberlake,['Chris Stapleton'],2018,69189f8e-4405-4d6f-80f0-7bc0b92a0bc1,596ffa74-3d08-44ef-b113-765d43d12738,281000,[]
+69,Remind Me to Forget,Kygo,['Miguel'],2018,826289f8-0151-468a-906e-2bdd43786125,ba0e7638-0cd6-4ff4-8987-c3e224d22c23,217000,[]
+70,Him \& I,G-Eazy & Halsey,[],2018,,,,[]
+71,Pray for Me,The Weeknd & Kendrick Lamar,[],2018,901b2b5e-b925-48ff-85a7-0053024edbbb,,211000,[]
+72,I'll Be There,Jess Glynne,[],2018,b1953e74-8a8f-4c4c-97fb-c3f9268e2ef5,89ccd7c3-b4f8-45a6-a53f-e903eaaf96be,194000,[]
+73,What Lovers Do,Maroon 5,['SZA'],2018,994f3e78-fe83-4bcb-86d9-e538bca3c2d6,0ab49580-c84f-44d4-875f-d83760ea2cfe,199000,[]
+74,I Like Me Better,Lauv,[],2018,03ad40c6-3464-48a4-9a45-c84a3971962a,c0ef2ba5-a7b7-40ea-bd27-30acccfcac11,197000,"['pop', 'indie']"
+75,Happier,Ed Sheeran,[],2018,e4df7ea5-22e0-4398-952f-6b6af830380f,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,207000,[]
+76,Chateau,Angus & Julia Stone,[],2018,88877188-1e49-4987-8c31-b8d65febefa3,69837400-8e31-4949-aac2-00b46b4df126,273000,[]
+77,Better,Khalid,[],2018,1115e377-e69e-4bd1-b47a-0b03449d833b,acc88434-f16e-4aad-83e0-ea0ee6bb6b3d,229000,"['pop', 'rnb']"
+78,Born to Be Yours,Kygo & Imagine Dragons,[],2018,2ff76c29-8374-4b54-bd31-0e6a2af4815b,,193000,[]
+79,Look Alive,BlocBoy JB,['Drake'],2018,,a62e2b14-812a-41a1-884d-5a138705ad2d,181000,[]
+80,You Are the Reason,Calum Scott,[],2018,,68fdc9cc-1094-48bb-942f-66492343e41c,204000,[]
+81,Too Good at Goodbyes,Sam Smith,[],2018,,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,201000,['pop']
+82,Rewrite the Stars,Zac Efron & Zendaya,[],2018,13455766-cfc9-435a-9733-d2ff84d50c2c,,217000,[]
+83,No Brainer,DJ Khaled,"['Justin Bieber', 'Chance the Rapper', 'Quavo']",2018,,081a2d60-9791-4e05-a075-f1890355eeee,260000,[]
+84,My My My!,Troye Sivan,[],2018,06a2adc0-3215-467a-88ed-716a2fa911f3,e5712ceb-c37a-4c49-a11c-ccf4e21852d4,204000,[]
+85,Sunflower,Post Malone & Swae Lee,[],2018,7e6c84a3-3bba-4822-b82c-c76c1769e61f,,156000,[]
+86,Just Friends,Hayden James,['Boy Matthews'],2018,e6690235-3326-44f9-baf7-27912669da54,af3d88d4-ba94-44b4-9a78-87976f1acd42,238000,[]
+87,For You,Liam Payne & Rita Ora,[],2018,258aceda-10f0-4cba-9928-6b11cadd257f,,242000,[]
+88,This is America,Childish Gambino,[],2018,11beedeb-8e61-4b03-9921-7e7fcf2d0775,7fb57fba-a6ef-44c2-abab-2fa3bdee607e,288000,"['rap', 'hip hop']"
+89,I Love It,Kanye West & Lil Pump,[],2018,075c4b1a-58fa-457f-a595-9469009c2d82,,127000,[]
+90,Castle on the Hill,Ed Sheeran,[],2018,5780b6fb-066f-4147-ac0e-0d8c8e812e02,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,261000,"['pop', 'rock']"
+91,God is a Woman,Ariana Grande,[],2018,8aac27f9-5d68-4d47-ab96-7c26e105ff40,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,197000,['pop']
+92,I Wanna Know,NOTD,['Bea Miller'],2018,,aed038fc-d060-4f47-9956-6476d3adbc8b,197000,[]
+93,In My Mind,Dynoro & Gigi D'Agostino,[],2018,39ab246f-f092-4797-bb9a-4cb3aab50c89,,230000,[]
+94,Beautiful,Bazzi,['Camila Cabello'],2018,31422506-58b8-4760-9436-fc1d429a2f40,edf81f9b-d3f0-4d57-9636-d08e851b1640,178000,[]
+95,Coming Home,Sheppard,[],2018,2733057d-ba7e-441a-88ee-4e1704e94337,6de0078d-89d1-4df2-897e-663cf3be2d15,218000,[]
+96,OTW,Khalid,"['6lack', 'Ty Dolla Sign']",2018,,acc88434-f16e-4aad-83e0-ea0ee6bb6b3d,263000,[]
+97,Praise the Lord (Da Shine),ASAP Rocky,['Skepta'],2018,,,0,[]
+98,We're Going Home,Vance Joy,[],2018,2af62d39-48c3-470a-968a-dc63405be467,df36f6db-5987-46ed-9d02-0cf36ed4e060,206000,[]
+99,Believer,Imagine Dragons,[],2018,,012151a8-0f9a-44c9-997f-ebd68b5389f9,204000,['rock']
+100,Congratulations,Post Malone,['Quavo'],2018,03e5d209-8dfe-4ec6-8c73-ee1e1e9541bf,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,270000,"['rap', 'hip hop']"

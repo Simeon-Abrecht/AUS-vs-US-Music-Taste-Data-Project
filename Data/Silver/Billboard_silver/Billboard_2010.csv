@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Tik Tok,Kesha,[],2010,,,200000,[]
+2,Need You Now,Lady Antebellum,[],2010,,,235000,[]
+3,"Hey, Soul Sister",Train,[],2010,,bfd5aec5-62a2-4560-a316-7c46c17babda,216000,"['pop', 'rock']"
+4,California Gurls,Katy Perry & Snoop Dogg,[],2010,,122d63fc-8671-43e4-9752-34e846d62a9c,235000,[]
+5,OMG,Usher & will.i.am,[],2010,a7b3be5b-208c-465b-9a11-4f760033421b,,0,[]
+6,Airplanes,B.o.B & Hayley Williams,[],2010,0d930469-1ffd-4688-9a66-83319de34cfe,,180000,[]
+7,Love the Way You Lie,Eminem & Rihanna,[],2010,07166200-b685-31dc-9bcd-66c5c9693ff2,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,266000,"['rap', 'hip hop']"
+8,Bad Romance,Lady Gaga,[],2010,,650e7db6-b795-4eb5-a702-5ea2fc46c848,261000,"['pop', 'dance']"
+9,Dynamite,Taio Cruz,[],2010,,ba7d2626-38ce-4859-8495-bdb5732715c4,203000,"['dance', 'pop']"
+10,Break Your Heart,Taio Cruz & Ludacris,[],2010,,ba7d2626-38ce-4859-8495-bdb5732715c4,202000,"['dance', 'pop', 'rnb']"
+11,Nothin' on You,B.o.B & Bruno Mars,[],2010,ff701bef-2637-4463-b76d-8ad1a60b3036,,268000,[]
+12,I Like It,Enrique Iglesias & Pitbull,[],2010,0470ef9a-134f-4184-af87-4e511ee2e0f1,35f866dc-c061-48ba-8157-cf2e0eac4857,0,"['pop', 'dance']"
+13,BedRock,Young Money & Lloyd,[],2010,442d03c4-4fa8-4eb4-8e23-0bf1b3ee23d2,3ba45541-87be-4631-896b-d148b7f70f00,155000,[]
+14,In My Head,Jason Derulo,[],2010,02c92e77-82cd-4d24-a70f-1898ad628d09,,199000,[]
+15,Rude Boy,Rihanna,[],2010,ca4faf1c-d277-4b97-b7ea-be837b4b7c23,73e5e69d-3554-40d8-8516-00cb38737a1c,163000,"['pop', 'rnb', 'dance']"
+16,Telephone,Lady Gaga & Beyoncé,[],2010,32571668-0331-42d6-87ce-aa4970f58655,650e7db6-b795-4eb5-a702-5ea2fc46c848,221000,[]
+17,Teenage Dream,Katy Perry,[],2010,,122d63fc-8671-43e4-9752-34e846d62a9c,227000,"['pop', 'dance']"
+18,Just the Way You Are,Bruno Mars,[],2010,18a107ed-ed43-4b14-acd6-d0eba97a90be,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,220000,"['pop', 'rnb']"
+19,Cooler Than Me,Mike Posner,[],2010,0fec3b54-d6ae-4274-b3df-f663b2517a8b,5b64e344-b2fb-47bd-bd7b-4c793b17d472,213000,[]
+20,Imma Be,The Black Eyed Peas,[],2010,32a08ca8-fa04-42a1-9762-7ed275dfbc43,d5be5333-4171-427e-8e12-732087c6b78e,257000,"['dance', 'hip hop']"
+21,Empire State of Mind,Jay-Z & Alicia Keys,[],2010,,,275000,[]
+22,DJ Got Us Fallin' in Love,Usher & Pitbull,[],2010,,3414d446-735a-443c-931f-10634f57e5b9,225000,[]
+23,Billionaire,Travie McCoy & Bruno Mars,[],2010,02ac1c8a-6c0b-3cf3-82e2-c5be4dc096c8,76bf7aec-83f0-47a9-8964-eea180b99ac2,0,[]
+24,Not Afraid,Eminem,[],2010,877b82eb-5ea9-4ddc-b851-9b026e8e81c9,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,212000,"['rap', 'hip hop']"
+25,Replay,Iyaz,[],2010,,3bf30073-ce4e-4207-88d2-ad83677b0387,182000,['pop']
+26,Sexy Bitch,David Guetta & Akon,[],2010,015c9590-395f-4099-8fee-3d89e7e502f1,302bd7b9-d012-4360-897a-93b00c855680,195000,[]
+27,Breakeven,The Script,[],2010,077ca921-d634-43fc-a72d-e6a60a151373,4c98aa1b-34eb-4336-987f-5e50aa059c00,261000,"['rock', 'pop', 'alternative', 'indie']"
+28,Your Love Is My Drug,Kesha,[],2010,9fff929b-c0cc-4ae8-a01d-d0a6ae84b86b,,187000,[]
+29,I Gotta Feeling,The Black Eyed Peas,[],2010,2a333386-a28a-499e-bd40-6d83b2af76fc,d5be5333-4171-427e-8e12-732087c6b78e,289000,"['pop', 'dance', 'electronic', 'hip hop']"
+30,Fireflies,Owl City,[],2010,,ad279295-653f-42e1-9aaa-b731df2e78ba,228000,"['electronic', 'pop']"
+31,Say Aah,Trey Songz & Fabolous,[],2010,fbfe672e-1978-33ca-87cd-ae9584544d39,4d7304f6-7fe3-4959-9d98-01a5af84afe6,208000,[]
+32,Find Your Love,Drake,[],2010,08bffa9c-ba57-3793-96e9-dbc640f4ee08,9fff2f8a-21e6-47de-a2b8-7f449929d43f,206000,['rnb']
+33,Alejandro,Lady Gaga,[],2010,57d69a12-5cf8-3aa5-97b3-8f8726105122,650e7db6-b795-4eb5-a702-5ea2fc46c848,239000,"['pop', 'dance', 'electronic']"
+34,Ridin' Solo,Jason Derulo,[],2010,43342995-1ca4-4a1a-95c1-2441e7bc54a1,,216000,[]
+35,Just a Dream,Nelly,[],2010,,811900b2-68fc-4d41-8bad-69b7a1f4d628,237000,"['rnb', 'hip hop']"
+36,How Low,Ludacris,[],2010,a4a06b09-e6f6-30b0-ac4e-b04ba78f297c,0638ba22-040f-438d-83a5-9b670c4adaf5,144000,[]
+37,Like a G6,Far East Movement & The Cataracs & Dev,[],2010,,6bd5655c-b7fe-48ee-8925-c2d2d8798618,220000,"['dance', 'electronic', 'techno']"
+38,Carry Out,Timbaland & Justin Timberlake,[],2010,,,234000,[]
+39,Haven't Met You Yet,Michael Bublé,[],2010,1834ac51-d708-432d-a3f1-c770c4ecd41f,611700cf-27f0-4dc9-ae80-c513a767853e,246000,[]
+40,Club Can't Handle Me,Flo Rida & David Guetta,[],2010,4c2c1bc6-6fa9-45b5-93d8-01a87fdbdca1,,232000,[]
+41,Down,Jay Sean & Lil Wayne,[],2010,018bbc8d-61d7-446d-b50e-96e2d6cd48d2,e03cf5b6-d2ec-4465-adee-226b518bcfcd,212000,[]
+42,Bulletproof,La Roux,[],2010,,88d1360a-bc2d-47df-90d1-d2de285560aa,206000,"['electronic', 'pop']"
+43,Whatcha Say,Jason Derulo,[],2010,85322652-3214-44aa-8db5-34ffc5d94b28,,222000,[]
+44,Baby,Justin Bieber & Ludacris,[],2010,,e0140a67-e4d1-4f13-8a01-364355bee46e,216000,"['pop', 'rnb']"
+45,Whataya Want from Me,Adam Lambert,[],2010,,e942594a-91cc-427a-8beb-6815c28e9254,227000,[]
+46,Mine,Taylor Swift,[],2010,,20244d07-534f-4eff-b4d4-930878889970,275000,[]
+47,Only Girl (In the World),Rihanna,[],2010,,73e5e69d-3554-40d8-8516-00cb38737a1c,235000,"['dance', 'pop', 'electronic']"
+48,Live Like We're Dying,Kris Allen,[],2010,567d7085-7036-4d0a-893a-c6021ea4f622,9ce29a24-b118-41a3-9297-2618f26b124d,212000,[]
+49,Hard,Rihanna & Jeezy,[],2010,12fe7132-640c-4616-8002-7c49824c42ee,73e5e69d-3554-40d8-8516-00cb38737a1c,252000,[]
+50,Young Forever,Jay-Z & Mr Hudson,[],2010,,,0,[]
+51,Blah Blah Blah,Kesha & 3OH!3,[],2010,,,0,[]
+52,Bottoms Up,Trey Songz & Nicki Minaj,[],2010,8c999eb3-274c-49be-8760-37afdc8b6a2f,4d7304f6-7fe3-4959-9d98-01a5af84afe6,245000,[]
+53,Do You Remember,Jay Sean & Sean Paul & Lil Jon,[],2010,,,0,[]
+54,All the Right Moves,OneRepublic,[],2010,5eb777ef-6025-4d24-a38d-8f264d8be129,c33c2065-b1c3-4406-b066-d33a9e2ea71a,238000,[]
+55,According to You,Orianthi,[],2010,13f46980-54ca-3cfa-9a75-abc50e91458a,15674cab-ca9c-4704-b15f-c601d2f4409b,200000,[]
+56,My Chick Bad,Ludacris & Nicki Minaj,[],2010,2d733484-131b-4fd5-bc08-2cf80baeb061,0638ba22-040f-438d-83a5-9b670c4adaf5,216000,[]
+57,You Belong with Me,Taylor Swift,[],2010,,20244d07-534f-4eff-b4d4-930878889970,299000,"['country', 'pop']"
+58,Meet Me Halfway,The Black Eyed Peas,[],2010,ecfbb75e-1a7c-4626-96a5-40d71fde624c,d5be5333-4171-427e-8e12-732087c6b78e,228000,"['pop', 'dance', 'rap']"
+59,Take It Off,Kesha,[],2010,0742604d-32f2-34ea-a7b0-77399174b9c1,,215000,[]
+60,Over,Drake,[],2010,89429b20-79b2-348e-84b3-81420d1c8204,9fff2f8a-21e6-47de-a2b8-7f449929d43f,159000,"['rap', 'hip hop']"
+61,Animal,Neon Trees,[],2010,db32c1ea-3664-4c25-996d-6e9679c1bf9a,16243662-8538-4746-a0fb-0d15b5828b8e,211000,"['alternative', 'indie']"
+62,Misery,Maroon 5,[],2010,,0ab49580-c84f-44d4-875f-d83760ea2cfe,226000,"['pop', 'rock']"
+63,Magic,B.o.B & Rivers Cuomo,[],2010,,,0,[]
+64,Paparazzi,Lady Gaga,[],2010,,650e7db6-b795-4eb5-a702-5ea2fc46c848,208000,"['pop', 'dance']"
+65,Tie Me Down,New Boyz & Ray J,[],2010,ed562381-020c-4d73-8650-fb7bb044c502,8e1d63a3-2980-4d69-ba61-1024e8a6df4b,177000,[]
+66,Your Love,Nicki Minaj,[],2010,04a6cf50-f885-380d-8450-cd3fbf2ccac2,1036b808-f58c-4a3e-b461-a2c4492ecf1b,116000,[]
+67,Party in the U.S.A.,Miley Cyrus,[],2010,,7e9bd05a-117f-4cce-87bc-e011527a8b18,203000,"['pop', 'dance']"
+68,Deuces,Chris Brown & Tyga & Kevin McCall,[],2010,,,0,[]
+69,3,Britney Spears,[],2010,12a1f4b6-21d4-3832-b6cb-bf95442959b9,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,205000,[]
+70,Impossible,Shontelle,[],2010,3eb9fdd1-0b79-4932-a499-87ca18f98be4,cfb2b49e-a921-4171-b089-853d9fc16d2c,224000,[]
+71,Forever,Drake & Kanye West & Lil Wayne & Eminem,[],2010,,,0,[]
+72,Two Is Better Than One,Boys Like Girls & Taylor Swift,[],2010,48de9c0c-e903-3110-b744-01304fe945a8,d6e65033-b56a-49df-8744-6fc3ffd75edd,244000,[]
+73,My First Kiss,3OH!3 & Kesha,[],2010,187ed9de-2666-39ac-8d2c-92b4790b2e24,125948ec-7f91-4d1a-8b83-accbf50fae3d,193000,[]
+74,Already Gone,Kelly Clarkson,[],2010,bb49dae3-6e6f-389a-8aba-e707347b5926,d339efbb-77b9-4147-ba9e-59f2f24550b2,268000,[]
+75,Rock That Body,The Black Eyed Peas,[],2010,,d5be5333-4171-427e-8e12-732087c6b78e,268000,"['dance', 'electronic', 'pop']"
+76,Secrets,OneRepublic,[],2010,b6df27b9-afa4-4da3-be45-bd6751d4ac8b,c33c2065-b1c3-4406-b066-d33a9e2ea71a,224000,"['rock', 'pop', 'alternative']"
+77,Naturally,Selena Gomez & the Scene,[],2010,025bb660-9269-4d0a-863d-9e51e102574a,37d0a847-32d3-480f-bd1e-101f50a3d332,202000,[]
+78,Un-Thinkable (I'm Ready),Alicia Keys,[],2010,0f48eb5a-d5ee-390f-9aa7-8e5737848506,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,251000,[]
+79,All I Do Is Win,DJ Khaled & T-Pain & Ludacris & Snoop Dogg & Rick Ross,[],2010,,,0,[]
+80,I Made It (Cash Money Heroes),Kevin Rudolf & Birdman & Jay Sean & Lil Wayne,[],2010,,,0,[]
+81,Stuck Like Glue,Sugarland,[],2010,2ec826d6-3484-49f6-bcfc-3950ff7ffa6e,f87b740a-c22b-4fae-9987-1f3e16f840c4,247000,[]
+82,Hey Daddy (Daddy's Home),Usher & Plies,[],2010,09b70d29-7093-329a-8708-e7a7a14c97c4,3414d446-735a-443c-931f-10634f57e5b9,183000,"['rnb', 'pop']"
+83,There Goes My Baby,Usher,[],2010,2436c2db-0292-3133-ba8d-c7f0fd354d1b,3414d446-735a-443c-931f-10634f57e5b9,283000,[]
+84,Today Was a Fairytale,Taylor Swift,[],2010,0f3866ff-8a7f-4552-b5c6-0d660ea9e416,20244d07-534f-4eff-b4d4-930878889970,176000,[]
+85,Say Something,Timbaland & Drake,[],2010,,,0,[]
+86,Sweet Dreams,Beyoncé,[],2010,8af67b29-c2ab-3048-8c36-442cba2e3ab9,859d0860-d480-4efd-970c-c05d5f1776b8,60000,"['pop', 'rnb', 'dance']"
+87,Use Somebody,Kings of Leon,[],2010,02925e8c-e013-41f8-b552-68bc731cbfa9,6ffb8ea9-2370-44d8-b678-e9237bbd347b,230000,"['rock', 'alternative', 'indie']"
+88,Undo It,Carrie Underwood,[],2010,145243aa-4277-44d8-a8db-a28667ef236e,70f0e309-5418-49b6-a130-666e2f76eecd,179000,[]
+89,Eenie Meenie,Sean Kingston & Justin Bieber,[],2010,09cad6cc-5d37-30a5-8e86-cc89fd1a259e,e0140a67-e4d1-4f13-8a01-364355bee46e,202000,[]
+90,Right Above It,Lil Wayne & Drake,[],2010,,,0,[]
+91,The House That Built Me,Miranda Lambert,[],2010,aab9de9e-b0b6-4dd0-a3f5-2b05807a7d95,4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c,235000,[]
+92,If I Die Young,The Band Perry,[],2010,5f103d13-2508-4b0b-b6ea-10d0cb413f20,28955336-2348-488a-9381-e3a7b0107343,227000,[]
+93,The Only Exception,Paramore,[],2010,d771c353-1ddf-4271-96f7-d36a703a3717,44cf61b8-5197-448a-b82b-cef6ee89fac5,267000,['alternative']
+94,American Honey,Lady Antebellum,[],2010,a4c6541e-ba46-4000-aafb-c0839df23ca5,,225000,[]
+95,King of Anything,Sara Bareilles,[],2010,0224008b-cc5c-4ebe-8506-0edfb41af824,e54be6b7-5c26-4b47-bb3f-c137429b9b55,207000,[]
+96,Life After You,Daughtry,[],2010,63bbdcf5-9d25-3642-8629-07e01f25379e,21e3292e-dac8-4609-b57d-402f926aa41f,207000,[]
+97,Smile,Uncle Kracker,[],2010,bf95683f-2cf9-4793-bc99-c2ae2f821203,1a02e1e4-000e-46fa-83de-f3a36674e4fc,201000,[]
+98,Teach Me How to Dougie,Cali Swag District,[],2010,9d8b99b0-b37a-3afa-938e-9a6c7a674f0c,b26ddbb6-a066-4b1c-be18-aed6ef6cba9b,215000,[]
+99,Try Sleeping with a Broken Heart,Alicia Keys,[],2010,0017a1a2-48e2-3095-a495-bcacc56cdef7,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,232000,[]
+100,"Lover, Lover",Jerrod Niemann,[],2010,1941b77c-3a92-461c-b137-b654c0b1df09,0b88f9de-7c37-4800-9d6a-04ce6c20b76c,196000,[]

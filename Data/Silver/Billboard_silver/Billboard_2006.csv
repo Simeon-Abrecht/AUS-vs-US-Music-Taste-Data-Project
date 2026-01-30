@@ -1,0 +1,100 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Bad Day,Daniel Powter,[],2006,,32cfbaf8-87aa-466b-9c1a-331ad9075ea2,234000,[]
+2,Temperature,Sean Paul,[],2006,771bc77f-0924-4390-a23d-0b6318c697ac,c3da3346-2643-48a7-93cd-011f6834b3d7,284000,"['reggae', 'dance']"
+3,Promiscuous,Nelly Furtado & Timbaland,[],2006,,13655113-cd16-4b43-9dca-cadbbf26ee05,243000,"['pop', 'dance', 'rnb']"
+4,You're Beautiful,James Blunt,[],2006,,ebee61b4-bbdd-4087-9bcb-d5aa099088ec,203000,[]
+5,Hips Don't Lie,Shakira & Wyclef Jean,[],2006,,bf24ca37-25f4-4e34-9aec-460b94364cfc,215000,[]
+6,Unwritten,Natasha Bedingfield,[],2006,a3c98ed2-075d-3d13-baab-610b5f93e9aa,8b477559-946e-4ef2-9fe1-446cff8fdd79,255000,"['pop', 'dance']"
+8,Ridin',Chamillionaire & Krayzie Bone,[],2006,03848fef-b87c-3043-b669-b8d17b4c23e4,4fbc55bb-61be-4eb7-b4b4-c08c68b4e060,303000,[]
+9,SexyBack,Justin Timberlake & Timbaland,[],2006,,596ffa74-3d08-44ef-b113-765d43d12738,243000,[]
+10,Check on It,Beyoncé & Slim Thug,[],2006,168e8522-1af3-48b1-9d2a-0fda2e4538b3,859d0860-d480-4efd-970c-c05d5f1776b8,213000,[]
+11,Be Without You,Mary J. Blige,[],2006,4a193220-6f0a-4e3d-9675-a41ab80f6b61,db76c5ca-d555-4f09-b1db-baa1b713d875,240000,[]
+12,Grillz,Nelly & Paul Wall & Ali & Gipp,[],2006,,,0,[]
+13,Over My Head (Cable Car),The Fray,[],2006,,2ddd167f-5b8a-4372-b350-6ad50493bac0,245000,"['rock', 'alternative']"
+14,Me & U,Cassie,[],2006,ecc63154-e855-4a71-812d-79d425437e87,4a8ac23a-e27a-44db-814a-f8c31beb68e6,192000,"['rnb', 'dance', 'pop']"
+15,Buttons,Pussycat Dolls & Snoop Dogg,[],2006,,1fda852b-92e9-4562-82fa-c52820a77b23,226000,"['pop', 'dance', 'rnb']"
+16,Run It!,Chris Brown & Juelz Santana,[],2006,59960c58-1fd5-4809-bd15-9df222e0df2b,c234fa42-e6a6-443e-937e-2f4b073538a3,193000,[]
+17,So Sick,Ne-Yo,[],2006,,,207000,"['rnb', 'soul']"
+18,It's Goin' Down,Yung Joc & Nitti,[],2006,45664bda-450a-308f-8efd-157fc6288f34,1f83258f-ee16-4f3b-8570-e9ef3ad6973e,241000,[]
+19,SOS,Rihanna,[],2006,4483ec59-3ae9-4b5e-87e0-69199d80392d,73e5e69d-3554-40d8-8516-00cb38737a1c,305000,"['pop', 'dance', 'rnb']"
+20,I Write Sins Not Tragedies,Panic! at the Disco,[],2006,10175a71-2e47-4786-a60e-53dd1eb31821,b9472588-93f3-4922-a1a2-74082cdf9ce8,187000,"['rock', 'alternative', 'emo', 'indie']"
+21,Move Along,The All-American Rejects,[],2006,,,238000,"['rock', 'alternative', 'emo']"
+22,London Bridge,Fergie,[],2006,cf98323b-8a71-4d9b-b8bb-1b7aadb487b2,4f9675d2-f6d5-486c-9b26-33dcca998500,110000,"['pop', 'rnb']"
+23,Dani California,Red Hot Chili Peppers,[],2006,375d3c2c-a38f-4e0c-9c91-786620416e70,8bfac288-ccc5-448d-9573-c33ea2aa5c30,323000,"['rock', 'alternative', 'funk']"
+24,Snap Yo Fingers,Lil Jon & E-40 & Sean Paul,[],2006,,,0,[]
+25,"Lean wit It, Rock wit It",Dem Franchize Boyz,[],2006,2842e188-227a-3003-b891-4958084ec113,f67ade4c-3b10-497d-a6a7-1f9f05772439,263000,[]
+26,What Hurts the Most,Rascal Flatts,[],2006,,6e0ae159-8449-4262-bba5-18ec87fa529f,214000,[]
+27,How to Save a Life,The Fray,[],2006,b097abcd-bb6a-4d05-ae50-6f47949593c2,2ddd167f-5b8a-4372-b350-6ad50493bac0,263000,"['alternative', 'rock', 'indie']"
+28,Unfaithful,Rihanna,[],2006,00299def-383f-471e-b600-23ba3a5308a1,73e5e69d-3554-40d8-8516-00cb38737a1c,231000,[]
+29,Chasing Cars,Snow Patrol,[],2006,,a66999a7-ae5c-460e-ba94-1a01143ae847,267000,"['indie', 'alternative', 'rock']"
+30,Lips of an Angel,Hinder,[],2006,6f677702-81e5-472e-b9d7-784a78bd57cb,39b22a9e-59dd-412b-ac3c-0725c807c72b,261000,"['rock', 'alternative']"
+31,Everytime We Touch,Cascada,[],2006,7c8df206-975c-4190-9ee6-944b57476915,04af2581-6692-4f14-a7fe-151a36f20368,198000,"['dance', 'pop', 'electronic', 'techno', 'trance']"
+32,Ain't No Other Man,Christina Aguilera,[],2006,,b202beb7-99bd-47e7-8b72-195c8d72ebdd,228000,[]
+33,"Dance, Dance",Fall Out Boy,[],2006,786e1009-2663-49e0-873d-f0cf06f51a25,516cef4d-0718-4007-9939-f9b38af3f784,180000,"['rock', 'punk', 'emo']"
+34,Gold Digger,Kanye West & Jamie Foxx,[],2006,1abbab1d-b5f5-45a5-9fc5-464ca48747e2,,207000,"['rap', 'hip hop', 'pop']"
+35,Money Maker,Ludacris & Pharrell,[],2006,919ff648-40db-444d-aad4-7159cf7c6c18,0638ba22-040f-438d-83a5-9b670c4adaf5,230000,[]
+36,Ms. New Booty,Bubba Sparxxx & Ying Yang Twins,[],2006,,,0,[]
+37,(When You Gonna) Give It Up to Me,Sean Paul & Keyshia Cole,[],2006,4982d06a-dc8a-3c45-860d-b602da247518,,242000,[]
+38,Photograph,Nickelback,[],2006,742bc57f-c5cc-45e6-9ea0-ab98b365fa0f,bc710bcf-8815-42cf-bad2-3f1d12246aeb,258000,[]
+39,Because of You,Kelly Clarkson,[],2006,,d339efbb-77b9-4147-ba9e-59f2f24550b2,220000,"['pop', 'rock']"
+40,Stickwitu,Pussycat Dolls,[],2006,,1fda852b-92e9-4562-82fa-c52820a77b23,208000,[]
+41,I'm 'n Luv (wit a Stripper),T-Pain & Mike Jones,[],2006,,,0,[]
+42,My Humps,The Black Eyed Peas,[],2006,,d5be5333-4171-427e-8e12-732087c6b78e,327000,"['pop', 'dance', 'hip hop']"
+43,Where'd You Go,Fort Minor & Holly Brook & Jonah Matranga,[],2006,b2a9b05f-cff6-4a7b-8a12-03ae06c0e04b,e1564e98-978b-4947-8698-f6fd6f8b0181,234000,[]
+44,Yo (Excuse Me Miss),Chris Brown,[],2006,0099207f-df9a-32a6-a29b-89a7cc61c551,c234fa42-e6a6-443e-937e-2f4b073538a3,228000,"['rnb', 'soul', 'pop']"
+45,Walk Away,Kelly Clarkson,[],2006,8a4d1a73-28d5-4bed-a429-45602a5f01f5,d339efbb-77b9-4147-ba9e-59f2f24550b2,188000,[]
+46,Laffy Taffy,D4L,[],2006,04b74ffc-85e0-4171-afe3-ed3d86b82a7a,6e181837-c4da-4021-8227-d75ef7d65395,224000,[]
+47,What You Know,T.I.,[],2006,03d1c64d-64b6-4bed-973c-39d41688ebd0,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,274000,[]
+48,Dirty Little Secret,The All-American Rejects,[],2006,,,196000,"['rock', 'alternative', 'punk', 'emo']"
+49,Savin' Me,Nickelback,[],2006,04cd7379-f9e3-44f9-8540-50cdaddbdf7c,bc710bcf-8815-42cf-bad2-3f1d12246aeb,219000,[]
+50,Don't Forget About Us,Mariah Carey,[],2006,06fa5b5e-70b7-3855-97e3-0cc661902e54,494e8d09-f85b-4543-892f-a5096aed1cd4,233000,[]
+51,Sexy Love,Ne-Yo,[],2006,,,217000,[]
+52,U and Dat,E-40 & T-Pain & Kandi Girl,[],2006,,,0,[]
+53,Far Away,Nickelback,[],2006,,bc710bcf-8815-42cf-bad2-3f1d12246aeb,222000,[]
+54,What's Left of Me,Nick Lachey,[],2006,999db1b1-571a-428f-b8f5-551352990a1b,51eb1070-465f-4ec5-bbd9-2c3f4d82424f,244000,[]
+55,So What,Field Mob & Ciara,[],2006,ff0ed3dc-7349-4840-bac5-8a1dc98e523e,70634dab-0220-4fce-b4b0-5ea37e7f0e12,216000,[]
+56,Do It to It,Cherish & Sean P,[],2006,52b362e0-84e3-3930-81c8-d6e2686a1180,e82500a8-70ce-46ad-a028-b0690420d560,220000,[]
+57,Black Horse and the Cherry Tree,KT Tunstall,[],2006,,951d2103-9c7d-4849-ae60-88bf6aa4790b,172000,[]
+58,There It Go (The Whistle Song),Juelz Santana,[],2006,06df6ed5-28d1-30be-8c2b-79bfec4c1938,bea235a0-db63-44b1-881e-264d25791f5a,248000,[]
+59,Shoulder Lean,Young Dro & T.I.,[],2006,a3783073-10e8-48f9-a3b5-ceee93a7c6a5,b76f6f2b-87f1-466f-8a96-9443cf5ae07f,118000,[]
+60,Unpredictable,Jamie Foxx & Ludacris,[],2006,c6d8e41e-be36-48bd-bb72-864de82300f7,,271000,[]
+61,My Love,Justin Timberlake & T.I.,[],2006,26396706-52fa-4778-85c8-f358d2ad1330,596ffa74-3d08-44ef-b113-765d43d12738,276000,[]
+62,Shake That,Eminem & Nate Dogg,[],2006,9e6ef7c5-6798-402c-bec4-d9aac2cde26a,,0,[]
+63,Pullin' Me Back,Chingy & Tyrese,[],2006,884d0c75-81a3-3498-8ceb-700cf4a938ed,,231000,[]
+64,Bossy,Kelis & Too Short,[],2006,,,0,[]
+65,Chain Hang Low,Jibbs,[],2006,c220e655-6528-4402-8bfb-21bb83a9255b,4036bf23-2b69-4be9-a285-e89677ab49bb,207000,[]
+66,Smack That,Akon & Eminem,[],2006,2cd8b877-791f-44a6-98a9-fd70954b0fd6,1138a764-2212-4d0a-b02d-0dc14df91e08,212000,"['rap', 'hip hop']"
+67,One Wish,Ray J,[],2006,11451bd8-231c-4fc4-9499-696bc1008420,9a07de5c-37e5-4907-ac77-ba9674a9bd6a,241000,[]
+68,"Sugar, We're Goin Down",Fall Out Boy,[],2006,,516cef4d-0718-4007-9939-f9b38af3f784,229000,"['rock', 'alternative', 'emo']"
+69,Gimme That,Chris Brown & Lil Wayne,[],2006,,,0,[]
+70,I Know You See It,Yung Joc,[],2006,e4a475ee-3c60-3208-8e8d-4a5ae4c8f948,1f83258f-ee16-4f3b-8570-e9ef3ad6973e,155000,[]
+71,Who Says You Can't Go Home,Bon Jovi & Jennifer Nettles,[],2006,1a7798b0-f2c0-4525-b605-d25e86269ecf,,230000,[]
+72,Too Little Too Late,JoJo,[],2006,4651c82d-331a-4ceb-8b02-7fb875d66f0e,ed29398b-bbf3-42a0-8eff-8631509c271d,223000,"['pop', 'rnb']"
+73,Touch It,Busta Rhymes,[],2006,b800e6e9-418e-36b9-8846-075488b2bd62,10a9ff92-9637-4498-afea-7044b2ab0dc0,283000,[]
+74,Rompe,Daddy Yankee,[],2006,,2f522f5c-111c-4ce8-8bd0-d82e97c227ad,188000,['rap']
+75,Déjà Vu,Beyoncé & Jay-Z,[],2006,11826850-b05e-4748-aaf4-b4c200af6136,859d0860-d480-4efd-970c-c05d5f1776b8,240000,[]
+76,Life Is a Highway,Rascal Flatts,[],2006,1f4adb5b-4de4-35ca-8d3e-54c55961adac,6e0ae159-8449-4262-bba5-18ec87fa529f,276000,"['country', 'rock']"
+77,Call Me When You're Sober,Evanescence,[],2006,0a342c99-95e8-4a9a-896d-646451b238b7,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,214000,['rock']
+78,"Jesus, Take the Wheel",Carrie Underwood,[],2006,2641ddc7-01ab-44fb-98a3-88f5d94fe45d,70f0e309-5418-49b6-a130-666e2f76eecd,233000,[]
+79,Show Stopper,Danity Kane & Yung Joc,[],2006,079e01e5-58cb-44f6-b6cc-9fe9c26cd634,6a0439a1-4520-443b-9bf1-02acdf692d6e,229000,[]
+80,Get Up,Ciara & Chamillionaire,[],2006,00d8b24d-a531-39d9-b028-a08e60f73c10,,261000,[]
+81,We Be Burnin',Sean Paul,[],2006,0194343e-459c-3dce-bdb2-4b34c980c031,c3da3346-2643-48a7-93cd-011f6834b3d7,215000,[]
+82,Hate Me,Blue October,[],2006,1275ee0e-fed2-39e6-a93a-fdd5a05484d3,d6a3eeec-cde0-4c10-89b2-93e0bd5f34e6,0,[]
+83,You and Me,Lifehouse,[],2006,9e641ae8-c0b2-3362-98cf-55f4a32f7f10,04591295-6d94-45cb-b6c7-1ae17c6f380e,194000,"['alternative', 'rock']"
+84,Beep,Pussycat Dolls & will.i.am,[],2006,3abaad02-e29e-3428-b6d7-fad08a6b6228,1fda852b-92e9-4562-82fa-c52820a77b23,228000,[]
+85,I Think They Like Me,Dem Franchize Boyz & Jermaine Dupri & Da Brat & Bow Wow,[],2006,,,,[]
+86,Say Goodbye,Chris Brown,[],2006,11e5c6be-b1c4-4f83-a6a4-f31183c15a24,c234fa42-e6a6-443e-937e-2f4b073538a3,287000,[]
+87,Waiting on the World to Change,John Mayer,[],2006,01acbd09-e9ea-4026-acaa-53f86176003e,144ef525-85e9-40c3-8335-02c32d0861f3,201000,[]
+88,Soul Survivor,Young Jeezy & Akon,[],2006,ff9ae732-f878-3f4e-bd87-ad4c59298c9b,c94e39ea-529e-4c10-9b13-09bdf65bc5ba,90000,[]
+89,Pump It,The Black Eyed Peas,[],2006,,d5be5333-4171-427e-8e12-732087c6b78e,187000,"['dance', 'pop', 'hip hop']"
+90,When I'm Gone,Eminem,[],2006,06e57d38-1356-31fd-a72c-7282df479e0a,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,366000,[]
+91,Hung Up,Madonna,[],2006,062a6000-347a-35ae-9ebe-c50d778fa7a6,79239441-bfd5-4981-a70c-55c3f15c1287,336000,"['pop', 'dance']"
+92,Stay Fly,Three 6 Mafia & Young Buck & 8Ball & MJG,[],2006,a812433a-7689-38a9-a42f-92b9fa94c953,a8754ac4-a85e-4f48-a81f-eecd482570ef,236000,['rap']
+93,Love,Keyshia Cole,[],2006,897e90e6-a5f5-436b-90e6-a1954104c709,ef73e6ed-9096-4ddb-9799-b94874d0ce33,255000,"['rnb', 'soul']"
+94,When You're Mad,Ne-Yo,[],2006,,,222000,[]
+95,Why You Wanna,T.I.,[],2006,7de7abb2-ecc6-4454-86d0-8bf66e137758,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,215000,[]
+96,Stupid Girls,Pink,[],2006,79dcea95-ca21-4c64-ae4e-e3b8e07a9276,f4d5cc07-3bc9-4836-9b15-88a08359bc63,191000,[]
+97,Feel Good Inc.,Gorillaz,[],2006,,e21857d5-3256-4547-afb3-4b6ded592596,236000,"['alternative', 'electronic', 'rock']"
+98,I'm Sprung,T-Pain,[],2006,d17e85f5-e212-40ee-b8b0-288c34f38c07,,231000,[]
+99,Do I Make You Proud,Taylor Hicks,[],2006,4bc94253-223c-46ed-9219-6e3223ad1137,b8b5895b-6c8c-4e1d-867c-b4ff96a074a7,253000,[]
+100,For You I Will (Confidence),Teddy Geiger,[],2006,05316446-5183-3d3c-acad-c5aa676b9074,e54820fc-02c2-46be-ab4c-593dfd63dc44,227000,[]

@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Without Me,Eminem,[],2002,0d2ee7a9-b167-4baa-8be8-23c8bfddc49a,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,290000,"['rap', 'hip hop']"
+2,"Whenever, Wherever",Shakira,[],2002,,bf24ca37-25f4-4e34-9aec-460b94364cfc,197000,"['pop', 'dance']"
+3,A Little Less Conversation,Elvis Presley vs. Junkie XL,[],2002,0001c065-1915-35f2-a0c8-f16d4d95ef40,,0,[]
+4,Dilemma,Nelly,['Kelly Rowland'],2002,,811900b2-68fc-4d41-8bad-69b7a1f4d628,104000,"['rnb', 'rap', 'hip hop']"
+5,The Ketchup Song (Asereje),Las Ketchup,[],2002,3e209f11-97f6-409f-910a-7571156adc81,5c6f6348-15b5-4eb5-a8ae-d8a3ee3354a1,212000,[]
+6,A Thousand Miles,Vanessa Carlton,[],2002,,c1a61bb0-e4fe-4064-bc8d-954a2dafda79,237000,['pop']
+7,Not Pretty Enough,Kasey Chambers,[],2002,0272baae-28b2-39e2-b2da-6b070940f3f2,7333182d-8933-4896-adaa-fe98e6b59bd7,199000,[]
+8,Complicated,Avril Lavigne,[],2002,,0103c1cc-4a09-4a5d-a344-56ad99a77193,245000,"['pop', 'rock']"
+9,Hero,Enrique Iglesias,[],2002,02a88fe9-dc4c-3d3b-a0c5-66680b725b96,35f866dc-c061-48ba-8157-cf2e0eac4857,264000,[]
+10,Kiss Kiss,Holly Valance,[],2002,7576f3a6-adab-3454-bd33-ecde91943732,fb42bc41-953c-4040-88e7-0f6757339ea1,205000,[]
+11,Murder on the Dancefloor,Sophie Ellis-Bextor,[],2002,f8462db3-26c6-4e62-a655-d65c1a2b02d6,,229000,"['pop', 'dance']"
+12,Underneath Your Clothes,Shakira,[],2002,,bf24ca37-25f4-4e34-9aec-460b94364cfc,224000,[]
+13,"Hey Baby (Uhh, Ahh)",DJ Otzi,[],2002,df62db21-5fb4-4f4c-b04e-886063b26065,8d6a4455-1ae8-4e51-a481-08a85cb0141a,220000,[]
+14,Tribute,Tenacious D,[],2002,5499b04a-baeb-4484-af36-05b46f6f2667,148ddea2-6839-4354-8e2c-5dfadf136b7f,247000,[]
+15,Get the Party Started,Pink,[],2002,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,153000,[]
+16,Hot in Herre,Nelly,[],2002,69034670-67eb-4576-90b5-df2d00327a1b,811900b2-68fc-4d41-8bad-69b7a1f4d628,228000,"['rap', 'hip hop', 'rnb']"
+17,If Tomorrow Never Comes,Ronan Keating,[],2002,,f1cd545b-f17b-4d3a-98de-68b695bfe211,215000,[]
+18,The Logical Song,Scooter,[],2002,3f36e8e8-5da5-48be-92c1-aad1e35bc259,83e59f23-3b0b-4304-834d-5bcafd5df6d2,195000,[]
+19,Get Over You,Sophie Ellis-Bextor,[],2002,54e4ebc1-5851-4991-8413-e148818f31b0,,198000,[]
+20,Better Man,Robbie Williams,[],2002,050b0ffe-751d-35be-8ff0-b8f93869f0fc,db4624cf-0e44-481e-a9dc-2142b833ec2f,202000,[]
+21,Livin' it Up,Ja Rule,['Case'],2002,3604cd3e-8467-41b0-8d1d-9596fc73e519,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,256000,[]
+22,U Got it Bad,Usher,[],2002,,,,[]
+23,Heaven,DJ Sammy & Yanou,['Do'],2002,aafce69e-a865-47b9-9849-5acd6c0423e2,,0,[]
+24,Superman (It's Not Easy),Five for Fighting,[],2002,eae91cbe-b8b7-444d-a842-8e69879d1254,23eeaeaf-423d-4859-8c91-2175ece74287,223000,[]
+25,Girlfriend (The Neptunes Remix),NSYNC,['Nelly'],2002,4a3c86d1-a401-440d-ba13-4827caf96eb5,603ba565-3967-4be1-931e-9cb945394e86,283000,[]
+26,When You Look at Me,Christina Milian,[],2002,66d7e5fe-e086-4c52-a150-7ef7b83f1054,78e98e0e-f873-4e5e-b4b7-88b7293fd713,222000,[]
+27,Insatiable,Darren Hayes,[],2002,0250d0b2-47ba-3ce8-a8b2-ba9e04d9ed69,ec21de7d-2288-4640-a015-edecf6ac147f,311000,[]
+28,Dance With Me,112,[],2002,93a96094-62a1-3b93-bf0d-402280b98e36,9132d515-dc0e-4494-85ae-20f06eed14f9,234000,[]
+29,Foolish,Ashanti,[],2002,feb2baba-1e2f-46f3-b36f-c4059b92eea0,a47ed6d5-480e-428c-8ce9-d7a6a571e857,226000,"['rnb', 'pop']"
+30,Creepin' Up Slowly,Taxiride,[],2002,,205fdeb9-2255-4418-a7d3-ae6c855e1b52,197000,[]
+31,Just a Little,Liberty X,[],2002,2d5a1bf2-5328-4661-aaa2-d7ea0f3821e5,02db9e84-a750-4d22-b5b1-c769e698dc6c,174000,[]
+32,The Tide is High (Get the Feeling),Atomic Kitten,[],2002,1f51b600-2106-446f-b0ed-d1d9a7264264,6fda00c2-449a-4bf4-838f-038d41a07c73,206000,[]
+33,Two Wrongs,Wyclef Jean,['Claudette Ortiz'],2002,0ec1cbf9-9c50-4a75-9cb0-8bea011d9c5f,4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c,229000,[]
+34,Born to Try,Delta Goodrem,[],2002,2e7a77e5-1d69-4f16-ae8e-74ec016f4aa7,8c5755b4-2de6-4158-bca9-e354cbf07437,250000,[]
+35,In the End,Linkin Park,[],2002,,f59c5520-5f46-4d2c-b2c4-822eabf53419,221000,"['rock', 'alternative']"
+36,Dirrty,Christina Aguilera,['Redman'],2002,0505fb35-7431-4a9f-8a10-b58fbc2862b6,b202beb7-99bd-47e7-8b72-195c8d72ebdd,280000,[]
+37,Hey Baby,No Doubt,['Bounty Killer'],2002,030b1ab7-61c0-4876-a034-9586f25a28b2,fbd2a255-1d57-4d31-ac11-65b671c19958,207000,[]
+38,Sk8er Boi,Avril Lavigne,[],2002,,0103c1cc-4a09-4a5d-a344-56ad99a77193,203000,"['rock', 'pop']"
+39,Rapture,iiO,[],2002,52cc7e6e-fa46-3b49-959a-9416d247fe21,79ad5f01-b181-448d-b776-a252949d61af,240000,[]
+40,Cleanin' Out My Closet,Eminem,[],2002,00c3c9cd-65a7-3465-9864-2694b99b9e34,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,300000,[]
+41,I'm Real,Jennifer Lopez,[],2002,6d388c8a-3f1c-471c-9161-dd2fe5b95df4,f0602f55-1770-483d-89bd-4bae0d0ac086,297000,[]
+42,Escape,Enrique Iglesias,[],2002,e5041666-d3f7-40f0-a575-17680e5d6af8,35f866dc-c061-48ba-8157-cf2e0eac4857,208000,[]
+43,Stop Calling Me,Shakaya,[],2002,4a41106f-9169-36e3-b9a8-1e236ab1d7e1,d15fc430-a05a-4bc1-b975-6d85c5ab7ad2,0,[]
+44,Objection (Tango),Shakira,[],2002,65483acf-833e-4880-ba45-bf9a74353322,bf24ca37-25f4-4e34-9aec-460b94364cfc,224000,[]
+45,Wherever You Will Go,The Calling,[],2002,,29eb4497-0bd8-4126-abdf-d8007326ee8b,205000,"['rock', 'alternative', 'pop']"
+46,Gangsta Lovin',Eve,['Alicia Keys'],2002,1eb65f4d-2752-465d-a223-14cb1340c4e1,1ac10f5e-2079-4435-b78f-dda6ecdeba15,239000,[]
+47,Life Goes On,LeAnn Rimes,[],2002,492d94be-d552-4961-9442-32323999921d,9092d8e1-9b38-4372-a96d-000b8561a8bc,214000,[]
+48,How You Remind Me,Nickelback,[],2002,2d9c236f-0b75-4e5c-8227-2a7991ee77a2,bc710bcf-8815-42cf-bad2-3f1d12246aeb,223000,"['rock', 'alternative']"
+49,What's Luv?,Fat Joe,['Ashanti'],2002,0022a77e-9576-38f0-b920-0275b6e507b3,a6a4c910-2b22-4a6f-aebe-805b176c47b8,229000,[]
+50,Don't Turn Off the Lights,Enrique Iglesias,[],2002,258f8e0d-d916-415b-8beb-ce876930c670,35f866dc-c061-48ba-8157-cf2e0eac4857,227000,[]
+51,Rich Girl,Selwyn,[],2002,0b7ddabb-8990-4bb3-9c67-ef87a57881bf,01b88981-bd8e-4864-ba7d-f3652db29f26,235000,[]
+52,By the Way,Red Hot Chili Peppers,[],2002,560b6b14-6945-410c-80a7-cb0f77ea38ac,8bfac288-ccc5-448d-9573-c33ea2aa5c30,225000,"['rock', 'alternative', 'funk']"
+53,Cherry Lips (Go Baby Go!),Garbage,[],2002,0cf492bb-3a91-3c19-ae3f-b76fef1ed18c,f9ef7a22-4262-4596-a2a8-1d19345b8e50,192000,[]
+54,Papa Don't Preach,Kelly Osbourne,[],2002,54af98e8-2666-3150-b15c-fc166cc42027,6f54eacf-7ec1-4917-8995-6c2f67b606e6,205000,[]
+55,I Need a Girl (Part One),P. Diddy,"['Usher', 'Loon']",2002,,,254000,[]
+56,Family Affair,Mary J. Blige,[],2002,,db76c5ca-d555-4f09-b1db-baa1b713d875,267000,"['rnb', 'soul']"
+57,I'm Moving On,Scott Cain,[],2002,,3add7f5d-ce4a-4fe6-ab99-a252ca53cc50,211000,[]
+58,Always on Time,Ja Rule,['Ashanti'],2002,,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,244000,[]
+59,Somethin' Stupid,Robbie Williams & Nicole Kidman,[],2002,4f3258b6-4088-43b4-870d-877390971494,,170000,[]
+60,Smooth Criminal,Alien Ant Farm,[],2002,570ae315-a684-4095-bdf9-5fc14a4ea276,8ac6cc32-8ddf-43b1-9ac4-4b04f9053176,208000,"['rock', 'alternative']"
+61,Hands Clean,Alanis Morissette,[],2002,,4bdcee62-4902-4773-8cd1-e252e2e31225,232000,[]
+62,Down Boy,Holly Valance,[],2002,5a88f600-776d-36c8-a279-3b7de7520a05,fb42bc41-953c-4040-88e7-0f6757339ea1,208000,[]
+63,Like I Love You,Justin Timberlake,[],2002,151f48d7-143a-4de7-a39f-0e61d1bb35d7,596ffa74-3d08-44ef-b113-765d43d12738,284000,[]
+64,Hella Good,No Doubt,[],2002,5450ad51-4838-49e9-a992-06438039c525,fbd2a255-1d57-4d31-ac11-65b671c19958,242000,"['rock', 'pop', 'dance', 'alternative']"
+65,What About Us?,Brandy,[],2002,6df405fc-ab6d-4318-9080-ae940e04f5a1,01e60eba-52df-4694-8f09-39f43abe54e9,251000,[]
+66,Love at First Sight,Kylie Minogue,[],2002,f9ad490d-d553-4c9b-a880-9502acbc95e5,2fddb92d-24b2-46a5-bf28-3aed46f4684c,238000,[]
+67,Beautiful,Disco Montego,['Katie Underwood'],2002,16ec54cf-bc44-4533-b3d4-fba241017f6b,5211287d-89ce-45bc-a632-ad3d1a8f10a4,238000,[]
+68,I Love Rock 'n' Roll,Britney Spears,[],2002,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,262000,[]
+69,Bare Naked,Jennifer Love Hewitt,[],2002,1189e313-1e05-47fc-8408-69f36d107c7d,2374ec6f-229c-47a8-9853-5efe3c47f5ca,201000,[]
+70,In Your Eyes,Kylie Minogue,[],2002,,2fddb92d-24b2-46a5-bf28-3aed46f4684c,202000,[]
+71,Don't Let Me Get Me,Pink,[],2002,d4880305-133d-4d7f-9eac-3b9a6076dcab,f4d5cc07-3bc9-4836-9b15-88a08359bc63,211000,[]
+72,"I'm Not a Girl, Not Yet a Woman",Britney Spears,[],2002,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,230000,[]
+73,One Day in Your Life,Anastacia,[],2002,7075489b-4b13-3f61-9fc6-4e9be71d26ac,d3b2bec4-b70e-460e-b433-a865ceac2de8,207000,[]
+74,What Would You Do?,City High,[],2002,891087f2-5e2d-4d16-bdbd-a77ac7873b84,3fd61726-7d1c-4bdd-92c9-ac82c3a7aab3,176000,[]
+75,Batter Up,St. Lunatics,['Nelly'],2002,396b50b7-62de-3103-9ff0-97dbd20130aa,51da3924-90e9-41fb-be47-58f30176a101,327000,[]
+76,My Sacrifice,Creed,[],2002,10f64786-1351-3571-be89-733da0129f80,4b1a830b-0a1f-42e5-b8d5-1d6743912e99,295000,"['rock', 'alternative']"
+77,I'm Gonna Be Alright,Jennifer Lopez,[],2002,ef5e986f-a290-41f3-b221-e2ea54c1ec03,f0602f55-1770-483d-89bd-4bae0d0ac086,224000,[]
+78,Hero,Chad Kroeger,['Josey Scott'],2002,5ef9b492-8761-3424-900e-e8b875089ad7,a59edb65-fae2-4344-b77a-5232516d4d7a,199000,[]
+79,The Greatest View,Silverchair,[],2002,257fb259-c9f5-40df-8104-57a80fa96eaa,b0799818-22cb-4564-8e68-3c410d0722ee,245000,[]
+80,Everywhere,Michelle Branch,[],2002,,a10f94a9-2a3c-4166-b9fa-a7bed0bf7d96,214000,[]
+81,Alive,P.O.D.,[],2002,d507e712-99fc-4c1d-9691-52fa12265b92,57e79d57-b795-475e-9fa2-5dd9d5513b8c,203000,[]
+82,Boys of Summer,DJ Sammy,[],2002,8dd458e7-b12a-4515-9d3c-b2482ce853bc,c43e35b8-8234-408b-9a25-07f2fcbeb317,240000,[]
+83,Crying at the Discoteque,Alcazar,[],2002,,8d5e244c-04f6-4d2d-ac98-3b0f0e33b3e2,230000,[]
+84,Gotta Get Thru This,Daniel Bedingfield,[],2002,cac56dab-0908-496b-be07-74cc1c76b47f,9169bdc6-5725-45ec-bba5-e9df75dbe8cc,161000,[]
+85,Where's Your Head At,Basement Jaxx,[],2002,5e053768-5c99-4ee2-9b12-5a645b130ef6,28cbf94d-0700-4095-a188-37e373b069a7,283000,"['electronic', 'house', 'dance', 'techno']"
+86,It Just Won't Do,Tim Deluxe,['Sam Obernik'],2002,5b76da6e-9547-3cc5-a121-b120b85e6e1c,54d86cc6-2c30-47b4-bb68-cf5d82560e5c,199000,[]
+87,All You Wanted,Michelle Branch,[],2002,ea1f5761-7c75-3686-89d5-3a992c7ec34a,a10f94a9-2a3c-4166-b9fa-a7bed0bf7d96,218000,[]
+88,Ain't it Funny (Murder Remix),Jennifer Lopez,"['Ja Rule', 'Caddillac Tah']",2002,7e3c1208-d9a2-3dfd-bcfd-279473474a6a,f0602f55-1770-483d-89bd-4bae0d0ac086,0,[]
+89,Overprotected,Britney Spears,[],2002,d176a0e1-9244-4aec-84f0-f8a007b89d99,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,200000,[]
+90,Do it With Madonna,The Androids,[],2002,dfa5f7ed-153f-430e-8a67-d7a0fbfd584d,00e1d7b8-0399-4f6a-816c-eb865fe4b2a7,228000,[]
+91,Who Do You Love Now? (Stringer),Riva,['Dannii Minogue'],2002,7beec298-911c-4525-98ea-7fd5c274e9b1,5300c270-533f-4f21-9c38-797d399508c2,206000,[]
+92,Way Love's Supposed to Be,Selwyn,[],2002,05b114aa-4072-4044-8239-d59ea1c7f2ab,01b88981-bd8e-4864-ba7d-f3652db29f26,262000,[]
+93,One Night Stand,Mis-Teeq,[],2002,8ccb9a2b-f377-3191-acfe-ec07ead33d98,55d648e3-60d0-4fce-851d-cf6fb1c4e398,209000,[]
+94,All Seats Taken,Bec Cartwright,[],2002,5af25b4d-1e7f-41ed-8759-b6f95092c7e2,,0,[]
+95,Chop Suey!,System of a Down,[],2002,04ffab9f-1782-4b7f-a8b9-f0799a7f8c2e,cc0b7089-c08d-4c10-b6b0-873582c17fd6,210000,"['metal', 'rock', 'alternative']"
+96,Break Ya Neck,Busta Rhymes,[],2002,96f280af-2203-4b24-bf72-512e07919cb3,10a9ff92-9637-4498-afea-7044b2ab0dc0,197000,[]
+97,Black Suits Comin' (Nod Ya Head),Will Smith intro. Tra-Knox,[],2002,,,,[]
+98,Youth of the Nation,P.O.D.,[],2002,,57e79d57-b795-475e-9fa2-5dd9d5513b8c,257000,[]
+99,Nasty Girl,Destiny's Child,[],2002,76f73f9f-c964-332c-a93b-512ca44342d2,,256000,[]
+100,Lifestyles of the Rich and Famous,Good Charlotte,[],2002,0a6771bc-b788-3dc1-936d-eaf59c27f01f,b267ca80-034e-4dc1-9ed4-ec45f1fed41d,187000,[]

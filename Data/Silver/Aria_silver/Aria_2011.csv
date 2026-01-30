@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Party Rock Anthem,LMFAO,['Lauren Bennett and GoonRock'],2011,,ed5d9086-e8cd-473a-b96c-d81ad6c98f0d,264000,"['dance', 'electronic', 'pop', 'techno']"
+2,Somebody That I Used to Know,Gotye,['Kimbra'],2011,,6f6fd596-76e0-4b82-aa37-f558ac2d337b,244000,"['indie', 'alternative', 'electronic']"
+3,Moves Like Jagger,Maroon 5,['Christina Aguilera'],2011,,0ab49580-c84f-44d4-875f-d83760ea2cfe,202000,[]
+4,Someone Like You,Adele,[],2011,8266c364-fcf0-3620-bd33-269ee61e1edf,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,286000,"['soul', 'pop']"
+5,Rolling in the Deep,Adele,[],2011,,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,229000,"['soul', 'pop']"
+6,Sexy and I Know It,LMFAO,[],2011,915cc017-efbd-3a76-98fe-58f109c65c5d,ed5d9086-e8cd-473a-b96c-d81ad6c98f0d,199000,"['dance', 'pop', 'electronic']"
+7,Give Me Everything,Pitbull,"['Ne-Yo', 'Afrojack', 'Nayer']",2011,,d262ea27-3ffe-40f7-b922-85c42d625e67,252000,[]
+8,Born This Way,Lady Gaga,[],2011,5705ed56-ffb8-436b-8c0b-60518215cc16,650e7db6-b795-4eb5-a702-5ea2fc46c848,353000,"['pop', 'dance']"
+9,Price Tag,Jessie J,['B.o.B'],2011,,d24fb461-dee8-41fc-bb15-2f13bb2644a6,223000,"['pop', 'dance']"
+10,On the Floor,Jennifer Lopez,['Pitbull'],2011,,f0602f55-1770-483d-89bd-4bae0d0ac086,284000,[]
+11,S\&M,Rihanna,[],2011,,,,[]
+12,We Found Love,Rihanna,['Calvin Harris'],2011,0659f4db-a64d-378e-9529-584c217d23e5,73e5e69d-3554-40d8-8516-00cb38737a1c,216000,[]
+13,Sweat,Snoop Dogg vs. David Guetta,[],2011,bcf769c9-289b-428a-87f5-d9c4ee07903c,,196000,[]
+14,The Lazy Song,Bruno Mars,[],2011,55b9fb00-4390-4549-a692-5993bc524e70,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,191000,"['pop', 'rnb', 'reggae']"
+15,E.T.,Katy Perry,[],2011,,122d63fc-8671-43e4-9752-34e846d62a9c,206000,"['pop', 'electronic']"
+16,Jar of Hearts,Christina Perri,[],2011,071a529e-4bff-32f4-826a-59fe494f3f2b,38d363c7-fdcb-4308-9474-a0d14ab8d9b7,246000,[]
+17,Super Bass,Nicki Minaj,[],2011,63ebe5f6-e765-42f0-b208-40a9b58ccf79,1036b808-f58c-4a3e-b461-a2c4492ecf1b,230000,"['pop', 'hip hop', 'rnb']"
+18,Titanium,David Guetta,['Sia'],2011,723c09e8-7db1-47d5-b852-142c980b5ba7,302bd7b9-d012-4360-897a-93b00c855680,237000,[]
+19,Dirty Talk,Wynter Gordon,[],2011,,546930c1-d2ca-4d13-83c0-b58554ec7e46,197000,[]
+20,Good Feeling,Flo Rida,[],2011,,4593d49a-7f67-46ba-9ec0-126bd676286f,248000,"['electronic', 'dance']"
+21,Grenade,Bruno Mars,[],2011,,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,222000,"['pop', 'rnb']"
+22,Just Can't Get Enough,Black Eyed Peas,[],2011,,d5be5333-4171-427e-8e12-732087c6b78e,219000,[]
+23,Pumped Up Kicks,Foster the People,[],2011,,e0e1a584-dd0a-4bd1-88d1-c4c62895039d,221000,['indie']
+24,The A Team,Ed Sheeran,[],2011,1835aad5-98e7-4de2-82a4-c8c95b1c0b69,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,259000,['pop']
+25,It Girl,Jason Derulo,[],2011,13392ed6-489b-488f-9dd8-2263d2df3ed6,,191000,[]
+26,Happiness,Alexis Jordan,[],2011,,288414bb-2cfc-4ce8-a221-7505071d1b4d,243000,[]
+27,Good Night,Reece Mastin,[],2011,1cf73c6b-55ca-4f90-9648-7599e5fa94b8,62956dea-edc3-421c-8ea2-5e7fd29e9ebb,184000,[]
+28,Firework,Katy Perry,[],2011,1fe283cc-c61c-30f2-a16b-40671aae9337,122d63fc-8671-43e4-9752-34e846d62a9c,227000,"['pop', 'dance']"
+29,Stereo Hearts,Gym Class Heroes,['Adam Levine'],2011,14707c5e-1b13-4e51-987c-68c90b15ff59,f4d4b515-0b74-423f-a161-db184330c37c,210000,"['pop', 'hip hop']"
+30,Yeah 3x,Chris Brown,[],2011,8ba22700-90b8-4603-b402-f24fc0d5c47c,c234fa42-e6a6-443e-937e-2f4b073538a3,242000,[]
+31,Last Friday Night (T.G.I.F.),Katy Perry,[],2011,,122d63fc-8671-43e4-9752-34e846d62a9c,230000,"['pop', 'dance']"
+32,Marry You,Bruno Mars,[],2011,a8956c11-749a-4fdb-885a-86542bcf204a,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,230000,"['pop', 'rnb']"
+33,Tonight (I'm Lovin' You),Enrique Iglesias,"['Ludacris', 'DJ Frank E']",2011,0869e789-4afc-3c39-85f7-18fd5f75372c,35f866dc-c061-48ba-8157-cf2e0eac4857,231000,[]
+34,Don't Wanna Go Home,Jason Derulo,[],2011,48e6e2e0-7e73-49e3-a445-c3314a7134b3,,206000,[]
+35,Champagne Showers,LMFAO,['Natalia Kills'],2011,017771f6-3eb1-4e7e-a6fe-79899cdff3ed,ed5d9086-e8cd-473a-b96c-d81ad6c98f0d,264000,[]
+36,You Make Me Feel...,Cobra Starship,['Sabi'],2011,16163a78-89d6-3cf0-9f27-22815127364c,ffb390b8-8df4-4b72-97d1-7b2fc008a452,217000,[]
+37,Coming Home,Diddy-Dirty Money,['Skylar Grey'],2011,0b884432-283f-4d59-ac56-ced4f838eb2d,,239000,[]
+38,Bounce,Calvin Harris,['Kelis'],2011,6b4c9f0e-f8d8-34bf-85f5-f93c92072814,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,225000,[]
+39,The Edge of Glory,Lady Gaga,[],2011,31a59ba1-7958-4fcc-bfd8-739d94cb7fcc,650e7db6-b795-4eb5-a702-5ea2fc46c848,320000,"['pop', 'dance']"
+40,We Run the Night,Havana Brown,[],2011,,202d9955-4cd2-4bb2-835c-e0152c6abf19,215000,[]
+41,Cheers (Drink to That),Rihanna,[],2011,08b174e7-1150-304c-ab20-b85abc156d81,73e5e69d-3554-40d8-8516-00cb38737a1c,261000,[]
+42,Without You,David Guetta,['Usher'],2011,553da102-6780-4ee2-a7ae-211184d923ce,302bd7b9-d012-4360-897a-93b00c855680,208000,[]
+43,Feel So Close,Calvin Harris,[],2011,,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,206000,[]
+44,Tonight Tonight,Hot Chelle Rae,[],2011,51bc6313-1e3d-3560-9bc7-817911fe4d7f,20aee940-3b65-4d04-8768-9a5918db2973,199000,[]
+45,Own This Club,Marvin Priest,[],2011,07f6a700-342d-3580-ad33-680fea895c7f,974307b6-39ce-4773-a691-808111abc29e,201000,[]
+46,Mr. Know it All,Kelly Clarkson,[],2011,0a2db3f4-0ef2-4e5c-977c-e5e261522fcf,d339efbb-77b9-4147-ba9e-59f2f24550b2,231000,[]
+47,Who's That Girl,Guy Sebastian,['Eve'],2011,03189243-88f9-4c7b-ac49-a9367a5e744b,f116b984-45ae-49d0-9445-efc5a61458a1,221000,[]
+48,What the Hell,Avril Lavigne,[],2011,0678a6ad-b1e7-48dd-a654-d51be6017cda,0103c1cc-4a09-4a5d-a344-56ad99a77193,221000,"['pop', 'rock']"
+49,Set Fire to the Rain,Adele,[],2011,73d8aea8-0cb9-3883-9afa-23182bea0a48,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,242000,"['soul', 'pop']"
+50,Beautiful People,Chris Brown,['Benny Benassi'],2011,52c55b53-6589-3d91-a0ad-6f3d86a3fa71,c234fa42-e6a6-443e-937e-2f4b073538a3,219000,[]
+51,The Show Goes On,Lupe Fiasco,[],2011,,cf15719f-51f9-4db8-a15d-5eed9664ce69,305000,[]
+52,Inescapable,Jessica Mauboy,[],2011,fc99e046-ba66-46f2-91b2-343c2efbe1e3,18f719e7-e9b4-4216-8869-9083ebc23f7d,215000,[]
+53,Domino,Jessie J,[],2011,,d24fb461-dee8-41fc-bb15-2f13bb2644a6,234000,"['pop', 'dance']"
+54,Paradise,Coldplay,[],2011,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,276000,"['rock', 'alternative']"
+55,Where Them Girls At,David Guetta,['Flo Rida and Nicki Minaj'],2011,09a85f1b-737a-4d2c-950a-f3b5bdd009f7,302bd7b9-d012-4360-897a-93b00c855680,210000,[]
+56,Hangover,Taio Cruz,['Flo Rida'],2011,,ba7d2626-38ce-4859-8495-bdb5732715c4,245000,[]
+57,More,Usher,[],2011,0d91877e-4ee1-46ce-87f4-2abab9c28d64,3414d446-735a-443c-931f-10634f57e5b9,222000,[]
+58,Who's That Chick?,David Guetta,['Rihanna'],2011,,302bd7b9-d012-4360-897a-93b00c855680,124000,[]
+59,Dedication to My Ex (Miss That),Lloyd,"['Andre 3000', 'Lil Wayne']",2011,927e8214-5785-49f1-b7fc-cd5b28009f2f,e9296a90-9c59-4657-9165-1f1b5319de00,227000,[]
+60,Jet Lag,Simple Plan,['Natasha Bedingfield'],2011,6f0fbcde-ba1f-4cac-be12-6439bcc483b7,b345af35-205e-4eca-8006-029e5c20127e,204000,[]
+61,California King Bed,Rihanna,[],2011,057d3608-8f36-46d3-9921-358923e9bc36,73e5e69d-3554-40d8-8516-00cb38737a1c,251000,[]
+62,Rain Over Me,Pitbull,['Marc Anthony'],2011,b50c83cb-f212-34f8-a8cd-c65f45f0be5e,d262ea27-3ffe-40f7-b922-85c42d625e67,219000,[]
+63,I Need a Doctor,Dr. Dre,"['Eminem', 'Skylar Grey']",2011,7ea74990-644a-399c-99d1-e5c5c24666ee,5f6ab597-f57a-40da-be9e-adad48708203,284000,[]
+64,I Need a Dollar,Aloe Blacc,[],2011,5788cf93-21e2-4cd8-9c03-ce89d1a6a175,4bf89e02-6c30-4603-9f6a-52619b1bea1a,243000,[]
+65,Just the Way You Are,Bruno Mars,[],2011,18a107ed-ed43-4b14-acd6-d0eba97a90be,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,220000,"['pop', 'rnb']"
+66,"Turn Around (5, 4, 3, 2, 1)",Flo Rida,[],2011,00158cc9-dcee-3b06-ba59-caa302667ee8,4593d49a-7f67-46ba-9ec0-126bd676286f,203000,[]
+67,I Just Had Sex,The Lonely Island,['Akon'],2011,1047ab31-9551-3222-9869-8282019cc200,028e1863-cab4-4a3d-9dd9-91c682c91005,170000,[]
+68,Lighters,Bad Meets Evil,['Bruno Mars'],2011,1eaf02df-695d-3368-aeda-de2535735146,87f27b14-cbd0-44ea-93a3-6fead5cb45e7,310000,[]
+69,What Makes You Beautiful,One Direction,[],2011,,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,198000,['pop']
+70,The Time (Dirty Bit),Black Eyed Peas,[],2011,,d5be5333-4171-427e-8e12-732087c6b78e,308000,"['dance', 'electronic', 'pop']"
+71,Till the World Ends,Britney Spears,[],2011,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,237000,"['pop', 'dance', 'electronic']"
+72,Nobody's Perfect,Jessie J,[],2011,0537cd53-4e88-3c77-8a09-bbaf06c5dbf5,d24fb461-dee8-41fc-bb15-2f13bb2644a6,259000,[]
+73,Hello,Martin Solveig & Dragonette,[],2011,71f757ad-4aa4-496e-acd8-0a1fe0f12d41,,333000,[]
+74,Only Girl (In the World),Rihanna,[],2011,,73e5e69d-3554-40d8-8516-00cb38737a1c,235000,"['dance', 'pop', 'electronic']"
+75,"Young, Wild \& Free",Snoop Dogg & Wiz Khalifa,['Bruno Mars'],2011,,,,[]
+76,Don't Worry Be Happy,Guy Sebastian,[],2011,0ca31abb-0aa7-4741-ad02-16f21acaf777,f116b984-45ae-49d0-9445-efc5a61458a1,253000,[]
+77,Blow,Kesha,[],2011,0081542e-1dd5-4f12-a51a-25d243165263,,219000,[]
+78,Right There,Nicole Scherzinger,['50 Cent'],2011,03f6f509-29f3-4cb6-a499-0944d6f81c20,0f7534a6-dc5f-46ca-a2e0-13d214cdd52b,245000,[]
+79,Cinema,Benny Benassi,['Gary Go'],2011,09890603-ad15-358d-b752-0298189fc153,674bf89f-8e70-4472-929d-6b4ed6f98c88,291000,[]
+80,Don't Hold Your Breath,Nicole Scherzinger,[],2011,,0f7534a6-dc5f-46ca-a2e0-13d214cdd52b,198000,[]
+81,Dynamite,Taio Cruz,[],2011,,ba7d2626-38ce-4859-8495-bdb5732715c4,203000,"['dance', 'pop']"
+82,Changed the Way You Kiss Me,Example,[],2011,,ddeb3502-8693-4619-b41d-263105f84477,192000,[]
+83,Who Dat Girl,Flo Rida,['Akon'],2011,0320f1e9-cd78-4abb-a79f-6cd9246b2d46,4593d49a-7f67-46ba-9ec0-126bd676286f,203000,[]
+84,Jumpstart,These Kids Wear Crowns,[],2011,41e6afff-3d2e-33b7-b41d-783029f99d2e,40a1d77b-a785-4d2b-ac4d-8b0aec8fdb38,207000,[]
+85,Friday to Sunday,Justice Crew,[],2011,01303fb7-5b4c-4e79-9af9-d5cb8e0867e1,5bd06912-a77f-41ce-9be7-9134b8cf9b66,192000,[]
+86,Raise Your Glass,Pink,[],2011,bcc23cda-afe3-4919-a7cc-551826980bc2,f4d5cc07-3bc9-4836-9b15-88a08359bc63,203000,"['pop', 'rock']"
+87,It Will Rain,Bruno Mars,[],2011,722c4366-67f6-3cb0-b332-763461c00349,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,257000,"['pop', 'soul']"
+88,Loud,Stan Walker,[],2011,edf68130-b330-45c1-8a71-d0d06c557eec,ec996cca-1b6a-4641-ada7-d438f1afa7a5,203000,[]
+89,Little Bad Girl,David Guetta,"['Taio Cruz', 'Ludacris']",2011,0ed62b53-1f52-423e-98b6-85c43c304eb5,302bd7b9-d012-4360-897a-93b00c855680,192000,[]
+90,Best Thing I Never Had,Beyonce,[],2011,0df048c3-ec13-461b-9e9f-80b126647073,859d0860-d480-4efd-970c-c05d5f1776b8,370000,[]
+91,Breathing,Jason Derulo,[],2011,020dccc6-3621-4020-9931-c257137821c6,,233000,[]
+92,Last Night,Ian Carey,"['Bobby Anthony', 'Snoop Dogg']",2011,af79bbe9-247d-414b-bc4e-be93d5f15ad0,386df5e4-aa80-412f-aa31-7a201f0ed678,187000,[]
+93,Run the World (Girls),Beyonce,[],2011,07c743ae-0bed-4582-8a1c-6d20220b8304,859d0860-d480-4efd-970c-c05d5f1776b8,236000,[]
+94,Mr. Saxobeat,Alexandra Stan,[],2011,,70e6fee5-36b1-4cdb-b573-2132f9566dad,196000,[]
+95,From the Music,The Potbelleez,[],2011,41ca5ec1-cf6d-38ed-b368-c2b433c492af,3ddf3e25-0e3e-4c5f-a526-6f117df8f39d,176000,[]
+96,Take Over Control,Afrojack,['Eva Simons'],2011,456c7b92-ee39-41f0-90c6-5871f002b2a6,a3ee920f-4e7f-4993-8aca-4b8538cfaa4a,201000,[]
+97,Hold it Against Me,Britney Spears,[],2011,4b6ad952-257a-4f39-99bb-ed30e6036fd8,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,229000,[]
+98,Love on Top,Beyonce,[],2011,29c2d95e-c488-46dd-8935-4aa0764c3d54,859d0860-d480-4efd-970c-c05d5f1776b8,221000,"['soul', 'rnb', 'pop']"
+99,All of the Lights,Kanye West,[],2011,33658f3a-90a3-40df-a12a-ad20166f0023,,299000,"['hip hop', 'rap']"
+100,We R Who We R,Kesha,[],2011,,,204000,[]

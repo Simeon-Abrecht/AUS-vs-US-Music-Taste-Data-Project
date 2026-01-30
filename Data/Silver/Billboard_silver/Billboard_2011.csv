@@ -1,0 +1,100 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Rolling in the Deep,Adele,[],2011,,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,229000,"['soul', 'pop']"
+2,Party Rock Anthem,LMFAO & Lauren Bennett & GoonRock,[],2011,b5b26835-ed50-4c10-b75c-0107925611cf,,263000,[]
+3,Firework,Katy Perry,[],2011,1fe283cc-c61c-30f2-a16b-40671aae9337,122d63fc-8671-43e4-9752-34e846d62a9c,227000,"['pop', 'dance']"
+4,E.T.,Katy Perry & Kanye West,[],2011,,122d63fc-8671-43e4-9752-34e846d62a9c,206000,"['pop', 'electronic']"
+5,Give Me Everything,Pitbull & Ne-Yo & Afrojack & Nayer,[],2011,,,0,[]
+6,Grenade,Bruno Mars,[],2011,,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,222000,"['pop', 'rnb']"
+7,F**K You (Forget You),CeeLo Green,[],2011,,,0,[]
+8,Super Bass,Nicki Minaj,[],2011,63ebe5f6-e765-42f0-b208-40a9b58ccf79,1036b808-f58c-4a3e-b461-a2c4492ecf1b,230000,"['pop', 'hip hop', 'rnb']"
+9,Moves like Jagger,Maroon 5 & Christina Aguilera,[],2011,7e2e59db-b8fe-4808-a091-4f3d55784028,,201000,[]
+10,Just Can't Get Enough,The Black Eyed Peas,[],2011,,d5be5333-4171-427e-8e12-732087c6b78e,219000,[]
+11,On the Floor,Jennifer Lopez & Pitbull,[],2011,,f0602f55-1770-483d-89bd-4bae0d0ac086,284000,[]
+12,S&M,Rihanna,[],2011,,73e5e69d-3554-40d8-8516-00cb38737a1c,243000,"['pop', 'dance', 'electronic']"
+13,Pumped Up Kicks,Foster the People,[],2011,,e0e1a584-dd0a-4bd1-88d1-c4c62895039d,221000,['indie']
+14,Last Friday Night (T.G.I.F.),Katy Perry,[],2011,,122d63fc-8671-43e4-9752-34e846d62a9c,230000,"['pop', 'dance']"
+15,Just the Way You Are,Bruno Mars,[],2011,18a107ed-ed43-4b14-acd6-d0eba97a90be,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,220000,"['pop', 'rnb']"
+16,Tonight (I'm Lovin' You),Enrique Iglesias & Ludacris & DJ Frank E,[],2011,0869e789-4afc-3c39-85f7-18fd5f75372c,35f866dc-c061-48ba-8157-cf2e0eac4857,231000,[]
+17,Raise Your Glass,Pink,[],2011,bcc23cda-afe3-4919-a7cc-551826980bc2,f4d5cc07-3bc9-4836-9b15-88a08359bc63,203000,"['pop', 'rock']"
+18,Born This Way,Lady Gaga,[],2011,5705ed56-ffb8-436b-8c0b-60518215cc16,650e7db6-b795-4eb5-a702-5ea2fc46c848,353000,"['pop', 'dance']"
+20,What's My Name?,Rihanna & Drake,[],2011,0485ef09-793e-43f7-b054-92a9365e018d,73e5e69d-3554-40d8-8516-00cb38737a1c,263000,"['pop', 'rnb']"
+21,Look at Me Now,Chris Brown & Lil Wayne & Busta Rhymes,[],2011,,,0,[]
+22,Down on Me,Jeremih & 50 Cent,[],2011,6f8fa7d1-73d4-411f-8641-2d748f8305d0,1c009a08-74d1-4682-bc56-8bfbe9e66b62,219000,"['dance', 'rnb']"
+23,How to Love,Lil Wayne,[],2011,2b27507a-c8a2-4ea7-be50-5411c8ae71ae,ac9a487a-d9d2-4f27-bb23-0f4686488345,240000,[]
+24,Someone Like You,Adele,[],2011,8266c364-fcf0-3620-bd33-269ee61e1edf,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,286000,"['soul', 'pop']"
+25,Good Life,OneRepublic,[],2011,e3373f9d-3122-49c4-b1fd-c5147b3fd016,c33c2065-b1c3-4406-b066-d33a9e2ea71a,253000,[]
+26,The Lazy Song,Bruno Mars,[],2011,55b9fb00-4390-4549-a692-5993bc524e70,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,191000,"['pop', 'rnb', 'reggae']"
+27,Till the World Ends,Britney Spears,[],2011,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,237000,"['pop', 'dance', 'electronic']"
+28,The Show Goes On,Lupe Fiasco,[],2011,,cf15719f-51f9-4db8-a15d-5eed9664ce69,305000,[]
+29,The Edge of Glory,Lady Gaga,[],2011,31a59ba1-7958-4fcc-bfd8-739d94cb7fcc,650e7db6-b795-4eb5-a702-5ea2fc46c848,320000,"['pop', 'dance']"
+30,We R Who We R,Kesha,[],2011,,,204000,[]
+31,Black and Yellow,Wiz Khalifa,[],2011,f5675d5c-6d52-34f4-8d1f-a3f9647902eb,f5dfa020-ad69-41cd-b3d4-fd7af0414e94,217000,"['hip hop', 'rap']"
+32,Tonight Tonight,Hot Chelle Rae,[],2011,51bc6313-1e3d-3560-9bc7-817911fe4d7f,20aee940-3b65-4d04-8768-9a5918db2973,199000,[]
+33,Blow,Kesha,[],2011,0081542e-1dd5-4f12-a51a-25d243165263,,219000,[]
+34,Lighters,Bad Meets Evil & Bruno Mars,[],2011,1eaf02df-695d-3368-aeda-de2535735146,87f27b14-cbd0-44ea-93a3-6fead5cb45e7,310000,[]
+35,If I Die Young,The Band Perry,[],2011,5f103d13-2508-4b0b-b6ea-10d0cb413f20,28955336-2348-488a-9381-e3a7b0107343,227000,[]
+36,Stereo Hearts,Gym Class Heroes & Adam Levine,[],2011,14707c5e-1b13-4e51-987c-68c90b15ff59,f4d4b515-0b74-423f-a161-db184330c37c,210000,"['pop', 'hip hop']"
+37,The Time (Dirty Bit),The Black Eyed Peas,[],2011,,d5be5333-4171-427e-8e12-732087c6b78e,308000,"['dance', 'electronic', 'pop']"
+38,Coming Home,Diddy – Dirty Money & Skylar Grey,[],2011,c104345e-2963-4490-bcdb-d727e53fb0d7,,239000,[]
+39,Hey Baby (Drop It to the Floor),Pitbull & T-Pain,[],2011,7a43dc27-bb2f-44af-a655-352042280a25,d262ea27-3ffe-40f7-b922-85c42d625e67,207000,[]
+40,Only Girl (In the World),Rihanna,[],2011,,73e5e69d-3554-40d8-8516-00cb38737a1c,235000,"['dance', 'pop', 'electronic']"
+41,6 Foot 7 Foot,Lil Wayne & Cory Gunz,[],2011,,ac9a487a-d9d2-4f27-bb23-0f4686488345,0,[]
+42,Just a Kiss,Lady Antebellum,[],2011,1b3d6f33-9245-4db7-b4c1-4fe4b2112104,,216000,[]
+43,Dirt Road Anthem,Jason Aldean,[],2011,0657f1ef-f02a-361e-8055-f1563288cec1,f24df11a-7e35-4979-a4db-a3b2a170ce27,225000,[]
+44,Dynamite,Taio Cruz,[],2011,,ba7d2626-38ce-4859-8495-bdb5732715c4,203000,"['dance', 'pop']"
+45,No Hands,Waka Flocka Flame & Wale & Roscoe Dash,[],2011,,,0,[]
+46,I Wanna Go,Britney Spears,[],2011,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,209000,"['pop', 'dance', 'electronic']"
+47,I'm on One,DJ Khaled & Drake & Rick Ross & Lil Wayne,[],2011,,,0,[]
+48,You Make Me Feel...,Cobra Starship & Sabi,[],2011,16163a78-89d6-3cf0-9f27-22815127364c,ffb390b8-8df4-4b72-97d1-7b2fc008a452,217000,[]
+49,Yeah 3x,Chris Brown,[],2011,8ba22700-90b8-4603-b402-f24fc0d5c47c,c234fa42-e6a6-443e-937e-2f4b073538a3,242000,[]
+50,Moment 4 Life,Nicki Minaj & Drake,[],2011,9e110460-0b11-4401-88ab-4cd880dc63e6,1036b808-f58c-4a3e-b461-a2c4492ecf1b,190000,[]
+51,I Need a Doctor,Dr. Dre & Eminem & Skylar Grey,[],2011,,,0,[]
+52,Just a Dream,Nelly,[],2011,,811900b2-68fc-4d41-8bad-69b7a1f4d628,237000,"['rnb', 'hip hop']"
+53,Motivation,Kelly Rowland & Lil Wayne,[],2011,,,0,[]
+54,Stereo Love,Edward Maya & Vika Jigulina,[],2011,a290b9fd-5c80-4e11-8874-f28c18954c13,,184000,[]
+55,Jar of Hearts,Christina Perri,[],2011,071a529e-4bff-32f4-826a-59fe494f3f2b,38d363c7-fdcb-4308-9474-a0d14ab8d9b7,246000,[]
+56,Roll Up,Wiz Khalifa,[],2011,f75ff72b-6cb1-4daf-8c58-c704e24fa9a0,f5dfa020-ad69-41cd-b3d4-fd7af0414e94,227000,[]
+57,Sexy and I Know It,LMFAO,[],2011,915cc017-efbd-3a76-98fe-58f109c65c5d,ed5d9086-e8cd-473a-b96c-d81ad6c98f0d,199000,"['dance', 'pop', 'electronic']"
+58,Rocketeer,Far East Movement & Ryan Tedder,[],2011,122cdfe0-44a5-340d-8ef1-d2bff41d78ba,6bd5655c-b7fe-48ee-8925-c2d2d8798618,213000,"['pop', 'electronic', 'dance']"
+59,All of the Lights,Kanye West,[],2011,33658f3a-90a3-40df-a12a-ad20166f0023,,299000,"['hip hop', 'rap']"
+60,Hold It Against Me,Britney Spears,[],2011,4b6ad952-257a-4f39-99bb-ed30e6036fd8,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,229000,[]
+61,More,Usher,[],2011,0d91877e-4ee1-46ce-87f4-2abab9c28d64,3414d446-735a-443c-931f-10634f57e5b9,222000,[]
+62,What the Hell,Avril Lavigne,[],2011,0678a6ad-b1e7-48dd-a654-d51be6017cda,0103c1cc-4a09-4a5d-a344-56ad99a77193,221000,"['pop', 'rock']"
+63,Written in the Stars,Tinie Tempah & Eric Turner,[],2011,11b09178-6eb4-303a-b957-c7a2907c1f3f,,207000,[]
+64,Bottoms Up,Trey Songz & Nicki Minaj,[],2011,8c999eb3-274c-49be-8760-37afdc8b6a2f,4d7304f6-7fe3-4959-9d98-01a5af84afe6,245000,[]
+65,DJ Got Us Fallin' in Love,Usher & Pitbull,[],2011,,3414d446-735a-443c-931f-10634f57e5b9,225000,[]
+66,For the First Time,The Script,[],2011,04632e3f-11f0-48c3-ad9d-78df7039b742,4c98aa1b-34eb-4336-987f-5e50aa059c00,253000,[]
+67,Honey Bee,Blake Shelton,[],2011,881ab16c-7346-41fc-b07e-98bbfddd7cc5,2ad66473-ccb3-41d2-8756-b56680cdfe62,197000,[]
+68,Don't You Wanna Stay,Jason Aldean & Kelly Clarkson,[],2011,1102df3f-d538-3cd2-99b4-95bff7023c2e,,259000,[]
+69,We Found Love,Rihanna & Calvin Harris,[],2011,2dbb1f37-1d18-4bea-9af7-6f6f57e8782a,,169000,[]
+70,Pretty Girl Rock,Keri Hilson,[],2011,043203b0-e37d-4c2c-a4d1-1945ffe8476e,b76c616a-ec0d-4f0c-b986-f249c4a04d77,245000,[]
+71,Yoü and I,Lady Gaga,[],2011,6949d85d-ffb2-4ab0-9370-52e07b288a39,650e7db6-b795-4eb5-a702-5ea2fc46c848,307000,[]
+72,Like a G6,Far East Movement & The Cataracs & Dev,[],2011,,6bd5655c-b7fe-48ee-8925-c2d2d8798618,220000,"['dance', 'electronic', 'techno']"
+73,Without You,David Guetta & Usher,[],2011,553da102-6780-4ee2-a7ae-211184d923ce,302bd7b9-d012-4360-897a-93b00c855680,208000,[]
+74,Back to December,Taylor Swift,[],2011,61677729-c4cf-41eb-ab02-bf9ab2820895,20244d07-534f-4eff-b4d4-930878889970,393000,"['country', 'pop']"
+75,Teenage Dream,Katy Perry,[],2011,,122d63fc-8671-43e4-9752-34e846d62a9c,227000,"['pop', 'dance']"
+76,Crazy Girl,Eli Young Band,[],2011,04d77158-ea09-3a0c-b057-050a95c04a7b,80737f69-60c5-4c0d-9562-88faf8d8f2f4,202000,[]
+77,Cheers (Drink to That),Rihanna,[],2011,08b174e7-1150-304c-ab20-b85abc156d81,73e5e69d-3554-40d8-8516-00cb38737a1c,261000,[]
+78,Who Says,Selena Gomez & the Scene,[],2011,39f38b5e-45d6-410c-b3f2-324667ab09f1,37d0a847-32d3-480f-bd1e-101f50a3d332,195000,['pop']
+79,Barefoot Blue Jean Night,Jake Owen,[],2011,825b148c-429b-467c-9fdc-fd89130566c4,508f4f83-26dc-4d21-98d9-1a8c04d5ad4a,169000,[]
+80,Knee Deep,Zac Brown Band & Jimmy Buffett,[],2011,92946ba2-b3b9-4141-9d6e-a0a46a836cc0,507226f4-0842-4f43-950e-81a7017230ec,230000,[]
+81,Country Girl (Shake It for Me),Luke Bryan,[],2011,b74374a8-3c27-41fa-afb9-424b84cf756e,aab35942-f176-4f77-bbf9-1d6aa98ccf3f,225000,"['country', 'dance']"
+82,Remind Me,Brad Paisley & Carrie Underwood,[],2011,494f9334-08ec-4c21-a438-a065794343d1,,253000,[]
+83,In the Dark,Dev,[],2011,15fde050-7060-4033-bc01-97f4d56c93e0,acfaf6e2-cb03-4026-bb48-d2ee5a6a392a,228000,[]
+84,Backseat,New Boyz & The Cataracs & Dev,[],2011,,,0,[]
+85,Headlines,Drake,[],2011,47e1f53a-232e-4938-ad5e-ef9c5bf2daf0,9fff2f8a-21e6-47de-a2b8-7f449929d43f,235000,"['rap', 'hip hop']"
+86,Best Thing I Never Had,Beyoncé,[],2011,0df048c3-ec13-461b-9e9f-80b126647073,859d0860-d480-4efd-970c-c05d5f1776b8,370000,[]
+87,Don't Wanna Go Home,Jason Derulo,[],2011,48e6e2e0-7e73-49e3-a445-c3314a7134b3,,206000,[]
+88,Where Them Girls At,David Guetta & Flo Rida & Nicki Minaj,[],2011,31176f4c-45b5-44cf-a115-0a2467b63038,,194000,[]
+89,She Ain't You,Chris Brown,[],2011,0885284a-b0d0-4c2d-b3db-7103c7138107,c234fa42-e6a6-443e-937e-2f4b073538a3,242000,[]
+90,Take a Back Road,Rodney Atkins,[],2011,83c70317-94ad-38c2-8b9e-ad77e06afae8,51e607d4-e28d-468d-8e21-429aa9ce0206,207000,[]
+91,Please Don't Go,Mike Posner,[],2011,58068271-3615-4cf6-a5e4-59d66f2649c0,5b64e344-b2fb-47bd-bd7b-4c793b17d472,197000,[]
+92,Sure Thing,Miguel,[],2011,2fe8a364-5584-4854-90f0-a17a55f5e59a,285e1285-aecc-478f-a8da-0c8cf69e1217,195000,['rnb']
+93,Price Tag,Jessie J & B.o.B,[],2011,,d24fb461-dee8-41fc-bb15-2f13bb2644a6,223000,"['pop', 'dance']"
+94,God Gave Me You,Blake Shelton,[],2011,,2ad66473-ccb3-41d2-8756-b56680cdfe62,229000,[]
+95,She Will,Lil Wayne & Drake,[],2011,958cfb5e-0f39-45b0-87d8-990d8dc0528f,,305000,[]
+96,Are You Gonna Kiss Me or Not,Thompson Square,[],2011,76e570dc-d892-40a7-ab7c-5cf26dc0f90f,ddf152b8-584e-47a5-a7f4-280a21b0b8ca,189000,[]
+97,Animal,Neon Trees,[],2011,db32c1ea-3664-4c25-996d-6e9679c1bf9a,16243662-8538-4746-a0fb-0d15b5828b8e,211000,"['alternative', 'indie']"
+98,You and Tequila,Kenny Chesney & Grace Potter,[],2011,0a7e3eeb-9dd3-337d-9d62-67c303e68115,,242000,[]
+99,Colder Weather,Zac Brown Band,[],2011,47527da6-0e60-44e9-b0a2-d0f99dc0ae1e,507226f4-0842-4f43-950e-81a7017230ec,273000,[]
+100,My Last,Big Sean & Chris Brown,[],2011,,942a9807-9c1a-4a0e-a285-1fde2c5be9d1,256000,[]

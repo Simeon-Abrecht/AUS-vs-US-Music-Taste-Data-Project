@@ -1,0 +1,100 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Thrift Shop,Macklemore & Ryan Lewis & Wanz,[],2013,0a338e69-dd00-3796-b352-848153dce93a,97b226c8-7140-4da3-91ac-15e62e131a81,236000,[]
+2,Blurred Lines,Robin Thicke & T.I. & Pharrell Williams,[],2013,,,0,[]
+3,Radioactive,Imagine Dragons,[],2013,,012151a8-0f9a-44c9-997f-ebd68b5389f9,188000,"['indie', 'alternative', 'rock']"
+4,Harlem Shake,Baauer,[],2013,0a2e227b-c787-42cb-b8f6-209818282b5e,61a54a1e-3fa1-4ccc-bfc2-86c1a27e27de,196000,[]
+5,Can't Hold Us,Macklemore & Ryan Lewis & Ray Dalton,[],2013,2c494504-ba94-460c-981b-78d22f0a04ed,97b226c8-7140-4da3-91ac-15e62e131a81,259000,[]
+6,Mirrors,Justin Timberlake,[],2013,d3bfad61-e635-4fbe-bbb7-ec98823851fe,596ffa74-3d08-44ef-b113-765d43d12738,277000,['pop']
+7,Just Give Me a Reason,Pink & Nate Ruess,[],2013,,,0,[]
+8,When I Was Your Man,Bruno Mars,[],2013,126241da-d2cb-42c2-a40e-f30909057647,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,213000,['pop']
+9,Cruise,Florida Georgia Line & Nelly,[],2013,,,0,[]
+10,Roar,Katy Perry,[],2013,,122d63fc-8671-43e4-9752-34e846d62a9c,246000,['pop']
+11,Locked Out of Heaven,Bruno Mars,[],2013,2ee757bd-1c77-4d7d-adf9-a6c529160f4b,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,233000,"['pop', 'rnb']"
+12,Ho Hey,The Lumineers,[],2013,,bfcb6630-9b31-4e63-b11f-7b0363be72b5,163000,"['indie', 'folk', 'alternative']"
+13,Stay,Rihanna & Mikky Ekko,[],2013,070a4ab0-98b5-3ab1-89a0-c542dcd89f30,73e5e69d-3554-40d8-8516-00cb38737a1c,0,"['pop', 'rnb']"
+14,Get Lucky,Daft Punk & Pharrell Williams,[],2013,5cce56b9-9d30-4150-93b3-10bc6f339878,,248000,[]
+15,Royals,Lorde,[],2013,,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,190000,"['pop', 'indie', 'electronic']"
+16,I Knew You Were Trouble,Taylor Swift,[],2013,57fa745f-9c3e-410f-a9e6-1b11f229ec4d,20244d07-534f-4eff-b4d4-930878889970,395000,[]
+17,We Can't Stop,Miley Cyrus,[],2013,,7e9bd05a-117f-4cce-87bc-e011527a8b18,231000,"['pop', 'dance']"
+18,Wrecking Ball,Miley Cyrus,[],2013,,7e9bd05a-117f-4cce-87bc-e011527a8b18,222000,['pop']
+19,Wake Me Up,Avicii,[],2013,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,249000,"['electronic', 'dance', 'pop']"
+20,Suit & Tie,Justin Timberlake & Jay-Z,[],2013,35f44170-ef4e-4ff8-83a3-9f0f3440cc57,596ffa74-3d08-44ef-b113-765d43d12738,325000,[]
+22,Holy Grail,Jay-Z & Justin Timberlake,[],2013,,,0,[]
+23,Scream & Shout,will.i.am & Britney Spears,[],2013,00e781e0-636a-40ba-a25a-9d3e4c2d2a45,d574c9bd-46f6-440a-8d6a-8412a283eeb1,284000,"['pop', 'dance', 'electronic']"
+24,Clarity,Zedd & Foxes,[],2013,52414171-1ae5-4972-abbb-d9317a03fd0e,56c4b861-0922-4c3a-a9b9-3bfcb00f8274,271000,"['electronic', 'house', 'pop', 'dance']"
+25,Sail,Awolnation,[],2013,ce0009a9-7c7b-4e2f-9ed0-5533d434e75c,77b29df2-056e-409e-a1b2-5e2bbfe421c4,259000,[]
+26,Don't You Worry Child,Swedish House Mafia & John Martin,[],2013,cad04de1-6be2-49d3-9e3b-06d998504460,,211000,[]
+27,Diamonds,Rihanna,[],2013,,73e5e69d-3554-40d8-8516-00cb38737a1c,224000,"['pop', 'rnb']"
+28,I Love It,Icona Pop & Charli XCX,[],2013,8100d87d-e534-4428-a4e8-89d9be40b853,c5f259d0-abd8-418e-81ee-3965fd4e4e9a,155000,"['dance', 'pop', 'electronic']"
+29,Safe and Sound,Capital Cities,[],2013,,119a2c67-e6d6-41cf-a58c-c51b75c80daa,192000,"['indie', 'electronic', 'pop', 'alternative']"
+30,Treasure,Bruno Mars,[],2013,a1b9f702-59b4-4f47-b6a1-4ca7f62a09dd,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,179000,"['pop', 'funk', 'rnb']"
+31,The Way,Ariana Grande & Mac Miller,[],2013,04375b54-41c2-4717-bf4d-6cebc044e066,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,227000,"['pop', 'rnb']"
+32,Started from the Bottom,Drake,[],2013,6e48a1f8-53a8-4289-9cab-4cc5380a05cc,9fff2f8a-21e6-47de-a2b8-7f449929d43f,174000,"['rap', 'hip hop']"
+33,Come & Get It,Selena Gomez,[],2013,002fcb5e-e450-4306-8598-8851888b003a,e4bc69e2-a064-4f93-ada1-f7f209cc1cc3,232000,"['pop', 'dance']"
+34,"Hold On, We're Going Home",Drake & Majid Jordan,[],2013,020ec4b3-2c6a-4257-a671-689421b198b0,9fff2f8a-21e6-47de-a2b8-7f449929d43f,227000,"['pop', 'rnb']"
+35,Daylight,Maroon 5,[],2013,,0ab49580-c84f-44d4-875f-d83760ea2cfe,225000,[]
+36,Feel This Moment,Pitbull & Christina Aguilera,[],2013,,,230000,[]
+37,Applause,Lady Gaga,[],2013,,650e7db6-b795-4eb5-a702-5ea2fc46c848,115000,"['pop', 'dance']"
+38,One More Night,Maroon 5,[],2013,,0ab49580-c84f-44d4-875f-d83760ea2cfe,219000,"['pop', 'rock']"
+39,Love Me,Lil Wayne & Drake & Future,[],2013,,,0,[]
+40,My Songs Know What You Did in the Dark (Light Em Up),Fall Out Boy,[],2013,0ade08e1-50a6-420f-8523-a3532847968d,516cef4d-0718-4007-9939-f9b38af3f784,187000,"['rock', 'alternative']"
+41,Fuckin' Problems,ASAP Rocky & Drake & 2 Chainz & Kendrick Lamar,[],2013,,,0,[]
+42,Beauty and a Beat,Justin Bieber & Nicki Minaj,[],2013,,e0140a67-e4d1-4f13-8a01-364355bee46e,144000,"['pop', 'dance']"
+43,Same Love,Macklemore & Ryan Lewis & Mary Lambert,[],2013,5737d142-02e4-47b0-91a0-781678257df3,97b226c8-7140-4da3-91ac-15e62e131a81,320000,[]
+44,Sweet Nothing,Calvin Harris & Florence Welch,[],2013,b605543c-5a9e-48cd-9fe9-ba4ef6f5f85d,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,213000,[]
+45,Summertime Sadness,Lana Del Rey & Cédric Gervais,[],2013,17f76cdc-d2be-4fa5-8a01-b4206bae3164,b7539c32-53e7-4908-bda3-81449c367da6,212000,[]
+46,Home,Phillip Phillips,[],2013,09f8fc36-48a9-4ba9-a162-e73b592ded2a,838483d3-a803-4194-9754-ad634fba8553,210000,[]
+47,It's Time,Imagine Dragons,[],2013,,012151a8-0f9a-44c9-997f-ebd68b5389f9,236000,"['indie', 'alternative', 'rock', 'pop']"
+48,Power Trip,J. Cole & Miguel,[],2013,,,0,[]
+49,Girl on Fire,Alicia Keys & Nicki Minaj,[],2013,405afa52-f7ea-47bd-9b6b-1b332dfc927d,,271000,[]
+50,Heart Attack,Demi Lovato,[],2013,d281ef4e-fbb4-4ffe-805f-2d4603aa825a,faf4cefb-036c-4c88-b93a-5b03dd0a0e6b,209000,"['pop', 'dance']"
+51,Love Somebody,Maroon 5,[],2013,033a3445-291a-484c-8ff7-c9a8bee1fb45,0ab49580-c84f-44d4-875f-d83760ea2cfe,229000,[]
+52,I Will Wait,Mumford & Sons,[],2013,006100f9-ee53-4257-886d-9ad846762870,c44e9c22-ef82-4a77-9bcd-af6c958446d6,275000,"['folk', 'indie', 'country']"
+53,Try,Pink,[],2013,,9c6158ed-53d0-4094-b424-b641c5cab36d,247000,[]
+54,Wagon Wheel,Darius Rucker,[],2013,17fdfcb1-1fe5-4ca7-a597-4bd4da70f2fd,3ae70f76-ea53-4cc5-906e-d47a384202a1,298000,[]
+55,Gangnam Style,Psy,[],2013,023535cc-21a0-4b3a-bc7d-fa3d1eb39ff2,,219000,[]
+56,I Need Your Love,Calvin Harris & Ellie Goulding,[],2013,,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,226000,[]
+57,Die Young,Kesha,[],2013,,,213000,[]
+58,Some Nights,Fun,[],2013,0f74a890-723f-4148-bce0-410a7ef9a2bf,fc62d051-fe73-4c8e-85a8-d5102306fa1a,277000,[]
+59,Bad,Wale & Tiara Thomas & Rihanna,[],2013,,,,[]
+60,Boys 'Round Here,Blake Shelton & Pistol Annies,[],2013,,,0,[]
+61,"Gone, Gone, Gone",Phillip Phillips,[],2013,276bcc84-9098-43ee-be4e-d9f7781ca22d,838483d3-a803-4194-9754-ad634fba8553,209000,[]
+62,Demons,Imagine Dragons,[],2013,,012151a8-0f9a-44c9-997f-ebd68b5389f9,176000,"['indie', 'rock', 'alternative']"
+63,Counting Stars,OneRepublic,[],2013,,c33c2065-b1c3-4406-b066-d33a9e2ea71a,257000,"['rock', 'pop']"
+64,I Cry,Flo Rida,[],2013,0458861a-038f-3e12-9129-07af5feeaabb,4593d49a-7f67-46ba-9ec0-126bd676286f,222000,"['dance', 'hip hop']"
+65,Little Talks,Of Monsters and Men,[],2013,d7eefff4-115a-4086-9c9b-0a4a6035f927,9e103f85-7af7-41d7-b83b-49ba8f0c5abf,266000,"['indie', 'folk', 'alternative']"
+66,The Other Side,Jason Derulo,[],2013,0bed93d6-5f72-4bd6-a8ee-ea608ab3c7cf,,226000,[]
+67,Berzerk,Eminem,[],2013,553ea53d-7a60-42b5-951d-43c11a6d9cc6,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,239000,[]
+68,Catch My Breath,Kelly Clarkson,[],2013,03eb8b57-75de-4d8b-9aa5-5e5c81a28866,d339efbb-77b9-4147-ba9e-59f2f24550b2,244000,[]
+69,Crash My Party,Luke Bryan,[],2013,320662f6-f063-30b8-a89b-36778d3c7286,aab35942-f176-4f77-bbf9-1d6aa98ccf3f,234000,[]
+70,Pour It Up,Rihanna,[],2013,0a75401c-707c-4415-83b0-1e5a887ac290,73e5e69d-3554-40d8-8516-00cb38737a1c,94000,"['pop', 'rnb', 'hip hop']"
+71,22,Taylor Swift,[],2013,60ba20dc-efbb-406e-ad22-33315cc37d75,20244d07-534f-4eff-b4d4-930878889970,290000,"['pop', 'country']"
+72,I Want Crazy,Hunter Hayes,[],2013,f69b8928-baff-45a4-a10e-2db079c6fe33,0c75ddc6-2b5d-4b01-8c99-3d9479a14683,236000,[]
+73,The Fox (What Does the Fox Say?),Ylvis,[],2013,154694b9-a12a-49be-880f-ee7d6a5f2451,18e9528e-a4af-4e09-9a35-ea11c7a7ae43,213000,[]
+74,Best Song Ever,One Direction,[],2013,d0c12754-fe7e-4475-b87a-6ec971487e5a,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,193000,['pop']
+75,The A Team,Ed Sheeran,[],2013,1835aad5-98e7-4de2-82a4-c8c95b1c0b69,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,259000,['pop']
+76,Carry On,Fun,[],2013,c1bf7c33-bde1-4b08-920e-d1fb1dfb3359,fc62d051-fe73-4c8e-85a8-d5102306fa1a,279000,[]
+77,Highway Don't Care,Tim McGraw & Taylor Swift & Keith Urban,[],2013,,,0,[]
+78,That's My Kind of Night,Luke Bryan,[],2013,304c6676-ffb9-4cba-acf2-25d13cbc59f9,aab35942-f176-4f77-bbf9-1d6aa98ccf3f,190000,[]
+79,Swimming Pools (Drank),Kendrick Lamar,[],2013,07f4e652-7fc6-480f-b2e3-95c8e5f94e13,381086ea-f511-4aba-bdf9-71c753dc5077,224000,"['rap', 'hip hop']"
+80,Sure Be Cool If You Did,Blake Shelton,[],2013,56ddac60-25d8-47cc-a7d4-39e7bca982dc,2ad66473-ccb3-41d2-8756-b56680cdfe62,215000,[]
+81,#Beautiful,Mariah Carey & Miguel,[],2013,0ff3e7af-dcf9-326a-941d-6f07f58cc207,494e8d09-f85b-4543-892f-a5096aed1cd4,199000,[]
+82,Troublemaker,Olly Murs & Flo Rida,[],2013,c2e6c483-c143-4445-9764-0203f25986be,0b108024-ccb5-468f-b2e9-77ed4f5615c6,185000,[]
+83,Body Party,Ciara,[],2013,c9a63c8e-090d-425a-9a0f-662302ab0f69,03172286-f7ed-4864-a4db-459cd5ca9790,234000,[]
+84,Adorn,Miguel,[],2013,054f2182-003a-484b-8ab1-8ef1fca2d7bf,285e1285-aecc-478f-a8da-0c8cf69e1217,194000,"['rnb', 'soul']"
+85,Hall of Fame,The Script & will.i.am,[],2013,,,0,[]
+86,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,[],2013,,,252000,[]
+87,U.O.E.N.O.,Rocko & Future & Rick Ross,[],2013,,,,[]
+88,Next to Me,Emeli Sandé,[],2013,,7cfaac66-62e5-4fcd-af1b-9d3aa8f68e8b,195000,[]
+89,Mama's Broken Heart,Miranda Lambert,[],2013,04f1ddfa-5f7e-472b-8468-7c40741344b4,4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c,178000,[]
+90,It Goes Like This,Thomas Rhett,[],2013,2eeb02d5-9d6b-4dfe-92bc-ec49ea6a5a3c,bca8bfc0-9d5b-449b-b713-914596f88d56,186000,[]
+91,Bugatti,Ace Hood & Future & Rick Ross,[],2013,,,0,[]
+92,Wanted,Hunter Hayes,[],2013,0dbd3202-f2a4-49de-837e-6b388e348e5b,0c75ddc6-2b5d-4b01-8c99-3d9479a14683,228000,[]
+93,Downtown,Lady Antebellum,[],2013,0be81787-329c-42db-b2cd-cec8b82954d9,,196000,[]
+94,Get Your Shine On,Florida Georgia Line,[],2013,,c16817df-0160-490d-a437-c128cbca9218,222000,[]
+95,#thatPower,will.i.am & Justin Bieber,[],2013,9192ceef-0a5c-4e6f-88d6-7a14f701bb4f,d574c9bd-46f6-440a-8d6a-8412a283eeb1,280000,[]
+96,Brave,Sara Bareilles,[],2013,877c17bc-da1d-46a4-b3ce-093ac493dc1d,e54be6b7-5c26-4b47-bb3f-c137429b9b55,220000,[]
+97,Let Her Go,Passenger,[],2013,,6617f55e-c0c0-490d-9855-02c9c30091d9,251000,['folk']
+98,Runnin' Outta Moonlight,Randy Houser,[],2013,33e444e3-bcff-4bbb-afb0-9e823ffcebce,50e3dd64-6b87-4b9a-a511-c375ae4ff1ca,194000,[]
+99,I'm Different,2 Chainz,[],2013,26c074e6-8eed-499a-936d-9324b947fc31,dff0d392-4cd5-4052-9fbb-f485df3891e5,207000,[]
+100,Still Into You,Paramore,[],2013,e05db1d3-52c4-4228-90b2-31b271933c29,44cf61b8-5197-448a-b82b-cef6ee89fac5,216000,"['rock', 'pop']"

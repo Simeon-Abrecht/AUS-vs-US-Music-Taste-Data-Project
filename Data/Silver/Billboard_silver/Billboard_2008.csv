@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Low,Flo Rida & T-Pain,[],2008,,,231000,[]
+2,Bleeding Love,Leona Lewis,[],2008,,8d552dfc-648f-401f-90de-e925013ca537,240000,"['pop', 'soul']"
+3,No One,Alicia Keys,[],2008,,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,254000,"['soul', 'rnb', 'pop']"
+4,Lollipop,Lil Wayne & Static Major,[],2008,157f246e-8ca4-469b-8f8a-7a71750482cf,,299000,[]
+5,Apologize,OneRepublic,[],2008,43bd7ec5-211e-4824-bbdf-bb2883b46f0e,c33c2065-b1c3-4406-b066-d33a9e2ea71a,208000,"['alternative', 'rock', 'pop']"
+6,No Air,Jordin Sparks & Chris Brown,[],2008,,5508631d-697f-4839-a669-06637e5bcb90,264000,[]
+7,Love Song,Sara Bareilles,[],2008,,e54be6b7-5c26-4b47-bb3f-c137429b9b55,259000,['pop']
+8,Love in This Club,Usher & Young Jeezy,[],2008,,,0,[]
+9,With You,Chris Brown,[],2008,,c234fa42-e6a6-443e-937e-2f4b073538a3,255000,"['rnb', 'pop']"
+10,Forever,Chris Brown,[],2008,6cf5c4ff-c1da-4d8e-ba99-3a880e22d482,c234fa42-e6a6-443e-937e-2f4b073538a3,276000,"['rnb', 'dance']"
+11,Sexy Can I,Ray J & Yung Berg,[],2008,021b885e-e0b8-3a34-9849-f10dc3e72ca0,,209000,[]
+12,Take a Bow,Rihanna,[],2008,6a53f415-0cc3-47cb-b5d9-c5336e75a495,73e5e69d-3554-40d8-8516-00cb38737a1c,228000,"['pop', 'rnb']"
+13,Viva la Vida,Coldplay,[],2008,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,378000,"['alternative', 'rock']"
+14,I Kissed a Girl,Katy Perry,[],2008,,122d63fc-8671-43e4-9752-34e846d62a9c,180000,"['pop', 'rock']"
+15,Whatever You Like,T.I.,[],2008,cdd8681c-b3fe-45eb-979c-9e7f0300d0c0,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,249000,"['rap', 'hip hop']"
+16,Disturbia,Rihanna,[],2008,,73e5e69d-3554-40d8-8516-00cb38737a1c,169000,"['pop', 'dance', 'rnb']"
+17,Don't Stop the Music,Rihanna,[],2008,,73e5e69d-3554-40d8-8516-00cb38737a1c,193000,"['dance', 'pop', 'rnb']"
+18,Pocketful of Sunshine,Natasha Bedingfield,[],2008,fcd1bb59-6c47-40e1-a772-03f676a19b97,8b477559-946e-4ef2-9fe1-446cff8fdd79,204000,['pop']
+19,Kiss Kiss,Chris Brown & T-Pain,[],2008,,,0,[]
+20,Closer,Ne-Yo,[],2008,,,157000,"['rnb', 'dance', 'pop']"
+21,Bubbly,Colbie Caillat,[],2008,525037df-6d98-3105-8348-cfae20e45cd9,efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9,197000,[]
+22,Touch My Body,Mariah Carey,[],2008,43ef1add-f017-401c-a943-5ed8ed23c63c,494e8d09-f85b-4543-892f-a5096aed1cd4,204000,"['pop', 'rnb']"
+23,4 Minutes,Madonna & Justin Timberlake & Timbaland,[],2008,,,0,[]
+24,So What,Pink,[],2008,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,215000,['pop']
+25,Paralyzer,Finger Eleven,[],2008,b02ee169-feb3-42f1-9951-bef3c7822074,0b76f632-25fa-4681-9862-86499c28afd3,208000,"['rock', 'alternative']"
+26,Clumsy,Fergie,[],2008,f2da5e36-c42f-4129-ab30-90bee1da625d,4f9675d2-f6d5-486c-9b26-33dcca998500,255000,"['pop', 'rnb', 'dance']"
+27,I'm Yours,Jason Mraz,[],2008,,82eb8936-7bf6-4577-8320-a2639465206d,242000,[]
+28,Leavin',Jesse McCartney,[],2008,ff676390-7727-4dc9-a6f2-5681658d6998,9d075d6e-9492-4343-ac95-93a808f61477,218000,[]
+29,Dangerous,Kardinal Offishall & Akon,[],2008,930947c6-724e-46e4-aa50-d886ea76df2b,03647192-f55b-42b2-9a74-db28fcae8fd1,246000,"['hip hop', 'rap']"
+30,Tattoo,Jordin Sparks,[],2008,b8c900cc-9093-4a03-9961-debf4f2e265e,5508631d-697f-4839-a669-06637e5bcb90,233000,[]
+31,See You Again,Miley Cyrus,[],2008,0518bd12-6c16-4dab-9c6c-d96c0e3a6330,7e9bd05a-117f-4cce-87bc-e011527a8b18,188000,"['pop', 'dance']"
+32,Shake It,Metro Station,[],2008,,ab7ebf8c-059f-4071-93b1-dd3ae80d60b2,180000,"['dance', 'electronic', 'indie', 'alternative']"
+33,Stop and Stare,OneRepublic,[],2008,,c33c2065-b1c3-4406-b066-d33a9e2ea71a,224000,[]
+34,Take You There,Sean Kingston,[],2008,0bcfe4e8-296f-37f5-8f2c-b25e42f2a828,f7eb3be3-1065-4a53-94d4-e2d0c15c0b33,218000,[]
+35,Paper Planes,M.I.A.,[],2008,09f03130-4b30-46d8-a2cd-81f8ef9bb97b,7cf0ea9d-86b9-4dad-ba9e-2355a64899ea,204000,"['electronic', 'dance']"
+36,Hot n Cold,Katy Perry,[],2008,,122d63fc-8671-43e4-9752-34e846d62a9c,221000,"['pop', 'dance']"
+37,Live Your Life,T.I. & Rihanna,[],2008,5c7d8be2-1363-4f30-8a9b-6a1e52e1b014,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,243000,"['hip hop', 'rap']"
+38,Bust It Baby (Part 2),Plies & Ne-Yo,[],2008,,72f62a4c-0042-49f6-b4dc-2f5b27dd289f,242000,[]
+39,American Boy,Estelle & Kanye West,[],2008,7c182811-1c95-4c6a-9307-72940621a402,,284000,[]
+40,Got Money,Lil Wayne & T-Pain,[],2008,,,0,[]
+41,Our Song,Taylor Swift,[],2008,443fa096-f6d2-4406-98bc-bab83ea894f4,20244d07-534f-4eff-b4d4-930878889970,313000,"['country', 'pop']"
+42,Damaged,Danity Kane,[],2008,a2f745e1-8b8b-4d80-9524-405eea758731,6a0439a1-4520-443b-9bf1-02acdf692d6e,249000,[]
+43,A Milli,Lil Wayne,[],2008,80618884-c0e3-4e83-9b7e-a3dec1a022bc,ac9a487a-d9d2-4f27-bb23-0f4686488345,222000,"['rap', 'hip hop']"
+44,Sorry,Buckcherry,[],2008,027e935e-e377-4bbd-b2e4-c60b256d7054,822e92ef-72ea-42e0-9af1-b987816b487a,225000,[]
+45,Independent,Webbie & Lil Boosie & Lil Phat,[],2008,,,0,[]
+46,Can't Believe It,T-Pain & Lil Wayne,[],2008,,,0,[]
+47,Like You'll Never See Me Again,Alicia Keys,[],2008,07227f17-5045-4aee-9688-6e6b1966d077,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,243000,[]
+48,Teardrops on My Guitar,Taylor Swift,[],2008,78e950f3-59aa-3577-8130-0656d2fc0fd4,20244d07-534f-4eff-b4d4-930878889970,215000,[]
+49,When I Grow Up,Pussycat Dolls,[],2008,,1fda852b-92e9-4562-82fa-c52820a77b23,226000,"['pop', 'dance']"
+50,Sexual Eruption,Snoop Dogg,[],2008,502b7214-44c6-4d14-bc60-46e71e2ec257,f90e8b26-9e52-4669-a5c9-e28529c47894,173000,[]
+51,What You Got,Colby O'Donis & Akon,[],2008,57da88e8-44dd-37fa-88f4-0f28959c4a97,,244000,[]
+52,It's Not My Time,3 Doors Down,[],2008,d224fa92-e1e7-4269-a1e8-1816d3b976b5,2386cd66-e923-4e8e-bf14-2eebe2e9b973,242000,[]
+53,Better in Time,Leona Lewis,[],2008,6e797387-5094-4fe0-95c5-bc781e5cd3ad,8d552dfc-648f-401f-90de-e925013ca537,234000,[]
+54,Crank That (Soulja Boy),Soulja Boy Tell 'Em,[],2008,,29eead4d-3793-4625-8727-c03edbb38b8b,225000,['rap']
+55,Shadow of the Day,Linkin Park,[],2008,efae128c-cd78-4b38-b61c-6f8956379cd3,f59c5520-5f46-4d2c-b2c4-822eabf53419,289000,"['rock', 'alternative']"
+56,Sweetest Girl (Dollar Bill),Wyclef Jean & Akon & Lil Wayne & Niia,[],2008,,,0,[]
+57,Miss Independent,Ne-Yo,[],2008,b4b875a9-9737-49c7-8010-5a4282f991fa,,232000,"['rnb', 'pop']"
+58,Fall for You,Secondhand Serenade,[],2008,52941eb7-0312-4450-8d86-1ba4af597285,c4caa34e-57b5-432b-ad9d-7e6543944d96,183000,[]
+59,In the Ayer,Flo Rida & will.i.am,[],2008,,,0,[]
+60,Say,John Mayer,[],2008,2190dae3-34dc-33fb-9c34-d7691304c3e8,144ef525-85e9-40c3-8335-02c32d0861f3,229000,[]
+61,One Step at a Time,Jordin Sparks,[],2008,5a496500-62af-4de4-be14-fe7717d37fb4,5508631d-697f-4839-a669-06637e5bcb90,146000,[]
+62,Hate That I Love You,Rihanna,[],2008,295ba2dd-f978-4031-80df-fc47aa0e85ff,73e5e69d-3554-40d8-8516-00cb38737a1c,221000,"['rnb', 'pop']"
+63,Superstar,Lupe Fiasco & Matthew Santos,[],2008,42d9befd-1c6e-4148-830f-58d79762c541,,289000,[]
+64,Suffocate,J. Holiday,[],2008,9137210a-233f-4244-b92d-1530a2723be6,4995a475-1580-4217-a11b-448711e41910,217000,[]
+65,Let It Rock,Kevin Rudolf & Lil Wayne,[],2008,00cd6bf0-837b-318c-a850-d53fc9d5b9dd,2a0cce30-071b-4ba9-bf78-ae76c9eb7316,181000,"['dance', 'hip hop', 'rock']"
+66,Get Like Me,David Banner & Chris Brown & Yung Joc,[],2008,,,0,[]
+67,Realize,Colbie Caillat,[],2008,06f4dabf-abbc-36cc-80be-89f3877993c1,efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9,244000,[]
+68,Put On,Young Jeezy & Kanye West,[],2008,189af420-3951-34e1-94cb-491a9ea39c53,c94e39ea-529e-4c10-9b13-09bdf65bc5ba,286000,[]
+69,The Time of My Life,David Cook,[],2008,14a6f63c-0935-3b69-80c5-ef9c21f6799b,966e1095-b172-415c-bae5-53f8041fd050,218000,[]
+70,Lolli Lolli (Pop That Body),Three 6 Mafia,[],2008,,a8754ac4-a85e-4f48-a81f-eecd482570ef,224000,[]
+71,Cyclone,Baby Bash & T-Pain,[],2008,684f9eed-0c9a-327a-91da-3c2075ef3028,1fe6717a-73b5-4e70-82c5-6b83a08c997d,237000,[]
+72,Love Like This,Natasha Bedingfield & Sean Kingston,[],2008,126ea8b6-9f79-4c92-8ffb-d614d21ff430,8b477559-946e-4ef2-9fe1-446cff8fdd79,221000,[]
+73,Burnin' Up,Jonas Brothers,[],2008,a728524a-58c6-446b-a4a5-580246776070,6e019bc6-5c23-4935-94f0-4a896631d846,342000,"['pop', 'rock']"
+74,Love Lockdown,Kanye West,[],2008,11bc5236-54da-4009-a0ed-589e9cb83cb9,,270000,"['hip hop', 'pop']"
+75,I Luv Your Girl,The-Dream,[],2008,,,267000,[]
+76,Crush,David Archuleta,[],2008,ac6ceb6b-bcd3-3bc6-9921-b546ea43769a,150c1fdf-3fc1-4672-93fa-a1aca0a85a53,208000,[]
+77,Hypnotized,Plies & Akon,[],2008,f3aab5e1-7dd4-4529-a88a-0d4f9f7a16c4,72f62a4c-0042-49f6-b4dc-2f5b27dd289f,114000,[]
+78,Big Girls Don't Cry,Fergie,[],2008,4ed1adbb-ea50-45f1-9e7e-238d339e1fcf,4f9675d2-f6d5-486c-9b26-33dcca998500,267000,[]
+79,Good Life,Kanye West & T-Pain,[],2008,2512302a-2e10-3027-9669-9e17fe1705ea,,270000,"['rap', 'hip hop']"
+80,Womanizer,Britney Spears,[],2008,1aeb96b7-73ce-3d73-b102-540a98787b3a,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,224000,"['pop', 'dance']"
+81,Love Story,Taylor Swift,[],2008,76cb33ce-eccd-4d28-87e7-2cc05962cc67,20244d07-534f-4eff-b4d4-930878889970,273000,"['country', 'pop']"
+82,Just Fine,Mary J. Blige,[],2008,abd5274c-5a08-37f6-a5ed-952fee208de9,db76c5ca-d555-4f09-b1db-baa1b713d875,242000,[]
+83,Piece of Me,Britney Spears,[],2008,2731fdf6-2e3b-48ac-a6ba-10f134ebb104,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,216000,"['pop', 'dance', 'electronic']"
+84,The Boss,Rick Ross & T-Pain,[],2008,7733bbbb-b8ff-43c0-a7d9-714f4afe141e,13bcb2bb-db37-4397-baf5-e0f085be2d64,225000,[]
+85,All Summer Long,Kid Rock,[],2008,,ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,297000,[]
+86,Can't Help but Wait,Trey Songz,[],2008,29989dee-22c8-40d1-8f7e-1a1456d0188a,4d7304f6-7fe3-4959-9d98-01a5af84afe6,206000,[]
+87,In Love with a Girl,Gavin DeGraw,[],2008,adcaa8d8-bb4b-4277-be0d-b0e3aba04cb9,3f2a12e9-6398-42fd-b257-2f6abd4aa5fc,207000,[]
+88,My Life,The Game & Lil Wayne,[],2008,ad75d01b-3a58-464e-9d60-318ff5702c4f,07cc14fb-4784-4a25-804b-2686ed5ef52c,290000,[]
+89,I Remember,Keyshia Cole,[],2008,8f6a6137-52dc-3b47-ad3d-b80b382dccfa,ef73e6ed-9096-4ddb-9799-b94874d0ce33,249000,[]
+90,Flashing Lights,Kanye West & Dwele,[],2008,0064b08f-45d3-314e-bfcc-5f641e431319,,237000,"['rap', 'hip hop', 'rnb']"
+91,Mrs. Officer,Lil Wayne & Bobby Valentino & Kidd Kidd,[],2008,,,0,[]
+92,7 Things,Miley Cyrus,[],2008,5ba910c0-b6a0-47cb-8dc3-645615cdf5e8,7e9bd05a-117f-4cce-87bc-e011527a8b18,213000,[]
+93,You're Gonna Miss This,Trace Adkins,[],2008,d12cbeab-c2e0-4022-8263-563f512c83c1,3dc9c919-508f-4255-b05e-0eed6a28137d,224000,[]
+94,Love Remains the Same,Gavin Rossdale,[],2008,0f0c99f1-cd83-4d76-80aa-e2ebe1a18d16,d530dad4-81e5-4874-808a-d708039289fb,251000,[]
+95,Feels Like Tonight,Daughtry,[],2008,1e5148aa-95fa-3a4e-b39f-8159a293edbc,21e3292e-dac8-4609-b57d-402f926aa41f,238000,[]
+96,The Way I Are,Timbaland & Keri Hilson,[],2008,,,0,[]
+97,Addicted,Saving Abel,[],2008,0596d44e-5d96-4e7e-9901-e91bb2658af4,1c3c7d51-4679-476c-8cb0-580a35da018b,222000,[]
+98,Into the Night,Santana & Chad Kroeger,[],2008,0989f325-62d5-3380-a2fe-286bf80158a6,9a3bf45c-347d-4630-894d-7cf3e8e0b632,222000,[]
+99,Heaven Sent,Keyshia Cole,[],2008,05e00e95-e9df-391e-ad89-1624b836fbff,ef73e6ed-9096-4ddb-9799-b94874d0ce33,227000,[]
+100,She Got It,2 Pistols & T-Pain & Tay Dizm,[],2008,,,0,[]

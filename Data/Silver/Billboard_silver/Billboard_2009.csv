@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Boom Boom Pow,The Black Eyed Peas,[],2009,,d5be5333-4171-427e-8e12-732087c6b78e,229000,"['dance', 'hip hop', 'pop', 'rap']"
+2,Poker Face,Lady Gaga,[],2009,,650e7db6-b795-4eb5-a702-5ea2fc46c848,237000,"['pop', 'dance', 'electronic']"
+3,Just Dance,Lady Gaga & Colby O'Donis,[],2009,7afbf0d4-d538-4a70-8b34-364c85e24904,650e7db6-b795-4eb5-a702-5ea2fc46c848,97000,"['dance', 'pop', 'electronic']"
+4,I Gotta Feeling,The Black Eyed Peas,[],2009,2a333386-a28a-499e-bd40-6d83b2af76fc,d5be5333-4171-427e-8e12-732087c6b78e,289000,"['pop', 'dance', 'electronic', 'hip hop']"
+5,Love Story,Taylor Swift,[],2009,76cb33ce-eccd-4d28-87e7-2cc05962cc67,20244d07-534f-4eff-b4d4-930878889970,273000,"['country', 'pop']"
+6,Right Round,Flo Rida,[],2009,ac536c63-0c65-4eb1-b8ce-5b323ff2a0ec,4593d49a-7f67-46ba-9ec0-126bd676286f,204000,"['hip hop', 'dance', 'rap']"
+7,I'm Yours,Jason Mraz,[],2009,,82eb8936-7bf6-4577-8320-a2639465206d,242000,[]
+8,Single Ladies (Put a Ring on It),Beyoncé,[],2009,0c2211eb-59f3-4a1d-ab91-cdc0b203329c,859d0860-d480-4efd-970c-c05d5f1776b8,192000,"['pop', 'rnb', 'dance']"
+9,Heartless,Kanye West,[],2009,986077d0-162b-43b3-b8ff-514cfd774eba,,210000,"['hip hop', 'rap', 'rnb']"
+10,Gives You Hell,The All-American Rejects,[],2009,,,212000,"['rock', 'alternative']"
+11,You Belong with Me,Taylor Swift,[],2009,,20244d07-534f-4eff-b4d4-930878889970,299000,"['country', 'pop']"
+12,Dead and Gone,T.I. & Justin Timberlake,[],2009,311df1d9-a895-48c1-9837-1795050d196a,596ffa74-3d08-44ef-b113-765d43d12738,300000,[]
+13,You Found Me,The Fray,[],2009,,2ddd167f-5b8a-4372-b350-6ad50493bac0,241000,"['alternative', 'rock']"
+14,Use Somebody,Kings of Leon,[],2009,02925e8c-e013-41f8-b552-68bc731cbfa9,6ffb8ea9-2370-44d8-b678-e9237bbd347b,230000,"['rock', 'alternative', 'indie']"
+15,Knock You Down,Keri Hilson & Kanye West & Ne-Yo,[],2009,386f6fa4-1292-4178-9079-16523a07145c,b76c616a-ec0d-4f0c-b986-f249c4a04d77,326000,[]
+16,Blame It,Jamie Foxx & T-Pain,[],2009,6a38e4bd-4a7e-3785-a0d3-92293c1b23b2,15a5da16-8b89-4047-aefe-81473c97b5b2,290000,[]
+17,I Know You Want Me (Calle Ocho),Pitbull,[],2009,,d262ea27-3ffe-40f7-b922-85c42d625e67,181000,"['dance', 'rap', 'pop']"
+18,Live Your Life,T.I. & Rihanna,[],2009,5c7d8be2-1363-4f30-8a9b-6a1e52e1b014,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,243000,"['hip hop', 'rap']"
+19,Kiss Me thru the Phone,Soulja Boy Tell 'Em & Sammie,[],2009,,,0,[]
+20,Down,Jay Sean & Lil Wayne,[],2009,018bbc8d-61d7-446d-b50e-96e2d6cd48d2,e03cf5b6-d2ec-4465-adee-226b518bcfcd,212000,[]
+21,The Climb,Miley Cyrus,[],2009,4fd5584d-458f-4664-b139-05018e0891d4,7e9bd05a-117f-4cce-87bc-e011527a8b18,235000,"['pop', 'country']"
+22,Best I Ever Had,Drake,[],2009,23089a3f-6c87-4cb0-b864-4857bc4847af,9fff2f8a-21e6-47de-a2b8-7f449929d43f,261000,"['rap', 'hip hop']"
+23,My Life Would Suck Without You,Kelly Clarkson,[],2009,,d339efbb-77b9-4147-ba9e-59f2f24550b2,212000,[]
+24,Halo,Beyoncé,[],2009,69ed6f8a-d889-4458-b442-5cd9a04a1f8c,859d0860-d480-4efd-970c-c05d5f1776b8,226000,"['pop', 'rnb', 'soul']"
+25,Hot n Cold,Katy Perry,[],2009,,122d63fc-8671-43e4-9752-34e846d62a9c,221000,"['pop', 'dance']"
+26,Second Chance,Shinedown,[],2009,b493130e-8919-4ab7-b95f-5558c5cb4d82,adc0f033-95c2-4e0b-87bc-c23ed3f26ce6,220000,"['rock', 'alternative']"
+27,Circus,Britney Spears,[],2009,2b9241b3-a7c4-4866-a15d-17344cf44541,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,189000,"['pop', 'dance']"
+28,Day 'n' Nite,Kid Cudi,[],2009,,e0e1db18-f7ba-4dee-95ff-7ae8cf545460,221000,[]
+29,Party in the U.S.A.,Miley Cyrus,[],2009,,7e9bd05a-117f-4cce-87bc-e011527a8b18,203000,"['pop', 'dance']"
+30,Don't Trust Me,3OH!3,[],2009,048fb666-60cc-386a-a55a-903ba74a9bad,125948ec-7f91-4d1a-8b83-accbf50fae3d,192000,[]
+31,Run This Town,Jay-Z & Rihanna & Kanye West,[],2009,,,0,[]
+32,Let It Rock,Kevin Rudolf & Lil Wayne,[],2009,00cd6bf0-837b-318c-a850-d53fc9d5b9dd,2a0cce30-071b-4ba9-bf78-ae76c9eb7316,181000,"['dance', 'hip hop', 'rock']"
+33,Fire Burning,Sean Kingston,[],2009,0afd3711-437e-3105-8174-a86291d2a0c7,f7eb3be3-1065-4a53-94d4-e2d0c15c0b33,227000,"['dance', 'pop']"
+34,Whatcha Say,Jason Derulo,[],2009,85322652-3214-44aa-8db5-34ffc5d94b28,,222000,[]
+35,LoveGame,Lady Gaga,[],2009,,650e7db6-b795-4eb5-a702-5ea2fc46c848,249000,"['dance', 'pop']"
+36,Waking Up in Vegas,Katy Perry,[],2009,2d27a646-07a4-3427-aa80-fe461c6cf331,122d63fc-8671-43e4-9752-34e846d62a9c,202000,[]
+37,Birthday Sex,Jeremih,[],2009,a6179569-2c0f-4449-94dd-58971037951d,1c009a08-74d1-4682-bc56-8bfbe9e66b62,215000,['rnb']
+38,Sober,Pink,[],2009,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,251000,[]
+39,Womanizer,Britney Spears,[],2009,1aeb96b7-73ce-3d73-b102-540a98787b3a,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,224000,"['pop', 'dance']"
+40,Whatever You Like,T.I.,[],2009,cdd8681c-b3fe-45eb-979c-9e7f0300d0c0,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,249000,"['rap', 'hip hop']"
+41,Obsessed,Mariah Carey,[],2009,10a10c51-1de5-38ba-ad5d-f485e510ed6e,494e8d09-f85b-4543-892f-a5096aed1cd4,242000,"['rnb', 'pop']"
+42,Mad,Ne-Yo,[],2009,8b646c19-06a0-49d1-b02b-0fc0cae2229b,,254000,[]
+43,Good Girls Go Bad,Cobra Starship & Leighton Meester,[],2009,,,0,[]
+44,Love Lockdown,Kanye West,[],2009,11bc5236-54da-4009-a0ed-589e9cb83cb9,,270000,"['hip hop', 'pop']"
+45,So What,Pink,[],2009,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,215000,['pop']
+46,Hotel Room Service,Pitbull,[],2009,,d262ea27-3ffe-40f7-b922-85c42d625e67,228000,"['dance', 'rap']"
+47,Crack a Bottle,Eminem & Dr. Dre & 50 Cent,[],2009,,,0,[]
+48,If I Were a Boy,Beyoncé,[],2009,e1530a79-6b82-437d-93da-2a989644a9d7,859d0860-d480-4efd-970c-c05d5f1776b8,287000,"['pop', 'rnb', 'soul']"
+49,Turnin Me On,Keri Hilson & Lil Wayne,[],2009,4b3dd800-62d3-4f9e-9ed1-85ece2827886,b76c616a-ec0d-4f0c-b986-f249c4a04d77,240000,[]
+50,I Hate This Part,Pussycat Dolls,[],2009,,1fda852b-92e9-4562-82fa-c52820a77b23,218000,[]
+51,Gotta Be Somebody,Nickelback,[],2009,1730abd6-e5bd-3757-bd00-dafa28e4eb5a,bc710bcf-8815-42cf-bad2-3f1d12246aeb,253000,[]
+52,Please Don't Leave Me,Pink,[],2009,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,232000,[]
+53,Paparazzi,Lady Gaga,[],2009,,650e7db6-b795-4eb5-a702-5ea2fc46c848,208000,"['pop', 'dance']"
+54,Beautiful,Akon & Colby O'Donis & Kardinal Offishall,[],2009,,,0,[]
+55,Viva la Vida,Coldplay,[],2009,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,378000,"['alternative', 'rock']"
+56,Right Now (Na Na Na),Akon,[],2009,,1138a764-2212-4d0a-b02d-0dc14df91e08,244000,"['rnb', 'hip hop', 'pop']"
+57,Battlefield,Jordin Sparks,[],2009,,5508631d-697f-4839-a669-06637e5bcb90,241000,[]
+58,Sugar,Flo Rida & Wynter,[],2009,bfbee707-f32b-3a93-87da-37b81d1812f8,4593d49a-7f67-46ba-9ec0-126bd676286f,255000,[]
+59,Miss Independent,Ne-Yo,[],2009,b4b875a9-9737-49c7-8010-5a4282f991fa,,232000,"['rnb', 'pop']"
+60,Fireflies,Owl City,[],2009,,ad279295-653f-42e1-9aaa-b731df2e78ba,228000,"['electronic', 'pop']"
+61,New Divide,Linkin Park,[],2009,e29254d2-fd00-4d42-8085-b9a0fb4aa525,f59c5520-5f46-4d2c-b2c4-822eabf53419,268000,"['rock', 'alternative']"
+62,Empire State of Mind,Jay-Z & Alicia Keys,[],2009,,,275000,[]
+63,No Surprise,Daughtry,[],2009,71ca0e77-5bfe-4d5c-b5ec-5fd47e436184,21e3292e-dac8-4609-b57d-402f926aa41f,270000,[]
+64,She Wolf,Shakira,[],2009,,bf24ca37-25f4-4e34-9aec-460b94364cfc,188000,"['pop', 'dance']"
+65,Break Up,Mario & Gucci Mane & Sean Garrett,[],2009,,,0,[]
+66,Sweet Dreams,Beyoncé,[],2009,8af67b29-c2ab-3048-8c36-442cba2e3ab9,859d0860-d480-4efd-970c-c05d5f1776b8,60000,"['pop', 'rnb', 'dance']"
+67,Every Girl,Young Money,[],2009,d9c32ca1-5cda-4366-a64d-1f47789969ba,3ba45541-87be-4631-896b-d148b7f70f00,163000,[]
+68,Fallin' for You,Colbie Caillat,[],2009,03c64bb4-578b-4581-b45c-67f84672e010,efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9,216000,[]
+69,Untouched,The Veronicas,[],2009,,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,202000,"['pop', 'dance']"
+70,If Today Was Your Last Day,Nickelback,[],2009,8d4ea1eb-05be-422c-ab0e-871128cde1b5,bc710bcf-8815-42cf-bad2-3f1d12246aeb,248000,[]
+71,Throw It in the Bag,Fabolous & The-Dream,[],2009,08de3e21-dabf-3a49-8def-85e665e67fb5,d2299099-e617-46dd-b013-ba0b4c72bc63,231000,[]
+72,Love Drunk,Boys Like Girls,[],2009,0b6217ad-a9fa-3a68-9bc4-55408304a595,d6e65033-b56a-49df-8744-6fc3ffd75edd,226000,[]
+73,I Love College,Asher Roth,[],2009,0c925ea6-6e49-3b45-bc8a-7bd13dd9bf64,c7d35b71-961e-4713-b65d-35a98591204a,242000,[]
+74,If U Seek Amy,Britney Spears,[],2009,0b2dcb93-1dbb-3b7f-badc-7059010f7e82,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,217000,"['pop', 'dance']"
+75,Big Green Tractor,Jason Aldean,[],2009,09630f19-8e55-3799-9170-c6577c4382b3,f24df11a-7e35-4979-a4db-a3b2a170ce27,204000,[]
+76,White Horse,Taylor Swift,[],2009,c46a220b-32be-4094-b38c-78b84d76ec0a,20244d07-534f-4eff-b4d4-930878889970,202000,[]
+77,Disturbia,Rihanna,[],2009,,73e5e69d-3554-40d8-8516-00cb38737a1c,169000,"['pop', 'dance', 'rnb']"
+78,21 Guns,Green Day,[],2009,900a284b-1f91-3b1c-a21f-b9ded8413af7,084308bd-1654-436f-ba03-df6697104e19,320000,"['rock', 'punk']"
+79,Turn My Swag On,Soulja Boy Tell 'Em,[],2009,1bca6133-aefb-4192-8f04-4d12956f4e85,29eead4d-3793-4625-8727-c03edbb38b8b,118000,[]
+80,Rockin' That Thang,The-Dream,[],2009,5d9b67fa-fa3c-499f-bc64-063d9b8b5c1a,,222000,[]
+81,Chicken Fried,Zac Brown Band,[],2009,,507226f4-0842-4f43-950e-81a7017230ec,237000,[]
+82,Diva,Beyoncé,[],2009,a25a97cb-8db5-4595-8894-210c1c179f03,859d0860-d480-4efd-970c-c05d5f1776b8,200000,"['rnb', 'pop']"
+83,Replay,Iyaz,[],2009,,3bf30073-ce4e-4207-88d2-ad83677b0387,182000,['pop']
+84,Then,Brad Paisley,[],2009,13480fb1-7618-3c3c-9170-f67761a8bc65,6cfd7ffc-824f-4219-8e27-4b9417700f44,254000,[]
+85,Her Diamonds,Rob Thomas,[],2009,fbf3b45e-f04d-32d3-bb2c-423406b3cbee,e42680f7-e439-4666-9c2c-536c2b3c6db3,281000,[]
+86,How Do You Sleep?,Jesse McCartney & Ludacris,[],2009,,9d075d6e-9492-4343-ac95-93a808f61477,197000,[]
+87,3,Britney Spears,[],2009,12a1f4b6-21d4-3832-b6cb-bf95442959b9,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,205000,[]
+88,Forever,Drake & Kanye West & Lil Wayne & Eminem,[],2009,,,0,[]
+89,One Time,Justin Bieber,[],2009,0345a257-7ca9-3507-989d-4fec79b0dd51,e0140a67-e4d1-4f13-8a01-364355bee46e,214000,"['pop', 'rnb']"
+90,I Run to You,Lady Antebellum,[],2009,e5edf66a-a179-333b-ab43-f7c89432ca5d,,257000,[]
+91,I Do Not Hook Up,Kelly Clarkson,[],2009,1222d40e-0b92-383b-bde7-b27a2353e72c,d339efbb-77b9-4147-ba9e-59f2f24550b2,200000,[]
+92,Green Light,John Legend & André 3000,[],2009,111c99df-ea93-4251-9e08-8fa5c9f18164,,286000,[]
+93,People Are Crazy,Billy Currington,[],2009,1a76f0ac-fb83-4d3d-8a20-fce0b4bbe090,dbf94c49-0dd9-4f72-85d5-f548beb453f6,232000,[]
+94,Whatever It Is,Zac Brown Band,[],2009,b451273d-ade6-4823-8ce8-7dd9dad5f284,507226f4-0842-4f43-950e-81a7017230ec,209000,[]
+95,Already Gone,Kelly Clarkson,[],2009,bb49dae3-6e6f-389a-8aba-e707347b5926,d339efbb-77b9-4147-ba9e-59f2f24550b2,268000,[]
+96,Goodbye,Kristinia DeBarge,[],2009,eae8e4dc-58a6-3e47-bbff-2508088b469e,685c876c-1b1c-4ebf-9244-b5254a4297b0,208000,[]
+97,Say Hey (I Love You),Michael Franti & Spearhead & Cherine Anderson,[],2009,0c2bf8cb-4f5c-32fd-9029-e089d6d77bec,e23eac42-f904-47da-8599-823ff431bea4,219000,[]
+98,Pop Champagne,Jim Jones & Ron Browz & Juelz Santana,[],2009,,,0,[]
+99,Pretty Wings,Maxwell,[],2009,6d330474-ed1c-4944-9430-ff1286fe9ccd,d252cca8-8214-43e5-b81a-101eb4a1447e,255000,[]
+100,Never Say Never,The Fray,[],2009,7a2dd0c6-79c2-4bd7-b92a-2b04ef3a4410,2ddd167f-5b8a-4372-b350-6ad50493bac0,258000,[]

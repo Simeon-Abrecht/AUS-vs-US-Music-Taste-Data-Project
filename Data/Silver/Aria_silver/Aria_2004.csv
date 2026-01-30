@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,What About Me,Shannon Noll,[],2004,595f544c-a0b0-4980-a0e1-cc0733f812fc,5b07a1d0-9dc7-410c-a3f8-0b7cb159b852,201000,[]
+2,Left Outside Alone,Anastacia,[],2004,,d3b2bec4-b70e-460e-b433-a865ceac2de8,234000,[]
+3,Black Betty,Spiderbait,[],2004,7cda1041-eab5-48c9-8e6d-47efa0f88417,6f0c596e-c5e6-4bae-87c2-4c69cb3d4067,207000,[]
+4,Milkshake,Kelis,[],2004,4b993f53-43e0-448a-8db2-882720505f63,1239d1bc-cc09-43e0-bcd0-374f60346138,184000,"['rnb', 'pop', 'dance']"
+5,F**k It (I Don't Want You Back),Eamon,[],2004,9ae88819-34d4-4584-9b40-d234f83f41b6,d791111a-9fcc-4ebe-bb16-b785719a642b,225000,[]
+6,Superstar,Jamelia,[],2004,,de07bdca-5e3d-4f27-a9db-e396141eac66,214000,[]
+7,My Immortal,Evanescence,[],2004,,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,264000,['rock']
+8,These Kids,Joel Turner & The Modern Day Poets,[],2004,4bf38115-0c69-4e0b-a2f7-f9ef90e2a3f4,98bf9373-7eb4-46b3-bbf8-ddb80e47c537,239000,[]
+9,Shut Up,Black Eyed Peas,[],2004,,d5be5333-4171-427e-8e12-732087c6b78e,225000,[]
+10,Suga Suga,Baby Bash,['Frankie J'],2004,,1fe6717a-73b5-4e70-82c5-6b83a08c997d,239000,"['rnb', 'hip hop']"
+11,My Band,D12,[],2004,11ee8f63-39e2-3fa6-bbd8-63e163b2446c,9ab19acf-06d9-4c92-bd5a-8c945488d45b,298000,"['rap', 'hip hop']"
+12,Behind Blue Eyes,Limp Bizkit,[],2004,,8f9d6bb2-dba4-4cca-9967-cc02b9f4820c,270000,"['rock', 'alternative']"
+13,She Will Be Loved,Maroon 5,[],2004,87980cb6-7052-40df-a018-15360d571db0,0ab49580-c84f-44d4-875f-d83760ea2cfe,257000,"['pop', 'rock', 'alternative']"
+14,With You,Jessica Simpson,[],2004,fbe92c82-0015-44fd-8fca-1d50eebfc40c,fe37acd4-893c-4b2c-8ad2-7fd394280354,192000,[]
+15,Hey Ya!,Outkast,[],2004,7061f60c-d5fe-4a8a-a172-c458b904aa9e,73fdb566-a9b1-494c-9f32-51768ec9fd27,225000,"['funk', 'dance', 'pop', 'hip hop']"
+16,I Don't Wanna Know,Mario Winans,"['Enya', 'P. Diddy']",2004,378b2d53-5451-4ab4-af16-0d198b06df79,5028a04d-c3b5-428d-9c88-433224bb10ba,229000,[]
+17,Angel Eyes,Paulini,[],2004,08f3c68e-c493-3bfc-9160-fe505dd12438,a58e89ba-f5ed-4a72-9e53-cd88bae7128c,0,[]
+18,Here Without You,3 Doors Down,[],2004,376f0fb3-1da4-42c5-bbcb-91d62d0cb78d,2386cd66-e923-4e8e-bf14-2eebe2e9b973,237000,"['rock', 'alternative']"
+19,Four to the Floor,Starsailor,[],2004,,fbd86487-ccb5-4a57-a860-cc3d360b5115,274000,[]
+20,Out of the Blue,Delta Goodrem,[],2004,8ae365c6-2257-4151-8a6e-1fc565e7e556,8c5755b4-2de6-4158-bca9-e354cbf07437,253000,[]
+21,So Beautiful,Pete Murray,[],2004,1fd7c601-af7a-438e-820c-b5a7ced48f64,a683a4b1-e863-4183-84ce-dcb63cca4ed9,279000,[]
+22,Scar,Missy Higgins,[],2004,09114920-7bfa-3e67-922b-b49f1e7fec5a,3ac2a4a2-52b3-498b-bbc8-31443c68dfe0,213000,[]
+23,Leave (Get Out),JoJo,[],2004,,ed29398b-bbf3-42a0-8eff-8631509c271d,241000,[]
+24,Broken,Seether,['Amy Lee'],2004,0fa76c46-a508-4e57-96b1-c3735a1d188d,fbcd7b29-455f-49e6-9c4f-8249d20a055e,257000,"['rock', 'alternative']"
+25,Listen With Your Heart,Casey Donovan,[],2004,fee47eb6-cbcc-4718-8fff-a92f6159e575,e374a1ba-aa51-4492-b175-1977999165cb,241000,[]
+26,What You Waiting For?,Gwen Stefani,[],2004,,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,222000,"['pop', 'dance', 'rock']"
+27,F. U. Right Back,Frankee,[],2004,d3e9be39-01a0-4a43-9d0b-fde5b52b9593,a278331c-1b22-4ebd-b93f-4408bd96f9b8,198000,[]
+28,Yeah!,Usher,"['Lil Jon', 'Ludacris']",2004,0d1faf7e-39f1-45d4-bf2d-f702ede3dd04,3414d446-735a-443c-931f-10634f57e5b9,281000,[]
+29,Turn Me On,Kevin Lyttle,[],2004,5cf51bea-b370-4887-85ca-362064f18cd6,94cb9444-aa8e-43cf-9816-839d90023a44,192000,[]
+30,Predictable,Delta Goodrem,[],2004,003059b9-dc14-4c59-b49b-c59833354c4a,8c5755b4-2de6-4158-bca9-e354cbf07437,219000,[]
+31,Burn,Usher,[],2004,5203599c-b061-31d4-a791-6e69c120a59e,3414d446-735a-443c-931f-10634f57e5b9,249000,"['rnb', 'soul']"
+32,Perfect,Simple Plan,[],2004,e653c1ef-9f7f-4207-a687-321fc9c1977c,b345af35-205e-4eca-8006-029e5c20127e,278000,[]
+33,Trick Me,Kelis,[],2004,7dd6febb-772e-41e6-900a-438c16a69e67,1239d1bc-cc09-43e0-bcd0-374f60346138,206000,[]
+34,Drive,Shannon Noll,[],2004,edfb619b-aa06-3a02-89f9-9cd2e90036dd,5b07a1d0-9dc7-410c-a3f8-0b7cb159b852,238000,[]
+35,Tipsy,J-Kwon,[],2004,3d1bd52e-6bbc-41b4-94e1-fa582fd65019,,61000,[]
+36,Just Lose It,Eminem,[],2004,4703530f-15b4-4be8-a926-d7080b8be20c,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,238000,[]
+37,When the War is Over,Cosima,[],2004,2e11877a-7056-4193-838d-71f7c71bbcb2,e150ad6e-a030-4f76-ab1c-c275fba51422,226000,[]
+38,Toxic,Britney Spears,[],2004,1c70be4a-6bca-40f6-9911-4911f70f73ad,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,200000,"['pop', 'dance']"
+39,One Call Away,Chingy,['J. Weav'],2004,fbcc6152-eae8-4e06-8fa8-bfa05019a95e,2c311e1d-5da3-4ffb-a46e-572981b5849f,257000,[]
+40,My Place,Nelly,[],2004,8dc022d9-a8df-40fc-95a5-68b611aea571,811900b2-68fc-4d41-8bad-69b7a1f4d628,272000,[]
+41,Roses,Outkast,[],2004,817a4f47-9355-3db5-b3b3-b5162dba91ec,73fdb566-a9b1-494c-9f32-51768ec9fd27,253000,"['hip hop', 'funk', 'rap']"
+42,Hey Mama,Black Eyed Peas,[],2004,f9076ec3-eb0d-45b4-a043-7cfb8bb68cab,d5be5333-4171-427e-8e12-732087c6b78e,214000,[]
+43,Lose My Breath,Destiny's Child,[],2004,aa5408a3-bbdf-4f88-83d6-da0a4a261bdb,,238000,"['rnb', 'pop', 'dance']"
+44,Let's Get it Started,Black Eyed Peas,[],2004,81bde69d-777d-453f-8ab4-148a485fc749,d5be5333-4171-427e-8e12-732087c6b78e,219000,[]
+45,Be Faithful,Fatman Scoop,['The Crooklyn Clan'],2004,022b99ab-6312-3c60-9b43-76ed7390f623,d3d20e96-5783-4126-9d64-075566611c5e,165000,[]
+46,Call on Me,Eric Prydz,[],2004,469084a3-493f-385a-b31f-1278a6f36456,35dac7d2-0b1f-470f-9a5a-c53c8821f6d6,159000,[]
+47,All I Need is You,Guy Sebastian,[],2004,bca2a9cf-1820-39aa-8d7f-fe448e7905b7,f116b984-45ae-49d0-9445-efc5a61458a1,244000,[]
+48,Car Wash,Christina Aguilera,['Missy Elliott'],2004,17315ed8-c32f-3ed7-8a20-85ae58bb6c9b,b202beb7-99bd-47e7-8b72-195c8d72ebdd,0,[]
+49,These Words,Natasha Bedingfield,[],2004,,8b477559-946e-4ef2-9fe1-446cff8fdd79,216000,[]
+50,Thank You,Jamelia,[],2004,87c4ec88-2588-423d-81e9-c71ca9d405ae,de07bdca-5e3d-4f27-a9db-e396141eac66,193000,[]
+51,Sick and Tired,Anastacia,[],2004,021a4868-87eb-442c-9498-d49bfe38d41a,d3b2bec4-b70e-460e-b433-a865ceac2de8,210000,[]
+52,Push Up,Freestylers,[],2004,34e39610-5b9c-47ab-935e-e94b7330d8ad,60dd8303-5ee8-4c99-a19c-009e07c17aeb,235000,[]
+53,Somebody to Love,Boogie Pimps,[],2004,2fdbdd4b-4dfb-3703-90f1-7d7c6970a4bd,696d8523-39a0-44e2-9add-afaa183a2f46,177000,[]
+54,Pieces of Me,Ashlee Simpson,[],2004,eed35d20-bd7c-456e-b494-a9952ec61ef0,463c514e-c30d-4a2a-a87b-762535253a80,218000,[]
+55,What Chu Want,J-Wess,[],2004,,,227000,[]
+56,When You Say You Love Me,Human Nature,[],2004,a1f05274-dfec-4192-885b-7dbf12c16aef,414aad23-bd28-443d-9f7f-1b05892cdb47,241000,[]
+57,American Idiot,Green Day,[],2004,7e902b3a-5545-3daf-b932-41e840acfb87,084308bd-1654-436f-ba03-df6697104e19,174000,"['rock', 'punk', 'alternative']"
+58,The Reason,Hoobastank,[],2004,,2fa0d3ac-b64c-401a-b0a1-4915ba6cc157,233000,"['rock', 'alternative', 'pop']"
+59,Naughty Girl,Beyonce,[],2004,f848422b-bd77-4515-9442-df7135748ad5,859d0860-d480-4efd-970c-c05d5f1776b8,208000,"['rnb', 'pop']"
+60,This Love,Maroon 5,[],2004,,0ab49580-c84f-44d4-875f-d83760ea2cfe,206000,"['pop', 'rock', 'alternative']"
+61,Summer Rain,Slinkee Minx,[],2004,0d795b88-8210-4231-b69f-accccee15502,1629b007-393a-4611-9e51-60502672d53a,254000,[]
+62,My Happy Ending,Avril Lavigne,[],2004,0e10789e-6103-4693-a379-72d013519f12,0103c1cc-4a09-4a5d-a344-56ad99a77193,242000,"['rock', 'pop']"
+63,Figured You Out,Nickelback,[],2004,5d789be8-fedf-4ddb-a429-0977731fb9ab,bc710bcf-8815-42cf-bad2-3f1d12246aeb,228000,[]
+64,Not in Love,Enrique Iglesias,['Kelis'],2004,d8b3e967-bb81-4059-97d9-0e77f262f308,35f866dc-c061-48ba-8157-cf2e0eac4857,246000,[]
+65,Baby Boy,Big Brovaz,[],2004,72d81a81-7b62-46d5-b264-22a9b6842c07,49174736-2f92-48a1-841b-dff2ed74b835,198000,[]
+66,The Way You Move,Outkast,['Sleepy Brown'],2004,f47cc792-4654-490d-82ab-cfdb79c81215,73fdb566-a9b1-494c-9f32-51768ec9fd27,189000,[]
+67,How Come,D12,[],2004,290e14ff-a558-3ba4-89d3-914d260aa0cd,9ab19acf-06d9-4c92-bd5a-8c945488d45b,249000,[]
+68,Learn to Fly,Shannon Noll,[],2004,650ad37d-04cd-3336-9636-748ac585e581,5b07a1d0-9dc7-410c-a3f8-0b7cb159b852,249000,[]
+69,Out With My Baby,Guy Sebastian,[],2004,acdeb1ad-53da-4462-845a-1db86a224e06,f116b984-45ae-49d0-9445-efc5a61458a1,218000,[]
+70,I Like That,Houston,"['Chingy', 'Nate Dogg', 'I-20']",2004,50e9aeb0-7f65-32bd-9e37-46ff8b7c2ee1,48e9625c-5728-4441-8102-f93bbd573384,238000,[]
+71,Holidae In,Chingy,"['Ludacris', 'Snoop Dogg']",2004,1b2b8aca-fbb0-3b57-8fa7-302e069fa68f,2c311e1d-5da3-4ffb-a46e-572981b5849f,269000,[]
+72,Everytime,Britney Spears,[],2004,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,222000,[]
+73,Am I Ever Gonna See the Biff Again,Reg Reagan and The Knucklemen,[],2004,,,196000,[]
+74,I Miss You,Blink-182,[],2004,,,227000,"['rock', 'alternative', 'punk']"
+75,Sway,Michael Buble,[],2004,e8bfb748-771c-44bc-a5ca-5896c5a0ccce,611700cf-27f0-4dc9-ae80-c513a767853e,341000,['jazz']
+76,Welcome to My Life,Simple Plan,[],2004,a49a6ede-a1af-468c-a0c7-e995db013e09,b345af35-205e-4eca-8006-029e5c20127e,203000,[]
+77,Not Many - The Remix!,Scribe,[],2004,61e2af17-9928-49ee-a726-a2db36442ddd,ff289756-b5c6-4e0c-a183-c098cb8cbf23,225000,[]
+78,Accidentally in Love,Counting Crows,[],2004,2832ce9f-70cc-330f-b2b8-ee47ff22634a,a0327dc2-dc76-44d5-aec6-47cd2dff1469,189000,[]
+79,Amazing,George Michael,[],2004,927cb12c-a371-499d-8741-3801c2d59931,ccb8f30e-4d71-40c4-8b1d-846dafe73e2c,265000,[]
+80,Take Me to the Clouds Above,LMC vs. U2,[],2004,a8b759ab-42d1-473b-9c31-d1ce048b8972,,169000,[]
+81,It's My Life,No Doubt,[],2004,3888b464-d8e6-4304-8e2e-719dca7eb4a8,fbd2a255-1d57-4d31-ac11-65b671c19958,226000,"['pop', 'rock', 'alternative']"
+82,The Prayer,Anthony Callea,[],2004,0d2c0f7d-c38b-4ad9-8fbc-e86f146647cd,d915a89a-a4ec-4dc0-8ce6-c234581cb3e9,254000,[]
+83,Pop!ular,Darren Hayes,[],2004,485cccc4-0ead-3340-86f1-cc0637d24e6a,ec21de7d-2288-4640-a015-edecf6ac147f,233000,[]
+84,Bounce,Sarah Connor,[],2004,598147a6-2471-3f7b-8210-87920d7152bd,9293fc79-e77c-4ee6-a092-61df10ca47ea,221000,[]
+85,I Believe,Fantasia,[],2004,53a71161-81c1-3b51-b39c-4e39e704afa9,4a5d70ad-89c8-47a1-afb2-4cc26471e113,298000,[]
+86,Tilt Ya Head Back,Nelly and Christina Aguilera,[],2004,0c207d4c-3bef-3883-a568-c8e40a23ec69,811900b2-68fc-4d41-8bad-69b7a1f4d628,211000,[]
+87,Confessions Part II,Usher,[],2004,4ebf14fc-c64b-4a96-9c69-e1bac81f4f7c,3414d446-735a-443c-931f-10634f57e5b9,228000,[]
+88,Ms. Vanity,Rob Mills,[],2004,d807e935-f619-47a3-a2b4-8c3fc6a35601,5157fafe-2bee-4431-a769-051f14bae4a8,225000,[]
+89,Look What You've Done,Jet,[],2004,416039a0-a751-4446-8465-148ca0a75766,4efa55ba-93cf-497f-baf3-2ca9da7e193e,231000,[]
+90,In the Shadows,The Rasmus,[],2004,579c36a0-87fb-4c15-a354-48aa5e2bcaef,012e3432-71d3-4317-9ce5-b60cb6cdc38f,250000,"['rock', 'alternative']"
+91,Breakaway,Kelly Clarkson,[],2004,,d339efbb-77b9-4147-ba9e-59f2f24550b2,237000,"['pop', 'rock']"
+92,The Trouble With Love Is,Kelly Clarkson,[],2004,c6d290d3-8d0f-4557-9590-3bc8c873ca70,d339efbb-77b9-4147-ba9e-59f2f24550b2,221000,[]
+93,My Prerogative,Britney Spears,[],2004,7488f4cd-eba4-4242-a036-9a28950c1f31,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,213000,[]
+94,She Wants to Move,N*E*R*D,[],2004,,3fb49f5a-fdc0-4789-9c84-22b38b3f3cb5,215000,[]
+95,Me Against the Music,Britney Spears,['Madonna'],2004,0c4054b5-e5ed-4e77-84ac-2fb480fc1a24,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,221000,[]
+96,It's Too Late,Evermore,[],2004,1846f14e-99ec-4f12-b35f-ae4454df314a,174b0914-d1f5-4553-a8a7-e55c9da6320b,236000,[]
+97,Zebra,John Butler Trio,[],2004,11f34b61-c1a1-3638-96e6-bc70574b88c5,,237000,[]
+98,Don't Tell Me,Avril Lavigne,[],2004,67641b6e-01ec-3217-b226-50453ff300e7,0103c1cc-4a09-4a5d-a344-56ad99a77193,203000,[]
+99,Take My Breath Away,Jessica Simpson,[],2004,1d7eb8ea-4fee-45ea-a24d-da0c443ff334,fe37acd4-893c-4b2c-8ad2-7fd394280354,195000,[]
+100,I Am,Killing Heidi,[],2004,28784b52-ed53-49eb-893c-05650ce5862a,2e9ccc4a-f1d4-48a6-9112-10ca6c7750af,206000,[]

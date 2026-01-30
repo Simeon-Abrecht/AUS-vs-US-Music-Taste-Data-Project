@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Can't Fight the Moonlight,LeAnn Rimes,[],2001,,9092d8e1-9b38-4372-a96d-000b8561a8bc,215000,[]
+2,It Wasn't Me,Shaggy,['Rik Rok'],2001,,fc63d806-ca89-4ea3-a404-ee6de695743f,227000,"['reggae', 'pop', 'rnb']"
+3,Can't Get You Out of My Head,Kylie Minogue,[],2001,0fbf2dda-2681-43b6-b0eb-33b1385bd0bb,2fddb92d-24b2-46a5-bf28-3aed46f4684c,230000,"['pop', 'dance']"
+4,Angel,Shaggy,['Rayvon'],2001,43a90ecc-aca6-3ed2-9c78-e5634ed5c040,fc63d806-ca89-4ea3-a404-ee6de695743f,234000,"['reggae', 'pop', 'rnb']"
+5,Hanging By a Moment,Lifehouse,[],2001,7d5e3bdd-b0b1-47c4-9fb2-877a683f210c,04591295-6d94-45cb-b6c7-1ae17c6f380e,216000,[]
+6,Stan,Eminem,[],2001,67801b02-2d2d-3375-ba4b-88e0a58fbb09,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,404000,"['rap', 'hip hop']"
+7,I'm Like a Bird,Nelly Furtado,[],2001,,13655113-cd16-4b43-9dca-cadbbf26ee05,243000,"['pop', 'folk']"
+8,Smooth Criminal,Alien Ant Farm,[],2001,570ae315-a684-4095-bdf9-5fc14a4ea276,8ac6cc32-8ddf-43b1-9ac4-4b04f9053176,208000,"['rock', 'alternative']"
+9,Can We Fix It?,Bob the Builder,[],2001,0044f5ae-9291-3832-a115-a12924f7970f,64c0f4c6-6099-4f01-910a-b0ae0a0b483f,187000,[]
+10,Whole Again,Atomic Kitten,[],2001,eb0a4e6e-2e9d-470d-8188-53607194860d,6fda00c2-449a-4bf4-838f-038d41a07c73,186000,[]
+11,Case of the Ex,Mya,[],2001,6f9e579f-be4a-3cf7-aaae-eda9c2b240df,7c5e39c3-7645-4e37-968d-a4e45cd38c5d,236000,[]
+12,Butterfly,Crazy Town,[],2001,,8996b655-fbad-4018-b430-1bd8fab43235,216000,"['rock', 'alternative']"
+13,Lady Marmalade,Christina Aguilera & Lil' Kim & Mya & Pink,[],2001,3847bda4-ae12-43ce-8158-31b2e4d1a847,b202beb7-99bd-47e7-8b72-195c8d72ebdd,267000,[]
+14,Because I Got High,Afroman,[],2001,915dbb48-7932-4280-87d8-21c8bcd86095,8c332797-2784-45a7-9b5c-3b86f07a03de,310000,[]
+15,"Me, Myself \& I",Scandal'us,[],2001,,,,[]
+16,Don't Stop Movin',S Club 7,[],2001,,,231000,[]
+17,Ms. Jackson,Outkast,[],2001,82b8d2a4-d4fa-4dfa-9680-4961b618e818,73fdb566-a9b1-494c-9f32-51768ec9fd27,272000,"['rap', 'hip hop']"
+18,How You Remind Me,Nickelback,[],2001,2d9c236f-0b75-4e5c-8227-2a7991ee77a2,bc710bcf-8815-42cf-bad2-3f1d12246aeb,223000,"['rock', 'alternative']"
+19,Let's Get Married,Jagged Edge,[],2001,,8b4d99eb-7a54-4648-b299-8e1564d11385,264000,[]
+20,With Arms Wide Open,Creed,[],2001,7b27661d-72a8-39ef-807b-569de23d0e73,4b1a830b-0a1f-42e5-b8d5-1d6743912e99,275000,"['rock', 'alternative']"
+21,Strawberry Kisses,Nikki Webster,[],2001,e96286c9-8273-330d-a599-b637d4544398,998d8276-5668-412f-87b7-e68e63e70556,213000,[]
+22,All Rise,Blue,[],2001,,9c79224c-70cd-4367-8d90-35ca99401b75,222000,[]
+23,Drops of Jupiter (Tell Me),Train,[],2001,,bfd5aec5-62a2-4560-a316-7c46c17babda,260000,"['rock', 'alternative', 'pop']"
+24,Let Me Blow Ya Mind,Eve,['Gwen Stefani'],2001,c2d0b51c-90c7-455d-976d-5716bccabc38,1ac10f5e-2079-4435-b78f-dda6ecdeba15,230000,"['rap', 'rnb', 'hip hop']"
+25,Operation Blade (Bass in the Place London...),Public Domain,[],2001,fc4d1e68-b96f-4f0f-9541-6548fcb47f8e,ad9a9132-70f9-4697-b55e-e6fd7d6863a5,182000,[]
+26,Mambo No.5,Bob the Builder,[],2001,88f89e61-99d3-4e6d-a3ae-ddc7e43de030,64c0f4c6-6099-4f01-910a-b0ae0a0b483f,192000,[]
+27,Cruisin,Gwyneth Paltrow and Huey Lewis,[],2001,,,0,[]
+28,Teenage Dirtbag,Wheatus,[],2001,780da202-d1d3-4e5e-a7bf-28b96eabaf1a,741a2892-1c5d-402f-a769-2096356c77d7,242000,"['rock', 'alternative', 'pop']"
+29,What Would You Do?,City High,[],2001,891087f2-5e2d-4d16-bdbd-a77ac7873b84,3fd61726-7d1c-4bdd-92c9-ac82c3a7aab3,176000,[]
+30,Walking Away,Craig David,[],2001,61f6a2f2-c402-38c5-8943-ea94ac82466d,89e39f67-65cc-4f90-b145-b1b56c209f8a,206000,[]
+31,Dance With Me,Debelah Morgan,[],2001,,d9ea1d27-8971-4fae-94ca-a557deb8e2b5,220000,[]
+32,Free,Mya,[],2001,17df5cad-cd5e-4601-bfaa-c13cdfa7f1de,7c5e39c3-7645-4e37-968d-a4e45cd38c5d,318000,[]
+33,Yellow,Coldplay,[],2001,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,269000,"['rock', 'alternative']"
+34,It's Raining Men,Geri Halliwell,[],2001,,23207c32-6743-4982-9f46-e297b2e4eb14,254000,[]
+35,Bette Davis Eyes,Gwyneth Paltrow,[],2001,a96ed243-522d-43b6-bf7f-e377989b6221,dc71c08e-3ee5-409d-ae0d-f4fd9050e170,258000,[]
+36,I'm a Believer,Smash Mouth,[],2001,877471bd-a404-49f9-90b9-51774a6ef7d9,944e1036-8a03-4611-8aa0-31515a05c848,183000,[]
+37,Out of Reach,Gabrielle,[],2001,,d55fe7ec-3c7f-44e7-b9cc-b025c4351f70,196000,[]
+38,Turn Off the Light,Nelly Furtado,[],2001,,13655113-cd16-4b43-9dca-cadbbf26ee05,276000,[]
+39,Bow Wow (That's My Name),Lil' Bow Wow,[],2001,4bc06b04-534e-4bf5-94e5-305d0ea35f4e,6fd44ae7-097d-4979-94ba-5dfc40d9f7ad,204000,[]
+40,Ride Wit Me,Nelly,['City Spud'],2001,,811900b2-68fc-4d41-8bad-69b7a1f4d628,65000,"['hip hop', 'rap', 'rnb']"
+41,Kryptonite,3 Doors Down,[],2001,,2386cd66-e923-4e8e-bf14-2eebe2e9b973,234000,"['rock', 'alternative']"
+42,One Step Closer,Linkin Park,[],2001,,f59c5520-5f46-4d2c-b2c4-822eabf53419,161000,"['rock', 'alternative']"
+43,Miss California,Dante Thomas,['Pras'],2001,a5e01e77-31a0-4082-aaa1-cdfd3c88ec4d,7d48da7e-5eee-45df-8e89-dfaee2af82c4,266000,[]
+44,Uptown Girl,Westlife,[],2001,,5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc,190000,[]
+45,Rollin',Limp Bizkit,[],2001,6b952fcd-1042-458a-ae24-1abb4fdcf2e3,8f9d6bb2-dba4-4cca-9967-cc02b9f4820c,215000,[]
+46,You All Dat,Baha Men,[],2001,148979a8-65f6-365b-9b32-37d8b722539a,00f82af1-6537-4d4b-9e03-103fffe19999,212000,[]
+47,U Remind Me,Usher,[],2001,4d4bd21c-864f-4fca-9174-93a9e6577ad8,3414d446-735a-443c-931f-10634f57e5b9,267000,[]
+48,Purple Pills,D12,[],2001,1cd2bd33-37ca-4e95-a55c-a26e699ccdf0,9ab19acf-06d9-4c92-bd5a-8c945488d45b,304000,[]
+49,Follow Me,Uncle Kracker,[],2001,,1a02e1e4-000e-46fa-83de-f3a36674e4fc,215000,[]
+50,Bootylicious,Destiny's Child,[],2001,,,208000,[]
+51,"Luv Me, Luv Me",Shaggy,[],2001,109faf17-051c-44fc-b83f-df638e169193,fc63d806-ca89-4ea3-a404-ee6de695743f,233000,[]
+52,Fallin',Alicia Keys,[],2001,,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,210000,"['soul', 'rnb', 'pop']"
+53,I'm Real,Jennifer Lopez,[],2001,6d388c8a-3f1c-471c-9161-dd2fe5b95df4,f0602f55-1770-483d-89bd-4bae0d0ac086,297000,[]
+54,Hit 'em Up Style (Oops!),Blu Cantrell,[],2001,721d364e-ff10-4940-bb20-d92f8402716b,f28cabfc-3cf5-4886-b832-36ab708fbb0a,237000,"['rnb', 'pop', 'soul']"
+55,Survivor,Destiny's Child,[],2001,0127eb15-dc54-4030-9b0e-af1e10e6960c,,241000,[]
+56,All for You,Janet Jackson,[],2001,321fb09a-2ebd-388c-988e-0ac323748657,6be2828f-6c0d-4059-99d4-fa18acf1a296,329000,[]
+57,Independent Women Part I,Destiny's Child,[],2001,,,221000,[]
+58,7 Days,Craig David,[],2001,,89e39f67-65cc-4f90-b145-b1b56c209f8a,235000,[]
+59,I Need Somebody,Bardot,[],2001,1517f118-2290-3e52-80f6-dbe5f9192ef9,040d07e9-b61a-4952-a81e-db05118ac819,208000,[]
+60,One More Time,Daft Punk,[],2001,6636ebb2-9d1d-4f35-a8d0-0663c50d49af,056e4f3e-d505-4dad-8ec1-d04f521cbb56,236000,"['electronic', 'dance', 'house', 'techno']"
+61,Love Don't Cost a Thing,Jennifer Lopez,[],2001,7e4623ee-d9fc-442b-9df5-01e098e3ed8f,f0602f55-1770-483d-89bd-4bae0d0ac086,222000,[]
+62,E.I.,Nelly,[],2001,17dbbbb4-a1b7-3fd3-a773-3dac2def47bb,811900b2-68fc-4d41-8bad-69b7a1f4d628,88000,[]
+63,What Took You So Long?,Emma Bunton,[],2001,4c7ff444-6d5e-4aaf-bc62-0f53ef536481,71b03238-e53d-4e1e-9b3a-6ce1dcdf2894,241000,[]
+64,It's Over,Kurupt,[],2001,753c96a4-3e8f-46f9-b44f-60c9f770ebd2,9034f787-3e79-44fe-89c1-8a082d556eec,211000,[]
+65,Too Close,Blue,[],2001,b5a92923-04c9-4eea-a662-4a8aa71f7a15,9c79224c-70cd-4367-8d90-35ca99401b75,228000,[]
+66,Around the World (La La La La La),ATC,[],2001,4800a06f-b354-360d-ade4-e1035d3248f5,408b2a33-d229-46a5-a361-0667bc616e34,218000,[]
+67,Starlight,The Supermen Lovers,['Mani Hoffman'],2001,54762805-e087-3ee6-8250-7fc2f7ecab18,0df6d50f-7e43-4c6a-8220-61932b67c9c5,229000,[]
+68,Original Prankster,The Offspring,[],2001,3efef57e-6e47-41bc-8832-54d11eed8105,23a03e33-a603-404e-bcbf-2c00159d7067,219000,[]
+69,The Itch,Vitamin C,[],2001,20f2e755-adc6-4a77-b6e8-423bb8b6309f,73fe8b5f-3baa-41ab-b3e3-1e5f99baf84c,194000,[]
+70,Dancing in the Moonlight,Toploader,[],2001,,3bdf9667-3205-4c5b-865b-ca3bb33fc5ac,228000,"['pop', 'indie']"
+71,Amazing,Alex Lloyd,[],2001,0e3d734a-7699-3b63-bda1-f4a548cedd10,a99af284-6342-4609-952a-89b02a600615,191000,[]
+72,Hero,Enrique Iglesias,[],2001,02a88fe9-dc4c-3d3b-a0c5-66680b725b96,35f866dc-c061-48ba-8157-cf2e0eac4857,264000,[]
+73,Play,Jennifer Lopez,[],2001,6816bda9-54b8-4c16-ab69-05287b510ce5,f0602f55-1770-483d-89bd-4bae0d0ac086,279000,[]
+74,Clint Eastwood,Gorillaz,[],2001,656c3cca-8aa9-4be2-b5e4-40c004fe9da8,e21857d5-3256-4547-afb3-4b6ded592596,225000,"['alternative', 'electronic', 'rock']"
+75,In My Pocket,Mandy Moore,[],2001,7857a179-c1d7-3f86-aa3a-82de6349babe,9dc9f4b0-a7b4-43c5-8f6b-fcd43c426a4b,218000,[]
+76,Another Day in Paradise,Brandy and Ray J,[],2001,d5902805-f5fb-4ab5-a0d4-7dbb853c6fb2,,273000,[]
+77,Country Grammar (Hot...),Nelly,[],2001,8f015ecb-413c-4f03-8c6e-e17d40c0d743,811900b2-68fc-4d41-8bad-69b7a1f4d628,287000,[]
+78,Don't Tell Me,Madonna,[],2001,1880c9a8-5dc5-4478-8be8-28a9e3cf5f9b,79239441-bfd5-4981-a70c-55c3f15c1287,280000,[]
+79,Just the Thing,Paulmac,['Peta Morris'],2001,,,238000,[]
+80,Wassuup!,Da Muttz,[],2001,9cd72051-6f23-40f4-b0ae-bd7281afa861,14d66d4f-f649-42e4-8b9e-9e6f8b833a27,214000,[]
+81,Thank God I'm a Country Boy,Hampton the Hampster,[],2001,0773c60c-aa31-3f7a-b7c1-95a22e0a2623,,162000,[]
+82,Let's Dance,Five,[],2001,5617c155-4ef3-373c-9e95-c3e761ba48ef,88d6db37-0d87-4e84-a949-9cf8e8879505,216000,[]
+83,The Hampsterdance Song,Hampton the Hampster,[],2001,a7923ed3-52e6-4f10-885c-f1175164a6ea,,215000,[]
+84,What it Feels Like for a Girl,Madonna,[],2001,019a5b90-76b7-3553-820f-feb0a77ce5b2,79239441-bfd5-4981-a70c-55c3f15c1287,283000,[]
+85,Supreme,Robbie Williams,[],2001,80090fb3-d283-3eef-897a-5d7dc5bfe3ea,db4624cf-0e44-481e-a9dc-2142b833ec2f,251000,[]
+86,Sky,Sonique,[],2001,5dbd8f85-84c4-3fcc-b7f5-f74c70127bee,e8b37da4-6cb2-4641-ab53-da42f02fbdfb,240000,[]
+87,The Power,Vanessa Amorosi,[],2001,035e5f3d-6f2e-38a9-8e7e-2714b114446c,2a94bc7d-d829-4869-b18e-2672c181510b,216000,[]
+88,Again,Lenny Kravitz,[],2001,02076696-ffe7-3160-a773-e4752edc55dd,0ef3f425-9bd2-4216-9dd2-219d2fe90f1f,225000,[]
+89,Everytime You Need Me,Fragma,['Maria Rubia'],2001,4fb17188-b1b0-341c-9e2b-5570ec9470c0,ae79ff82-e327-4230-9b29-880d92634365,210000,[]
+90,No More (Baby I'ma Do Right),3LW,[],2001,38c619c2-32f4-4823-bb34-79e4d1fe6ac1,fc9d0b71-d338-43bc-b2b1-f3f6d8f75b99,263000,[]
+91,Stuck in a Moment You Can't Get Out Of,U2,[],2001,730e0467-5151-4add-a0c4-3837390f4066,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,300000,[]
+92,Drive,Incubus,[],2001,,e3e0abcd-7671-4482-a9d8-462f5acc9be5,233000,"['rock', 'alternative', 'indie']"
+93,Don't Mess With the Radio,Nivea,[],2001,6ef118a6-4eb5-360d-ba03-324f194b6ade,c6aafab4-8298-4332-a601-c89a1a4661b4,239000,[]
+94,Better Man,Robbie Williams,[],2001,050b0ffe-751d-35be-8ff0-b8f93869f0fc,db4624cf-0e44-481e-a9dc-2142b833ec2f,202000,[]
+95,Where the Party At,Jagged Edge,[],2001,cc1e71a5-6d27-4a8f-85a9-d86c51d0e031,8b4d99eb-7a54-4648-b299-8e1564d11385,235000,[]
+96,Bad Boy for Life,P. Diddy & Black Rob & Mark Curry,[],2001,,,0,[]
+97,Don't Think I'm Not,Kandi,[],2001,,888f7e18-2a96-4f2e-8320-08ff4330b442,231000,[]
+98,Family Affair,Mary J. Blige,[],2001,,db76c5ca-d555-4f09-b1db-baa1b713d875,267000,"['rnb', 'soul']"
+99,I'm a Slave 4 U,Britney Spears,[],2001,3d515284-a3df-4934-a592-27c42ab6deb8,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,200000,"['pop', 'dance']"
+100,Lovin' Each Day,Ronan Keating,[],2001,,f1cd545b-f17b-4d3a-98de-68b695bfe211,212000,[]

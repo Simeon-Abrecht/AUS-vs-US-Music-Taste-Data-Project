@@ -1,0 +1,102 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre
+1,Happy,Pharrell Williams,[],2014,,149f91ef-1287-46da-9a8e-87fee02f1471,232000,[]
+2,All About That Bass,Meghan Trainor,[],2014,759edfb8-0b3c-4d4b-9538-a4e20f21f1e3,b2029169-2574-4305-820f-252a5fde3697,188000,[]
+3,Shake it Off,Taylor Swift,[],2014,59fc5ddf-a1d9-4746-902d-71fb5a9a78c2,20244d07-534f-4eff-b4d4-930878889970,219000,['pop']
+4,Geronimo,Sheppard,[],2014,,6de0078d-89d1-4df2-897e-663cf3be2d15,218000,[]
+5,Que Sera,Justice Crew,[],2014,802ef553-3e39-4491-bb9f-d175a9d7e136,5bd06912-a77f-41ce-9be7-9134b8cf9b66,211000,[]
+6,Chandelier,Sia,[],2014,d54ad2cf-cc5b-4c8d-881d-f4685e12553c,2f548675-008d-4332-876c-108b0c7ab9c5,212000,"['pop', 'indie']"
+7,Thinking Out Loud,Ed Sheeran,[],2014,cb2cc207-8125-445c-9ef9-6ea44eee959a,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,282000,"['soul', 'pop']"
+8,Stay With Me,Sam Smith,[],2014,,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,172000,"['soul', 'pop']"
+9,Freaks,Timmy Trumpet and Savage,[],2014,0384af1d-a59d-485e-907a-bdfb25bd8c18,,196000,[]
+10,Ugly Heart,G.R.L.,[],2014,2d9ac719-67a4-4243-9333-5f7b89a28e1e,cb3fa2f4-70aa-428a-b84d-61c35e6fed14,198000,[]
+11,All of Me,John Legend,[],2014,57134d59-8a4f-4646-97ff-50671986583e,75a72702-a5ef-4513-bca5-c5b944903546,270000,"['rnb', 'pop', 'soul']"
+12,Fancy,Iggy Azalea,['Charli XCX'],2014,2c42ca62-5713-4130-b47d-1ee672098b2e,3a052c99-8c18-484a-8beb-9873b4fb3106,199000,"['rap', 'pop']"
+13,Say Something,A Great Big World & Christina Aguilera,[],2014,004ab425-f2f3-42a9-9041-3a7e33321e01,6958e806-1e14-4844-a0a7-07a27756aa0f,231000,[]
+14,Rather Be,Clean Bandit,['Jess Glynne'],2014,,dacc2d64-7e59-42a8-87a9-10c53919aff2,227000,[]
+15,Stolen Dance,Milky Chance,[],2014,bbbcc53f-388e-4984-b266-390faea0fe48,6d230d98-fb8d-4421-a6e8-daca4e55d53e,313000,"['indie', 'pop']"
+16,Am I Wrong,Nico & Vinz,[],2014,,f8e8de78-2131-4e96-8829-ba3614f48a48,245000,['pop']
+17,Only Love Can Hurt Like This,Paloma Faith,[],2014,,f23f6dd0-bfb0-43d5-bf06-eae4315db502,232000,['soul']
+18,Problem,Ariana Grande,['Iggy Azalea'],2014,,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,193000,['pop']
+19,Budapest,George Ezra,[],2014,,2c5e2a98-d9ea-46b5-9618-d9bb4863a920,202000,"['folk', 'indie', 'pop']"
+20,She Looks So Perfect,5 Seconds of Summer,[],2014,,830e5c4e-6b7d-431d-86ab-00c751281dc5,203000,['pop']
+21,Waves (Robin Schulz Remix),Mr. Probz,[],2014,20d9d329-bbcd-4459-ae5f-a9bd09805f27,9bb64b8f-d7a4-4fc0-954f-9c9e9d7b3bc3,205000,[]
+22,You Ruin Me,The Veronicas,[],2014,b802f486-68f7-42e7-8599-c87b2b6bc56c,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,231000,[]
+23,Swing,Joel Fletcher & Savage,[],2014,,,173000,[]
+24,We Are Done,The Madden Brothers,[],2014,29ff228a-a2c4-4757-b257-187d269dd03c,95695676-369f-4f65-abd9-4f69cc42b8e9,216000,[]
+25,Let it Go,Idina Menzel,[],2014,4c1a9d5a-57c4-4cf0-a153-d7c53077263e,929ca8c3-5df3-4fe9-bc59-f8d603780bce,224000,[]
+26,Jubel,Klingande,[],2014,,1faebb11-9c72-4a6f-8886-351efcab991e,199000,[]
+27,Free,Rudimental,['Emeli Sande'],2014,3db97275-4655-48e5-a526-eadc25f308c4,b09ced80-aa65-43c1-9aa7-58b1e982eada,216000,[]
+28,Blank Space,Taylor Swift,[],2014,576b16cf-33f8-4524-9782-8d227ca7f11b,20244d07-534f-4eff-b4d4-930878889970,231000,['pop']
+29,Uptown Funk,Mark Ronson,['Bruno Mars'],2014,540ba59d-803c-46ad-8003-fb96b7832819,c3c82bdc-d9e7-4836-9746-c24ead47ca19,270000,[]
+30,Bang Bang,Jessie J & Ariana Grande & Nicki Minaj,[],2014,146707fc-924f-48ce-b56e-fff3a6a19c06,,199000,[]
+31,Ghost,Ella Henderson,[],2014,,3a60a284-256b-4481-9c33-84d12ea481cd,216000,[]
+32,Faded,Zhu,[],2014,,eca0569c-877e-4d72-a280-90581c2adfd5,223000,[]
+33,Sing,Ed Sheeran,[],2014,470512a4-a735-4e71-b33d-61eace8d7445,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,235000,[]
+34,Brave,Sara Bareilles,[],2014,877c17bc-da1d-46a4-b3ce-093ac493dc1d,e54be6b7-5c26-4b47-bb3f-c137429b9b55,220000,[]
+35,High,Peking Duk,[],2014,4289b6f9-1187-4930-930f-f73463af81fc,a5bf304f-dce8-4482-b912-3921c23e40c8,211000,[]
+36,Magic,Coldplay,[],2014,a7610515-c5da-4de6-aa74-fd58c42a945f,cc197bad-dc9c-440d-a5b5-d52ba2e14234,280000,[]
+37,Trumpets,Jason Derulo,[],2014,002c6aff-c219-430b-80b1-5508ac695e1c,,217000,[]
+38,Stay High (Habits Remix),Tove Lo,['Hippie Sabotage'],2014,f946d2bd-cd17-4867-872e-1e6451919d6a,56756959-1e78-429c-b897-e1d056cb0225,258000,[]
+39,Break Free,Ariana Grande,['Zedd'],2014,,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,202000,"['pop', 'dance']"
+40,Rude,Magic!,[],2014,447276a2-a59e-4fe6-beaa-13ae0676d168,53fa616a-e2b4-4982-bef8-6362b44054f0,224000,"['pop', 'reggae']"
+41,Addicted to You,Avicii,[],2014,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,148000,[]
+42,Don't,Ed Sheeran,[],2014,9037fd5b-e74f-49c9-90aa-9c8d08ee160a,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,219000,"['pop', 'soul']"
+43,Prayer in C (Robin Schulz Remix),Lilly Wood & The Prick,[],2014,92a3c7fe-d3a0-40da-901b-1df9cb170cd0,,189000,[]
+44,Strong,London Grammar,[],2014,52237bb5-7e23-4533-97b0-f9aee8dad995,4dbe08c1-b40a-43b3-ab89-210000bd8ab2,274000,[]
+45,Summer,Calvin Harris,[],2014,,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,221000,"['dance', 'house', 'electronic']"
+46,I'm Ready,AJR,[],2014,bcf96a63-620b-47a0-aca5-3f0de946cdcd,2eb55bd9-cfbf-44fd-a5da-92dd825284c7,227000,[]
+47,Cosby Sweater,Hilltop Hoods,[],2014,63763c03-e7af-48a1-b14c-a76c17fdc248,16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac,217000,[]
+48,New Thang,Redfoo,[],2014,45575105-172f-486f-b566-384e1be155a3,92781466-f1a9-4ffc-9143-d65a2c77fd64,226000,[]
+49,Turn Down for What,DJ Snake and Lil Jon,[],2014,c881f2d4-ef5b-4fac-a4b6-d8592f77ada1,,213000,[]
+50,Cool Kids,Echosmith,[],2014,cab36bea-a44c-4bdb-b505-1ba222cf7afc,53317371-09a4-4bf4-a832-22a9c6704be2,237000,['pop']
+51,Amnesia,5 Seconds of Summer,[],2014,0e18adba-68a8-4852-9a8e-4436faf655ad,830e5c4e-6b7d-431d-86ab-00c751281dc5,236000,['pop']
+52,Undressed,Kim Cesarion,[],2014,34ae8604-083c-4d71-98b1-408bdbe80db2,a4212608-6860-4c68-b67d-1b95225946c5,219000,[]
+53,Shot Me Down,David Guetta,['Skylar Grey'],2014,,302bd7b9-d012-4360-897a-93b00c855680,190000,[]
+54,A Sky Full of Stars,Coldplay,[],2014,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,268000,"['pop', 'electronic', 'dance']"
+55,Riptide,Vance Joy,[],2014,,df36f6db-5987-46ed-9d02-0cf36ed4e060,204000,"['folk', 'indie', 'alternative']"
+56,I'm Not the Only One,Sam Smith,[],2014,481df895-2b54-48ea-9b64-b8106e4ee524,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,205000,"['soul', 'pop']"
+57,Wiggle,Jason Derulo,['Snoop Dogg'],2014,0622cd9b-f46c-425b-8b82-f6b9063aa594,,190000,[]
+58,Best Day of My Life,American Authors,[],2014,fe6779b5-ed82-46d2-b987-27166c767a34,9ce0515d-cc88-4df6-8a2e-d231c13cb2c2,194000,"['pop', 'indie', 'alternative']"
+59,Bad,David Guetta & Showtek,['Vassy'],2014,994d24ab-0a63-431b-a4da-710a42e7b46b,,173000,[]
+60,Roar,Katy Perry,[],2014,,122d63fc-8671-43e4-9752-34e846d62a9c,246000,['pop']
+61,Timber,Pitbull,['Kesha'],2014,,d262ea27-3ffe-40f7-b922-85c42d625e67,204000,"['pop', 'dance']"
+62,Anaconda,Nicki Minaj,[],2014,0cb6d5ef-1f5c-4e06-b91a-73edd3c0eabb,1036b808-f58c-4a3e-b461-a2c4492ecf1b,206000,['rap']
+63,Shower,Becky G,[],2014,1d93e0ff-f67b-4dc5-a220-40ed723d1dae,eb90c8b8-d733-4c14-a293-105c3d1ba9b3,232000,['pop']
+64,Lips Are Movin,Meghan Trainor,[],2014,18b7683b-e085-44d6-a4db-358d6284f51f,b2029169-2574-4305-820f-252a5fde3697,181000,[]
+65,The Man,Aloe Blacc,[],2014,c68948a7-d8ef-409c-adf8-bcf2afeb656f,4bf89e02-6c30-4603-9f6a-52619b1bea1a,255000,[]
+66,Live Louder,Nathaniel Willemse,[],2014,,,0,[]
+67,Boom Clap,Charli XCX,[],2014,67a7aa1c-8551-4146-865e-4ca91f2b8d84,260b6184-8828-48eb-945c-bc4cb6fc34ca,169000,['pop']
+68,Superheroes,The Script,[],2014,c6daf3b3-de17-4f7d-b069-bebc00a1cfd0,4c98aa1b-34eb-4336-987f-5e50aa059c00,243000,[]
+69,Tightrope,Illy,['Scarlett Stevens'],2014,a0447741-6695-40c0-ad92-6de4ab4efee7,045e434a-d83b-4472-b7f2-44529a1c3c31,217000,[]
+70,Black Widow,Iggy Azalea,['Rita Ora'],2014,,3a052c99-8c18-484a-8beb-9873b4fb3106,209000,"['pop', 'rap']"
+71,Stand By You,Marlisa Punzalan,[],2014,,,0,[]
+72,The Monster,Eminem,['Rihanna'],2014,7e9e29c6-c643-41bb-bd1c-f77e4a453719,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,250000,"['rap', 'pop', 'hip hop']"
+73,Blame,Calvin Harris,['John Newman'],2014,029563c3-4ff4-4a74-86ec-6a440146e2d9,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,211000,[]
+74,It's My Birthday,Will.i.am & Cody Wise,[],2014,1cdc76dc-8c14-4d38-a968-ed12a318deac,,254000,[]
+75,Never Be the Same,Jessica Mauboy,[],2014,5f02db6b-6b8f-492f-8ec2-b04f6190423f,18f719e7-e9b4-4216-8869-9083ebc23f7d,232000,[]
+76,I Will Never Let You Down,Rita Ora,[],2014,,c9dd033c-0270-463c-b3ec-f4b7712486fe,203000,[]
+77,Steal My Girl,One Direction,[],2014,515a440a-5a88-4c40-ab54-f14a4b1a5de6,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,228000,['pop']
+78,I See Fire,Ed Sheeran,[],2014,2c147614-216a-4b11-b7ff-f67526904fd8,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,299000,[]
+79,Hey Brother,Avicii,[],2014,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,194000,"['dance', 'pop', 'electronic', 'country']"
+80,Outside,Calvin Harris,['Ellie Goulding'],2014,09364651-d353-43e6-86af-d95689a71678,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,227000,[]
+81,Dangerous,David Guetta,['Sam Martin'],2014,44d2da53-379b-4d0f-9e9b-092a267b25ea,302bd7b9-d012-4360-897a-93b00c855680,235000,[]
+82,I'm an Albatraoz,AronChupa,[],2014,bba2143a-692f-4763-8ade-c5d4f7737a3c,76b09967-a03f-4704-aaf4-e8d65ee02271,166000,[]
+83,Royals,Lorde,[],2014,,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,190000,"['pop', 'indie', 'electronic']"
+84,The Love Club,Lorde,[],2014,1dff0c9f-839b-4b6a-b89e-a1b2070ac9e5,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,201000,"['pop', 'electronic', 'indie']"
+85,Nobody to Love,Sigma,[],2014,,89ec6f82-1ad7-42d5-983e-ebf90f6868c8,243000,[]
+86,Wild Wild Love,Pitbull,['G.R.L.'],2014,ee77ca56-a8f2-43ce-903b-0c399737cab8,d262ea27-3ffe-40f7-b922-85c42d625e67,202000,[]
+87,Take Me Home,Cash Cash,['Bebe Rexha'],2014,,dda162b4-f871-4e89-b081-b7b3470782f0,208000,[]
+88,Another Man,Itch,['Megan Joy'],2014,,da9cab7e-2610-4cd2-959a-75659e5b164f,188000,[]
+89,Please Don't Say You Love Me,Gabrielle Aplin,[],2014,,4abebe04-1e85-427b-9950-563945850f2e,181000,[]
+90,This is How We Do,Katy Perry,[],2014,04eb51e2-e726-47ea-8de8-b1d6923e6b8c,122d63fc-8671-43e4-9752-34e846d62a9c,205000,[]
+91,Jump,Rihanna,[],2014,0e6f611d-7c1f-3404-8e84-1be972dcf973,73e5e69d-3554-40d8-8516-00cb38737a1c,264000,[]
+92,Take Me Over,Peking Duk,['Safia'],2014,a9c259d9-db69-4d89-a5a8-7235e0a87918,a5bf304f-dce8-4482-b912-3921c23e40c8,205000,[]
+93,The Power of Love,Gabrielle Aplin,[],2014,,4abebe04-1e85-427b-9950-563945850f2e,242000,[]
+94,Tsunami (Jump),DVBBS & Borgeous,['Tinie Tempah'],2014,,,158000,[]
+95,Heroes (We Could Be),Alesso,['Tove Lo'],2014,db71d01d-977d-4076-97e5-ed6d3e317fec,addb00fd-733c-4223-8fdf-f78be2488acd,209000,"['dance', 'house', 'electronic']"
+96,God Only Knows,MKTO,[],2014,f195082a-a9ea-40ad-b3ef-21afdf75a336,aa25521e-3848-4ff7-ab09-545cc95b8a36,195000,[]
+97,Replay,Zendaya,[],2014,8ae9f518-1a6b-4fa6-befe-8028dff1ff03,5b946a83-b395-4016-b67f-c71690f9a866,209000,[]
+98,Somebody to You,The Vamps,['Demi Lovato'],2014,02326bc0-cc67-48ae-b9f4-1ee03bc5c233,0e4188c7-0b21-4ee3-ad0f-a2312b65e6db,185000,['pop']
+99,Not a Bad Thing,Justin Timberlake,[],2014,b07f41db-a827-4111-b2c1-28b2a3805962,596ffa74-3d08-44ef-b113-765d43d12738,266000,[]
+100,Red Lights,Tiesto,[],2014,7c8c4308-e235-4d3e-bbfb-ef144882b179,,200000,[]
+101,#Selfie,The Chainsmokers,[],2014,,91a81925-92f9-4fc9-b897-93cf01226282,183000,[]
