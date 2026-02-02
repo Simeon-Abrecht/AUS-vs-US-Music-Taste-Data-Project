@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Old Town Road,Lil Nas X,[],2019,4d1bb5a1-14ba-438d-b96d-070704f400f5,0b30341b-b59d-4979-8130-b66c0e475321,113000,[],"['rock music', 'pop music', 'country music', 'Southern hip-hop', 'country rap', 'trap music']"
+2,Dance Monkey,Tones and I,[],2019,,663f33f4-8e5f-4773-93ea-493a1135de9a,209000,[],['electropop']
+3,Bad Guy,Billie Eilish,[],2019,a0fa346a-4c7c-4a16-b8ea-44af865b5323,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,194000,['pop'],"['pop music', 'trap music']"
+4,Sunflower,Post Malone & Swae Lee,[],2019,7e6c84a3-3bba-4822-b82c-c76c1769e61f,,156000,[],[]
+5,Someone You Loved,Lewis Capaldi,[],2019,,526aab94-697f-44a9-b630-41d1c0505953,182000,['pop'],['pop music']
+6,I Don't Care,Ed Sheeran & Justin Bieber,[],2019,7a5be74f-3c0f-4e50-acdc-7c4a18bb8004,,219000,[],[]
+7,Wow,Post Malone,[],2019,3c6ef3fe-b551-4e59-b425-2d3fd05edce4,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,149000,[],"['hip-hop', 'trap music']"
+8,Senorita,Shawn Mendes & Camila Cabello,[],2019,39165ec2-776a-4eed-a477-c56f8bcf44b7,,191000,[],[]
+9,Shallow,Lady Gaga & Bradley Cooper,[],2019,e8191687-56bf-4e69-860f-a898735ec268,,217000,[],[]
+10,7 Rings,Ariana Grande,[],2019,874cdb98-c355-41ea-8312-b4d39a69db9e,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,177000,"['pop', 'rap', 'rnb']","['pop music', 'pop music', 'rhythm and blues', 'contemporary R&B', 'trap music', 'trap music']"
+11,3 Nights,Dominic Fike,[],2019,1b1aa9bc-6f5f-43a6-9a0d-363a5173aa50,e337c918-098f-418e-97a2-81dc224b1bf9,177000,['pop'],['pop music']
+12,Eastside,Benny Blanco & Halsey & Khalid,[],2019,,,0,[],[]
+13,Sucker,Jonas Brothers,[],2019,f677b722-2997-4a63-bafa-b3b0b58e233f,6e019bc6-5c23-4935-94f0-4a896631d846,181000,"['pop', 'rock']",['pop rock']
+14,Beautiful People,Ed Sheeran,['Khalid'],2019,,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,197000,[],['pop soul']
+15,Sweet But Psycho,Ava Max,[],2019,745cc4a1-b551-44d1-9d47-cc6ef7ad97b9,add5f522-25df-41c4-815e-0ca9f60b83e4,187000,"['pop', 'electronic']",[]
+16,Piece of Your Heart,Meduza,['Goodboys'],2019,4d4c5382-361f-4dc9-86e8-e6e0c67b4cad,64614ee1-9add-4f2f-b970-5205b09ae218,152000,[],['deep house']
+17,Talk,Khalid,[],2019,5eef0e48-3e15-41e7-b6e4-8a2269766e7a,acc88434-f16e-4aad-83e0-ea0ee6bb6b3d,197000,[],['contemporary R&B']
+18,Without Me,Halsey,[],2019,01aeecae-dff0-4a57-a8f1-d3a7acd2763f,3377f3bb-60fc-4403-aea9-7e800612e060,202000,"['pop', 'rnb', 'alternative']","['pop music', 'rhythm and blues', 'contemporary R&B', 'electronic dance music', 'synth-pop', 'electro-R&B']"
+19,Dancing With a Stranger,Sam Smith & Normani,[],2019,,,171000,[],[]
+20,Circles,Post Malone,[],2019,0025eb0c-9832-4446-b5cd-90f7f5cca285,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,213000,['pop'],['pop rock']
+21,Happier,Marshmello,['Bastille'],2019,9cf8f1b6-16aa-46a4-89f4-4b540702e03c,301b45a4-b8b9-410e-8344-4b4eaf96691a,214000,[],['dance-pop']
+22,Shotgun,George Ezra,[],2019,81614e2f-298e-4644-aaed-36fe57fb1eb3,2c5e2a98-d9ea-46b5-9618-d9bb4863a920,199000,[],[]
+23,One Thing Right,Marshmello & Kane Brown,[],2019,,,181000,[],[]
+24,The Git Up,Blanco Brown,[],2019,075aad8b-1197-436d-b474-37b097314247,46b04bfe-70da-428e-9b7d-1f444f3446a4,0,[],['country music']
+25,Sicko Mode,Travis Scott,[],2019,448220f6-1c06-4dd2-ab30-537a28b4edb8,e4a51f17-a57b-47b1-b37b-f552d0f8e9e6,312000,['rap'],"['trap music', 'progressive rap']"
+26,Bury a Friend,Billie Eilish,[],2019,0219e7c1-7814-4b66-9e70-31bdd87b581f,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,193000,['pop'],['pop music']
+27,Be Alright,Dean Lewis,[],2019,d04e680c-4c43-44e5-ab8f-7098e2640254,21e9df94-3c2c-4c15-b069-fefa58bcd650,197000,['pop'],['pop music']
+28,Better,Khalid,[],2019,1115e377-e69e-4bd1-b47a-0b03449d833b,acc88434-f16e-4aad-83e0-ea0ee6bb6b3d,229000,"['pop', 'rnb']","['contemporary R&B', 'contemporary R&B']"
+29,When the Party's Over,Billie Eilish,[],2019,ba7a88da-f864-4ead-9a63-36f92d10de46,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,196000,['pop'],['pop music']
+30,Youngblood,5 Seconds of Summer,[],2019,079cab5d-0ae6-4524-81f9-5235a284ec49,830e5c4e-6b7d-431d-86ab-00c751281dc5,203000,"['rock', 'pop']","['pop music', 'synth-pop']"
+31,Truth Hurts,Lizzo,[],2019,02994c16-2f1b-4194-9520-245192f10255,8fb5370b-9568-4b61-9da5-2aa12c9928db,173000,[],"['hip-hop', 'trap music', 'pop music']"
+32,Johnny Run Away,Tones and I,[],2019,15c04cf0-40aa-443b-b6c6-50f66189f4cb,663f33f4-8e5f-4773-93ea-493a1135de9a,192000,[],['pop music']
+33,Body,Loud Luxury,['Brando'],2019,05e8e97b-3200-418e-b1c2-628e07645020,4c445344-9df2-407e-9bf3-8a5c0b86777e,162000,"['house', 'dance']",[]
+34,"Thank U, Next",Ariana Grande,[],2019,94b776eb-8ee9-4e52-9d80-f6d1d85a81f1,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,207000,"['pop', 'rnb']","['pop music', 'pop music', 'pop music']"
+35,Goodbyes,Post Malone,['Young Thug'],2019,,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,174000,[],['trap music']
+36,Choir,Guy Sebastian,[],2019,415870ae-e257-4439-a664-f26204fb66cd,f116b984-45ae-49d0-9445-efc5a61458a1,171000,[],[]
+37,If I Can't Have You,Shawn Mendes,[],2019,,b7d92248-97e3-4450-8057-6fe06738f735,198000,['pop'],['pop rock']
+38,Waiting,Kian,[],2019,,b663b67e-c29d-4e0b-85c0-1416336ef1ba,215000,[],[]
+39,Never Seen the Rain,Tones and I,[],2019,093c4c34-1a63-4856-8058-de802d97a09d,663f33f4-8e5f-4773-93ea-493a1135de9a,200000,[],['pop music']
+40,Woke Up Late,Drax Project,['Hailee Steinfeld'],2019,5062d4d4-26f9-42e3-8649-d1bca78e99c7,88e53b5e-fb4d-45fa-bd80-6c01af8f2c3b,184000,[],['pop music']
+41,Nothing Breaks Like a Heart,Mark Ronson,['Miley Cyrus'],2019,fb26c962-3f8e-4e15-a13c-b66045528ce3,c3c82bdc-d9e7-4836-9746-c24ead47ca19,217000,[],['country music']
+42,I'm So Tired...,Lauv & Troye Sivan,[],2019,0bbcf5c2-a2ca-435f-944d-f4c767a0432d,,0,[],[]
+43,Leave Me Lonely,Hilltop Hoods,[],2019,079722f7-a03f-440a-8dbe-4939316bcebc,16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac,194000,[],['Australian hip-hop']
+44,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,[],2019,f434698a-04e9-4768-89af-e7afb483aa94,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,190000,"['pop', 'rnb']",[]
+45,7 Minutes,Dean Lewis,[],2019,aab440d7-a3a3-4136-bfde-188dd4207f0c,21e9df94-3c2c-4c15-b069-fefa58bcd650,211000,[],[]
+46,Here With Me,Marshmello,['Chvrches'],2019,,301b45a4-b8b9-410e-8344-4b4eaf96691a,157000,[],[]
+47,Lovely,Billie Eilish & Khalid,[],2019,1fc545d3-94b6-4a3d-bff3-bb8b861943d6,,200000,[],[]
+48,Good as Hell,Lizzo,[],2019,7a57d87b-4df9-4171-ad0d-2f426046ebeb,8fb5370b-9568-4b61-9da5-2aa12c9928db,159000,[],['soul']
+49,Ride It,Regard,[],2019,84d7a8d9-e26e-4fae-85b0-e92498be39c8,85f11607-6ed7-4a36-af69-dcadd32ad277,159000,[],"['dance-pop', 'house music']"
+50,Don't Call Me Up,Mabel,[],2019,,f6a9828c-7b52-41a1-b38a-426c28603555,178000,[],"['pop music', 'tropical house', 'contemporary R&B']"
+51,Memories,Maroon 5,[],2019,,0ab49580-c84f-44d4-875f-d83760ea2cfe,187000,"['pop', 'rock']",[]
+52,How Do You Sleep?,Sam Smith,[],2019,6d71479e-4723-49fd-81ff-81927faee857,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,202000,[],['pop music']
+53,No Guidance,Chris Brown,['Drake'],2019,151dab39-af97-4df9-b0b5-b7dfa7f9010a,c234fa42-e6a6-443e-937e-2f4b073538a3,260000,[],"['hip-hop', 'rhythm and blues']"
+54,South of the Border,Ed Sheeran,"['Camila Cabello', 'Cardi B']",2019,,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,204000,[],"['hip-hop', 'pop music', 'Latin pop', 'contemporary R&B']"
+55,Cross Me,Ed Sheeran,"['Chance the Rapper', 'PnB Rock']",2019,,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,206000,[],['pop rap']
+56,It's You,Ali Gatie,[],2019,,c5d8019c-fe79-4968-9329-f7af6cdc26f3,212000,[],[]
+57,Exit Sign,Hilltop Hoods,"['Illy', 'Ecca Vandal']",2019,,16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac,223000,[],[]
+58,Perfect,Ed Sheeran,[],2019,b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,263000,['pop'],['ballade']
+59,SOS,Avicii,['Aloe Blacc'],2019,981a92c2-5b78-4bd2-b0d2-32efe27c9622,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,157000,[],['electronic dance music']
+60,Better Now,Post Malone,[],2019,2b632288-0cca-4cc8-85cc-8272f862920e,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,231000,"['rap', 'rnb']",['pop music']
+61,You Need to Calm Down,Taylor Swift,[],2019,a55a5a51-452e-4add-af86-06cc1a71bbfd,20244d07-534f-4eff-b4d4-930878889970,171000,['pop'],['electropop']
+62,Walk Me Home,Pink,[],2019,,,0,[],['pop music']
+63,Middle Child,J. Cole,[],2019,0ad06009-1850-4953-9cbe-3735db9fd111,875203e1-8e58-4b86-8dcb-7190faf411c5,213000,"['hip hop', 'rap']",['hip-hop']
+64,Confidence,Ocean Alley,[],2019,f1475d0f-04ca-4dc4-b3d4-4188a3fd0033,8cf32b06-c5a3-4804-a967-376f88d12aad,255000,[],[]
+65,Who Do You Love,The Chainsmokers,['5 Seconds of Summer'],2019,,91a81925-92f9-4fc9-b897-93cf01226282,228000,[],"['electronic music', 'pop music', 'dance-pop']"
+66,Bad Liar,Imagine Dragons,[],2019,,012151a8-0f9a-44c9-997f-ebd68b5389f9,260000,['pop'],['electropop']
+67,Bohemian Rhapsody,Queen,[],2019,623728fe-fe43-42b7-9e10-850a0c9bf374,0383dadf-2a4e-4d10-a46a-e9e041da8eb3,357000,['rock'],"['progressive rock', 'progressive rock', 'progressive rock', 'hard rock', 'hard rock', 'progressive pop', 'progressive pop']"
+68,Me!,Taylor Swift,['Brendon Urie'],2019,741a56d6-87cb-4978-af7f-4f3b230bc3a7,20244d07-534f-4eff-b4d4-930878889970,193000,[],[]
+69,Going Bad,Meek Mill,['Drake'],2019,,31bcadcc-e1da-4cad-bec8-2f4f1d41b095,0,[],"['hip-hop', 'trap music']"
+70,Saturday Nights,Khalid,[],2019,418fd204-155c-4b9e-ba5f-b5c59df79a75,acc88434-f16e-4aad-83e0-ea0ee6bb6b3d,209000,[],['contemporary R&B']
+71,High Hopes,Panic! at the Disco,[],2019,bb7f1441-860d-4bad-8307-88be25c90acc,b9472588-93f3-4922-a1a2-74082cdf9ce8,192000,"['alternative', 'rock', 'pop', 'indie']","['pop rock', 'pop rock']"
+72,Money in the Grave,Drake,['Rick Ross'],2019,af959b44-1f99-4b5c-8733-f69b25bcf057,9fff2f8a-21e6-47de-a2b8-7f449929d43f,205000,[],[]
+73,Girls Like You,Maroon 5,['Cardi B'],2019,,0ab49580-c84f-44d4-875f-d83760ea2cfe,215000,[],['pop rock']
+74,Good Lord,Birds of Tokyo,[],2019,1a6fad61-1779-4980-a13b-d45366c64993,8eec195f-d357-4e0a-bcc7-74fd5c462e6e,204000,[],[]
+75,Shape of You,Ed Sheeran,[],2019,d7500dd6-b815-4299-88c6-3fbda358f1fc,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,233000,['pop'],"['short film', 'pop music', 'dance-pop', 'dancehall', 'musical film', 'tropical house']"
+76,Giant,Calvin Harris & Rag'n'Bone Man,[],2019,084e9a28-4868-450c-8458-eeb4fdd7000b,,229000,[],[]
+77,Panini,Lil Nas X,[],2019,8c16f7a5-61fb-4c77-aeed-64f9029fcaf8,0b30341b-b59d-4979-8130-b66c0e475321,114000,[],['hip-hop']
+78,Never Really Over,Katy Perry,[],2019,b37141b8-5123-4bbb-b5f6-7243d64ae71d,122d63fc-8671-43e4-9752-34e846d62a9c,223000,[],"['pop music', 'electropop']"
+79,Wish You Were Gay,Billie Eilish,[],2019,075ee274-57ca-4c72-b0ce-4be15d81c71f,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,161000,"['indie', 'pop']",['pop music']
+80,Rockstar,Post Malone,['21 Savage'],2019,ff18a32b-47eb-4335-88bd-f22c768ecf96,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,186000,[],['trap music']
+81,Mess Her Up,Amy Shark,[],2019,27ba6b80-adc7-4212-ac1c-7dbba9df1346,e6bbfac7-47e5-4faf-a3e2-42fdedff72d3,208000,[],[]
+82,Higher Love,Kygo & Whitney Houston,[],2019,b2e07fba-3689-4cd3-8d3e-519d26d80378,,227000,[],[]
+83,I Fall Apart,Post Malone,[],2019,0244aeee-a350-40a7-a904-c5ca8e76bdd5,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,224000,"['rap', 'hip hop']",['hip-hop']
+84,Love Someone,Lukas Graham,[],2019,2cf83875-5a44-49a8-94ed-90585358eaab,69cfe463-3075-44d8-b118-02381e4a9ed9,205000,[],['pop music']
+85,Ransom,Lil Tecca,[],2019,8104e5ce-5d4a-4d1d-be82-397bb6f5f527,e6fdf3f9-8077-4126-b0cf-94da9a8b627e,131000,[],"['rapping', 'hip-hop']"
+86,Lalala,Y2K & Bbnos,[],2019,,,0,[],[]
+87,Promises,Calvin Harris & Sam Smith,[],2019,416612cb-759e-4b40-9e1c-ce560cf7ddaf,,213000,[],[]
+88,Close to Me,Ellie Goulding & Diplo & Swae Lee,[],2019,3891b07d-3fb1-42b9-80d5-2e512d8c30af,,182000,[],[]
+89,Easier,5 Seconds of Summer,[],2019,4323b8ec-1886-4c89-8cf9-2f843b43343a,830e5c4e-6b7d-431d-86ab-00c751281dc5,157000,[],['pop rock']
+90,Lover,Taylor Swift,[],2019,715afe05-4b62-40c7-a9fe-ea0dbf917304,20244d07-534f-4eff-b4d4-930878889970,221000,"['pop', 'country']","['pop music', 'country music', 'country music', 'funk', 'electropop', 'pop-punk', 'alternative country', 'pop rock', 'dream pop', 'indie pop', 'indie folk', 'contemporary R&B', 'bubblegum music', 'synth-pop']"
+91,Lucid Dreams,Juice Wrld,[],2019,19bc9a65-fb28-4c32-9b79-81348bf75563,4e4ebde4-0c56-4dec-844b-6c73adcdd92d,239000,"['hip hop', 'rap']",[]
+92,Hot Girl Bummer,Blackbear,[],2019,000c81ee-bc19-4fa0-ae9f-856ec9a92c3c,e07d9474-00ea-4460-ac27-88b46b3d976e,185000,"['rnb', 'rap']",['pop rap']
+93,2002,Anne-Marie,[],2019,b66b519f-c8a0-459e-a7e9-a33fa2a1eed1,e3d5b5ec-101a-4529-9f2d-01dca64cf44e,186000,['pop'],['pop music']
+94,"10,000 Hours",Dan + Shay & Justin Bieber,[],2019,,,0,[],[]
+95,So Am I,Ava Max,[],2019,c9009764-ddab-4888-bd75-cbd8f9d225ca,add5f522-25df-41c4-815e-0ca9f60b83e4,184000,[],['pop music']
+96,Let You Love Me,Rita Ora,[],2019,8a19b393-13c9-4468-b029-e6cfbf6e5789,c9dd033c-0270-463c-b3ec-f4b7712486fe,190000,[],['synth-pop']
+97,Rescue Me,OneRepublic,[],2019,ef0c2234-4abd-4bdf-99e5-1764564bdbac,c33c2065-b1c3-4406-b066-d33a9e2ea71a,159000,[],['pop music']
+98,Always Remember Us This Way,Lady Gaga,[],2019,5212744e-d58a-4002-82b5-5a7d02676a5a,650e7db6-b795-4eb5-a702-5ea2fc46c848,210000,"['pop', 'country']",['country music']
+99,In My Mind,Dynoro & Gigi D'Agostino,[],2019,39ab246f-f092-4797-bb9a-4cb3aab50c89,,230000,[],[]
+100,1999,Charli XCX & Troye Sivan,[],2019,596da958-f69f-4f81-8595-f77352393b3e,,189000,[],[]

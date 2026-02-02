@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Die with a Smile,Lady Gaga and Bruno Mars,[],2025,,,0.0,[],[]
+2,Luther,Kendrick Lamar and SZA,[],2025,,,0.0,[],[]
+3,A Bar Song (Tipsy),Shaboozey,[],2025,1108d460-6705-4eaf-8a4e-b1d86dde5c85,0b427dad-1ee5-48f1-aa4b-026680a3338e,171000.0,"['country', 'pop']",[]
+4,Lose Control,Teddy Swims,[],2025,e4733d45-75fa-4bf2-a0d6-9835a67e53b7,35feae82-8b2c-4f8f-ae7a-af5662848947,210000.0,"['soul', 'pop', 'rnb']",['soul']
+5,Birds of a Feather,Billie Eilish,[],2025,3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,183000.0,['pop'],['new wave']
+6,Beautiful Things,Benson Boone,[],2025,292effe0-7b50-4eee-bb16-cf470b2a503d,62b914a7-d775-4bb4-bb5e-d46e7df115b5,180000.0,"['pop', 'emo']","['rock music', 'folk rock', 'pop rock']"
+7,Ordinary,Alex Warren,[],2025,93231ee9-12f9-47ca-b2fb-852efad3db38,609a2ea3-f446-4e31-8eef-9f7591afb55a,186000.0,"['folk', 'pop']","['power ballad', 'pop rock', 'chamber pop']"
+8,I Had Some Help,Post Malone,['Morgan Wallen'],2025,8290f2d3-59ee-4806-8fda-5149de94f799,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,178000.0,[],['country pop']
+9,APT.,Rosé and Bruno Mars,[],2025,,,0.0,[],[]
+10,Pink Pony Club,Chappell Roan,[],2025,470b743c-df63-4bbd-b8c5-950cec92c3a0,56a55378-f155-48de-80a5-d80104221267,258000.0,"['pop', 'indie']","['dance-pop', 'power pop', 'disco', 'synth-pop']"
+11,Love Somebody,Morgan Wallen,[],2025,866e39f3-0c71-4321-a646-15cfd078ea85,2077273e-eaa1-4f49-903c-f286ededecb9,203000.0,[],"['country music', 'soft rock', 'contemporary R&B']"
+12,Espresso,Sabrina Carpenter,[],2025,7e0a8814-ccd2-44c1-8f69-415ad9fd6696,1882fe91-cdd9-49c9-9956-8e06a3810bd4,175000.0,['pop'],"['synth-pop', 'disco', 'funk']"
+13,I'm the Problem,Morgan Wallen,[],2025,8457c0c0-38fa-47b3-b950-ba3acb3c5c33,2077273e-eaa1-4f49-903c-f286ededecb9,175000.0,['country'],[]
+14,That's So True,Gracie Abrams,[],2025,a6ff57e9-5ba8-4a32-8ac3-e5e8c42796dc,f7441bc7-d7de-4813-a2fc-31a4033d396d,166000.0,[],['folk-pop']
+15,TV Off,Kendrick Lamar,['Lefty Gunplay'],2025,,,221000.0,[],[]
+16,Timeless,The Weeknd and Playboi Carti,[],2025,,,0.0,[],[]
+17,Not Like Us,Kendrick Lamar,[],2025,88f628b8-5564-4c70-9a07-8a66d14bf7be,381086ea-f511-4aba-bdf9-71c753dc5077,275000.0,[],"['West Coast hip-hop', 'hardcore hip-hop', 'hyphy']"
+18,Just in Case,Morgan Wallen,[],2025,ef43a792-92ca-49ac-97c1-51ca7daa2b00,2077273e-eaa1-4f49-903c-f286ededecb9,166000.0,[],['country pop']
+19,Taste,Sabrina Carpenter,[],2025,aa249f0d-faf3-4535-9efb-d9ac78743464,1882fe91-cdd9-49c9-9956-8e06a3810bd4,157000.0,['pop'],"['slacker rock', 'pop music', 'glam rock', 'soft rock', 'country pop']"
+20,Squabble Up,Kendrick Lamar,[],2025,451690ff-5d48-4724-bd69-56951dbbf733,381086ea-f511-4aba-bdf9-71c753dc5077,158000.0,['rap'],[]
+21,30 for 30,SZA and Kendrick Lamar,[],2025,,,,[],[]
+22,Mutt,Leon Thomas,[],2025,,,192000.0,"['rnb', 'soul']",[]
+23,Good News,Shaboozey,[],2025,,0b427dad-1ee5-48f1-aa4b-026680a3338e,199000.0,[],[]
+24,Nokia,Drake,[],2025,0dfbd733-811f-4585-bbb2-195eef8c649d,9fff2f8a-21e6-47de-a2b8-7f449929d43f,242000.0,[],[]
+25,Golden,Huntrix: Ejae & Audrey Nuna and Rei Ami,[],2025,,,,[],[]
+26,Wildflower,Billie Eilish,[],2025,5afa33bb-83f6-42c6-b789-8bfa34c48b50,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,261000.0,['pop'],[]
+27,What I Want,Morgan Wallen,['Tate McRae'],2025,,,0.0,[],[]
+28,Messy,Lola Young,[],2025,0ae5ee0e-084e-458b-87ba-76cef24cfff3,43b896c5-5652-4b04-bde1-2e4224bc99b3,284000.0,['rock'],['pop soul']
+29,Stargazing,Myles Smith,[],2025,ff052782-9fc5-4cf8-9f02-14c77c73f880,73d2a9d4-de5d-4bcd-9acb-ddf67dfd71ac,171000.0,[],['folk-pop']
+30,Love Me Not,Ravyn Lenae,[],2025,6c8ef1fe-897c-43f4-b45e-a3d5e3fba71d,94c64122-dbd4-4927-b2fa-f204b0b4b0c2,213000.0,"['rock', 'soul']","['indie pop', 'contemporary R&B']"
+31,"Good Luck, Babe!",Chappell Roan,[],2025,9d97dc85-01e2-400e-8a3f-40cd4790de59,56a55378-f155-48de-80a5-d80104221267,218000.0,['pop'],"['baroque pop', 'synth-pop']"
+32,No One Noticed,The Marías,[],2025,d13a634b-9f69-4256-9415-b7e95aac101d,7a3970c9-ecd8-4eee-a267-4d8c77d97ff3,236000.0,[],['yacht rock']
+33,All the Way,BigXthaPlug,['Bailey Zimmerman'],2025,,d25f6294-686a-4569-b1b9-fe64bfef2519,165000.0,[],[]
+34,Too Sweet,Hozier,[],2025,bcddd6a9-b66f-4993-9b7a-75a78b476373,b4691384-50c3-4afd-9988-51d3ec5db65d,251000.0,['pop'],"['soul', 'indie rock']"
+35,Worst Way,Riley Green,[],2025,4452d4f5-eb7f-4f40-a90f-668dd1026f5a,d8c85c0e-ad88-47a7-a1df-b70608c2f52f,220000.0,[],['country music']
+36,Sailor Song,Gigi Perez,[],2025,05ec0220-311a-4660-a551-f59b17b49421,8ab64ebd-200e-47af-a3fc-92540e186214,211000.0,[],['indie folk']
+37,Sorry I'm Here for Someone Else,Benson Boone,[],2025,907e3747-ca95-46ef-9049-24bb02c341a0,62b914a7-d775-4bb4-bb5e-d46e7df115b5,156000.0,"['pop', 'rock']",[]
+38,Manchild,Sabrina Carpenter,[],2025,b40bca50-273f-488f-811c-a37857916c3f,1882fe91-cdd9-49c9-9956-8e06a3810bd4,213000.0,"['pop', 'rnb', 'country']","['pop music', 'synth-pop']"
+39,Anxiety,Doechii,[],2025,43d7be59-74d3-409f-a8b8-59636354e64c,9f75277c-b283-4846-ac8c-f932255cd0ac,249000.0,"['hip hop', 'rap']",['pop rap']
+40,I Got Better,Morgan Wallen,[],2025,,2077273e-eaa1-4f49-903c-f286ededecb9,0.0,['country'],['country music']
+41,Sticky,Tyler & the Creator,"['GloRilla', 'Sexyy Red and Lil Wayne']",2025,,,0.0,[],[]
+42,Undressed,Sombr,[],2025,84fdf3e4-e5ae-4362-a04f-a53734b1b1ef,502cf908-9921-48bc-bf0e-265c881c0156,182000.0,['rock'],[]
+43,I Never Lie,Zach Top,[],2025,,,0.0,[],['neotraditional country']
+44,Back to Friends,Sombr,[],2025,e374d8c3-da4b-42ce-84dd-26f7236907c3,502cf908-9921-48bc-bf0e-265c881c0156,199000.0,[],[]
+45,Bed Chem,Sabrina Carpenter,[],2025,e33b0965-9031-496e-814e-fe498d061bca,1882fe91-cdd9-49c9-9956-8e06a3810bd4,171000.0,"['pop', 'funk']",['synth-pop']
+46,Sports Car,Tate McRae,[],2025,62cabe70-9c46-4d9a-899c-91c361b679d8,f9133869-f87c-459c-9aa7-2f176cda7e06,165000.0,"['pop', 'rnb']","['pop music', 'crunk', 'electropop']"
+47,Mystical Magical,Benson Boone,[],2025,8479aac0-66e7-47bb-902b-7028fd1e0035,62b914a7-d775-4bb4-bb5e-d46e7df115b5,165000.0,"['rock', 'pop']",[]
+48,Whatchu Kno About Me,GloRilla and Sexyy Red,[],2025,,,0.0,[],[]
+49,Indigo,Sam Barber,['Avery Anna'],2025,,be7c80ee-1b03-4088-b20b-5915c7c5ad45,286000.0,[],[]
+50,Please Please Please,Sabrina Carpenter,[],2025,f9f27e61-bcf0-4b3a-901c-e2e4113dfd7b,1882fe91-cdd9-49c9-9956-8e06a3810bd4,186000.0,['pop'],"['pop music', 'disco', 'country pop', 'yacht rock']"
+51,DTMF,Bad Bunny,[],2025,5098d5cd-7f48-4cd7-8928-43e4f84cae0f,89aa5ecb-59ad-46f5-b3eb-2d424e941f19,237000.0,[],[]
+52,Blue Strips,Jessie Murph,[],2025,afa2240d-c99f-47bb-8f38-4b1dd9d82121,007188c6-2cd6-4060-9629-151433847ddf,147000.0,[],[]
+53,Peekaboo,Kendrick Lamar,['AzChike'],2025,799e8b3e-2908-4e30-9855-8155ab42ed3c,381086ea-f511-4aba-bdf9-71c753dc5077,156000.0,[],[]
+54,Your Idol,Saja Boys: Andrew Choi & Neckwav & Danny Chung & Kevin Woo and Samuil Lee,[],2025,,,,[],[]
+55,High Road,Koe Wetzel,['Jessie Murph'],2025,5a297d25-55b3-42d7-8f01-25fd1c6ef429,cf59723d-febb-4481-9b9b-3cb2c7f2a7e6,179000.0,[],['country rock']
+56,Abracadabra,Lady Gaga,[],2025,4e0e2ac4-1f5a-48a2-ba7e-6ee24f83a844,650e7db6-b795-4eb5-a702-5ea2fc46c848,223000.0,"['pop', 'dance']","['electropop', 'dance-pop']"
+57,Who,Jimin,[],2025,ef795484-964c-48db-adff-25295fd3330d,d2582c77-6b0f-4b2f-802f-8f3cad1a5fec,170000.0,['pop'],[]
+58,Burning Blue,Mariah the Scientist,[],2025,1effc7c2-2b51-4ae5-9ecb-f83efb30cf7c,5fc55ebf-21bd-4eda-954c-dd250132331e,205000.0,['rnb'],[]
+59,All I Want for Christmas Is You,Mariah Carey,[],2025,a6fab057-cf3a-4456-950e-d3edaf219326,494e8d09-f85b-4543-892f-a5096aed1cd4,241000.0,[],"['Christmas music', 'Christmas music', 'pop music']"
+60,Daisies,Justin Bieber,[],2025,c83ad7c4-3783-4023-80f1-626037aeaefb,e0140a67-e4d1-4f13-8a01-364355bee46e,176000.0,['pop'],[]
+61,Soda Pop,Saja Boys: Andrew Choi & Neckwav & Danny Chung & Kevin Woo and Samuil Lee,[],2025,,,,[],[]
+62,Like Him,Tyler & the Creator,['Lola Young'],2025,,,0.0,[],[]
+63,Residuals,Chris Brown,[],2025,769ae0d9-6441-43dc-bb30-9b0c2c54b3af,c234fa42-e6a6-443e-937e-2f4b073538a3,215000.0,[],[]
+64,Smile,Morgan Wallen,[],2025,,2077273e-eaa1-4f49-903c-f286ededecb9,224000.0,[],[]
+65,Last Christmas,Wham!,[],2025,b7c17cf1-15cb-446b-9194-6bcdd5e9041a,d570bb31-b9ca-45a4-a2d9-11b186d9c159,264000.0,['pop'],"['pop music', 'popular music', 'Christmas music', 'synth-pop']"
+66,Am I Okay?,Megan Moroney,[],2025,,9eb2030a-c311-4cbf-a8f2-c57a58aa18ce,235000.0,[],['country music']
+67,Rockin' Around the Christmas Tree,Brenda Lee,[],2025,dd46a542-d591-482e-af35-12268a76f32d,6ca4886a-8f77-4133-b404-46fb3908e24a,127000.0,[],"['rock and roll', 'country music', 'rockabilly', 'Christmas music']"
+68,How It's Done,Huntrix: Ejae & Audrey Nuna and Rei Ami,[],2025,,,,[],[]
+69,Happen to Me,Russell Dickerson,[],2025,888b62d6-629d-4299-a3f4-11c93705c6d0,e2529584-b250-4a22-821c-16d3d8120978,183000.0,[],[]
+70,Baile Inolvidable,Bad Bunny,[],2025,224177fe-504b-4495-bc62-a091f1022bda,89aa5ecb-59ad-46f5-b3eb-2d424e941f19,367000.0,[],['salsa']
+71,Weren't for the Wind,Ella Langley,[],2025,5d32a5b5-624e-4161-aee6-04a24fb8f202,b16c0872-31a7-4db9-8569-0e3146fcecfc,193000.0,['country'],[]
+72,I Ain't Comin' Back,Morgan Wallen,['Post Malone'],2025,,,0.0,[],['country pop']
+73,Cry for Me,The Weeknd,[],2025,811e4c06-8c44-4a2a-989a-78f03f4ec968,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,224000.0,['pop'],[]
+74,Bad Dreams,Teddy Swims,[],2025,551ad893-bbf9-4b71-8893-bb96c5b3687a,35feae82-8b2c-4f8f-ae7a-af5662848947,184000.0,['pop'],[]
+75,Denial Is a River,Doechii,[],2025,93ede245-9336-472a-8ffd-9f853d8b0a85,9f75277c-b283-4846-ac8c-f932255cd0ac,269000.0,['rap'],[]
+76,BMF,SZA,[],2025,ed76cd3e-1204-4f72-a179-6ac931cf6020,272989c8-5535-492d-a25c-9f58803e027f,180000.0,['soul'],['bossa nova']
+77,Eoo,Bad Bunny,[],2025,cdff8d9b-61ca-4286-b297-cd983f1227b0,89aa5ecb-59ad-46f5-b3eb-2d424e941f19,204000.0,[],[]
+78,I'm Gonna Love You,Cody Johnson and Carrie Underwood,[],2025,,,0.0,[],[]
+79,I Am Not Okay,Jelly Roll,[],2025,ba655ae8-c4af-4dd0-931e-5facae4e0939,ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32,198000.0,[],['country music']
+80,Backup Plan,Bailey Zimmerman and Luke Combs,[],2025,,,0.0,[],[]
+81,Jingle Bell Rock,Bobby Helms,[],2025,b2b055a6-4949-33ec-a268-5c3e2e63e5d2,502b3244-0f7d-470c-99e9-b17fe6bcaabf,131000.0,[],"['rockabilly', 'Christmas music']"
+82,Revolving Door,Tate McRae,[],2025,e3a8f9fe-9ffb-4f65-974d-21f8171f252c,f9133869-f87c-459c-9aa7-2f176cda7e06,180000.0,[],['pop music']
+83,What It Sounds Like,Huntrix: Ejae & Audrey Nuna and Rei Ami,[],2025,,,,[],[]
+84,Hard Fought Hallelujah,Brandon Lake and Jelly Roll,[],2025,,,,[],[]
+85,Somebody Loves Me,PartyNextDoor and Drake,[],2025,,,0.0,[],[]
+86,Liar,Jelly Roll,[],2025,d5ae603d-b5b5-40e9-aebe-7332cd82c122,ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32,204000.0,[],"['country rock', 'country music']"
+87,Tu Boda,Óscar Maydon and Fuerza Regida,[],2025,,,0.0,[],[]
+88,After All the Bars Are Closed,Thomas Rhett,[],2025,c5c40331-9195-41f7-ab95-38592acbb7e4,bca8bfc0-9d5b-449b-b713-914596f88d56,191000.0,[],['country music']
+89,Nuevayol,Bad Bunny,[],2025,c5eee37f-9f97-48c9-b2e9-ffd20a6bb06e,89aa5ecb-59ad-46f5-b3eb-2d424e941f19,183000.0,[],[]
+90,20 Cigarettes,Morgan Wallen,[],2025,,2077273e-eaa1-4f49-903c-f286ededecb9,0.0,[],['country pop']
+91,Rather Lie,Playboi Carti and the Weeknd,[],2025,,,0.0,[],[]
+92,Free,Ejae and Andrew Choi,[],2025,,,0.0,[],[]
+93,Takedown,Huntrix: Ejae & Audrey Nuna and Rei Ami,[],2025,,,,[],[]
+94,Heart of a Woman,Summer Walker,[],2025,1e6ee694-d022-4488-a925-4d5114a8ab34,9167f739-da47-4495-9d63-9c13b40114ac,170000.0,"['soul', 'rnb']",[]
+95,House Again,Hudson Westbrook,[],2025,,,203000.0,[],[]
+96,Dark Thoughts,Lil Tecca,[],2025,1e9fa41a-40cb-4065-8479-cbe1369d3b6c,e6fdf3f9-8077-4126-b0cf-94da9a8b627e,136000.0,['rap'],[]
+97,No Pole,Don Toliver,[],2025,c44742a1-ef4a-4493-84d6-969ef837d125,a0723a3c-4135-438e-85c5-012712144ede,187000.0,['pop'],[]
+98,Folded,Kehlani,[],2025,99f93498-20cd-41a2-a2df-5e21a9e6a065,3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9,237000.0,['rnb'],['contemporary R&B']
+99,Superman,Morgan Wallen,[],2025,212c809c-09e8-4727-8859-7f3250187903,2077273e-eaa1-4f49-903c-f286ededecb9,188000.0,[],[]
+100,Loco,Netón Vega,[],2025,,,0.0,[],[]

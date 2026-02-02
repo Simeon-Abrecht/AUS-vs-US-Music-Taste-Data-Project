@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,I'm Outta Love,Anastacia,[],2000,,d3b2bec4-b70e-460e-b433-a865ceac2de8,228000.0,[],['dance-pop']
+2,Teenage Dirtbag,Wheatus,[],2000,780da202-d1d3-4e5e-a7bf-28b96eabaf1a,741a2892-1c5d-402f-a769-2096356c77d7,242000.0,"['rock', 'alternative', 'pop']","['alternative pop', 'pop rock', 'pop-punk']"
+3,Freestyler,Bomfunk MC's,[],2000,6e3dfedf-e849-4413-a2fd-f8f42127eb3e,,172000.0,[],"['big beat', 'nu skool breaks', 'hip-hop']"
+4,Music,Madonna,[],2000,3ca2af59-870c-441c-a4e0-8fbb8542b956,79239441-bfd5-4981-a70c-55c3f15c1287,225000.0,[],"['pop music', 'pop music', 'dance-pop', 'dance-pop', 'electronica', 'synth-pop']"
+5,Say My Name,Destiny's Child,[],2000,,,273000.0,"['rnb', 'pop']",['contemporary R&B']
+6,Poison,Bardot,[],2000,0234b6e2-98c4-4f64-9080-e382b9123a4b,040d07e9-b61a-4952-a81e-db05118ac819,201000.0,[],['urban contemporary']
+7,Bye Bye Bye,NSYNC,[],2000,,603ba565-3967-4be1-931e-9cb945394e86,200000.0,"['pop', 'dance']",['pop music']
+8,Who the Hell Are You,Madison Avenue,[],2000,045e90f6-551b-467a-abb8-95352dca665b,04f730ea-5699-496b-83ec-c0d5db434b7c,210000.0,[],['house music']
+9,Groovejet (If This Ain't Love),Spiller,[],2000,4d030774-2ca8-41ee-9579-dbfcc1c69746,2bbc4f2b-2f59-46a9-8ed1-e66717ef8fde,219000.0,[],[]
+10,Shackles (Praise You),Mary Mary,[],2000,128ca666-74c8-4cf4-a799-57d83d86fe39,6413506f-e22b-412c-9f19-239db7df21f2,196000.0,[],['urban contemporary gospel']
+11,Candy,Mandy Moore,[],2000,cbee16fa-ead8-42cf-8af5-78e59fe91a64,9dc9f4b0-a7b4-43c5-8f6b-fcd43c426a4b,235000.0,[],"['pop music', 'teen pop']"
+12,Bloke,Chris Franklin,[],2000,ab63b0f4-57c9-45fa-bc58-6154506392d1,e5259760-ec55-4674-97b7-2828c6babd16,232000.0,[],"['parody music', 'comedy music']"
+13,Graduation (Friends Forever),Vitamin C,[],2000,,73fe8b5f-3baa-41ab-b3e3-1e5f99baf84c,340000.0,[],['pop music']
+14,Never Be the Same Again,Melanie C,"['Lisa ""Left Eye"" Lopes']",2000,68aeaf95-38d1-427e-8da0-630c2590368e,25b509ef-48ad-461b-a0bc-94cdddb8c919,253000.0,[],"['rock music', 'pop music', 'contemporary R&B']"
+15,Most Girls,Pink,[],2000,b365c7d8-ca72-4e92-a7f0-c8e6b6b92fdc,9c6158ed-53d0-4094-b424-b641c5cab36d,250000.0,[],['contemporary R&B']
+16,Shine,Vanessa Amorosi,[],2000,33b60f5a-f9dc-361c-8034-b74c4f618f1a,2a94bc7d-d829-4869-b18e-2672c181510b,234000.0,[],['pop music']
+17,"Jumpin', Jumpin'",Destiny's Child,[],2000,0451c277-9cf3-3326-981a-6d72bc16047e,,227000.0,"['rnb', 'pop', 'dance']",['contemporary R&B']
+18,I Try,Macy Gray,[],2000,,48772747-4cda-4ba8-b470-cfd5a32e05f7,237000.0,[],['popular music']
+19,She Bangs,Ricky Martin,[],2000,e44b776f-1352-4a9b-9df9-f20221fc2511,70ea63ea-70dc-4b63-951a-2c249d2b3b0a,228000.0,[],['pop music']
+20,Don't You Worry,Madasun,[],2000,1037be2b-1a56-4123-acb6-4618885e99ad,3fd3c1b5-c1ef-44d8-918e-b045a5c32a33,243000.0,[],[]
+21,Rock DJ,Robbie Williams,[],2000,,db4624cf-0e44-481e-a9dc-2142b833ec2f,251000.0,[],['disco']
+22,Who Let the Dogs Out,Baha Men,[],2000,9c6306bd-79a9-42d9-b421-2c9d67686d03,00f82af1-6537-4d4b-9e03-103fffe19999,198000.0,[],"['hip-hop', 'Junkanoo', 'dance music']"
+23,Thong Song,Sisqo,[],2000,26254a70-b834-4e59-8cde-b119b1116f81,25e0497c-faa4-4765-b232-baa20e5e35a7,245000.0,[],[]
+24,It's My Life,Bon Jovi,[],2000,6be6f26e-8051-3ecf-9933-758b9b9d09f2,5dcdb5eb-cb72-4e6e-9e63-b7bace604965,291000.0,['rock'],"['hard rock', 'rock music']"
+25,Let's Get Loud,Jennifer Lopez,[],2000,,f0602f55-1770-483d-89bd-4bae0d0ac086,239000.0,[],['salsa']
+26,Mascara,Killing Heidi,[],2000,1796cd9b-56d7-360c-849f-b0b1e1b1e397,2e9ccc4a-f1d4-48a6-9112-10ca6c7750af,290000.0,[],['pop rock']
+27,On a Night Like This,Kylie Minogue,[],2000,949b229f-21a0-4d58-b69f-0a70e5a42f97,2fddb92d-24b2-46a5-bf28-3aed46f4684c,212000.0,[],['house music']
+28,Spinning Around,Kylie Minogue,[],2000,,2fddb92d-24b2-46a5-bf28-3aed46f4684c,207000.0,[],"['house music', 'disco']"
+29,Lucky,Britney Spears,[],2000,54cdebfe-071c-46d2-bef4-13a5bdd9c233,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,207000.0,"['pop', 'dance']",['pop music']
+30,Shape of My Heart,Backstreet Boys,[],2000,,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad,233000.0,[],['pop music']
+31,Come on Over Baby (All I Want is You),Christina Aguilera,[],2000,8919eed1-be7d-43a5-8f41-18b782105791,b202beb7-99bd-47e7-8b72-195c8d72ebdd,209000.0,[],[]
+32,Gotta Tell You,Samantha Mumba,[],2000,19d3e9fa-d85d-4d25-8a3c-2483d015c3df,7d137f81-27a6-4c65-bf78-186116368860,200000.0,[],"['dance-pop', 'dance-pop', 'contemporary R&B', 'teen pop']"
+33,Move Your Body,Eiffel 65,[],2000,44a8f46c-09d8-35c0-a3b6-661ce5acde76,6ee7a715-e0c0-46d0-a215-2e17001699fc,270000.0,[],['Italo dance']
+34,We Will Rock You,Five & Queen,[],2000,,,0.0,[],[]
+35,Oops!...I Did it Again,Britney Spears,[],2000,99582f17-97f1-4820-ada7-70973271cf05,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,211000.0,"['pop', 'dance']",[]
+36,Shalala Lala,Vengaboys,[],2000,06cc7022-f7aa-40f4-885c-7a31a85676e2,90c7177f-4be5-413d-aabd-d228934c2b9b,215000.0,[],[]
+37,Holiday,Naughty By Nature,[],2000,87963dba-f225-4046-aca7-d42620a8906c,,247000.0,[],[]
+38,S Club Party,S Club 7,[],2000,106c5d3f-6e39-3040-9452-9421b77ed624,,209000.0,[],['dance-pop']
+39,I Wanna Love You Forever,Jessica Simpson,[],2000,fdeed6cf-f887-4d6a-886c-f3ea68acd217,fe37acd4-893c-4b2c-8ad2-7fd394280354,263000.0,[],['pop music']
+40,Absolutely Everybody,Vanessa Amorosi,[],2000,fff49806-0487-376a-a454-709dfb096062,2a94bc7d-d829-4869-b18e-2672c181510b,223000.0,[],[]
+41,There You Go,Pink,[],2000,,9c6158ed-53d0-4094-b424-b641c5cab36d,205000.0,[],['contemporary R&B']
+42,Day \& Night,Billie Piper,[],2000,,,,[],[]
+43,Pure Shores,All Saints,[],2000,,a371601f-c184-4683-806d-2eb35e88f0d7,265000.0,[],['electropop']
+44,Steal My Sunshine,Len,[],2000,,8207c338-8d2b-4879-948f-6ccf15e296ce,249000.0,[],['alternative rock']
+45,Toca's Miracle,Fragma,[],2000,434cef27-5824-4e17-9952-1104d1568160,ae79ff82-e327-4230-9b29-880d92634365,202000.0,[],['trance']
+46,Breathless,The Corrs,[],2000,,acf6c776-d0f6-4239-b5a2-a45a613ffa52,195000.0,[],['pop music']
+47,B-Boys \& Flygirls,Bomfunk MC's,[],2000,,,,[],[]
+48,I Turn to You,Melanie C,[],2000,676bb480-1916-404d-b9b7-df100108fbb3,25b509ef-48ad-461b-a0bc-94cdddb8c919,250000.0,[],"['trance', 'dance-pop']"
+49,Amazed,Lonestar,[],2000,,407592bd-6b6e-4803-80fd-f17e59446734,241000.0,[],['country music']
+50,Life is a Rollercoaster,Ronan Keating,[],2000,,f1cd545b-f17b-4d3a-98de-68b695bfe211,236000.0,[],[]
+51,Try Again,Aaliyah,[],2000,50f200ed-70f2-4459-a88f-c72cf4a4900f,bc85da58-52d9-457d-ae8d-5d8d4ec870a9,284000.0,[],['contemporary R&B']
+52,All the Small Things,Blink-182,[],2000,5ef82901-cbc9-48f8-9008-1dc438e15222,,172000.0,"['punk', 'rock']","['pop-punk', 'popular music']"
+53,He Don't Love You,Human Nature,[],2000,7f7b6a5c-12da-39ca-b1ed-09150c6c46d2,414aad23-bd28-443d-9f7f-1b05892cdb47,193000.0,[],['pop music']
+54,Beautiful Day,U2,[],2000,,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,249000.0,[],['rock music']
+55,It's Gonna Be Me,NSYNC,[],2000,0a4ba1cc-28e4-4d85-9d59-1d93ec3e2557,603ba565-3967-4be1-931e-9cb945394e86,192000.0,"['pop', 'dance']",['dance-pop']
+56,Bring it All Back,S Club 7,[],2000,0439f3fa-8895-4a60-9109-5a994753f5c6,,206000.0,[],[]
+57,The Real Slim Shady,Eminem,[],2000,712c994a-59a3-48d8-a719-64208a39d1f9,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,283000.0,"['rap', 'hip hop']",[]
+58,Independent Women Part I,Destiny's Child,[],2000,,,221000.0,[],"['contemporary R&B', 'soundtrack']"
+59,Blue (Da Ba Dee),Eiffel 65,[],2000,,6ee7a715-e0c0-46d0-a215-2e17001699fc,283000.0,[],"['Eurodance', 'Eurodance']"
+60,Lady (Hear Me Tonight),Modjo,[],2000,,04bac789-bf59-4383-8ad7-799d20d969f7,224000.0,[],['French house']
+61,Holler,Spice Girls,[],2000,ad3be683-b2ad-467d-ba0d-8c1185346589,bf0caafc-2b20-4e07-ab85-87e14ff430ce,332000.0,[],"['pop music', 'rhythm and blues']"
+62,What's a Girl to Do?,Sister2Sister,[],2000,14e79961-3fac-46b9-a8aa-f936047c6b62,,206000.0,[],['pop music']
+63,Could I Have This Kiss Forever,Whitney Houston & Enrique Iglesias,[],2000,f13e515d-06fe-45ad-a03c-23bb02207337,,235000.0,[],[]
+64,I Think I'm in Love With You,Jessica Simpson,[],2000,7c66d93a-7e32-4125-a031-21bca449da42,fe37acd4-893c-4b2c-8ad2-7fd394280354,216000.0,[],[]
+65,Live Without It,Killing Heidi,[],2000,8579e8c1-44e2-49a1-bea9-3969d537dd5b,2e9ccc4a-f1d4-48a6-9112-10ca6c7750af,167000.0,[],['pop rock']
+66,American Pie,Madonna,[],2000,7614bab6-7ff8-3b34-8dac-16f94890bcf3,79239441-bfd5-4981-a70c-55c3f15c1287,274000.0,[],"['stage and screen', 'stage and screen', 'pop music']"
+67,Take a Look Around,Limp Bizkit,[],2000,102387b8-0568-4d77-8994-7533014063f2,8f9d6bb2-dba4-4cca-9967-cc02b9f4820c,323000.0,"['rock', 'alternative', 'metal']",['nu metal']
+68,Fill Me In,Craig David,[],2000,5e22c167-6f8a-41c7-bd44-2da2c442ff4c,89e39f67-65cc-4f90-b145-b1b56c209f8a,231000.0,[],['2-step garage']
+69,Adelante,Sash!,[],2000,96565b2c-dd52-4592-a8f0-87a951be19d2,29e26734-788a-44aa-8d86-a452bc4232a6,155000.0,[],[]
+70,I Wanna Be With You,Mandy Moore,[],2000,e3ba1b5e-1e68-4db8-9d3f-2145ebe68b79,9dc9f4b0-a7b4-43c5-8f6b-fcd43c426a4b,252000.0,[],[]
+71,The Brick Track vs. Gitty Up,Salt 'N' Pepa,[],2000,,,0.0,[],[]
+72,He Wasn't Man Enough,Toni Braxton,[],2000,7f34d397-1e6f-31ad-93d4-8a6c5a91f8b3,3c8a8696-e176-4c46-a2d3-48b6b1525c7f,262000.0,[],"['contemporary R&B', 'popular music']"
+73,My Happiness,Powderfinger,[],2000,054f1e2b-9009-3ed7-8ab6-e6d394f527a7,e9ce3f55-b35c-4f8d-8304-be24f381587e,538000.0,[],['alternative rock']
+74,What a Girl Wants,Christina Aguilera,[],2000,701ad166-9bbe-3dd2-bb38-a3e802d9cdf9,b202beb7-99bd-47e7-8b72-195c8d72ebdd,200000.0,[],['pop music']
+75,Don't Give Up,Chicane,['Bryan Adams'],2000,73d1db47-305c-47b2-96b5-0989c64d3a8f,8b506e4a-c343-467b-aad6-300a9bfac355,283000.0,[],['trance']
+76,Say it Isn't So,Bon Jovi,[],2000,146737f1-2658-4081-8e99-02084f8ab1cc,5dcdb5eb-cb72-4e6e-9e63-b7bace604965,213000.0,[],[]
+77,Rip it Up,28 Days,[],2000,03a0deaa-d7bc-329a-9444-d567f96e3cf3,690c818f-a578-4e04-834a-a94dac6e3759,219000.0,[],[]
+78,Pray,Tina Cousins,[],2000,adf76513-1b03-4065-977a-e790940daa73,57edfe13-c21a-4e94-9f60-67d865f02db2,165000.0,[],['pop music']
+79,We Think it's Love,Leah Haywood,[],2000,5c98655e-122b-44ad-936e-6e0231433f12,52735bac-3018-45ad-9cee-7f62042ba08f,195000.0,[],[]
+80,Ex-Girlfriend,No Doubt,[],2000,0434e9b2-1884-4f69-9021-685b53ba4f64,fbd2a255-1d57-4d31-ac11-65b671c19958,212000.0,[],['alternative rock']
+81,Why Does it Always Rain on Me?,Travis,[],2000,,22a40b75-affc-4e69-8884-266d087e4751,265000.0,[],[]
+82,Everything You Need,Madison Avenue,[],2000,d01a2dfa-0f12-40a3-b586-f2f35749f1dc,04f730ea-5699-496b-83ec-c0d5db434b7c,207000.0,[],[]
+83,Don't Call Me Baby,Madison Avenue,[],2000,,04f730ea-5699-496b-83ec-c0d5db434b7c,228000.0,[],['electronic dance music']
+84,It Feels So Good,Sonique,[],2000,4ab5834d-f1af-4631-b70d-5d12b00200b9,e8b37da4-6cb2-4641-ab53-da42f02fbdfb,237000.0,[],['electronic music']
+85,Stronger,Britney Spears,[],2000,f03bb92a-baff-4f1c-aa97-fde18725d424,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,203000.0,[],['synth-pop']
+86,Mambo Italiano,Shaft,[],2000,c2fac5fc-01d2-4305-814d-26082e202cb3,9302171b-77e7-4fcd-833b-65c6a3a281d7,89000.0,[],[]
+87,The Bad Touch,Bloodhound Gang,[],2000,,b2dbfc09-b332-408b-a235-1850e41971c5,218000.0,"['rock', 'alternative', 'dance']","['rap rock', 'dance-pop', 'Eurodance']"
+88,Better Off Alone,Alice Deejay,[],2000,5ee3b485-6e3a-30b6-a8f0-138759d7c3c6,,215000.0,"['dance', 'trance', 'techno', 'electronic']",[]
+89,Bent,Matchbox Twenty,[],2000,016627ff-15e1-3ac1-9d84-c882d6e1218d,75af9d25-cf32-49c0-9192-60bd8e9784e6,308000.0,[],['alternative rock']
+90,Last One Standing,Girl Thing,[],2000,08f39a72-0da8-3705-8a8e-a9ff169573c6,dff7a953-66b7-42d7-998d-a6fd7b0c1f77,217000.0,[],['dance-pop']
+91,Do You Want My Love,CoCo Lee,[],2000,aa1da066-a879-400f-be63-a437b65af853,f3fd7e43-aca4-4e25-9f2d-a5c992a575fc,275000.0,[],[]
+92,Don't Say You Love Me,M2M,[],2000,f9eae2bf-12a5-30de-93f9-b4618ca91358,200a07b4-0e6f-47b8-851f-784281e1de07,224000.0,[],['Norwegian pop']
+93,Original Prankster,The Offspring,[],2000,3efef57e-6e47-41bc-8832-54d11eed8105,23a03e33-a603-404e-bcbf-2c00159d7067,219000.0,[],['pop-punk']
+94,Show Me the Meaning of Being Lonely,Backstreet Boys,[],2000,,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad,234000.0,[],['pop music']
+95,Affirmation,Savage Garden,[],2000,02160c7d-197e-3370-a0d8-d0573e211e8f,a871fd87-50f7-4032-b06d-da56779edcce,256000.0,[],"['pop music', 'soft rock']"
+96,I Should've Never Let You Go,Bardot,[],2000,2426c251-6e5a-3dad-9fd9-7052d74d036b,040d07e9-b61a-4952-a81e-db05118ac819,254000.0,[],['pop music']
+97,I See You Baby,Groove Armada,"[""Gram'ma Funk""]",2000,f1066561-617c-4c0e-a74f-f8980a316e5e,35723b60-732e-4bd8-957f-320b416e7b7f,234000.0,[],['big beat']
+98,Don't Wanna Let You Go,Five,[],2000,558629d1-7c38-3f10-bbe1-0d37e7983fa2,88d6db37-0d87-4e84-a949-9cf8e8879505,218000.0,[],['pop music']
+99,Cartoon Heroes,Aqua,[],2000,5075a785-f1da-47fc-8141-570f21de8f3b,a1ed5e33-22ff-4e7d-a457-42f4309e135f,219000.0,[],['Europop']
+100,These Days,Bardot,[],2000,6a0e9ebf-4fa1-3ce0-8f24-bffe07ad6459,040d07e9-b61a-4952-a81e-db05118ac819,220000.0,[],['pop music']

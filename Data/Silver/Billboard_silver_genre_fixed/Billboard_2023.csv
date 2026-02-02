@@ -1,0 +1,100 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Last Night,Morgan Wallen,[],2023,62ca86de-7204-4b12-bc2a-94a4ad39a027,2077273e-eaa1-4f49-903c-f286ededecb9,161000,"['country', 'pop']",['country pop']
+2,Flowers,Miley Cyrus,[],2023,baecb366-aa92-4685-a4a3-56c6e573b679,7e9bd05a-117f-4cce-87bc-e011527a8b18,200000,['pop'],['pop music']
+3,Kill Bill,SZA,[],2023,a396dab3-a6ce-46a3-b42b-843a518bc541,272989c8-5535-492d-a25c-9f58803e027f,154000,['pop'],"['pop music', 'contemporary R&B']"
+4,Anti-Hero,Taylor Swift,[],2023,6bb9e766-97a5-440f-9173-99515493d2d4,20244d07-534f-4eff-b4d4-930878889970,200000,['rock'],"['synth-pop', 'pop rock']"
+6,Calm Down,Rema & Selena Gomez,[],2023,0c1feaff-c863-4083-8cb9-774f04d08037,,239000,[],[]
+7,Die for You,The Weeknd & Ariana Grande,[],2023,9737a26e-52ca-4941-965b-f8d1bd325303,,234000,[],[]
+8,Fast Car,Luke Combs,[],2023,27a100f9-583c-4947-a826-fc6d70283764,c20ee61f-071f-4e65-9c81-45ee931a54ce,265000,[],"['acoustic music', 'country music']"
+9,Snooze,SZA,[],2023,b2c0cffe-2a6a-4d5c-aeb7-404237469c9e,272989c8-5535-492d-a25c-9f58803e027f,201000,['rnb'],"['contemporary R&B', 'contemporary R&B']"
+10,I'm Good (Blue),David Guetta & Bebe Rexha,[],2023,318034d7-1d08-4137-9585-1cb2aa04e987,,175000,[],[]
+11,Unholy,Sam Smith & Kim Petras,[],2023,1a774967-444d-42de-aa65-b6160d1205e4,,156000,[],[]
+12,You Proof,Morgan Wallen,[],2023,479de3c2-2950-4c26-82ea-fbd1c63f84c4,2077273e-eaa1-4f49-903c-f286ededecb9,155000,[],['country music']
+13,Something in the Orange,Zach Bryan,[],2023,95a87931-919e-4364-934a-24b70cf9ebff,51e90731-08c0-4f60-89b6-5b78e5844de8,228000,['country'],['country music']
+14,Rich Flex,Drake & 21 Savage,[],2023,d7ca0b00-61b9-4757-9991-92402586586b,,239000,[],[]
+15,As It Was,Harry Styles,[],2023,ca05e074-1c11-4587-ba3d-cc6c8b8c3714,7eb1ce54-a355-41f9-8d68-e018b096d427,165000,['pop'],['synth-pop']
+16,Rock and a Hard Place,Bailey Zimmerman,[],2023,33d0e180-6006-4848-86ea-d831aaf06320,20543896-ec2c-48c4-b6b2-507c6cbe9918,207000,[],"['country rock', 'country music']"
+17,Under the Influence,Chris Brown,[],2023,92cd3a7e-d69b-45d8-97d8-f058c461c23d,c234fa42-e6a6-443e-937e-2f4b073538a3,184000,[],['contemporary R&B']
+18,Cruel Summer,Taylor Swift,[],2023,7b3f37a2-850e-499e-95e9-f3fbf0f40331,20244d07-534f-4eff-b4d4-930878889970,178000,['pop'],"['electropop', 'synth-pop']"
+19,Thinkin' Bout Me,Morgan Wallen,[],2023,70b25bff-ce3d-49c5-859f-70113d12e51a,2077273e-eaa1-4f49-903c-f286ededecb9,174000,[],['country pop']
+20,Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,[],2023,b3394b89-3cfc-4436-a939-e2c2a3bf7d84,,131000,[],[]
+21,Favorite Song,Toosii,[],2023,a2a4a86a-a9ea-49c0-a53d-192229b50508,87d59d19-2615-4ada-853f-d552bf3b56e5,209000,[],[]
+22,Thought You Should Know,Morgan Wallen,[],2023,0d0231a7-a0ce-4bc3-9e37-d3ec7f268a61,2077273e-eaa1-4f49-903c-f286ededecb9,215000,[],['country music']
+23,Thank God,Kane Brown & Katelyn Brown,[],2023,c0df7e60-c898-4ef8-8337-79a039cfee34,,173000,[],[]
+24,Sure Thing,Miguel,[],2023,2fe8a364-5584-4854-90f0-a17a55f5e59a,285e1285-aecc-478f-a8da-0c8cf69e1217,195000,['rnb'],['contemporary R&B']
+25,All My Life,Lil Durk & J. Cole,[],2023,5d3b2b81-5bfd-4381-b2d3-3e458dd73984,,223000,[],[]
+26,Ella Baila Sola,Eslabon Armado & Peso Pluma,[],2023,,,165000,[],[]
+27,Karma,Taylor Swift & Ice Spice,[],2023,,,0,[],[]
+28,Just Wanna Rock,Lil Uzi Vert,[],2023,e6d3e2b9-9eba-451a-bcbb-5cb20f760ff1,8837b875-3689-4646-b3fd-d8b53815c7a8,123000,"['rap', 'hip hop', 'electronic']","['dance music', 'hip house', 'Jersey club', 'drill']"
+29,Cuff It,Beyoncé,[],2023,619d8bae-1a89-491e-83ff-9e026c03d540,859d0860-d480-4efd-970c-c05d5f1776b8,225000,"['funk', 'pop', 'soul']","['disco', 'funk', 'disco-funk']"
+30,Vampire,Olivia Rodrigo,[],2023,16f67c81-6481-4713-9b00-7003947d8b49,6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,222000,['pop'],['pop rock']
+31,FukUMean,Gunna,[],2023,066675bf-4291-4f41-a2ba-8bd798328bc9,100b8734-f4f0-4536-9960-47f7c59d1b4c,125000,"['hip hop', 'rap', 'jazz', 'funk']",['trap music']
+32,Lavender Haze,Taylor Swift,[],2023,e413fa7c-a894-4b62-9fbe-05352ecdd8a0,20244d07-534f-4eff-b4d4-930878889970,202000,['pop'],"['pop music', 'synth-pop', 'electropop', 'contemporary R&B']"
+33,Players,Coi Leray,[],2023,34575842-424f-462e-a86e-752a1e347732,e1115c6a-6705-4d17-bbf2-0efd2ef1bbb2,140000,[],['hip-hop']
+34,Need a Favor,Jelly Roll,[],2023,,ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32,194000,[],['country rock']
+35,Dance the Night,Dua Lipa,[],2023,33cb99cc-ff23-4e84-95c1-60b617827cb1,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,176000,[],"['pop music', 'disco']"
+36,Love You Anyway,Luke Combs,[],2023,22a3f245-31cc-4eaa-ba0b-a204404489b3,c20ee61f-071f-4e65-9c81-45ee931a54ce,229000,[],['country music']
+37,One Thing at a Time,Morgan Wallen,[],2023,dcec7a28-63a5-47b1-8538-4d9f38379cda,2077273e-eaa1-4f49-903c-f286ededecb9,205000,[],['country music']
+38,Superhero (Heroes & Villains),Metro Boomin & Future & Chris Brown,[],2023,,,0,[],[]
+39,Bad Habit,Steve Lacy,[],2023,5890fa18-2364-4346-9b55-30c24be4bb58,ca9766a0-1c30-43e6-a213-bac1334efc4a,232000,"['indie', 'rnb']","['contemporary R&B', 'bedroom pop']"
+40,La Bebé,Yng Lvcas & Peso Pluma,[],2023,,,0,[],[]
+41,Golden Hour,Jvke,[],2023,0d2a8139-c1b6-47a3-8278-ac85c1f42bb1,f29e031f-c6b6-4d52-8edd-dc8e14378e74,210000,['pop'],[]
+42,Religiously,Bailey Zimmerman,[],2023,81917264-f8f1-4ba5-b7d6-d2731de4f4d2,20543896-ec2c-48c4-b6b2-507c6cbe9918,178000,[],[]
+43,Spin Bout U,Drake & 21 Savage,[],2023,82d92ff9-2187-4c96-9380-e08187fbea5f,,214000,[],[]
+44,Cupid,Fifty Fifty,[],2023,b0555538-b982-489b-987f-d54d2ccb15a1,0ab64f50-5003-4090-acd0-9b6b83e6ea29,174000,['pop'],[]
+45,Search & Rescue,Drake,[],2023,348e9b4a-48b6-45c7-92c8-6ddb843aeb71,9fff2f8a-21e6-47de-a2b8-7f449929d43f,272000,['rap'],[]
+46,Barbie World,Nicki Minaj & Ice Spice & Aqua,[],2023,,,0,[],[]
+47,Next Thing You Know,Jordan Davis,[],2023,fd1e89e1-af6a-4e18-8e02-daf3c4db1c9d,e90eaba7-aa99-40f6-8348-8b822dcf20d7,175000,[],[]
+48,Escapism,Raye & 070 Shake,[],2023,16994009-4a36-4b4c-865a-f4e7bc2ef6e1,,272000,[],[]
+49,Un x100to,Grupo Frontera & Bad Bunny,[],2023,35d400e7-6c1d-44c5-a3ee-c471f833b7a6,,194000,[],[]
+50,Until I Found You,Stephen Sanchez,[],2023,5d132952-d348-48dd-94ce-b42644ceeb2f,a9c38fd2-04be-4bc6-a3bc-96508b226508,177000,['pop'],"['pop music', 'blue-eyed soul']"
+51,Shirt,SZA,[],2023,02a8bfc1-adde-41b3-a38d-74f200c83cee,272989c8-5535-492d-a25c-9f58803e027f,181000,['rnb'],['contemporary R&B']
+52,Paint the Town Red,Doja Cat,[],2023,b9e20829-1d09-456a-b649-3138e305d9ca,5df62a88-cac9-490a-b62c-c7c88f4020f4,231000,"['pop', 'rnb', 'rap']",[]
+53,Made You Look,Meghan Trainor,[],2023,750a96d7-26bd-4733-8826-e0475f946476,b2029169-2574-4305-820f-252a5fde3697,134000,[],['doo-wop']
+54,Wait in the Truck,Hardy & Lainey Wilson,[],2023,,,277000,[],[]
+55,All I Want for Christmas Is You,Mariah Carey,[],2023,a6fab057-cf3a-4456-950e-d3edaf219326,494e8d09-f85b-4543-892f-a5096aed1cd4,241000,[],"['Christmas music', 'Christmas music', 'pop music']"
+56,Everything I Love,Morgan Wallen,[],2023,83adb460-e6b2-4833-806f-4ec791555641,2077273e-eaa1-4f49-903c-f286ededecb9,187000,[],"['country rock', 'Southern rock']"
+57,Chemical,Post Malone,[],2023,4d5ea684-6127-4506-b7b3-c5ea5a1eb1d8,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,183000,['pop'],[]
+58,Heart Like a Truck,Lainey Wilson,[],2023,cf06c5fb-4182-4269-aa19-75caac01dd6a,a6e613d6-ff65-4972-beff-303a1b10ab05,198000,[],['country music']
+59,"Going, Going, Gone",Luke Combs,[],2023,7915c775-9378-4551-b18f-ca64f8ee30a9,c20ee61f-071f-4e65-9c81-45ee931a54ce,175000,[],[]
+60,Rockin' Around the Christmas Tree,Brenda Lee,[],2023,dd46a542-d591-482e-af35-12268a76f32d,6ca4886a-8f77-4133-b404-46fb3908e24a,127000,[],"['rock and roll', 'country music', 'rockabilly', 'Christmas music']"
+61,Dancin' in the Country,Tyler Hubbard,[],2023,c321c3a6-eb1a-4f74-b792-da4b43b9a4a2,a0b0b576-d6bc-445d-b9db-70893547a4e1,178000,[],[]
+62,Daylight,David Kushner,[],2023,613647d8-b51f-4ad1-af69-94a7d70b9c0f,684e2403-8dc3-468c-8d4f-c1ee01fb6cd6,212000,['pop'],['gothic rock']
+63,Lift Me Up,Rihanna,[],2023,08eff657-2f36-4de6-94bc-3b57b26340d2,73e5e69d-3554-40d8-8516-00cb38737a1c,197000,[],['rhythm and blues']
+64,Eyes Closed,Ed Sheeran,[],2023,dbc2d8c2-2028-4401-b7da-5b55f2bb696b,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,195000,[],['pop music']
+65,TQG,Karol G & Shakira,[],2023,31586003-9935-439d-bbe9-41029504a60b,,199000,[],[]
+66,Try That in a Small Town,Jason Aldean,[],2023,2d62400e-2875-4097-83b9-7b976e2cea14,f24df11a-7e35-4979-a4db-a3b2a170ce27,178000,[],['country music']
+67,Tennessee Orange,Megan Moroney,[],2023,afa8a728-29ff-4185-9c32-60007d8e17c6,9eb2030a-c311-4cbf-a8f2-c57a58aa18ce,221000,[],['country music']
+68,Jingle Bell Rock,Bobby Helms,[],2023,b2b055a6-4949-33ec-a268-5c3e2e63e5d2,502b3244-0f7d-470c-99e9-b17fe6bcaabf,131000,[],"['rockabilly', 'Christmas music']"
+69,Princess Diana,Ice Spice & Nicki Minaj,[],2023,93c79dda-a2f2-474f-a7c3-8669836b582d,,171000,[],[]
+70,Tomorrow 2,GloRilla & Cardi B,[],2023,1eb7bf0a-5e18-4a19-a923-ea1a194871db,,209000,[],[]
+71,A Holly Jolly Christmas,Burl Ives,[],2023,,086c1936-9eaa-4091-b140-ad33a51a3b71,133000,[],['Christmas music']
+72,Where She Goes,Bad Bunny,[],2023,ce4e3184-ee50-4556-b112-b5d8641ea717,89aa5ecb-59ad-46f5-b3eb-2d424e941f19,152000,[],['Jersey club']
+73,Bebe Dame,Fuerza Regida & Grupo Frontera,[],2023,,,272000,[],[]
+74,I Remember Everything,Zach Bryan & Kacey Musgraves,[],2023,,,0,[],[]
+75,I Like You (A Happier Song),Post Malone & Doja Cat,[],2023,3cb342e3-3c00-495b-a639-317f27fa4386,,192000,[],[]
+76,What It Is (Block Boy),Doechii & Kodak Black,[],2023,90582e10-4325-420f-8f05-a36607255c41,,223000,[],[]
+77,Nobody Gets Me,SZA,[],2023,28d18425-e859-42d6-9eb6-e52665442cb7,272989c8-5535-492d-a25c-9f58803e027f,180000,"['folk', 'country']",['sentimental ballad']
+78,Rich Men North of Richmond,Oliver Anthony Music,[],2023,,,187000,[],[]
+79,Super Freaky Girl,Nicki Minaj,[],2023,ec81e381-c77a-4eb6-a237-fbd0e7d6038f,1036b808-f58c-4a3e-b461-a2c4492ecf1b,170000,['rap'],['pop rap']
+80,Dial Drunk,Noah Kahan & Post Malone,[],2023,7baef05e-be67-4571-9445-229ffc46a85d,,213000,[],[]
+81,What Was I Made For?,Billie Eilish,[],2023,74c2e388-4e59-4ed1-8c97-f3fd3317323d,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,222000,[],['pop music']
+82,Seven,Latto,[],2023,,355cc194-b8db-4af2-8678-c7ad54213f4b,183000,[],"['pop music', 'UK garage']"
+83,Wait for U,Future & Drake & Tems,[],2023,,,0,[],[]
+84,Last Christmas,Wham!,[],2023,b7c17cf1-15cb-446b-9194-6bcdd5e9041a,d570bb31-b9ca-45a4-a2d9-11b186d9c159,264000,['pop'],"['pop music', 'popular music', 'Christmas music', 'synth-pop']"
+85,Handle on You,Parker McCollum,[],2023,e5d3b37c-6adc-41d6-a800-248d385a5c9d,ba67b7da-cca7-4c3f-ba19-05349f0f7d97,219000,[],[]
+86,Por Las Noches,Peso Pluma,[],2023,,75e4f8ef-34c3-44fd-8467-88a7d9599f77,262000,[],[]
+87,Memory Lane,Old Dominion,[],2023,a55e1092-d4ea-4729-bfb2-4db866d5fcd7,6aee16a0-bb7e-45a8-8879-d965a25ae310,172000,[],[]
+88,Area Codes,Kaliii,[],2023,a361d3f3-7b86-4fb1-a423-63ca43d97446,67d33c91-279a-4185-a068-b7c6bfc4bc1a,139000,[],['hip-hop']
+89,Bury Me in Georgia,Kane Brown,[],2023,1c56ac7d-b8f9-4999-aa96-81b1120edd54,a62e299b-4707-4ff5-ad53-d80b2b03319d,169000,[],[]
+90,PRC,Peso Pluma & Natanael Cano,[],2023,,,184000,[],[]
+91,What My World Spins Around,Jordan Davis,[],2023,e59ccd3d-9e10-42f1-87b3-6b2de3e8c705,e90eaba7-aa99-40f6-8348-8b822dcf20d7,186000,[],[]
+92,Ain't That Some,Morgan Wallen,[],2023,c96c125d-9ca1-4a41-a021-2333bf272e69,2077273e-eaa1-4f49-903c-f286ededecb9,0,[],[]
+93,Wild as Her,Corey Kent,[],2023,,c59c787f-75cf-405b-b4f0-8445f730bcbe,201000,[],['country music']
+94,Peaches & Eggplants,Young Nudy & 21 Savage,[],2023,,,0,[],[]
+95,I Wrote the Book,Morgan Wallen,[],2023,91ba200a-d8b4-4b1b-8324-d4b7aeb98198,2077273e-eaa1-4f49-903c-f286ededecb9,181000,[],[]
+96,"Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,[],2023,,,0,[],[]
+97,Meltdown,Travis Scott & Drake,[],2023,,,0,[],[]
+98,Put It on da Floor Again,Latto & Cardi B,[],2023,,,0,[],[]
+99,Bloody Mary,Lady Gaga,[],2023,ba305189-a85a-4ada-83bc-b75e204cba85,650e7db6-b795-4eb5-a702-5ea2fc46c848,244000,"['pop', 'electronic', 'dance']",['electropop']
+100,Watermelon Moonshine,Lainey Wilson,[],2023,abb5bf07-abb9-4c38-9293-c8d29c1d0147,a6e613d6-ff65-4972-beff-303a1b10ab05,208000,[],['country music']

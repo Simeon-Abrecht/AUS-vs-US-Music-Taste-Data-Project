@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Low,Flo Rida,['T-Pain'],2008,00ca5a41-50ab-38d4-b415-4cf928a16c0d,4593d49a-7f67-46ba-9ec0-126bd676286f,233000.0,[],"['Miami bass', 'crunk']"
+2,So What,Pink,[],2008,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,215000.0,['pop'],['pop rock']
+3,Sweet About Me,Gabriella Cilmi,[],2008,,72ae6caf-4f9f-407e-8c70-8cd195df955c,202000.0,[],['pop music']
+4,Bleeding Love,Leona Lewis,[],2008,,8d552dfc-648f-401f-90de-e925013ca537,240000.0,"['pop', 'soul']","['contemporary R&B', 'pop music']"
+5,Sex on Fire,Kings of Leon,[],2008,01dfc5b8-2481-4fea-98ad-0686610a97a3,6ffb8ea9-2370-44d8-b678-e9237bbd347b,203000.0,"['rock', 'alternative', 'indie']",['alternative rock']
+6,I Kissed a Girl,Katy Perry,[],2008,,122d63fc-8671-43e4-9752-34e846d62a9c,180000.0,"['pop', 'rock']",['electropop']
+7,Just Dance,Lady Gaga,"[""Colby O'Donis""]",2008,7afbf0d4-d538-4a70-8b34-364c85e24904,650e7db6-b795-4eb5-a702-5ea2fc46c848,97000.0,"['dance', 'pop', 'electronic']","['electropop', 'dance-pop']"
+8,No Air,Jordin Sparks with Chris Brown,[],2008,47b8a2ac-f2ee-4acb-89f9-1aaad6d81d1b,5508631d-697f-4839-a669-06637e5bcb90,265000.0,[],[]
+9,I'm Yours,Jason Mraz,[],2008,,82eb8936-7bf6-4577-8320-a2639465206d,242000.0,[],['pop music']
+10,All Summer Long,Kid Rock,[],2008,,ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,297000.0,[],['country music']
+11,Shake It,Metro Station,[],2008,,ab7ebf8c-059f-4071-93b1-dd3ae80d60b2,180000.0,"['dance', 'electronic', 'indie', 'alternative']",['dance-rock']
+12,Don't Stop the Music,Rihanna,[],2008,,73e5e69d-3554-40d8-8516-00cb38737a1c,193000.0,"['dance', 'pop', 'rnb']",['house music']
+13,When I Grow Up,The Pussycat Dolls,[],2008,,1fda852b-92e9-4562-82fa-c52820a77b23,226000.0,"['pop', 'dance']",['synth-pop']
+14,Poker Face,Lady Gaga,[],2008,,650e7db6-b795-4eb5-a702-5ea2fc46c848,237000.0,"['pop', 'dance', 'electronic']","['dance-pop', 'synth-pop']"
+15,4 Minutes,Madonna,['Justin Timberlake and Timbaland'],2008,8a10687c-f2b0-45f1-83c5-f0f9048445d4,79239441-bfd5-4981-a70c-55c3f15c1287,244000.0,[],['dance-pop']
+16,Hot N Cold,Katy Perry,[],2008,,122d63fc-8671-43e4-9752-34e846d62a9c,221000.0,"['pop', 'dance']",[]
+17,Dream Catch Me,Newton Faulkner,[],2008,,ef0344c6-e24d-4fd3-be7e-c4eb9f62be2d,236000.0,[],[]
+18,Pictures of You,The Last Goodnight,[],2008,19b98897-b085-4c8d-989b-d0ff0260e900,702d3a87-5b30-41f4-b54b-92688ec424bb,191000.0,[],['alternative rock']
+19,Black and Gold,Sam Sparro,[],2008,6845d4c3-38ca-41ac-93ac-d9cd6a5320c6,cd71e6e9-42bb-4a1a-b5ce-17f41682b3e2,210000.0,[],['neo soul']
+20,Forever,Chris Brown,[],2008,6cf5c4ff-c1da-4d8e-ba99-3a880e22d482,c234fa42-e6a6-443e-937e-2f4b073538a3,276000.0,"['rnb', 'dance']","['Eurodisco', 'dance-pop', 'Eurodance']"
+21,Untouched,The Veronicas,[],2008,,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,202000.0,"['pop', 'dance']","['pop rock', 'alternative rock']"
+22,Disturbia,Rihanna,[],2008,,73e5e69d-3554-40d8-8516-00cb38737a1c,169000.0,"['pop', 'dance', 'rnb']","['electropop', 'dance-pop']"
+23,Crank That (Soulja Boy),Soulja Boy Tell 'Em,[],2008,,29eead4d-3793-4625-8727-c03edbb38b8b,225000.0,['rap'],[]
+24,Bubbly,Colbie Caillat,[],2008,525037df-6d98-3105-8348-cfae20e45cd9,efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9,197000.0,[],['traditional folk music']
+25,Take a Bow,Rihanna,[],2008,6a53f415-0cc3-47cb-b5d9-c5336e75a495,73e5e69d-3554-40d8-8516-00cb38737a1c,228000.0,"['pop', 'rnb']",[]
+26,See You Again,Miley Cyrus,[],2008,0518bd12-6c16-4dab-9c6c-d96c0e3a6330,7e9bd05a-117f-4cce-87bc-e011527a8b18,188000.0,"['pop', 'dance']",['pop rock']
+27,American Boy,Estelle,['Kanye West'],2008,823d37c2-82dd-4b0a-be77-41df7604d15a,4c7a5854-6b75-4623-a684-6a3d785d9015,245000.0,"['rnb', 'pop', 'soul']","['disco', 'funk']"
+28,Closer,Ne-Yo,[],2008,,,157000.0,"['rnb', 'dance', 'pop']",['rhythm and blues']
+29,Running Back,Jessica Mauboy,['Flo Rida'],2008,312bb956-aa0c-4410-b689-2561a4dcdc85,18f719e7-e9b4-4216-8869-9083ebc23f7d,0.0,[],['teen pop']
+30,Use Somebody,Kings of Leon,[],2008,02925e8c-e013-41f8-b552-68bc731cbfa9,6ffb8ea9-2370-44d8-b678-e9237bbd347b,230000.0,"['rock', 'alternative', 'indie']","['alternative rock', 'popular music']"
+31,With You,Chris Brown,[],2008,,c234fa42-e6a6-443e-937e-2f4b073538a3,255000.0,"['rnb', 'pop']",['pop music']
+32,Apologize,Timbaland pres. OneRepublic,[],2008,,,184000.0,[],[]
+33,Viva La Vida,Coldplay,[],2008,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,378000.0,"['alternative', 'rock']",[]
+34,Electric Feel,MGMT,[],2008,629bbdfe-d19d-45a7-80ce-ee7adfb7e03c,c485632c-b784-4ee9-8ea1-c5fb365681fc,229000.0,"['electronic', 'indie', 'alternative', 'dance']",['electronic rock']
+35,Perfect,Vanessa Amorosi,[],2008,49dfee1e-b5ab-33e6-8199-1e8f12c7c014,2a94bc7d-d829-4869-b18e-2672c181510b,207000.0,[],['soul']
+36,Tattoo,Jordin Sparks,[],2008,b8c900cc-9093-4a03-9961-debf4f2e265e,5508631d-697f-4839-a669-06637e5bcb90,233000.0,[],['pop music']
+37,Love Song,Sara Bareilles,[],2008,,e54be6b7-5c26-4b47-bb3f-c137429b9b55,259000.0,['pop'],"['pop music', 'pop rock']"
+38,Piece of Me,Britney Spears,[],2008,2731fdf6-2e3b-48ac-a6ba-10f134ebb104,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,216000.0,"['pop', 'dance', 'electronic']",['electro']
+39,Work,Kelly Rowland,[],2008,,31bea673-d23a-4889-8da1-7cb040863268,208000.0,[],['electronic music']
+40,Womanizer,Britney Spears,[],2008,1aeb96b7-73ce-3d73-b102-540a98787b3a,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,224000.0,"['pop', 'dance']","['electropop', 'synth-pop', 'popular music']"
+41,My People,The Presets,[],2008,09a49c4b-2215-4f5e-91cd-3c7ca0fd571a,f5b8ea5f-c269-45dd-9936-1fedf3c56851,268000.0,[],[]
+42,Don't Hold Back,The Potbelleez,[],2008,037f3d30-a7ad-3e05-a3d2-530c603b3a4b,3ddf3e25-0e3e-4c5f-a526-6f117df8f39d,206000.0,[],['dance music']
+43,You,Wes Carr,[],2008,,0356d04d-ffcf-42d7-9491-261e67e795b6,198000.0,[],['pop rock']
+44,If I Were a Boy,Beyonce,[],2008,e1530a79-6b82-437d-93da-2a989644a9d7,859d0860-d480-4efd-970c-c05d5f1776b8,287000.0,"['pop', 'rnb', 'soul']",[]
+45,Live Your Life,T.I.,['Rihanna'],2008,5c7d8be2-1363-4f30-8a9b-6a1e52e1b014,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,243000.0,"['hip hop', 'rap']","['pop music', 'hip-hop', 'contemporary R&B']"
+46,This Heart Attack,Faker,[],2008,817cda12-e52f-4889-bbd5-9d0b3f53e9b7,405e32bb-268c-4ace-948c-10b03b518fc5,229000.0,[],['indie rock']
+47,No One,Alicia Keys,[],2008,,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,254000.0,"['soul', 'rnb', 'pop']","['soul', 'contemporary R&B']"
+48,That's Not My Name,The Ting Tings,[],2008,,e618770f-e994-41c3-856f-1eedf56b6d74,311000.0,[],['dance-pop']
+49,Kiss Kiss,Chris Brown,['T-Pain'],2008,413a1b8c-73f2-39e2-b0dc-634c6d8da070,c234fa42-e6a6-443e-937e-2f4b073538a3,250000.0,[],"['hip-hop', 'dance music', 'contemporary R&B']"
+50,7 Things,Miley Cyrus,[],2008,5ba910c0-b6a0-47cb-8dc3-645615cdf5e8,7e9bd05a-117f-4cce-87bc-e011527a8b18,213000.0,[],['pop-punk']
+51,Love in This Club,Usher,['Young Jeezy'],2008,da48de7b-2f61-4a95-b401-5c79c3d8e088,3414d446-735a-443c-931f-10634f57e5b9,261000.0,[],['contemporary R&B']
+52,White Noise,The Living End,[],2008,9139b67f-8423-4e0d-9e80-2add5adfb1a0,cca49e52-1f1e-4c16-9e40-fedebcea065e,224000.0,[],"['alternative rock', 'rock music']"
+53,Take Me on the Floor,The Veronicas,[],2008,032d55f9-d8a6-487e-8774-ab2e02a59187,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,210000.0,[],['electropop']
+54,Sober,Pink,[],2008,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,251000.0,[],['pop rock']
+55,Better in Time,Leona Lewis,[],2008,6e797387-5094-4fe0-95c5-bc781e5cd3ad,8d552dfc-648f-401f-90de-e925013ca537,234000.0,[],"['pop music', 'contemporary R&B']"
+56,Like Only a Woman Can,Brian McFadden,[],2008,1864b53c-9425-455d-bd9c-038d21aeb031,b64575d5-28c2-4e1c-8176-3c2a0a473fda,234000.0,[],['soft rock']
+57,Cry for You,September,[],2008,6c35fe9a-55b6-3172-931b-204ea02da188,f97b55a8-7d03-4ebe-a277-a9cadc2a9f86,211000.0,"['dance', 'pop', 'electronic', 'house']",[]
+58,Paralyzer,Finger Eleven,[],2008,b02ee169-feb3-42f1-9951-bef3c7822074,0b76f632-25fa-4681-9862-86499c28afd3,208000.0,"['rock', 'alternative']",['alternative rock']
+59,Stop and Stare,OneRepublic,[],2008,,c33c2065-b1c3-4406-b066-d33a9e2ea71a,224000.0,[],['pop rock']
+60,This Love,The Veronicas,[],2008,00be523e-723b-4adf-b0cf-a095caee1f84,fd1baeb3-0ee9-4838-b4c7-615c78d68d10,179000.0,[],['synth-pop']
+61,I Hate This Part,The Pussycat Dolls,[],2008,,1fda852b-92e9-4562-82fa-c52820a77b23,218000.0,[],['pop music']
+62,Elevator,Flo Rida,['Timbaland'],2008,88e313a5-50cb-49ae-9857-a332b9b716b1,4593d49a-7f67-46ba-9ec0-126bd676286f,235000.0,[],[]
+63,Whatever You Like,T.I.,[],2008,cdd8681c-b3fe-45eb-979c-9e7f0300d0c0,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,249000.0,"['rap', 'hip hop']","['Southern hip-hop', 'pop rap', 'dirty rap', 'dirty south']"
+64,Walking on a Dream,Empire of the Sun,[],2008,,ac7e838c-3d95-47c2-92a9-81767ad7c217,196000.0,"['electronic', 'indie', 'pop']","['electronic music', 'synth-pop']"
+65,Wanna Be Startin' Somethin' 2008,Michael Jackson with Akon,[],2008,024299d1-e2b5-4faf-a65e-51bf12817115,f27ec8db-af05-4f36-916e-3d57f91ecf5e,0.0,[],[]
+66,Dance Wiv Me,Dizzee Rascal,['Calvin Harris and Chrome'],2008,d5c04164-2f44-4267-9e2e-72ec405533ad,1a99cc88-aea3-4fe3-96b9-20791667f65f,204000.0,[],[]
+67,This Boy's in Love,The Presets,[],2008,41a133c4-c19a-4d3a-8321-485b5d553c30,f5b8ea5f-c269-45dd-9936-1fedf3c56851,251000.0,[],[]
+68,Violet Hill,Coldplay,[],2008,ba4bcf45-fcdf-4ff7-a19e-be3fdffae337,cc197bad-dc9c-440d-a5b5-d52ba2e14234,202000.0,[],"['alternative rock', 'blues rock']"
+69,If I Never See Your Face Again,Maroon 5,['Rihanna'],2008,06ba4d33-42a0-30dd-a8b4-30b382c37745,0ab49580-c84f-44d4-875f-d83760ea2cfe,200000.0,[],['pop rock']
+70,I Don't Do Surprises,Axle Whitehead,[],2008,2f0e6366-f6d3-3bb6-b5cf-89e8aa57f8bc,b3f1d27a-d093-4e5c-9812-e3fbed93d91f,189000.0,[],['pop music']
+71,I Never Liked You,Rogue Traders,[],2008,0692fdc1-d9f0-48c2-a312-7e6ad4af3bb7,7536267d-77be-4984-b7b6-59f24afe82dd,209000.0,[],['pop rock']
+72,Mercy,Duffy,[],2008,,2c4dae8c-e591-49e0-9c5a-62b310a15788,220000.0,[],['pop music']
+73,Alive,Natalie Bassingthwaighte,[],2008,701440f0-dbff-3bff-a5dd-237d255a4020,e1cbcc15-5890-4b88-877d-1bb97e75ebcb,212000.0,[],[]
+74,Single Ladies (Put a Ring on It),Beyonce,[],2008,0c2211eb-59f3-4a1d-ab91-cdc0b203329c,859d0860-d480-4efd-970c-c05d5f1776b8,192000.0,"['pop', 'rnb', 'dance']",[]
+75,Won't Go Home Without You,Maroon 5,[],2008,20082842-e27b-4785-b092-0c9bd7e05b6d,0ab49580-c84f-44d4-875f-d83760ea2cfe,229000.0,"['pop', 'rock', 'alternative']",['pop rock']
+76,Naughty Girl,Mr G {Chris Lilley},[],2008,,,,[],[]
+77,Are You With Me,The Potbelleez,[],2008,c01ab0e0-3e2a-4857-bd6a-918a3d4661a3,3ddf3e25-0e3e-4c5f-a526-6f117df8f39d,316000.0,[],[]
+78,One Step at a Time,Jordin Sparks,[],2008,5a496500-62af-4de4-be14-fe7717d37fb4,5508631d-697f-4839-a669-06637e5bcb90,146000.0,[],['pop music']
+79,Into the Night,Santana,['Chad Kroeger'],2008,0989f325-62d5-3380-a2fe-286bf80158a6,9a3bf45c-347d-4630-894d-7cf3e8e0b632,222000.0,[],['Latin rock']
+80,Talk Like That,The Presets,[],2008,587ad982-1b67-37b2-aee6-979862b1f0c5,f5b8ea5f-c269-45dd-9936-1fedf3c56851,220000.0,[],[]
+81,Get Shaky,The Ian Carey Project,[],2008,b848e54d-0628-4105-97df-cb3bd23b60c4,e81f5254-d5ac-4e55-a901-342cb5940aa4,178000.0,[],[]
+82,I Don't Care,Fall Out Boy,[],2008,cfc133df-50ca-4bc6-bee1-5fb16ed2a24f,516cef4d-0718-4007-9939-f9b38af3f784,218000.0,"['rock', 'alternative', 'emo']",['alternative rock']
+83,The Way I Are,Timbaland,['Keri Hilson and D.O.E.'],2008,014cf1c4-0e5a-3ecc-9b8e-bfd25944a07a,daa09819-5da5-4c7a-8bef-eb372bb27ff1,181000.0,"['dance', 'rnb', 'pop']","['pop music', 'electropop']"
+84,In the Ayer,Flo Rida,['Will.i.am'],2008,,4593d49a-7f67-46ba-9ec0-126bd676286f,0.0,[],"['electro hop', 'contemporary R&B', 'hip-hop']"
+85,How Far We've Come,Matchbox Twenty,[],2008,bc9fdb42-57be-41cd-8501-204d12fc4c1a,75af9d25-cf32-49c0-9192-60bd8e9784e6,211000.0,[],[]
+86,Big Girl (You Are Beautiful),Mika,[],2008,01675fe1-1a6c-3abc-a7b4-14352b5a051d,e4914285-d20d-4fc2-ae32-42cba8aeeed0,248000.0,[],[]
+87,Kansas City,Sneaky Sound System,[],2008,6ce96ffc-2e02-39f6-803d-873a93dd152b,495fe320-091e-43eb-9321-54a20e7c3f98,236000.0,[],['electronica']
+88,Shadow of the Day,Linkin Park,[],2008,efae128c-cd78-4b38-b61c-6f8956379cd3,f59c5520-5f46-4d2c-b2c4-822eabf53419,289000.0,"['rock', 'alternative']",['alternative rock']
+89,Fall for You,Secondhand Serenade,[],2008,52941eb7-0312-4450-8d86-1ba4af597285,c4caa34e-57b5-432b-ad9d-7e6543944d96,183000.0,[],['pop rock']
+90,Let it Rock,Kevin Rudolf,['Lil Wayne'],2008,00cd6bf0-837b-318c-a850-d53fc9d5b9dd,2a0cce30-071b-4ba9-bf78-ae76c9eb7316,181000.0,"['dance', 'hip hop', 'rock']",[]
+91,Love Lockdown,Kanye West,[],2008,11bc5236-54da-4009-a0ed-589e9cb83cb9,,270000.0,"['hip hop', 'pop']",['electropop']
+92,Party People,Nelly,['Fergie'],2008,46dc8fea-3ba4-4423-8c0f-cf57ecef0e5f,811900b2-68fc-4d41-8bad-69b7a1f4d628,238000.0,[],"['crunk', 'hip-hop', 'contemporary R&B']"
+93,When I'm Gone,Simple Plan,[],2008,bab9c904-0ccd-41f8-9006-e1f1a191ac50,b345af35-205e-4eca-8006-029e5c20127e,222000.0,[],['alternative rock']
+94,Beat It,Fall Out Boy,['John Mayer'],2008,23ee9b6c-89d9-4186-81b8-679bad7a58e4,516cef4d-0718-4007-9939-f9b38af3f784,228000.0,[],[]
+95,Gotta Be Somebody,Nickelback,[],2008,1730abd6-e5bd-3757-bd00-dafa28e4eb5a,bc710bcf-8815-42cf-bad2-3f1d12246aeb,253000.0,[],['pop rock']
+96,Circus,Britney Spears,[],2008,2b9241b3-a7c4-4866-a15d-17344cf44541,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,189000.0,"['pop', 'dance']","['dance-pop', 'popular music', 'electropop', 'dance-pop']"
+97,Happy Ending,Mika,[],2008,fef3a558-ff27-4e19-bd0a-43efa4955186,e4914285-d20d-4fc2-ae32-42cba8aeeed0,270000.0,[],['pop music']
+98,Kids,MGMT,[],2008,,c485632c-b784-4ee9-8ea1-c5fb365681fc,303000.0,"['electronic', 'indie', 'alternative', 'dance']",[]
+99,Clumsy,Fergie,[],2008,f2da5e36-c42f-4129-ab30-90bee1da625d,4f9675d2-f6d5-486c-9b26-33dcca998500,255000.0,"['pop', 'rnb', 'dance']",['contemporary R&B']
+100,It's Not My Time,3 Doors Down,[],2008,d224fa92-e1e7-4269-a1e8-1816d3b976b5,2386cd66-e923-4e8e-bf14-2eebe2e9b973,242000.0,[],[]

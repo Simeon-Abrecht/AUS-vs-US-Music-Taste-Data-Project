@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Shape of You,Ed Sheeran,[],2017,d7500dd6-b815-4299-88c6-3fbda358f1fc,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,233000.0,['pop'],[]
+2,Despacito (Remix),Luis Fonsi & Daddy Yankee,['Justin Bieber'],2017,,,0.0,[],[]
+3,Castle on the Hill,Ed Sheeran,[],2017,5780b6fb-066f-4147-ac0e-0d8c8e812e02,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,261000.0,"['pop', 'rock']",['pop rock']
+4,Perfect,Ed Sheeran,[],2017,b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,263000.0,['pop'],['ballade']
+5,Something Just Like This,The Chainsmokers & Coldplay,[],2017,81c1ca0c-69eb-444c-9f1d-27731a53d9c3,,247000.0,[],[]
+6,Thunder,Imagine Dragons,[],2017,,012151a8-0f9a-44c9-997f-ebd68b5389f9,187000.0,"['pop', 'alternative', 'rock', 'indie']","['electropop', 'pop rock']"
+7,Galway Girl,Ed Sheeran,[],2017,04a6f0d9-2f10-4a4f-b40e-c88ebf83d890,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,170000.0,"['pop', 'country', 'folk']","['pop music', 'folk music']"
+8,Humble,Kendrick Lamar,[],2017,bdb0435f-9d43-4d62-a1c7-35ef01b82ba0,381086ea-f511-4aba-bdf9-71c753dc5077,177000.0,[],"['hip-hop', 'hip-hop']"
+9,Glorious,Macklemore,['Skylar Grey'],2017,,b6d7ec94-830c-44dd-b699-ce66556b7e55,220000.0,[],['pop rap']
+10,There's Nothing Holdin' Me Back,Shawn Mendes,[],2017,,b7d92248-97e3-4450-8057-6fe06738f735,199000.0,['pop'],['pop rock']
+11,Strip That Down,Liam Payne,['Quavo'],2017,d2b37b61-c822-49d3-bad1-59f44a6a3850,93ae8651-24ee-406c-b927-eb7cd773ae38,205000.0,[],"['pop music', 'pop rap', 'contemporary R&B']"
+12,Slow Hands,Niall Horan,[],2017,,55e6074f-ef78-4ec3-8fff-bd1b8cc8c14a,188000.0,[],[]
+13,I'm the One,DJ Khaled,"['Justin Bieber', 'Quavo', 'Chance the Rapper', 'Lil Wayne']",2017,35d03a98-805b-4752-8a44-1762e46ba5d1,081a2d60-9791-4e05-a075-f1890355eeee,288000.0,[],"['pop rap', 'hip-hop']"
+14,Stay,Zedd & Alessia Cara,[],2017,,,210000.0,[],[]
+15,Issues,Julia Michaels,[],2017,,4757df70-6c3e-46b8-99c0-a68644595c9a,176000.0,[],['pop music']
+16,Rockstar,Post Malone,['21 Savage'],2017,ff18a32b-47eb-4335-88bd-f22c768ecf96,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,186000.0,[],['trap music']
+17,I Don't Wanna Live Forever,Zayn & Taylor Swift,[],2017,887088bc-72da-400b-b35f-bf97f5bf903a,,244000.0,[],[]
+18,Symphony,Clean Bandit,['Zara Larsson'],2017,408507c8-6079-41f6-9574-833e684881cf,dacc2d64-7e59-42a8-87a9-10c53919aff2,0.0,[],['dance-pop']
+19,Havana,Camila Cabello,['Young Thug'],2017,90aaf59b-b1dd-4a4f-b7e2-4c8cac6c7617,01b8b5bf-06cb-45da-85fb-61ada72fcd69,217000.0,[],"['pop music', 'Latin music']"
+20,It Ain't Me,Kygo & Selena Gomez,[],2017,9d23a40d-c31a-42b0-b5c9-760059a9aceb,,213000.0,[],[]
+21,Unforgettable,French Montana,['Swae Lee'],2017,cdef65b7-4a44-407f-b962-2315e40142d0,45dc5f07-6609-4760-a933-8c9e0f858d05,233000.0,"['rap', 'hip hop', 'rnb']",[]
+22,New Rules,Dua Lipa,[],2017,76ac63ee-9b00-4f70-b443-1c0c3bd1e445,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,209000.0,"['pop', 'dance']",[]
+23,Green Light,Lorde,[],2017,,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,409000.0,"['pop', 'dance']",['synth-pop']
+24,Attention,Charlie Puth,[],2017,19b6d048-f981-40e9-8235-a5acf969e5df,525f1f1c-03f0-4bc8-8dfd-e7521f87631b,208000.0,"['pop', 'rnb']",['pop rock']
+25,That's What I Like,Bruno Mars,[],2017,,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,206000.0,"['funk', 'rnb']","['hip-hop soul', 'funk', 'new jack swing', 'contemporary R&B']"
+26,Mama,Jonas Blue,['William Singe'],2017,1f94497b-757b-4f74-9fa0-e79a0df0c0b4,17678771-5799-4017-851a-319f25b6948d,184000.0,[],['tropical house']
+27,Body Like a Back Road,Sam Hunt,[],2017,021b8029-aeec-4dda-b5df-0684afc317ca,be9a991d-319c-4a58-b115-ee3f4bb3613d,164000.0,[],"['country pop', 'country music']"
+28,Feels,Calvin Harris,"['Pharrell Williams', 'Katy Perry', 'Big Sean']",2017,1ebe7333-2e4c-4098-8a3c-bd240dec8147,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,224000.0,[],"['ska', 'disco-funk']"
+29,Wild Thoughts,DJ Khaled,"['Rihanna', 'Bryson Tiller']",2017,a494c1f9-42e7-4806-a755-d75c8e68b46a,081a2d60-9791-4e05-a075-f1890355eeee,204000.0,[],['pop music']
+30,Rockabye,Clean Bandit,"['Sean Paul', 'Anne-Marie']",2017,9a9de254-182c-4b1d-8c1c-4b005b047467,dacc2d64-7e59-42a8-87a9-10c53919aff2,268000.0,[],['dancehall']
+31,Paris,The Chainsmokers,[],2017,cf83834e-86c9-4bff-a115-dac833cb2367,91a81925-92f9-4fc9-b897-93cf01226282,193000.0,"['pop', 'electronic', 'dance']",['synth-pop']
+32,Chameleon,Pnau,[],2017,0b10a7c9-37ad-48bd-b0e4-792eab6ec7d6,b04df404-eefa-4ae4-9f3e-ba220d9dce16,198000.0,[],['electronic music']
+33,What About Us,Pink,[],2017,,9c6158ed-53d0-4094-b424-b641c5cab36d,234000.0,[],['electronic dance music']
+34,Waves,Dean Lewis,[],2017,,21e9df94-3c2c-4c15-b069-fefa58bcd650,241000.0,[],[]
+35,1-800-273-8255,Logic,"['Alessia Cara', 'Khalid']",2017,60dabc59-d1c0-461c-a969-0ddafebbf144,96a83a1f-f78f-4f1c-bf89-9b8dd3d91872,250000.0,['rap'],"['pop music', 'conscious hip-hop', 'contemporary R&B', 'political hip-hop', 'pop rap']"
+36,Congratulations,Post Malone,['Quavo'],2017,03e5d209-8dfe-4ec6-8c73-ee1e1e9541bf,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,270000.0,"['rap', 'hip hop']","['trap music', 'trap music', 'popular music']"
+37,Call on Me (Ryan Riback Remix),Starley,[],2017,436c5484-91c0-40ad-81fc-2a9e71d1279e,6703863e-2dda-4079-90ab-ef7b72d14881,219000.0,[],[]
+38,Young Dumb \& Broke,Khalid,[],2017,,,,[],[]
+39,I Feel it Coming,The Weeknd,['Daft Punk'],2017,4b7c17c9-143e-4ef0-affb-e740a5bc6811,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,269000.0,"['rnb', 'pop']",[]
+40,Adore,Amy Shark,[],2017,0fac89df-4142-41cd-bc75-9e07cb75179e,e6bbfac7-47e5-4faf-a3e2-42fdedff72d3,185000.0,[],[]
+41,Slide,Calvin Harris,"['Frank Ocean', 'Migos']",2017,a043ebef-201b-49c4-9c2f-d9256559939e,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,230000.0,[],"['pop music', 'rhythm and blues', 'funk']"
+42,Starboy,The Weeknd,['Daft Punk'],2017,7d24f194-f748-48b9-873f-42827f8e6315,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,230000.0,"['rnb', 'pop', 'electronic']","['contemporary R&B', 'contemporary R&B', 'electropop']"
+43,Sorry Not Sorry,Demi Lovato,[],2017,3f3c6d61-c3bb-4630-9127-9b9d783777b6,faf4cefb-036c-4c88-b93a-5b03dd0a0e6b,202000.0,"['pop', 'rnb']","['pop music', 'contemporary R&B']"
+44,Your Song,Rita Ora,[],2017,a03a770b-b1b7-493b-868a-5f5e22dd9c28,c9dd033c-0270-463c-b3ec-f4b7712486fe,180000.0,[],['pop music']
+45,Say You Won't Let Go,James Arthur,[],2017,ab8d53bc-8732-4ae3-a65d-32ca5578d529,ac452d5e-e3d9-4759-b045-f876b631a2ca,211000.0,"['pop', 'rnb']",[]
+46,Fresh Eyes,Andy Grammer,[],2017,513037f8-9522-469f-8083-3ac9dea77c5b,9e60ea29-9607-4f7d-aa96-2092ef41f0d3,197000.0,[],['pop music']
+47,Malibu,Miley Cyrus,[],2017,a31133ca-aa1d-4a39-aa97-3696f2ea5c24,7e9bd05a-117f-4cce-87bc-e011527a8b18,231000.0,[],"['soft rock', 'pop rock', 'indie pop']"
+48,Scared to Be Lonely,Martin Garrix & Dua Lipa,[],2017,aeb7e171-d54a-47f0-a67a-eb2641e92039,,217000.0,[],[]
+49,Redbone,Childish Gambino,[],2017,b728e7b1-ab7d-437c-b807-6eb4f3ad8f01,7fb57fba-a6ef-44c2-abab-2fa3bdee607e,388000.0,"['funk', 'soul']",[]
+50,Silence,Marshmello,['Khalid'],2017,b349448d-79a5-45b8-a7d3-36f86e6a6a6a,301b45a4-b8b9-410e-8344-4b4eaf96691a,181000.0,"['rnb', 'rap', 'electronic']",['dance music']
+51,Closer,The Chainsmokers,['Halsey'],2017,fb7963d0-d06f-45ca-a647-2b00a963179f,91a81925-92f9-4fc9-b897-93cf01226282,245000.0,['pop'],"['electronic dance music', 'future bass']"
+52,All Time Low,Jon Bellion,[],2017,0df44caf-1740-4313-b845-7a93ad87b4f3,2bd8101a-11c3-42d5-a9bd-6a3b26445f7e,212000.0,[],[]
+53,Too Good at Goodbyes,Sam Smith,[],2017,,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,201000.0,['pop'],['pop music']
+54,You Don't Know Me,Jax Jones,['Raye'],2017,08f53f04-a623-40d1-b042-6904ef1dc966,a2507d4d-3387-4d31-a6e8-f2c9794fb37e,85000.0,[],[]
+55,Feel it Still,Portugal. The Man,[],2017,,3599a39e-4e10-4cb5-90d4-c8a015ebc73b,177000.0,"['pop', 'indie', 'funk']",[]
+56,Sign of the Times,Harry Styles,[],2017,03296d3a-6bee-4bcb-84dc-72d8307b1f4a,7eb1ce54-a355-41f9-8d68-e018b096d427,335000.0,"['rock', 'alternative', 'pop', 'indie']","['glam rock', 'soft rock', 'pop rock']"
+57,Don't Leave,Snakehips & Mo,[],2017,,,0.0,[],[]
+58,Praying,Kesha,[],2017,7f76b5ed-232f-4f30-b0c3-2f33112e206c,fab34286-b8e1-4879-bce3-194e1358fbd2,229000.0,[],['pop music']
+59,I Like Me Better,Lauv,[],2017,03ad40c6-3464-48a4-9a45-c84a3971962a,c0ef2ba5-a7b7-40ea-bd27-30acccfcac11,197000.0,"['pop', 'indie']","['electronic music', 'pop music', 'electropop']"
+60,Pretty Girl (Cheat Codes \& Cade Remix),Maggie Lindemann,[],2017,,,,[],[]
+61,Look What You Made Me Do,Taylor Swift,[],2017,0e245f43-c09c-41f3-95e2-1a84c17a83af,20244d07-534f-4eff-b4d4-930878889970,211000.0,"['pop', 'dance']","['pop music', 'electroclash', 'electropop', 'dance-pop']"
+62,Most Girls,Hailee Steinfeld,[],2017,2c13963e-8a3c-45bf-bdb7-0956bf7723dc,373f5bcf-f1ce-4515-83ed-0b8ed636bc14,204000.0,[],['electropop']
+63,Friends,Justin Bieber & BloodPop,[],2017,,,189000.0,[],[]
+64,Mask Off,Future,[],2017,cf19d08f-f9ca-463f-bb0c-518c9075ce9f,48262e82-db9f-4a92-b650-dfef979b73ec,204000.0,['hip hop'],[]
+65,No Promises,Cheat Codes,['Demi Lovato'],2017,,8b579b9a-84ef-4975-884f-19e988cfc181,0.0,[],"['electronic dance music', 'electronic music']"
+66,Passionfruit,Drake,[],2017,84fb050a-4fb9-4852-831a-7fe26d239379,9fff2f8a-21e6-47de-a2b8-7f449929d43f,298000.0,"['rnb', 'house', 'dance']",[]
+67,Dusk Till Dawn,Zayn,['Sia'],2017,520c6e20-297b-448a-a106-e73bb22d2885,,239000.0,[],[]
+68,Swalla,Jason Derulo,"['Nicki Minaj', 'Ty Dolla Sign']",2017,,6de0f914-3e60-4418-be3b-42e0feb6eb4d,216000.0,[],"['dancehall', 'dance music']"
+69,2U,David Guetta,['Justin Bieber'],2017,,302bd7b9-d012-4360-897a-93b00c855680,194000.0,[],['electronic dance music']
+70,What Lovers Do,Maroon 5,['SZA'],2017,994f3e78-fe83-4bcb-86d9-e538bca3c2d6,0ab49580-c84f-44d4-875f-d83760ea2cfe,199000.0,[],['pop music']
+71,Can't Stop the Feeling!,Justin Timberlake,[],2017,2bb74cf7-acd5-4f7b-9be1-1c9eceb96a3d,596ffa74-3d08-44ef-b113-765d43d12738,236000.0,[],"['pop music', 'funk']"
+72,Believer,Imagine Dragons,[],2017,,012151a8-0f9a-44c9-997f-ebd68b5389f9,204000.0,['rock'],"['electropop', 'pop rock']"
+73,I Fall Apart,Post Malone,[],2017,0244aeee-a350-40a7-a904-c5ca8e76bdd5,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,224000.0,"['rap', 'hip hop']",['hip-hop']
+74,Lovesick,Mura Masa,['ASAP Rocky'],2017,1cb61b94-207b-4d78-8245-72fb04f9147f,d2a76e1b-cecc-4500-b445-d55591821cd3,190000.0,[],[]
+75,Now or Never,Halsey,[],2017,00507004-7023-4491-bb17-f9a407f53d39,3377f3bb-60fc-4403-aea9-7e800612e060,215000.0,"['pop', 'rnb', 'alternative']","['contemporary R&B', 'pop music']"
+76,How Far I'll Go,Alessia Cara,[],2017,0ae8c573-0bd9-4f89-8a80-6a264bc26fe0,97e69730-3791-423b-9770-287261588854,175000.0,[],"['show tune', 'soul']"
+77,Touch,Little Mix,[],2017,0271a46f-4593-4b1d-90d0-9edac9336290,38f59974-2f4d-4bfa-b2e3-d2696de1b675,213000.0,[],['dance-pop']
+78,Stranger,Peking Duk,['Elliphant'],2017,,a5bf304f-dce8-4482-b912-3921c23e40c8,206000.0,[],[]
+79,Capsize,Frenship & Emily Warren,[],2017,290cfef7-6fbc-45ef-80ef-d2b8dd454cba,,237000.0,[],[]
+80,Bad Liar,Selena Gomez,[],2017,7ef86173-771f-481a-a8f4-de1d39bc1419,e4bc69e2-a064-4f93-ada1-f7f209cc1cc3,214000.0,[],['pop music']
+81,Moments,Bliss N Eso,['Gavin James'],2017,0ebe07a7-afb8-47c2-a02c-c29bf602d505,ef57ad48-2ae9-4760-b2ac-492cf7959c48,220000.0,[],[]
+82,24K Magic,Bruno Mars,[],2017,5dc11453-1bce-42d0-a7e3-0ce4d5c43da8,afb680f2-b6eb-4cd7-a70b-a63b25c763d5,225000.0,"['funk', 'pop']","['funk', 'electro']"
+83,Fallin',Jessica Mauboy,[],2017,4e114dcb-54aa-4e39-9c7f-ab9ee88eccbf,18f719e7-e9b4-4216-8869-9083ebc23f7d,188000.0,[],"['reggae fusion', 'blue-eyed soul', 'synth-pop']"
+84,Chained to the Rhythm,Katy Perry,['Skip Marley'],2017,43180bc5-2d97-425d-a43c-2552e200aed3,122d63fc-8671-43e4-9752-34e846d62a9c,228000.0,"['pop', 'dance']",['pop music']
+85,Mi Gente,J Balvin & Willy William,[],2017,,,186000.0,[],[]
+86,The Cure,Lady Gaga,[],2017,7b5271db-29e1-4762-93f7-ea7aadc71fc1,650e7db6-b795-4eb5-a702-5ea2fc46c848,211000.0,[],['pop music']
+87,Scars to Your Beautiful,Alessia Cara,[],2017,,97e69730-3791-423b-9770-287261588854,230000.0,"['pop', 'rnb']",['synth-pop']
+88,Good Old Days,Macklemore,['Kesha'],2017,,b6d7ec94-830c-44dd-b699-ce66556b7e55,240000.0,[],['pop music']
+89,Human,Rag'n'Bone Man,[],2017,,,197000.0,"['soul', 'blues', 'indie']","['alternative rock', 'soul', 'soul', 'blues', 'contemporary R&B', 'blues rock']"
+90,Lay it on Me,Vance Joy,[],2017,13d14745-0dc4-4acc-8a8b-89f65dafc431,df36f6db-5987-46ed-9d02-0cf36ed4e060,215000.0,[],[]
+91,Play That Song,Train,[],2017,29e69e07-d6c2-48f3-b721-9b4f116849a7,bfd5aec5-62a2-4560-a316-7c46c17babda,201000.0,[],[]
+92,There for You,Martin Garrix & Troye Sivan,[],2017,1dc62d9d-486f-4864-8d1c-0e601b189f13,,220000.0,[],[]
+93,Back to You,Louis Tomlinson,"['Bebe Rexha', 'Digital Farm Animals']",2017,7e017650-7004-494e-b89d-a4c6799e561f,6d390061-b3cd-4db3-b905-e56b7f5357fd,190000.0,[],[]
+94,Cocoon,Milky Chance,[],2017,2939e324-b67b-42c8-9365-2b579340ed4e,6d230d98-fb8d-4421-a6e8-daca4e55d53e,247000.0,[],[]
+95,Water Under the Bridge,Adele,[],2017,cf672bfe-7ba0-4a02-99cb-38ed361f1b99,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,243000.0,"['pop', 'soul']",['disco-pop']
+96,Sexual,Neiked,['Dyo {Ms D}'],2017,5bfd356c-51b0-4521-a66c-7461d455f520,45d2e2d4-a8eb-402b-9a49-2cc117232feb,188000.0,[],[]
+97,Never Be Like You,Flume,['Kai'],2017,1f2f9a79-ec30-4157-b645-ab402890d59d,c6cf91a0-fb48-4031-a375-fd2006133c5c,233000.0,"['electronic', 'pop', 'rnb']","['alternative R&B', 'future bass']"
+98,Let Me Go,Hailee Steinfeld & Alesso,"['Florida Georgia Line', 'Watt']",2017,,,0.0,[],[]
+99,Happier,Ed Sheeran,[],2017,e4df7ea5-22e0-4398-952f-6b6af830380f,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,207000.0,[],['pop music']
+100,Shed a Light,Robin Schulz & David Guetta,['Cheat Codes'],2017,,,192000.0,[],[]

@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,As it Was,Harry Styles,[],2022,ca05e074-1c11-4587-ba3d-cc6c8b8c3714,7eb1ce54-a355-41f9-8d68-e018b096d427,165000.0,['pop'],[]
+2,Heat Waves,Glass Animals,[],2022,,20395131-fbde-43ce-b141-b700cfdae99c,238000.0,"['indie', 'pop', 'rnb']","['contemporary R&B', 'psychedelic pop', 'pop rock']"
+3,Stay,The Kid Laroi & Justin Bieber,[],2022,14d20e85-6c24-44a8-8e98-1d7237732c55,,141000.0,[],[]
+4,Cold Heart (Pnau Remix),Elton John & Dua Lipa,[],2022,a3906438-a1b2-403d-a7c2-7f48fca0a586,,202000.0,[],[]
+5,Bad Habits,Ed Sheeran,[],2022,2d24a8d7-66ad-40b2-8ae7-5f6fc9981646,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,230000.0,"['pop', 'dance']","['electropop', 'dance-pop']"
+6,Shivers,Ed Sheeran,[],2022,d199de3b-e552-410e-b45e-eaf178b763dc,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,207000.0,['pop'],['dance-pop']
+7,Where Are You Now,Lost Frequencies & Calum Scott,[],2022,0fdb02ae-22a9-4f9b-bed0-75ee8c884b21,,149000.0,[],[]
+8,First Class,Jack Harlow,[],2022,b6fc6286-4b1b-4ac9-917a-f1238caeef20,134cb0bc-06fa-42f7-8078-b0c858349975,173000.0,['rap'],['hip-hop']
+9,I Ain't Worried,OneRepublic,[],2022,6dd28fe4-9ed1-4cb1-a5bb-6959f8708bd5,c33c2065-b1c3-4406-b066-d33a9e2ea71a,148000.0,"['pop', 'electronic', 'dance']",['pop music']
+10,About Damn Time,Lizzo,[],2022,29c1a473-2412-453d-8698-34a70f71c587,8fb5370b-9568-4b61-9da5-2aa12c9928db,191000.0,"['pop', 'funk']","['disco', 'funk']"
+11,Running Up That Hill,Kate Bush,[],2022,,4b585938-f271-45e2-b19a-91c634b5e396,302000.0,"['pop', 'alternative']",['popular music']
+12,ABCDEFU,Gayle,[],2022,920dd9ae-190a-4026-9189-410ed9b82e48,18fa2604-c608-4e1a-9b9d-05d7360c5817,168000.0,[],"['pop rock', 'pop-punk']"
+13,Ghost,Justin Bieber,[],2022,0b57f0ad-39c2-4880-a660-6e6eea7620c6,e0140a67-e4d1-4f13-8a01-364355bee46e,153000.0,"['electronic', 'pop', 'dance']",['pop rock']
+14,Levitating,Dua Lipa,['DaBaby'],2022,957df7c5-9c3a-4dbc-b139-f339f2378986,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,203000.0,['pop'],"['nu-disco', 'electro-disco']"
+15,Save Your Tears,The Weeknd,[],2022,0f431b3e-ddb0-4cea-9b32-e59d47b1ae8c,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,215000.0,"['pop', 'rnb']",['synth-pop']
+16,Industry Baby,Lil Nas X & Jack Harlow,[],2022,ffb0e2ba-9853-44de-978d-bd2f3537dd43,,212000.0,[],[]
+17,Easy on Me,Adele,[],2022,327f17da-5416-4ba6-90a4-ff4e4cf068c7,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,225000.0,"['pop', 'soul']",['pop music']
+18,Mr. Brightside,The Killers,[],2022,,95e1ead9-4d31-4808-a7ac-32c3614c116b,222000.0,"['rock', 'indie', 'alternative']",['indie rock']
+19,Unholy,Sam Smith & Kim Petras,[],2022,1a774967-444d-42de-aa65-b6160d1205e4,,156000.0,[],[]
+20,Big Energy,Latto,[],2022,0f35f080-edf1-4353-b09d-a6b8cd1bc0cf,355cc194-b8db-4af2-8678-c7ad54213f4b,172000.0,[],['pop rap']
+21,Good 4 U,Olivia Rodrigo,[],2022,97aa087b-5fa2-42ff-bd48-d162862cdc95,6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,178000.0,"['rock', 'pop']","['emo', 'grunge', 'pop rock', 'pop-punk', 'teen pop']"
+22,Enemy,Imagine Dragons & JID,[],2022,,,0.0,[],[]
+23,That's What I Want,Lil Nas X,[],2022,7b5e8e32-53f6-49ee-b90e-00197cede708,0b30341b-b59d-4979-8130-b66c0e475321,144000.0,[],[]
+24,Bad Habit,Steve Lacy,[],2022,5890fa18-2364-4346-9b55-30c24be4bb58,ca9766a0-1c30-43e6-a213-bac1334efc4a,232000.0,"['indie', 'rnb']","['contemporary R&B', 'bedroom pop']"
+25,I'm Good (Blue),David Guetta & Bebe Rexha,[],2022,318034d7-1d08-4137-9585-1cb2aa04e987,,175000.0,[],[]
+26,Glimpse of Us,Joji,[],2022,c96c470a-829d-4180-9e39-b771fd5649fa,74922d42-c3ec-4f7d-8a24-20da6eda6ba6,229000.0,['pop'],['pop music']
+27,I Like You (A Happier Song),Post Malone,['Doja Cat'],2022,d40fcafc-5242-4663-b029-215ea70352f4,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,192000.0,[],['pop music']
+28,Down Under,Luude,['Colin Hay'],2022,02b6a410-f135-4955-9a8a-c1055ccb8cac,042f62fc-6c2e-4b8b-8114-8dab7f974631,158000.0,[],[]
+29,Blinding Lights,The Weeknd,[],2022,,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,200000.0,['pop'],"['electropop', 'electropop', 'synthwave', 'synthwave']"
+30,Sunroof,Nicky Youre & Dazy,[],2022,09c47733-a6a0-440f-a832-42f31d580b5a,,163000.0,[],[]
+31,Thousand Miles,The Kid Laroi,[],2022,9c83a3d6-dece-4806-b208-1db4a0e56d6f,80609a00-b394-4a49-975b-2db6b543fa97,160000.0,[],['pop music']
+32,Happier Than Ever,Billie Eilish,[],2022,0107f9aa-0468-450c-a5e0-e9e928ba4269,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,298000.0,"['rock', 'pop']","['emo', 'pop music', 'soul', 'electropop', 'downtempo', 'pop-punk', 'blue-eyed soul']"
+33,Vegas,Doja Cat,[],2022,884cc074-7e5f-4b69-af71-99d556675ad5,5df62a88-cac9-490a-b62c-c7c88f4020f4,183000.0,[],['hip-hop']
+34,Kiss Me More,Doja Cat,['SZA'],2022,1088b668-b74e-446b-bdf2-a1f471d67f1b,5df62a88-cac9-490a-b62c-c7c88f4020f4,207000.0,[],"['contemporary R&B', 'dance-pop', 'bubblegum music', 'pop rap', 'pop music']"
+35,Dreams,Fleetwood Mac,[],2022,,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,257000.0,[],"['soft rock', 'soft rock']"
+36,Do it to It,Acraze,['Cherish'],2022,f8ee65bc-a0a5-4e9c-9501-28e7f5255b26,e21e0137-b42d-44a5-abd6-c6ac160d0d7d,157000.0,[],[]
+37,Late Night Talking,Harry Styles,[],2022,fadbe78b-7421-46da-802a-f72d139ea15f,7eb1ce54-a355-41f9-8d68-e018b096d427,177000.0,"['pop', 'dance', 'rnb']",['contemporary R&B']
+38,We Don't Talk About Bruno,Encanto Cast,[],2022,,,0.0,[],[]
+39,She's All I Wanna Be,Tate McRae,[],2022,e860b334-5c4e-4b41-a558-5a7f1bc0c017,f9133869-f87c-459c-9aa7-2f176cda7e06,207000.0,"['pop', 'punk']",[]
+40,Lost,Frank Ocean,[],2022,3db5d6d2-0269-441e-bb32-34e2d22188d9,e520459c-dff4-491d-a6e4-c97be35e0044,233000.0,"['rnb', 'soul']",[]
+41,No Role Modelz,J. Cole,[],2022,232bceed-975b-4156-88a8-d1ddb44d1b34,875203e1-8e58-4b86-8dcb-7190faf411c5,292000.0,"['rap', 'hip hop']",['hip-hop']
+42,Woman,Doja Cat,[],2022,515ee823-3a3e-4fc3-b4d1-564bdcf49921,5df62a88-cac9-490a-b62c-c7c88f4020f4,172000.0,"['pop', 'rap', 'rnb']","['Afrobeat', 'pop music', 'reggae', 'contemporary R&B']"
+43,Anti-Hero,Taylor Swift,[],2022,6bb9e766-97a5-440f-9173-99515493d2d4,20244d07-534f-4eff-b4d4-930878889970,200000.0,['rock'],"['synth-pop', 'pop rock']"
+44,Watermelon Sugar,Harry Styles,[],2022,1ab009f2-d713-4f85-b4a3-c383c344e24a,7eb1ce54-a355-41f9-8d68-e018b096d427,174000.0,"['pop', 'rock']",[]
+45,Super Freaky Girl,Nicki Minaj,[],2022,ec81e381-c77a-4eb6-a237-fbd0e7d6038f,1036b808-f58c-4a3e-b461-a2c4492ecf1b,170000.0,['rap'],['pop rap']
+46,Bam Bam,Camila Cabello,['Ed Sheeran'],2022,,,0.0,[],['Latin pop']
+47,Following the Sun,Super-Hi & Neeka,[],2022,21e18550-4618-40a3-b314-22faa1af2a48,,205000.0,[],[]
+48,Someone You Loved,Lewis Capaldi,[],2022,,526aab94-697f-44a9-b630-41d1c0505953,182000.0,['pop'],['pop music']
+49,Perfect,Ed Sheeran,[],2022,b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,263000.0,['pop'],['ballade']
+50,B.O.T.A. (Baddest of Them All),Eliza Rose & Interplanetary Criminal,[],2022,,,226000.0,[],[]
+51,Sunflower,Post Malone & Swae Lee,[],2022,7e6c84a3-3bba-4822-b82c-c76c1769e61f,,156000.0,[],[]
+52,Under the Influence,Chris Brown,[],2022,92cd3a7e-d69b-45d8-97d8-f058c461c23d,c234fa42-e6a6-443e-937e-2f4b073538a3,184000.0,[],['contemporary R&B']
+53,The Motto,Tiesto & Ava Max,[],2022,,,0.0,[],[]
+54,Another Love,Tom Odell,[],2022,0851f234-6a50-4d26-af2d-5bb2c32dab3c,fee6a7fb-80d9-4290-a171-e48f1f20e381,257000.0,"['indie', 'pop']",['piano rock']
+55,Wait for U,Future,"['Drake', 'Tems']",2022,,,0.0,[],['contemporary R&B']
+56,Without Me,Eminem,[],2022,0d2ee7a9-b167-4baa-8be8-23c8bfddc49a,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,290000.0,"['rap', 'hip hop']",[]
+57,Missing Piece,Vance Joy,[],2022,4fbb801a-6de0-4ae1-b61a-37dccb10afc8,df36f6db-5987-46ed-9d02-0cf36ed4e060,217000.0,[],[]
+58,Iris,Goo Goo Dolls,[],2022,cef4d7e6-5f96-40ad-8841-e870a06e36e1,e2c00c56-8365-4160-9f40-a64682917633,289000.0,[],['alternative rock']
+59,Drivers License,Olivia Rodrigo,[],2022,143f1c88-f47f-4f37-b25d-614c74269dea,6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,242000.0,['pop'],"['alternative pop', 'pop music', 'power pop', 'bedroom pop']"
+60,Dance Monkey,Tones and I,[],2022,,663f33f4-8e5f-4773-93ea-493a1135de9a,209000.0,[],['electropop']
+61,Middle of the Night,Elley Duhe,[],2022,,,184000.0,[],[]
+62,Without You,The Kid Laroi,[],2022,f05d46ef-edb9-408f-9213-ff55b927dc52,80609a00-b394-4a49-975b-2db6b543fa97,161000.0,[],[]
+63,Fingers Crossed,Lauren Spencer-Smith,[],2022,8e85d922-d729-4e52-b25f-b66b2965a267,,175000.0,[],['pop music']
+64,Jimmy Cooks,Drake,['21 Savage'],2022,783e94e2-abc9-493d-9556-2624fe99225d,9fff2f8a-21e6-47de-a2b8-7f449929d43f,218000.0,[],"['hip-hop', 'trap music']"
+65,Doja,Central Cee,[],2022,1126feb5-85fd-4bf8-aa2b-676ee7177590,b0337af1-8d93-4671-b6c9-ba306bf942bf,90000.0,[],['UK drill']
+66,Something in the Orange,Zach Bryan,[],2022,95a87931-919e-4364-934a-24b70cf9ebff,51e90731-08c0-4f60-89b6-5b78e5844de8,228000.0,['country'],['country music']
+67,Love Tonight (David Guetta Remix),Shouse,[],2022,7ddc1240-d184-4112-bfcc-aa9ca2a9e9a1,3987e049-8666-470a-a6f7-3ed6ffd110ba,180000.0,[],[]
+68,Shallow,Lady Gaga & Bradley Cooper,[],2022,e8191687-56bf-4e69-860f-a898735ec268,,217000.0,[],[]
+69,Starlight,Dave,[],2022,fe987f4d-c05b-4afd-b79b-5e35aee763e9,c7740223-c657-4b0a-a0a4-b8349169e760,211000.0,[],[]
+70,Don't Start Now,Dua Lipa,[],2022,6090c671-606f-4704-85c6-8a0c33763a3d,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,183000.0,"['pop', 'dance']",['disco']
+71,Can't Hold Us,Macklemore & Ryan Lewis,['Ray Dalton'],2022,2c494504-ba94-460c-981b-78d22f0a04ed,97b226c8-7140-4da3-91ac-15e62e131a81,259000.0,[],['hip-hop']
+72,One Right Now,Post Malone and The Weeknd,[],2022,ff67ea03-d3f8-4805-96ae-ada8835561d1,,193000.0,[],[]
+73,Better Days,Neiked & Mae Muller & Polo G,[],2022,,,0.0,[],[]
+74,Shape of You,Ed Sheeran,[],2022,d7500dd6-b815-4299-88c6-3fbda358f1fc,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,233000.0,['pop'],"['short film', 'pop music', 'dancehall', 'musical film', 'dance-pop', 'tropical house']"
+75,The Real Slim Shady,Eminem,[],2022,712c994a-59a3-48d8-a719-64208a39d1f9,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,283000.0,"['rap', 'hip hop']",[]
+76,Break My Soul,Beyonce,[],2022,,,0.0,[],[]
+77,Be Alright,Dean Lewis,[],2022,d04e680c-4c43-44e5-ab8f-7098e2640254,21e9df94-3c2c-4c15-b069-fefa58bcd650,197000.0,['pop'],['pop music']
+78,Cuff It,Beyonce,[],2022,,,0.0,[],[]
+79,Circles,Post Malone,[],2022,0025eb0c-9832-4446-b5cd-90f7f5cca285,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,213000.0,['pop'],['pop rock']
+80,Say You Won't Let Go,James Arthur,[],2022,ab8d53bc-8732-4ae3-a65d-32ca5578d529,ac452d5e-e3d9-4759-b045-f876b631a2ca,211000.0,"['pop', 'rnb']",[]
+81,Believer,Imagine Dragons,[],2022,,012151a8-0f9a-44c9-997f-ebd68b5389f9,204000.0,['rock'],"['electropop', 'pop rock']"
+82,Wait a Minute!,Willow,[],2022,4d2e8e78-0a4f-488c-8592-1f5573b7fcd0,e1af94bb-71da-4def-b716-731d67acf7df,196000.0,"['rnb', 'alternative', 'pop']",[]
+83,Party in the U.S.A.,Miley Cyrus,[],2022,,7e9bd05a-117f-4cce-87bc-e011527a8b18,203000.0,"['pop', 'dance']","['pop music', 'dance-pop', 'electronic dance music']"
+84,Snap,Rosa Linn,[],2022,0f3da526-bea7-4c8b-bf1e-4dfb647ad1ff,3de05898-e662-4b53-8c69-28bda89ad6fe,179000.0,[],['folk-pop']
+85,My Universe,Coldplay & BTS,[],2022,f8e064af-280f-4d09-b277-ace4f6a0d908,,227000.0,[],[]
+86,Starboy,The Weeknd,['Daft Punk'],2022,7d24f194-f748-48b9-873f-42827f8e6315,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,230000.0,"['rnb', 'pop', 'electronic']","['contemporary R&B', 'contemporary R&B', 'electropop']"
+87,Sex on Fire,Kings of Leon,[],2022,01dfc5b8-2481-4fea-98ad-0686610a97a3,6ffb8ea9-2370-44d8-b678-e9237bbd347b,203000.0,"['rock', 'alternative', 'indie']",['alternative rock']
+88,Light Switch,Charlie Puth,[],2022,c7cc2f43-6185-4ce7-8c3e-e3f7285f4818,525f1f1c-03f0-4bc8-8dfd-e7521f87631b,186000.0,['pop'],"['pop music', 'funk']"
+89,Counting Stars,OneRepublic,[],2022,,c33c2065-b1c3-4406-b066-d33a9e2ea71a,257000.0,"['rock', 'pop']",['folk rock']
+90,Remember,Becky Hill & David Guetta,[],2022,,,161000.0,[],[]
+91,Go Your Own Way,Fleetwood Mac,[],2022,,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,217000.0,[],"['rock music', 'rock music', 'pop rock']"
+92,On My Knees,Rufus,[],2022,,,0.0,[],[]
+93,When it Rains it Pours,Luke Combs,[],2022,a88ffcea-6b74-4942-acc7-d1b3caee0b13,c20ee61f-071f-4e65-9c81-45ee931a54ce,242000.0,[],[]
+94,Montero (Call Me By Your Name),Lil Nas X,[],2022,6a99a5ea-4b39-4789-b341-2e5ceabf9498,0b30341b-b59d-4979-8130-b66c0e475321,137000.0,['rnb'],[]
+95,The Kind of Love We Make,Luke Combs,[],2022,572b33ea-ae5a-425c-918b-d33e94e705bb,c20ee61f-071f-4e65-9c81-45ee931a54ce,218000.0,[],['country music']
+96,Say Nothing,Flume,['May-a'],2022,,c6cf91a0-fb48-4031-a375-fd2006133c5c,295000.0,[],[]
+97,Head \& Heart,Joel Corry,['MNEK'],2022,,,,[],[]
+98,All Too Well (Taylor's Version),Taylor Swift,[],2022,7f989758-df3e-4bc5-bda7-1558d9de03e4,20244d07-534f-4eff-b4d4-930878889970,329000.0,['pop'],['power pop']
+99,2 Be Loved (Am I Ready),Lizzo,[],2022,3c819587-3db2-41bd-8123-417a9c581e37,8fb5370b-9568-4b61-9da5-2aa12c9928db,187000.0,[],['pop music']
+100,Wake Me Up,Avicii,[],2022,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,249000.0,"['electronic', 'dance', 'pop']","['pop music', 'electronic dance music', 'folktronica', 'folk-pop']"

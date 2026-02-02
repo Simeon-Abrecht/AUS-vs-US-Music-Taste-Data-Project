@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Uptown Funk,Mark Ronson,['Bruno Mars'],2015,540ba59d-803c-46ad-8003-fb96b7832819,c3c82bdc-d9e7-4836-9746-c24ead47ca19,270000.0,[],"['disco-pop', 'soul', 'funk', 'boogie']"
+2,Cheerleader (Felix Jaehn Remix),Omi,[],2015,3d05947b-f269-43da-8e4a-c7596533ea67,2c138adb-97ee-42b9-9ed6-6b643c04a7c8,181000.0,[],[]
+3,See You Again,Wiz Khalifa,['Charlie Puth'],2015,0fde892f-9680-4b6a-926d-62d7fc1d0060,f5dfa020-ad69-41cd-b3d4-fd7af0414e94,235000.0,[],"['hip-hop', 'pop rap']"
+4,Take Me to Church,Hozier,[],2015,c11179f1-046a-4716-8315-95a8f50bc830,b4691384-50c3-4afd-9988-51d3ec5db65d,242000.0,"['indie', 'soul']","['blues', 'soul', 'indie rock']"
+5,Hello,Adele,[],2015,623b39c5-3cf1-49b1-83a7-a22362f3b9a6,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,352000.0,"['soul', 'pop']","['pop music', 'soul', 'soul', 'baroque pop', 'baroque pop']"
+6,Lean On,Major Lazer & DJ Snake,['Mo'],2015,ba241e56-125e-48e6-938a-f9155fdea3ff,75be165a-ad83-4d12-bd28-f589a15c479f,147000.0,"['pop', 'dance', 'electronic']",[]
+7,Love Me Like You Do,Ellie Goulding,[],2015,,33ca19f4-18c8-4411-98df-ac23890ce9f5,253000.0,['pop'],"['pop music', 'electropop']"
+8,Shut Up and Dance,Walk the Moon,[],2015,,4d6ca529-530e-480f-b4bc-18e78eb58a7d,198000.0,"['pop', 'rock', 'dance']","['power pop', 'alternative rock', 'pop rock', 'new wave', 'electronic rock']"
+9,What Do You Mean?,Justin Bieber,[],2015,,e0140a67-e4d1-4f13-8a01-364355bee46e,205000.0,"['pop', 'dance']","['pop music', 'tropical house']"
+10,FourFiveSeconds,Rihanna & Kanye West & Paul McCartney,[],2015,,,0.0,[],[]
+11,Downtown,Macklemore & Ryan Lewis,"['Eric Nally', 'Melle Mel', 'Kool Moe Dee', 'Grandmaster Caz']",2015,,97b226c8-7140-4da3-91ac-15e62e131a81,294000.0,[],['hip-hop']
+12,Can't Feel My Face,The Weeknd,[],2015,,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,215000.0,"['rnb', 'pop']",['pop music']
+13,Sugar,Maroon 5,[],2015,c38c6b06-5f47-41f9-b555-95dbc657acbb,0ab49580-c84f-44d4-875f-d83760ea2cfe,235000.0,['pop'],[]
+14,Elastic Heart,Sia,[],2015,200ba07f-8817-4626-beb2-c67b38a7fb91,2f548675-008d-4332-876c-108b0c7ab9c5,257000.0,"['pop', 'soul']",['pop music']
+15,Thinking Out Loud,Ed Sheeran,[],2015,cb2cc207-8125-445c-9ef9-6ea44eee959a,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,282000.0,"['soul', 'pop']","['soft rock', 'blue-eyed soul']"
+16,Sorry,Justin Bieber,[],2015,,e0140a67-e4d1-4f13-8a01-364355bee46e,200000.0,['pop'],"['moombahton', 'tropical house', 'dancehall pop']"
+17,Where Are U Now,Jack U {Skrillex & Diplo},['Justin Bieber'],2015,,,,[],[]
+18,Bad Blood,Taylor Swift,['Kendrick Lamar'],2015,7fad1aa3-d874-48d8-842a-9ca9afea068e,20244d07-534f-4eff-b4d4-930878889970,146000.0,['pop'],"['hip-hop', 'pop music']"
+19,Hold Back the River,James Bay,[],2015,,6a997121-0919-482b-a91b-c6fe1b55a4b9,238000.0,[],"['indie rock', 'folk rock']"
+20,The Hills,The Weeknd,[],2015,04237e51-d522-427d-ad71-99b6155f50ff,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,243000.0,"['rnb', 'electronic']",['alternative R&B']
+21,Fight Song,Rachel Platten,[],2015,5f76bd49-bea4-4b56-9ec4-576e7221206a,070c2401-1474-477d-b377-3e5827992fbf,201000.0,[],['power pop']
+22,Do You Remember,Jarryd James,[],2015,ab9f21cf-5fba-4722-a2f3-95356d0d5cda,d6a1c436-0595-48a2-bc3f-c27962d82ec8,235000.0,[],[]
+23,Like I'm Gonna Lose You,Meghan Trainor,['John Legend'],2015,8d86aed8-92da-4f15-b38d-52780beb8609,b2029169-2574-4305-820f-252a5fde3697,224000.0,[],['soul']
+24,Want to Want Me,Jason Derulo,[],2015,05b2b4cb-d765-48b0-8d90-63e2219ffd29,,206000.0,[],['disco-pop']
+25,Love Yourself,Justin Bieber,[],2015,,e0140a67-e4d1-4f13-8a01-364355bee46e,233000.0,['pop'],"['pop music', 'folk music', 'blue-eyed soul']"
+26,You Don't Own Me,Grace,['G-Eazy'],2015,14ac2afa-706d-41ba-b6a5-765e7273ae63,ecbacc9c-2d18-4bdb-966d-a147931df3d2,199000.0,[],[]
+27,Bills,LunchMoney Lewis,[],2015,59f0076c-db9c-4fca-a904-b9483bfe3b05,73bf149f-bd0e-42ac-b0c1-dddb7b8e4ab5,204000.0,[],[]
+28,Are You With Me,Lost Frequencies,[],2015,,ea7260de-e1b1-43f1-bb11-f78274a36308,142000.0,[],[]
+29,How Deep is Your Love,Calvin Harris & Disciples,[],2015,0915fab2-427b-4620-888b-289b54a0df99,,220000.0,[],[]
+30,Peanut Butter Jelly,Galantis,[],2015,18b43422-57b5-474d-be88-147ba3ae24e4,a7229e38-bab7-48c1-9f35-9b4c49738b0f,180000.0,[],[]
+31,Style,Taylor Swift,[],2015,4459f042-afff-4fa3-b5e5-e10d9782992d,20244d07-534f-4eff-b4d4-930878889970,231000.0,['pop'],"['disco', 'funk', 'pop rock', 'synth-pop']"
+32,Ghost Town,Adam Lambert,[],2015,f3126bde-df9b-4aaa-a4e7-f37a8ad66caa,e942594a-91cc-427a-8beb-6815c28e9254,208000.0,[],['house music']
+33,Photograph,Ed Sheeran,[],2015,83183d93-a7ec-4470-95f7-25a99156eba3,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,258000.0,['pop'],['pop music']
+34,Lay Me Down,Sam Smith,[],2015,11357b6e-9eb8-4eb9-9661-b89d3c0e1159,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,254000.0,"['soul', 'pop']","['pop music', 'pop music', 'contemporary R&B', 'contemporary R&B']"
+35,Let it Go,James Bay,[],2015,,6a997121-0919-482b-a91b-c6fe1b55a4b9,261000.0,[],[]
+36,Wasn't Expecting That,Jamie Lawson,[],2015,1ae3b731-9618-4a2d-89d9-7dcb6a91bf96,10576a3d-e28f-4642-9405-af0d5e05bec1,199000.0,[],['pop music']
+37,Firestone,Kygo,['Conrad Sewell'],2015,e9487491-2373-48a5-b443-a83bc73f855a,ba0e7638-0cd6-4ff4-8987-c3e224d22c23,271000.0,"['electronic', 'dance', 'house']","['deep house', 'tropical house']"
+38,Marvin Gaye,Charlie Puth,['Meghan Trainor'],2015,,525f1f1c-03f0-4bc8-8dfd-e7521f87631b,188000.0,[],"['pop music', 'soul', 'doo-wop']"
+39,Dear Future Husband,Meghan Trainor,[],2015,a4731cf7-cac2-4f57-8032-b5921c2d4c90,b2029169-2574-4305-820f-252a5fde3697,184000.0,[],"['pop music', 'doo-wop']"
+40,Flashlight,Jessie J,[],2015,71de925a-39b3-42cc-8bc6-414d5d49836b,d24fb461-dee8-41fc-bb15-2f13bb2644a6,209000.0,[],['pop music']
+41,Wildest Dreams,Taylor Swift,[],2015,69c77298-90ee-477b-9332-7ac1c4aa1d53,20244d07-534f-4eff-b4d4-930878889970,220000.0,['pop'],['dream pop']
+42,Locked Away,R. City,['Adam Levine'],2015,20c86dcc-96cc-4939-902d-5c3d5abf34a3,c68422fe-b5e0-4568-be71-127d4bfed6ca,0.0,[],[]
+43,Hotline Bling,Drake,[],2015,e288e33a-5c40-4b9f-98f6-0062be760e4a,9fff2f8a-21e6-47de-a2b8-7f449929d43f,267000.0,"['pop', 'rnb']",[]
+44,Runaway (U \& I),Galantis,[],2015,,,,[],[]
+45,The Nights,Avicii,[],2015,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,173000.0,"['dance', 'electronic', 'pop']",[]
+46,Fire and the Flood,Vance Joy,[],2015,1190a6bf-b478-4edc-822f-42a864c38b53,df36f6db-5987-46ed-9d02-0cf36ed4e060,249000.0,[],[]
+47,Hey Mama,David Guetta,"['Nicki Minaj', 'Afrojack']",2015,,302bd7b9-d012-4360-897a-93b00c855680,193000.0,[],['trap music']
+48,Sugar,Robin Schulz,['Francesco Yates'],2015,0a57f715-3824-443f-be3e-c3c9f9541311,163218c2-9e0f-4d2d-aecb-ebbdef6aab70,220000.0,[],"['electronic dance music', 'deep house']"
+49,Shake it Off,Taylor Swift,[],2015,59fc5ddf-a1d9-4746-902d-71fb5a9a78c2,20244d07-534f-4eff-b4d4-930878889970,219000.0,['pop'],[]
+50,Drag Me Down,One Direction,[],2015,03ad3eb2-7e51-4784-8063-ff3ecf7468de,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,192000.0,['pop'],['pop music']
+51,Good for You,Selena Gomez,['ASAP Rocky'],2015,94d5eee4-5433-48a4-9733-9497ba1d9a36,e4bc69e2-a064-4f93-ada1-f7f209cc1cc3,221000.0,"['pop', 'rnb']",[]
+52,Watch Me (Whip/Nae Nae),Silento,[],2015,,,0.0,[],[]
+53,Do it Again,Pia Mia,"['Chris Brown', 'Tyga']",2015,67a8099d-21a8-4320-9b8f-defa5cf36b24,f9b857d0-3115-486a-8a87-1e8c11ad7d46,182000.0,"['pop', 'rnb']",[]
+54,Start Again,Conrad Sewell,[],2015,36170a7b-bf40-4249-86ed-6079cd306a3f,758faf3d-bda4-489a-8701-b66d7e7b7ac7,218000.0,[],['pop music']
+55,Blank Space,Taylor Swift,[],2015,576b16cf-33f8-4524-9782-8d227ca7f11b,20244d07-534f-4eff-b4d4-930878889970,231000.0,['pop'],['electropop']
+56,Stitches,Shawn Mendes,[],2015,,b7d92248-97e3-4450-8057-6fe06738f735,206000.0,['pop'],['pop music']
+57,Five More Hours,Deorro & Chris Brown,[],2015,b9095f65-ee49-4690-9205-c9641b5b593b,,212000.0,[],[]
+58,Dessert,Dawin,[],2015,,6d670145-5d7b-4154-b66d-34bbe644476d,154000.0,[],[]
+59,Ocean Drive,Duke Dumont,[],2015,,6060d1bb-94f8-4863-89b9-425487f2f6b2,205000.0,"['electronic', 'house']","['alternative dance', 'nu-disco']"
+60,Black Magic,Little Mix,[],2015,,38f59974-2f4d-4bfa-b2e3-d2696de1b675,211000.0,['pop'],['dance-pop']
+61,The Fix,Nelly,['Jeremih'],2015,,811900b2-68fc-4d41-8bad-69b7a1f4d628,172000.0,[],[]
+62,Worth It,Fifth Harmony,['Kid Ink'],2015,b8f500bf-e18b-46fc-99f5-fb33f4ee5f3d,e565610b-9a8f-451d-b594-ea658d76f725,185000.0,[],"['dance-pop', 'contemporary R&B']"
+63,Headlights,Robin Schulz,['Ilsey'],2015,2a868b0c-460c-48d5-b952-d6c04500fc7a,163218c2-9e0f-4d2d-aecb-ebbdef6aab70,209000.0,[],['house music']
+64,Whip It!,LunchMoney Lewis,['Chloe Angelides'],2015,52612d30-92c0-447c-8149-04759e6e43b2,73bf149f-bd0e-42ac-b0c1-dddb7b8e4ab5,242000.0,[],['pop rap']
+65,Never Forget You,Zara Larsson & MNEK,[],2015,f2b1a950-7feb-494f-a312-4bc64aba866e,,213000.0,[],[]
+66,Cosby Sweater,Hilltop Hoods,[],2015,63763c03-e7af-48a1-b14c-a76c17fdc248,16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac,217000.0,[],[]
+67,That's How You Know,Nico & Vinz,"['Kid Ink', 'Bebe Rexha']",2015,a226f878-e127-4eed-88ae-4be9c8af0140,f8e8de78-2131-4e96-8829-ba3614f48a48,186000.0,[],[]
+68,Powerful,Major Lazer,"['Ellie Goulding', 'Tarrus Riley']",2015,e0a6dcb2-1d4c-4ef0-ba23-d38c8e3e273f,75be165a-ad83-4d12-bd28-f589a15c479f,162000.0,[],['synth-pop']
+69,Up,Olly Murs,['Demi Lovato'],2015,1ddbb4a8-19b9-4b39-956c-6b80058aeae2,0b108024-ccb5-468f-b2e9-77ed4f5615c6,224000.0,[],[]
+70,Sun Goes Down,Robin Schulz,['Jasmine Thompson'],2015,6d6217f2-d2d0-49a9-8b63-32bda74e52b0,163218c2-9e0f-4d2d-aecb-ebbdef6aab70,347000.0,[],"['deep house', 'tropical house']"
+71,King,Years & Years,[],2015,,9f23b7c3-baa6-4e38-b1a9-5c38359ad982,214000.0,[],[]
+72,Georgia,Vance Joy,[],2015,641c10e2-47db-4d0e-a5dc-246ac5fed375,df36f6db-5987-46ed-9d02-0cf36ed4e060,230000.0,[],[]
+73,You Know You Like It,DJ Snake & AlunaGeorge,[],2015,,,247000.0,[],[]
+74,On My Mind,Ellie Goulding,[],2015,0c899617-daf6-4f84-9ba6-8853a7235138,33ca19f4-18c8-4411-98df-ac23890ce9f5,213000.0,"['pop', 'dance']",['electropop']
+75,Waiting for Love,Avicii,[],2015,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,230000.0,"['dance', 'house']",[]
+76,Talk is Cheap,Chet Faker,[],2015,2adb762d-4b08-4476-a5a3-5fba917ca1ca,a21b2652-62ed-4767-a3d2-0aa802abf080,218000.0,[],[]
+77,Lay it All on Me,Rudimental,['Ed Sheeran'],2015,0287d062-245a-4708-93b8-31961adc0d83,b09ced80-aa65-43c1-9aa7-58b1e982eada,242000.0,[],[]
+78,Bloodstream,Ed Sheeran & Rudimental,[],2015,8a30f45f-091a-4a5d-a4f8-838488f08b83,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,300000.0,[],[]
+79,Time of Our Lives,Pitbull & Ne-Yo,[],2015,15da3ab6-3246-43de-8831-0c92a04de07c,d262ea27-3ffe-40f7-b922-85c42d625e67,230000.0,['pop'],[]
+80,Earned It,The Weeknd,[],2015,9c1d8c96-ab0a-4b83-b2e4-6833744eb163,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,278000.0,[],"['contemporary R&B', 'chamber pop']"
+81,"I Don't Like It, I Love It",Flo Rida,"['Robin Thicke', 'Verdine White']",2015,,4593d49a-7f67-46ba-9ec0-126bd676286f,224000.0,[],['funk']
+82,Lips Are Movin,Meghan Trainor,[],2015,18b7683b-e085-44d6-a4db-358d6284f51f,b2029169-2574-4305-820f-252a5fde3697,181000.0,[],"['pop music', 'blue-eyed soul', 'doo-wop']"
+83,Pray to God,Calvin Harris,['Haim'],2015,0ee40af7-718f-4cc2-ad8b-3b5f0b03d6ae,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,231000.0,[],['house music']
+84,Trouble,Iggy Azalea,['Jennifer Hudson'],2015,6d220de3-07bc-4886-9e8b-36598856303b,3a052c99-8c18-484a-8beb-9873b4fb3106,166000.0,[],[]
+85,Somebody,Natalie La Rose,['Jeremih'],2015,1cc1993e-34ce-4b4b-aa88-297f6e1de1fb,1d638d0a-fee3-49cc-aec5-c1d30dc4997a,189000.0,[],"['pop music', 'contemporary R&B']"
+86,Ain't Nobody (Loves Me Better),Felix Jaehn,['Jasmine Thompson'],2015,42f548ab-c007-4a8f-bf42-6ad4e4931fd6,930448f9-a67a-402f-bc73-2bf6b279afaa,186000.0,[],[]
+87,Stay With Me,Sam Smith,[],2015,,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,172000.0,"['soul', 'pop']",[]
+88,Wings,Delta Goodrem,[],2015,2bdb12f2-caf1-4176-a39d-97467dad28a3,8c5755b4-2de6-4158-bca9-e354cbf07437,205000.0,[],['pop music']
+89,One Last Time,Ariana Grande,[],2015,,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,196000.0,['pop'],"['dance-pop', 'electronic dance music']"
+90,Take Me Over,Peking Duk,['Safia'],2015,a9c259d9-db69-4d89-a5a8-7235e0a87918,a5bf304f-dce8-4482-b912-3921c23e40c8,205000.0,[],[]
+91,Perfect,One Direction,[],2015,0c0ff48b-9e2d-49b7-9c44-0dc59e098b24,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,232000.0,['pop'],['pop music']
+92,Jealous,Nick Jonas,[],2015,,943e3724-27e7-4e23-9b1c-cc5d46b5bcc7,223000.0,['pop'],[]
+93,I'm an Albatraoz,AronChupa,[],2015,bba2143a-692f-4763-8ade-c5d4f7737a3c,76b09967-a03f-4704-aaf4-e8d65ee02271,166000.0,[],['electro house']
+94,Chandelier,Sia,[],2015,d54ad2cf-cc5b-4c8d-881d-f4685e12553c,2f548675-008d-4332-876c-108b0c7ab9c5,212000.0,"['pop', 'indie']",[]
+95,Get Stupid,Aston Merrygold,[],2015,e894d167-cf90-4ac2-8b92-2d27ffa95f9c,5496818a-6498-42e6-83df-a56287ff6236,200000.0,[],[]
+96,Trap Queen,Fetty Wap,[],2015,138b62ad-2ff2-4528-bed4-223bff732fa9,e3492ea0-5997-4241-a7bf-2fd7fb1bfad1,222000.0,['rap'],['trap music']
+97,Masterpiece,Jessie J,[],2015,051203db-f070-4392-a94f-570a51c98835,d24fb461-dee8-41fc-bb15-2f13bb2644a6,218000.0,[],['pop music']
+98,Hula Hoop,Omi,[],2015,d622fdb1-623c-4dd3-9353-3e370c883069,2c138adb-97ee-42b9-9ed6-6b643c04a7c8,205000.0,[],['house music']
+99,The Trouble With Us,Marcus Marr & Chet Faker,[],2015,,,221000.0,[],[]
+100,The Buzz,Hermitude,"['Mataya', 'Young Tapz']",2015,,3b8e479e-c3c9-4500-8a8f-394c290afde4,222000.0,[],[]

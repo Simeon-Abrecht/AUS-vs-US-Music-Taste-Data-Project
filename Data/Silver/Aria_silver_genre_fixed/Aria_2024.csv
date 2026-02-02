@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Beautiful Things,Benson Boone,[],2024,292effe0-7b50-4eee-bb16-cf470b2a503d,62b914a7-d775-4bb4-bb5e-d46e7df115b5,180000.0,"['pop', 'emo']","['rock music', 'folk rock', 'pop rock']"
+2,A Bar Song (Tipsy),Shaboozey,[],2024,1108d460-6705-4eaf-8a4e-b1d86dde5c85,0b427dad-1ee5-48f1-aa4b-026680a3338e,171000.0,"['country', 'pop']",[]
+3,Espresso,Sabrina Carpenter,[],2024,7e0a8814-ccd2-44c1-8f69-415ad9fd6696,1882fe91-cdd9-49c9-9956-8e06a3810bd4,175000.0,['pop'],"['synth-pop', 'disco', 'funk']"
+4,Stick Season,Noah Kahan,[],2024,b6aeb26d-31fb-42f3-9339-905b36fcf5a7,a2a3f910-b188-43e7-81d0-f1ac2a2f3e12,181000.0,"['indie', 'folk']",['folk music']
+5,Lose Control,Teddy Swims,[],2024,e4733d45-75fa-4bf2-a0d6-9835a67e53b7,35feae82-8b2c-4f8f-ae7a-af5662848947,210000.0,"['soul', 'pop', 'rnb']",['soul']
+6,Birds of a Feather,Billie Eilish,[],2024,3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,183000.0,['pop'],['new wave']
+7,I Had Some Help,Post Malone,['Morgan Wallen'],2024,8290f2d3-59ee-4806-8fda-5149de94f799,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,178000.0,[],['country pop']
+8,Too Sweet,Hozier,[],2024,bcddd6a9-b66f-4993-9b7a-75a78b476373,b4691384-50c3-4afd-9988-51d3ec5db65d,251000.0,['pop'],"['soul', 'indie rock']"
+9,Cruel Summer,Taylor Swift,[],2024,7b3f37a2-850e-499e-95e9-f3fbf0f40331,20244d07-534f-4eff-b4d4-930878889970,178000.0,['pop'],"['electropop', 'synth-pop']"
+10,Million Dollar Baby,Tommy Richman,[],2024,8eaa7bc3-0fef-4027-8a91-c26aba8024eb,741a6c80-2d6e-4522-9de4-e070798a2d30,155000.0,['rnb'],['trap music']
+11,I Remember Everything,Zach Bryan,['Kacey Musgraves'],2024,,51e90731-08c0-4f60-89b6-5b78e5844de8,275000.0,[],['country music']
+12,Austin,Dasha,[],2024,dbf5be27-9890-4328-a5fe-b359ae882299,4068caf6-2491-48b7-bdae-6dad7c3a85b7,171000.0,[],[]
+13,"Good Luck, Babe!",Chappell Roan,[],2024,9d97dc85-01e2-400e-8a3f-40cd4790de59,56a55378-f155-48de-80a5-d80104221267,218000.0,['pop'],"['baroque pop', 'synth-pop']"
+14,Please Please Please,Sabrina Carpenter,[],2024,f9f27e61-bcf0-4b3a-901c-e2e4113dfd7b,1882fe91-cdd9-49c9-9956-8e06a3810bd4,186000.0,['pop'],"['pop music', 'disco', 'country pop', 'yacht rock']"
+15,Something in the Orange,Zach Bryan,[],2024,95a87931-919e-4364-934a-24b70cf9ebff,51e90731-08c0-4f60-89b6-5b78e5844de8,228000.0,['country'],['country music']
+16,Greedy,Tate McRae,[],2024,579ede57-ecd8-4763-a0fa-3128086c75b4,f9133869-f87c-459c-9aa7-2f176cda7e06,131000.0,"['pop', 'dance', 'rnb']","['pop music', 'dance-pop', 'contemporary R&B']"
+17,Lovin on Me,Jack Harlow,[],2024,be26a5d7-6845-429c-8742-7b0fe5955e45,134cb0bc-06fa-42f7-8078-b0c858349975,138000.0,"['rap', 'hip hop']",['pop rap']
+18,Scared to Start,Michael Marcagi,[],2024,83223985-78c5-43f5-9a68-ce6f98be3a45,d2e83041-3409-4c5a-80b6-872ae439bf17,159000.0,[],[]
+19,Prada,Casso & Raye & D-Block Europe,[],2024,,,0.0,[],[]
+20,Fortnight,Taylor Swift,['Post Malone'],2024,839f1db4-5c6f-4b18-9d0e-b492b9131ce7,20244d07-534f-4eff-b4d4-930878889970,229000.0,[],"['electropop', 'downtempo']"
+21,I Like the Way You Kiss Me,Artemas,[],2024,5a5670fc-f5b8-4d2c-8dd3-3412bdd09721,0211be88-dc0f-4002-a1de-4001bb359d51,143000.0,"['rock', 'indie']","['synthwave', 'alternative pop', 'alternative pop']"
+22,End of Beginning,Djo {Joe Keery},[],2024,,,,[],[]
+23,Not Like Us,Kendrick Lamar,[],2024,88f628b8-5564-4c70-9a07-8a66d14bf7be,381086ea-f511-4aba-bdf9-71c753dc5077,275000.0,[],"['West Coast hip-hop', 'hardcore hip-hop', 'hyphy']"
+24,Riptide,Vance Joy,[],2024,,df36f6db-5987-46ed-9d02-0cf36ed4e060,204000.0,"['folk', 'indie', 'alternative']",['indie folk']
+25,Last Night,Morgan Wallen,[],2024,62ca86de-7204-4b12-bc2a-94a4ad39a027,2077273e-eaa1-4f49-903c-f286ededecb9,161000.0,"['country', 'pop']",['country pop']
+26,We Can't Be Friends (Wait for Your Love),Ariana Grande,[],2024,b6587011-5a7c-4664-82ad-7a6368f4bd99,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,229000.0,['pop'],['synth-pop']
+27,Stargazing,Myles Smith,[],2024,ff052782-9fc5-4cf8-9f02-14c77c73f880,73d2a9d4-de5d-4bcd-9acb-ddf67dfd71ac,171000.0,[],['folk-pop']
+28,Taste,Sabrina Carpenter,[],2024,aa249f0d-faf3-4535-9efb-d9ac78743464,1882fe91-cdd9-49c9-9956-8e06a3810bd4,157000.0,['pop'],"['pop music', 'slacker rock', 'glam rock', 'soft rock', 'country pop']"
+29,Stumblin' In,Cyril,[],2024,a34a4833-cf02-4b0e-b00e-55d8bc03c589,5ee56fb3-6e4b-4e51-bde2-7b40a9fca1df,215000.0,[],[]
+30,Fast Car,Luke Combs,[],2024,27a100f9-583c-4947-a826-fc6d70283764,c20ee61f-071f-4e65-9c81-45ee931a54ce,265000.0,[],"['acoustic music', 'country music']"
+31,Die With a Smile,Lady Gaga & Bruno Mars,[],2024,f858baba-3019-440f-9fe3-82202526bfa0,,251000.0,[],[]
+32,Houdini,Eminem,[],2024,7bf0cb56-212f-4fdb-b68c-04d3059d68c7,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,227000.0,"['hip hop', 'rap']",[]
+33,Slow it Down,Benson Boone,[],2024,862d3bd7-e035-4e56-9817-7e87fb283706,62b914a7-d775-4bb4-bb5e-d46e7df115b5,161000.0,['pop'],[]
+34,Mr. Brightside,The Killers,[],2024,,95e1ead9-4d31-4808-a7ac-32c3614c116b,222000.0,"['rock', 'indie', 'alternative']",['indie rock']
+35,Texas Hold 'Em,Beyonce,[],2024,,,0.0,[],[]
+36,Dreams,Fleetwood Mac,[],2024,,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,257000.0,[],"['soft rock', 'soft rock']"
+37,Iris,Goo Goo Dolls,[],2024,cef4d7e6-5f96-40ad-8841-e870a06e36e1,e2c00c56-8365-4160-9f40-a64682917633,289000.0,[],['alternative rock']
+38,Water,Tyla,[],2024,523f406f-1056-4724-9d5e-37949e8e6158,2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8,200000.0,['rnb'],"['amapiano', 'contemporary R&B', 'Afrobeats']"
+39,Flowers,Miley Cyrus,[],2024,baecb366-aa92-4685-a4a3-56c6e573b679,7e9bd05a-117f-4cce-87bc-e011527a8b18,200000.0,['pop'],['pop music']
+40,Unwritten,Natasha Bedingfield,[],2024,a3c98ed2-075d-3d13-baab-610b5f93e9aa,8b477559-946e-4ef2-9fe1-446cff8fdd79,255000.0,"['pop', 'dance']","['pop music', 'pop music']"
+41,Paint the Town Red,Doja Cat,[],2024,b9e20829-1d09-456a-b649-3138e305d9ca,5df62a88-cac9-490a-b62c-c7c88f4020f4,231000.0,"['pop', 'rnb', 'rap']",[]
+42,Pink Skies,Zach Bryan,[],2024,,51e90731-08c0-4f60-89b6-5b78e5844de8,194000.0,[],[]
+43,Saturn,SZA,[],2024,9b6b096f-36d8-4297-b181-ea501c4b41a2,272989c8-5535-492d-a25c-9f58803e027f,186000.0,[],['alternative R&B']
+44,Lunch,Billie Eilish,[],2024,13f11191-f67a-4f35-8b58-62410b13d6cb,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,179000.0,['pop'],"['electro', 'electronic rock', 'post-punk', 'synth-pop']"
+45,Thinkin' Bout Me,Morgan Wallen,[],2024,70b25bff-ce3d-49c5-859f-70113d12e51a,2077273e-eaa1-4f49-903c-f286ededecb9,174000.0,[],[]
+46,Feather,Sabrina Carpenter,[],2024,99ebdae8-1057-4dff-a134-0652cf51f62b,1882fe91-cdd9-49c9-9956-8e06a3810bd4,185000.0,"['pop', 'dance']",['dance-pop']
+47,Snooze,SZA,[],2024,b2c0cffe-2a6a-4d5c-aeb7-404237469c9e,272989c8-5535-492d-a25c-9f58803e027f,201000.0,['rnb'],"['contemporary R&B', 'contemporary R&B']"
+48,Belong Together,Mark Ambor,[],2024,abcd3411-51cd-4ba5-894d-3c0c76658a1e,483e1216-3eb3-4996-a45d-55f6169689a0,149000.0,[],['pop music']
+49,I Can Do it With a Broken Heart,Taylor Swift,[],2024,940a2ac0-be80-4b48-a6cc-d1ac04a7d448,20244d07-534f-4eff-b4d4-930878889970,218000.0,['pop'],[]
+50,Saving Up,Dom Dolla,[],2024,db12004b-2dd7-4a5d-adae-dcf1d33d9289,9b8548a9-5991-42a9-ba96-fe83bd238b7a,207000.0,[],[]
+51,One of the Girls,The Weeknd & Jennie & Lily-Rose Depp,[],2024,,,0.0,[],[]
+52,Anti-Hero,Taylor Swift,[],2024,6bb9e766-97a5-440f-9173-99515493d2d4,20244d07-534f-4eff-b4d4-930878889970,200000.0,['rock'],"['synth-pop', 'pop rock']"
+53,Houdini,Dua Lipa,[],2024,c23803fb-b260-419a-b3a9-f2d1d30b6581,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,185000.0,['pop'],"['pop music', 'neo-psychedelia', 'electronica', 'post-disco', 'nu-disco']"
+54,When it Rains it Pours,Luke Combs,[],2024,a88ffcea-6b74-4942-acc7-d1b3caee0b13,c20ee61f-071f-4e65-9c81-45ee931a54ce,242000.0,[],[]
+55,Strangers,Kenya Grace,[],2024,d41e7f0b-ab24-4212-9b81-02f6e876d6d2,94c4459d-4c35-4bc6-8bca-c75107515c1c,172000.0,"['pop', 'dance']",[]
+56,Someone You Loved,Lewis Capaldi,[],2024,,526aab94-697f-44a9-b630-41d1c0505953,182000.0,['pop'],['pop music']
+57,Take Me to Church,Hozier,[],2024,c11179f1-046a-4716-8315-95a8f50bc830,b4691384-50c3-4afd-9988-51d3ec5db65d,242000.0,"['indie', 'soul']","['blues', 'soul', 'indie rock']"
+58,Apt,Rose & Bruno Mars,[],2024,,,0.0,[],[]
+59,Exes,Tate McRae,[],2024,3a63ae2e-a153-4b58-8c83-ca0cd2fbb232,f9133869-f87c-459c-9aa7-2f176cda7e06,159000.0,['pop'],"['pop music', 'contemporary R&B', 'trap music']"
+60,I Ain't Worried,OneRepublic,[],2024,6dd28fe4-9ed1-4cb1-a5bb-6959f8708bd5,c33c2065-b1c3-4406-b066-d33a9e2ea71a,148000.0,"['pop', 'electronic', 'dance']",['pop music']
+61,Fein,Travis Scott,['Playboi Carti'],2024,,,0.0,[],['rage']
+62,Vampire,Olivia Rodrigo,[],2024,16f67c81-6481-4713-9b00-7003947d8b49,6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,222000.0,['pop'],['pop rock']
+63,Sex on Fire,Kings of Leon,[],2024,01dfc5b8-2481-4fea-98ad-0686610a97a3,6ffb8ea9-2370-44d8-b678-e9237bbd347b,203000.0,"['rock', 'alternative', 'indie']",['alternative rock']
+64,As it Was,Harry Styles,[],2024,ca05e074-1c11-4587-ba3d-cc6c8b8c3714,7eb1ce54-a355-41f9-8d68-e018b096d427,165000.0,['pop'],[]
+65,Heat Waves,Glass Animals,[],2024,,20395131-fbde-43ce-b141-b700cfdae99c,238000.0,"['indie', 'pop', 'rnb']","['contemporary R&B', 'psychedelic pop', 'pop rock']"
+66,Save Your Tears,The Weeknd,[],2024,0f431b3e-ddb0-4cea-9b32-e59d47b1ae8c,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,215000.0,"['pop', 'rnb']",['synth-pop']
+67,Murder on the Dancefloor,Sophie Ellis-Bextor,[],2024,f8462db3-26c6-4e62-a655-d65c1a2b02d6,,229000.0,"['pop', 'dance']",['nu-disco']
+68,Where the Wild Things Are,Luke Combs,[],2024,8ccde464-3d42-4c97-8a1b-8a049fcd3fe8,c20ee61f-071f-4e65-9c81-45ee931a54ce,239000.0,[],['country music']
+69,Kill Bill,SZA,[],2024,a396dab3-a6ce-46a3-b42b-843a518bc541,272989c8-5535-492d-a25c-9f58803e027f,154000.0,['pop'],"['pop music', 'contemporary R&B']"
+70,Wildflower,Billie Eilish,[],2024,5afa33bb-83f6-42c6-b789-8bfa34c48b50,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,261000.0,['pop'],[]
+71,Viva La Vida,Coldplay,[],2024,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,378000.0,"['alternative', 'rock']",[]
+72,Don't Stop Believin',Journey,[],2024,85ec9a3d-2da6-3a45-ae9b-7523d70a4dd7,abd506e1-6f2b-4d6f-b937-92c267f6f88b,249000.0,['rock'],"['rock music', 'pop music']"
+73,Leavemealone,Fred Again & Baby Keem,[],2024,,,0.0,[],[]
+74,All the Stars,Kendrick Lamar & SZA,[],2024,8f056243-ec20-4068-bcaf-1e64f7db94d5,,196000.0,[],[]
+75,Blinding Lights,The Weeknd,[],2024,,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,200000.0,['pop'],"['electropop', 'electropop', 'synthwave', 'synthwave']"
+76,Home,Good Neighbours,[],2024,dffc891a-95e9-49bd-86f0-5a33b86b906e,a84a3df1-a873-4be9-b6ff-4238393d46d7,157000.0,['indie'],[]
+77,Sunflower,Post Malone & Swae Lee,[],2024,7e6c84a3-3bba-4822-b82c-c76c1769e61f,,156000.0,[],[]
+78,Yellow,Coldplay,[],2024,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,269000.0,"['rock', 'alternative']","['pop rock', 'post-Britpop', 'alternative rock']"
+79,Like That,Future & Metro Boomin & Kendrick Lamar,[],2024,,,0.0,[],[]
+80,Beautiful Crazy,Luke Combs,[],2024,52ae5138-22a0-4d71-9f40-24c7a2fe8722,c20ee61f-071f-4e65-9c81-45ee931a54ce,193000.0,[],['country music']
+81,Lover,Taylor Swift,[],2024,715afe05-4b62-40c7-a9fe-ea0dbf917304,20244d07-534f-4eff-b4d4-930878889970,221000.0,"['pop', 'country']","['pop music', 'country music', 'country music', 'pop-punk', 'dream pop', 'indie pop', 'funk', 'electropop', 'contemporary R&B', 'bubblegum music', 'alternative country', 'pop rock', 'synth-pop', 'indie folk']"
+82,Popular,The Weeknd & Playboi Carti & Madonna,[],2024,,,0.0,[],[]
+83,Another Love,Tom Odell,[],2024,0851f234-6a50-4d26-af2d-5bb2c32dab3c,fee6a7fb-80d9-4290-a171-e48f1f20e381,257000.0,"['indie', 'pop']",['piano rock']
+84,Nights Like This,The Kid Laroi,[],2024,1942ae28-ee62-47ba-b1bd-a98264cbaf9b,80609a00-b394-4a49-975b-2db6b543fa97,86000.0,['rap'],[]
+85,Cold Heart (Pnau Remix),Elton John & Dua Lipa,[],2024,a3906438-a1b2-403d-a7c2-7f48fca0a586,,202000.0,[],[]
+86,"I Love You, I'm Sorry",Gracie Abrams,[],2024,b5797911-4f7f-4360-a46d-05bd4d81af9e,f7441bc7-d7de-4813-a2fc-31a4033d396d,157000.0,['indie'],[]
+87,Sweater Weather,The Neighbourhood,[],2024,c57fc620-9ca2-40be-95ec-2c498a2151a8,53b06622-ec51-4924-a554-58b0affde6b5,240000.0,"['indie', 'alternative']",['indie rock']
+88,Tennessee Whiskey,Chris Stapleton,[],2024,0f634255-bcb0-404a-86f3-8f090b3fbe3a,d996d607-52e4-40c7-b369-211653df6d18,295000.0,"['blues', 'country']","['country music', 'country music']"
+89,What Was I Made For?,Billie Eilish,[],2024,74c2e388-4e59-4ed1-8c97-f3fd3317323d,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,222000.0,[],['pop music']
+90,July,Noah Cyrus,[],2024,a4f55b4c-0ac9-403f-bcb7-e767f8ee13aa,5df148ae-78eb-495a-8a0b-d16f3105992d,179000.0,"['pop', 'indie']",[]
+91,Something Just Like This,The Chainsmokers & Coldplay,[],2024,81c1ca0c-69eb-444c-9f1d-27731a53d9c3,,247000.0,[],[]
+92,That's So True,Gracie Abrams,[],2024,a6ff57e9-5ba8-4a32-8ac3-e5e8c42796dc,f7441bc7-d7de-4813-a2fc-31a4033d396d,166000.0,[],['folk-pop']
+93,Daylight,David Kushner,[],2024,613647d8-b51f-4ad1-af69-94a7d70b9c0f,684e2403-8dc3-468c-8d4f-c1ee01fb6cd6,212000.0,['pop'],['gothic rock']
+94,Dance the Night,Dua Lipa,[],2024,33cb99cc-ff23-4e84-95c1-60b617827cb1,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,176000.0,[],"['pop music', 'disco']"
+95,Have You Ever Seen the Rain,Creedence Clearwater Revival,[],2024,,109958eb-a335-4c5e-907e-597ff4c6af46,158000.0,['rock'],[]
+96,Stay,The Kid Laroi & Justin Bieber,[],2024,14d20e85-6c24-44a8-8e98-1d7237732c55,,141000.0,[],[]
+97,Nonsense,Sabrina Carpenter,[],2024,6eaa91cd-07da-4f1d-839b-ac3d6bf59a08,1882fe91-cdd9-49c9-9956-8e06a3810bd4,163000.0,"['pop', 'rnb']",['rhythm and blues']
+98,Carnival,Kanye West & Ty Dolla Sign,[],2024,,,0.0,[],[]
+99,Hot to Go!,Chappell Roan,[],2024,e619cd9d-ee35-4e37-8ee1-51b992ab95d7,56a55378-f155-48de-80a5-d80104221267,185000.0,['pop'],"['electropop', 'dance-pop', 'synth-pop', 'dance music', 'indie pop']"
+100,Guess,Charli XCX,['Billie Eilish'],2024,025ec1a8-6515-4d98-80f7-a4b43a513354,260b6184-8828-48eb-945c-bc4cb6fc34ca,132000.0,['pop'],"['electro house', 'pop rap']"

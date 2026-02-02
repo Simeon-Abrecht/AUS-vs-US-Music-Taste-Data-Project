@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Ordinary,Alex Warren,[],2025,93231ee9-12f9-47ca-b2fb-852efad3db38,609a2ea3-f446-4e31-8eef-9f7591afb55a,186000.0,"['folk', 'pop']","['power ballad', 'pop rock', 'chamber pop']"
+2,Golden,Huntr/x & Ejae & Audrey Nuna & Rei Ami & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+3,Apt,Rose & Bruno Mars,[],2025,,,0.0,[],[]
+4,That's So True,Gracie Abrams,[],2025,a6ff57e9-5ba8-4a32-8ac3-e5e8c42796dc,f7441bc7-d7de-4813-a2fc-31a4033d396d,166000.0,[],['folk-pop']
+5,Die With a Smile,Lady Gaga & Bruno Mars,[],2025,f858baba-3019-440f-9fe3-82202526bfa0,,251000.0,[],[]
+6,Birds of a Feather,Billie Eilish,[],2025,3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,183000.0,['pop'],['new wave']
+7,Beautiful Things,Benson Boone,[],2025,292effe0-7b50-4eee-bb16-cf470b2a503d,62b914a7-d775-4bb4-bb5e-d46e7df115b5,180000.0,"['pop', 'emo']","['rock music', 'folk rock', 'pop rock']"
+8,Messy,Lola Young,[],2025,0ae5ee0e-084e-458b-87ba-76cef24cfff3,43b896c5-5652-4b04-bde1-2e4224bc99b3,284000.0,['rock'],['pop soul']
+9,A Bar Song (Tipsy),Shaboozey,[],2025,1108d460-6705-4eaf-8a4e-b1d86dde5c85,0b427dad-1ee5-48f1-aa4b-026680a3338e,171000.0,"['country', 'pop']",[]
+10,The Days (Notion Remix),Chrystal,[],2025,fc4b8a84-9bb4-45ac-bc8a-15839b360175,5344839a-3c03-4370-ad14-c50ed2c339de,233000.0,[],[]
+11,Love Me Not,Ravyn Lenae,[],2025,6c8ef1fe-897c-43f4-b45e-a3d5e3fba71d,94c64122-dbd4-4927-b2fa-f204b0b4b0c2,213000.0,"['rock', 'soul']","['indie pop', 'contemporary R&B']"
+12,Back to Friends,Sombr,[],2025,e374d8c3-da4b-42ce-84dd-26f7236907c3,502cf908-9921-48bc-bf0e-265c881c0156,199000.0,[],[]
+13,Luther,Kendrick Lamar & SZA,[],2025,351be192-c3b5-47e6-bac4-6d895cee896d,,147000.0,[],[]
+14,Undressed,Sombr,[],2025,84fdf3e4-e5ae-4362-a04f-a53734b1b1ef,502cf908-9921-48bc-bf0e-265c881c0156,182000.0,['rock'],[]
+15,Man I Need,Olivia Dean,[],2025,cba278b0-f241-41ee-bf7c-6c20c3e69571,15e0d608-0869-429b-898d-3d8db3ecedd5,184000.0,"['pop', 'soul', 'rnb']",[]
+16,I Had Some Help,Post Malone,['Morgan Wallen'],2025,8290f2d3-59ee-4806-8fda-5149de94f799,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19,178000.0,[],['country pop']
+17,No Broke Boys,Disco Lines & Tinashe,[],2025,150cab28-4ad3-4f6b-9822-a3cf807ac337,,163000.0,[],[]
+18,"Good Luck, Babe!",Chappell Roan,[],2025,9d97dc85-01e2-400e-8a3f-40cd4790de59,56a55378-f155-48de-80a5-d80104221267,218000.0,['pop'],"['baroque pop', 'synth-pop']"
+19,Espresso,Sabrina Carpenter,[],2025,7e0a8814-ccd2-44c1-8f69-415ad9fd6696,1882fe91-cdd9-49c9-9956-8e06a3810bd4,175000.0,['pop'],"['synth-pop', 'disco', 'funk']"
+20,Pink Pony Club,Chappell Roan,[],2025,470b743c-df63-4bbd-b8c5-950cec92c3a0,56a55378-f155-48de-80a5-d80104221267,258000.0,"['pop', 'indie']","['disco', 'synth-pop', 'dance-pop', 'power pop']"
+21,Sailor Song,Gigi Perez,[],2025,05ec0220-311a-4660-a551-f59b17b49421,8ab64ebd-200e-47af-a3fc-92540e186214,211000.0,[],['indie folk']
+22,Sports Car,Tate McRae,[],2025,62cabe70-9c46-4d9a-899c-91c361b679d8,f9133869-f87c-459c-9aa7-2f176cda7e06,165000.0,"['pop', 'rnb']","['crunk', 'pop music', 'electropop']"
+23,Taste,Sabrina Carpenter,[],2025,aa249f0d-faf3-4535-9efb-d9ac78743464,1882fe91-cdd9-49c9-9956-8e06a3810bd4,157000.0,['pop'],"['pop music', 'slacker rock', 'glam rock', 'soft rock', 'country pop']"
+24,Lose Control,Teddy Swims,[],2025,e4733d45-75fa-4bf2-a0d6-9835a67e53b7,35feae82-8b2c-4f8f-ae7a-af5662848947,210000.0,"['soul', 'pop', 'rnb']",['soul']
+25,Not Like Us,Kendrick Lamar,[],2025,88f628b8-5564-4c70-9a07-8a66d14bf7be,381086ea-f511-4aba-bdf9-71c753dc5077,275000.0,[],"['West Coast hip-hop', 'hardcore hip-hop', 'hyphy']"
+26,Bad Dreams,Teddy Swims,[],2025,551ad893-bbf9-4b71-8893-bb96c5b3687a,35feae82-8b2c-4f8f-ae7a-af5662848947,184000.0,['pop'],[]
+27,The Fate of Ophelia,Taylor Swift,[],2025,8670a098-6ab7-4e18-8ac0-0ec7259151f8,20244d07-534f-4eff-b4d4-930878889970,226000.0,['pop'],"['dance-pop', 'synth-pop']"
+28,Soda Pop,Saja Boys & Andrew Choi & Neckwav & Danny Chung & Kevin Woo & Samuil Lee & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+29,Carry You Home,Alex Warren,[],2025,9a7f903e-4907-4878-ba36-e1a5917895f3,609a2ea3-f446-4e31-8eef-9f7591afb55a,166000.0,"['pop', 'country']",['pop music']
+30,Too Sweet,Hozier,[],2025,bcddd6a9-b66f-4993-9b7a-75a78b476373,b4691384-50c3-4afd-9988-51d3ec5db65d,251000.0,['pop'],"['soul', 'indie rock']"
+31,Timeless,The Weeknd & Playboi Carti,[],2025,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,,256000.0,[],[]
+32,Stargazing,Myles Smith,[],2025,ff052782-9fc5-4cf8-9f02-14c77c73f880,73d2a9d4-de5d-4bcd-9acb-ddf67dfd71ac,171000.0,[],['folk-pop']
+33,Wildflower,Billie Eilish,[],2025,5afa33bb-83f6-42c6-b789-8bfa34c48b50,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,261000.0,['pop'],[]
+34,Daisies,Justin Bieber,[],2025,c83ad7c4-3783-4023-80f1-626037aeaefb,e0140a67-e4d1-4f13-8a01-364355bee46e,176000.0,['pop'],[]
+35,Nokia,Drake,[],2025,0dfbd733-811f-4585-bbb2-195eef8c649d,9fff2f8a-21e6-47de-a2b8-7f449929d43f,242000.0,[],[]
+36,Your Idol,Saja Boys & Andrew Choi & Neckwav & Danny Chung & Kevin Woo & Samuil Lee & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+37,Indigo,Sam Barber,['Avery Anna'],2025,,be7c80ee-1b03-4088-b20b-5915c7c5ad45,286000.0,[],[]
+38,Manchild,Sabrina Carpenter,[],2025,b40bca50-273f-488f-811c-a37857916c3f,1882fe91-cdd9-49c9-9956-8e06a3810bd4,213000.0,"['pop', 'rnb', 'country']","['pop music', 'synth-pop']"
+39,Iris,Goo Goo Dolls,[],2025,cef4d7e6-5f96-40ad-8841-e870a06e36e1,e2c00c56-8365-4160-9f40-a64682917633,289000.0,[],['alternative rock']
+40,"I Love You, I'm Sorry",Gracie Abrams,[],2025,b5797911-4f7f-4360-a46d-05bd4d81af9e,f7441bc7-d7de-4813-a2fc-31a4033d396d,157000.0,['indie'],[]
+41,Pink Skies,Zach Bryan,[],2025,,51e90731-08c0-4f60-89b6-5b78e5844de8,194000.0,[],[]
+42,The Door,Teddy Swims,[],2025,9e74d6ed-20d1-46fb-8618-47a8dd22eabc,35feae82-8b2c-4f8f-ae7a-af5662848947,212000.0,"['soul', 'pop']",['pop music']
+43,Ain't No Love in Oklahoma,Luke Combs,[],2025,3e00e410-6f74-4c5f-bbaf-33b66f5efaf6,c20ee61f-071f-4e65-9c81-45ee931a54ce,210000.0,[],['country rock']
+44,Dreams,Fleetwood Mac,[],2025,,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,257000.0,[],"['soft rock', 'soft rock']"
+45,All the Stars,Kendrick Lamar & SZA,[],2025,8f056243-ec20-4068-bcaf-1e64f7db94d5,,196000.0,[],[]
+46,How it's Done,Huntr/x & Ejae & Audrey Nuna & Rei Ami & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+47,Austin,Dasha,[],2025,dbf5be27-9890-4328-a5fe-b359ae882299,4068caf6-2491-48b7-bdae-6dad7c3a85b7,171000.0,[],[]
+48,Victory Lap,Fred Again & Skepta & PlaqueBoyMax,[],2025,,,,[],[]
+49,Nice to Each Other,Olivia Dean,[],2025,17df1685-7e42-49e1-8f1e-4346fc7cc9a7,15e0d608-0869-429b-898d-3d8db3ecedd5,209000.0,[],[]
+50,What it Sounds Like,Huntr/x & Ejae & Audrey Nuna & Rei Ami & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+51,Kisses,BL3SS & CamrinWatsin,['Bbyclose'],2025,,,0.0,[],[]
+52,12 to 12,Sombr,[],2025,aa4d95ad-3db9-45c0-a11e-6094765cc0d4,502cf908-9921-48bc-bf0e-265c881c0156,242000.0,"['rock', 'pop']","['disco', 'new wave', 'synth-pop']"
+53,Please Please Please,Sabrina Carpenter,[],2025,f9f27e61-bcf0-4b3a-901c-e2e4113dfd7b,1882fe91-cdd9-49c9-9956-8e06a3810bd4,186000.0,['pop'],"['pop music', 'disco', 'country pop', 'yacht rock']"
+54,Just Keep Watching,Tate McRae,[],2025,9a03fb86-0618-4d39-bfa3-ede753a988eb,f9133869-f87c-459c-9aa7-2f176cda7e06,142000.0,[],[]
+55,Slow it Down,Benson Boone,[],2025,862d3bd7-e035-4e56-9817-7e87fb283706,62b914a7-d775-4bb4-bb5e-d46e7df115b5,161000.0,['pop'],[]
+56,Revolving Door,Tate McRae,[],2025,e3a8f9fe-9ffb-4f65-974d-21f8171f252c,f9133869-f87c-459c-9aa7-2f176cda7e06,180000.0,[],['pop music']
+57,Mutt,Leon Thomas,[],2025,,,192000.0,"['rnb', 'soul']",[]
+58,Something in the Orange,Zach Bryan,[],2025,95a87931-919e-4364-934a-24b70cf9ebff,51e90731-08c0-4f60-89b6-5b78e5844de8,228000.0,['country'],['country music']
+59,I Remember Everything,Zach Bryan,['Kacey Musgraves'],2025,,51e90731-08c0-4f60-89b6-5b78e5844de8,275000.0,[],['country music']
+60,TV Off,Kendrick Lamar,['Lefty Gunplay'],2025,639da52f-d42c-431f-9a4c-6cc4f589754d,381086ea-f511-4aba-bdf9-71c753dc5077,221000.0,[],[]
+61,No One Noticed,The Marias,[],2025,,,0.0,[],[]
+62,Somedays,Sonny Fodera & Jazzy & D.O.D,[],2025,,,0.0,[],[]
+63,Abracadabra,Lady Gaga,[],2025,4e0e2ac4-1f5a-48a2-ba7e-6ee24f83a844,650e7db6-b795-4eb5-a702-5ea2fc46c848,223000.0,"['pop', 'dance']","['electropop', 'dance-pop']"
+64,Anxiety,Doechii,[],2025,43d7be59-74d3-409f-a8b8-59636354e64c,9f75277c-b283-4846-ac8c-f932255cd0ac,249000.0,"['hip hop', 'rap']",['pop rap']
+65,Mr. Brightside,The Killers,[],2025,,95e1ead9-4d31-4808-a7ac-32c3614c116b,222000.0,"['rock', 'indie', 'alternative']",['indie rock']
+66,I'm the Problem,Morgan Wallen,[],2025,8457c0c0-38fa-47b3-b950-ba3acb3c5c33,2077273e-eaa1-4f49-903c-f286ededecb9,175000.0,['country'],[]
+67,Free,Rumi & Jinu & Ejae & Andrew Choi & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+68,Riptide,Vance Joy,[],2025,,df36f6db-5987-46ed-9d02-0cf36ed4e060,204000.0,"['folk', 'indie', 'alternative']",['indie folk']
+69,Stick Season,Noah Kahan,[],2025,b6aeb26d-31fb-42f3-9339-905b36fcf5a7,a2a3f910-b188-43e7-81d0-f1ac2a2f3e12,181000.0,"['indie', 'folk']",['folk music']
+70,Where the Wild Things Are,Luke Combs,[],2025,8ccde464-3d42-4c97-8a1b-8a049fcd3fe8,c20ee61f-071f-4e65-9c81-45ee931a54ce,239000.0,[],['country music']
+71,We Can't Be Friends (Wait for Your Love),Ariana Grande,[],2025,b6587011-5a7c-4664-82ad-7a6368f4bd99,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,229000.0,['pop'],['synth-pop']
+72,Good News,Shaboozey,[],2025,,0b427dad-1ee5-48f1-aa4b-026680a3338e,199000.0,[],[]
+73,Guess,Charli XCX,['Billie Eilish'],2025,025ec1a8-6515-4d98-80f7-a4b43a513354,260b6184-8828-48eb-945c-bc4cb6fc34ca,132000.0,['pop'],"['electro house', 'pop rap']"
+74,Diet Pepsi,Addison Rae,[],2025,49da01a2-aecd-4449-83f6-c81ca5de7321,610b71d9-fa78-47d6-9073-083922e73840,169000.0,['pop'],"['synth-pop', 'pop music']"
+75,Takedown,Huntr/x & Ejae & Audrey Nuna & Rei Ami & KPop Demon Hunters Cast,[],2025,,,0.0,[],[]
+76,Denial is a River,Doechii,[],2025,93ede245-9336-472a-8ffd-9f853d8b0a85,9f75277c-b283-4846-ac8c-f932255cd0ac,269000.0,['rap'],[]
+77,Burning Down,Alex Warren,[],2025,e6f15d45-5eae-45b5-a70e-9a3ca0741cb5,609a2ea3-f446-4e31-8eef-9f7591afb55a,179000.0,[],[]
+78,Opalite,Taylor Swift,[],2025,0e97f221-a290-477b-89e6-e6aab368d223,20244d07-534f-4eff-b4d4-930878889970,235000.0,"['pop', 'rnb']",['pop rock']
+79,Sorry I'm Here for Someone Else,Benson Boone,[],2025,907e3747-ca95-46ef-9049-24bb02c341a0,62b914a7-d775-4bb4-bb5e-d46e7df115b5,156000.0,"['pop', 'rock']",[]
+80,Mystical Magical,Benson Boone,[],2025,8479aac0-66e7-47bb-902b-7028fd1e0035,62b914a7-d775-4bb4-bb5e-d46e7df115b5,165000.0,"['rock', 'pop']",[]
+81,When it Rains it Pours,Luke Combs,[],2025,a88ffcea-6b74-4942-acc7-d1b3caee0b13,c20ee61f-071f-4e65-9c81-45ee931a54ce,242000.0,[],[]
+82,Bed Chem,Sabrina Carpenter,[],2025,e33b0965-9031-496e-814e-fe498d061bca,1882fe91-cdd9-49c9-9956-8e06a3810bd4,171000.0,"['pop', 'funk']",['synth-pop']
+83,What I Want,Morgan Wallen,['Tate McRae'],2025,,,0.0,[],[]
+84,Fast Car,Luke Combs,[],2025,27a100f9-583c-4947-a826-fc6d70283764,c20ee61f-071f-4e65-9c81-45ee931a54ce,265000.0,[],"['country music', 'acoustic music']"
+85,Azizam,Ed Sheeran,[],2025,c64e68a8-bab9-418f-8919-7936d0a6d9ed,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,162000.0,['pop'],[]
+86,Nice to Meet You,Myles Smith,[],2025,37de93e3-24e0-40e7-af69-84e9adefbd75,73d2a9d4-de5d-4bcd-9acb-ddf67dfd71ac,176000.0,[],['folk-pop']
+87,It's OK I'm OK,Tate McRae,[],2025,fa5150d5-926d-4907-841d-efc9f4a5072c,f9133869-f87c-459c-9aa7-2f176cda7e06,156000.0,"['pop', 'dance', 'rnb']",['pop music']
+88,Yellow,Coldplay,[],2025,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,269000.0,"['rock', 'alternative']","['pop rock', 'post-Britpop', 'alternative rock']"
+89,Greedy,Tate McRae,[],2025,579ede57-ecd8-4763-a0fa-3128086c75b4,f9133869-f87c-459c-9aa7-2f176cda7e06,131000.0,"['pop', 'dance', 'rnb']","['pop music', 'dance-pop', 'contemporary R&B']"
+90,Love Somebody,Morgan Wallen,[],2025,866e39f3-0c71-4321-a646-15cfd078ea85,2077273e-eaa1-4f49-903c-f286ededecb9,203000.0,[],"['country music', 'soft rock', 'contemporary R&B']"
+91,Linger (SiriusXM Session),Royel Otis,[],2025,,2244c1f9-773f-4541-a4fe-ee6dc4f2ce60,186000.0,[],[]
+92,Chihiro,Billie Eilish,[],2025,4bcb550c-9160-45ed-9cbe-d6771ad96c9d,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,303000.0,[],"['rhythm and blues', 'rhythm and blues', 'techno', 'techno', 'tech house', 'tech house', 'progressive soul', 'progressive soul']"
+93,Stumblin' In,Cyril,[],2025,a34a4833-cf02-4b0e-b00e-55d8bc03c589,5ee56fb3-6e4b-4e51-bde2-7b40a9fca1df,215000.0,[],[]
+94,Take Me to Church,Hozier,[],2025,c11179f1-046a-4716-8315-95a8f50bc830,b4691384-50c3-4afd-9988-51d3ec5db65d,242000.0,"['indie', 'soul']","['blues', 'soul', 'indie rock']"
+95,Don't Stop Believin',Journey,[],2025,85ec9a3d-2da6-3a45-ae9b-7523d70a4dd7,abd506e1-6f2b-4d6f-b937-92c267f6f88b,249000.0,['rock'],"['rock music', 'pop music']"
+96,Miles on It,Marshmello & Kane Brown,[],2025,9da1e9d2-a677-4488-aca6-652a2aaf9302,,168000.0,[],[]
+97,Cruel Summer,Taylor Swift,[],2025,7b3f37a2-850e-499e-95e9-f3fbf0f40331,20244d07-534f-4eff-b4d4-930878889970,178000.0,['pop'],"['electropop', 'synth-pop']"
+98,Don't Dream it's Over,Crowded House,[],2025,,9854d99f-d954-4c0f-9ae5-58a0cdd885f5,235000.0,"['pop', 'rock']",[]
+99,Bloodline,Alex Warren with Jelly Roll,[],2025,637a69bd-1c35-4714-b240-8bbb0997692e,,182000.0,[],[]
+100,Million Dollar Baby,Tommy Richman,[],2025,8eaa7bc3-0fef-4027-8a91-c26aba8024eb,741a6c80-2d6e-4522-9de4-e070798a2d30,155000.0,['rnb'],['trap music']

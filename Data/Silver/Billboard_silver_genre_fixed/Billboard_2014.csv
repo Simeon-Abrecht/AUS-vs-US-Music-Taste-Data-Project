@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Happy,Pharrell Williams,[],2014,,149f91ef-1287-46da-9a8e-87fee02f1471,232000.0,[],"['neo soul', 'soul']"
+2,Dark Horse,Katy Perry & Juicy J,[],2014,12e2e456-5d1c-44e1-9eae-f745c2ce604a,122d63fc-8671-43e4-9752-34e846d62a9c,215000.0,[],[]
+3,All of Me,John Legend,[],2014,57134d59-8a4f-4646-97ff-50671986583e,75a72702-a5ef-4513-bca5-c5b944903546,270000.0,"['rnb', 'pop', 'soul']",['ballade']
+4,Fancy,Iggy Azalea & Charli XCX,[],2014,2c42ca62-5713-4130-b47d-1ee672098b2e,3a052c99-8c18-484a-8beb-9873b4fb3106,199000.0,"['rap', 'pop']",[]
+5,Counting Stars,OneRepublic,[],2014,,c33c2065-b1c3-4406-b066-d33a9e2ea71a,257000.0,"['rock', 'pop']",['folk rock']
+6,Talk Dirty,Jason Derulo & 2 Chainz,[],2014,94733e1e-cc16-443d-84f8-db279325c086,,177000.0,[],[]
+7,Rude,Magic!,[],2014,447276a2-a59e-4fe6-beaa-13ae0676d168,53fa616a-e2b4-4982-bef8-6362b44054f0,224000.0,"['pop', 'reggae']","['reggae fusion', 'pop music']"
+8,All About That Bass,Meghan Trainor,[],2014,759edfb8-0b3c-4d4b-9538-a4e20f21f1e3,b2029169-2574-4305-820f-252a5fde3697,188000.0,[],"['blue-eyed soul', 'pop music', 'doo-wop']"
+9,Problem,Ariana Grande & Iggy Azalea,[],2014,,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,193000.0,['pop'],[]
+10,Stay with Me,Sam Smith,[],2014,,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,172000.0,"['soul', 'pop']","['pop music', 'rhythm and blues', 'soul']"
+11,Timber,Pitbull & Kesha,[],2014,,d262ea27-3ffe-40f7-b922-85c42d625e67,204000.0,"['pop', 'dance']",[]
+12,Pompeii,Bastille,[],2014,9833ffbd-a387-415f-baab-dedd322529a9,7808accb-6395-4b25-858c-678bbb73896b,214000.0,"['indie', 'pop', 'alternative']",['indie rock']
+13,Shake It Off,Taylor Swift,[],2014,59fc5ddf-a1d9-4746-902d-71fb5a9a78c2,20244d07-534f-4eff-b4d4-930878889970,219000.0,['pop'],['dance-pop']
+14,Am I Wrong,Nico & Vinz,[],2014,,f8e8de78-2131-4e96-8829-ba3614f48a48,245000.0,['pop'],['pop music']
+15,Turn Down for What,DJ Snake & Lil Jon,[],2014,a4c1efe1-7b27-4604-be35-097326ed1c5f,,213000.0,[],[]
+16,The Monster,Eminem & Rihanna,[],2014,7e9e29c6-c643-41bb-bd1c-f77e4a453719,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,250000.0,"['rap', 'pop', 'hip hop']",[]
+17,Say Something,A Great Big World & Christina Aguilera,[],2014,004ab425-f2f3-42a9-9041-3a7e33321e01,6958e806-1e14-4844-a0a7-07a27756aa0f,231000.0,[],[]
+18,Team,Lorde,[],2014,,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,243000.0,"['pop', 'electronic']","['electro hop', 'alternative pop']"
+19,Let Her Go,Passenger,[],2014,,6617f55e-c0c0-490d-9855-02c9c30091d9,251000.0,['folk'],['folk rock']
+20,Royals,Lorde,[],2014,,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,190000.0,"['pop', 'indie', 'electronic']","['art pop', 'electropop', 'indie pop']"
+21,Let It Go,Idina Menzel,[],2014,4c1a9d5a-57c4-4cf0-a153-d7c53077263e,929ca8c3-5df3-4fe9-bc59-f8d603780bce,224000.0,[],"['stage and screen', 'pop rock', 'show tune']"
+22,Wake Me Up,Avicii,[],2014,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,249000.0,"['electronic', 'dance', 'pop']","['pop music', 'electronic dance music', 'folktronica', 'folk-pop']"
+23,Demons,Imagine Dragons,[],2014,,012151a8-0f9a-44c9-997f-ebd68b5389f9,176000.0,"['indie', 'rock', 'alternative']",['alternative rock']
+24,Story of My Life,One Direction,[],2014,f6328ef6-62f6-4d08-8e33-e201d07e321d,1a425bbd-cca4-4b2c-aeb7-71cb176c828a,246000.0,['pop'],['folktronica']
+25,Chandelier,Sia,[],2014,d54ad2cf-cc5b-4c8d-881d-f4685e12553c,2f548675-008d-4332-876c-108b0c7ab9c5,212000.0,"['pop', 'indie']",['electropop']
+26,Black Widow,Iggy Azalea & Rita Ora,[],2014,63b17be0-6cd2-4a3c-9609-860d44896c4b,3a052c99-8c18-484a-8beb-9873b4fb3106,209000.0,[],[]
+27,Bang Bang,Jessie J & Ariana Grande & Nicki Minaj,[],2014,146707fc-924f-48ce-b56e-fff3a6a19c06,,199000.0,[],[]
+28,Latch,Disclosure & Sam Smith,[],2014,,962419b3-51c6-464d-acd5-b43f88429d85,255000.0,[],[]
+29,Maps,Maroon 5,[],2014,,0ab49580-c84f-44d4-875f-d83760ea2cfe,190000.0,['pop'],['pop music']
+30,Loyal,Chris Brown & Lil Wayne & French Montana & Too Short & Tyga,[],2014,,,,[],[]
+31,Best Day of My Life,American Authors,[],2014,fe6779b5-ed82-46d2-b987-27166c767a34,9ce0515d-cc88-4df6-8a2e-d231c13cb2c2,194000.0,"['pop', 'indie', 'alternative']",['indie rock']
+32,Habits (Stay High),Tove Lo,[],2014,,56756959-1e78-429c-b897-e1d056cb0225,208000.0,['pop'],[]
+33,Summer,Calvin Harris,[],2014,,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,221000.0,"['dance', 'house', 'electronic']","['dance-pop', 'electro house']"
+34,Boom Clap,Charli XCX,[],2014,67a7aa1c-8551-4146-865e-4ca91f2b8d84,260b6184-8828-48eb-945c-bc4cb6fc34ca,169000.0,['pop'],['synth-pop']
+35,Drunk in Love,Beyoncé & Jay-Z,[],2014,4645707e-2b49-49df-bef0-81b08a194ac2,859d0860-d480-4efd-970c-c05d5f1776b8,335000.0,[],[]
+36,Anaconda,Nicki Minaj,[],2014,0cb6d5ef-1f5c-4e06-b91a-73edd3c0eabb,1036b808-f58c-4a3e-b461-a2c4492ecf1b,206000.0,['rap'],"['hip-hop', 'dirty rap']"
+37,Break Free,Ariana Grande & Zedd,[],2014,,,214000.0,[],[]
+38,Bailando,Enrique Iglesias & Descemer Bueno & Gente de Zona,[],2014,,,0.0,[],[]
+39,Burn,Ellie Goulding,[],2014,,33ca19f4-18c8-4411-98df-ac23890ce9f5,231000.0,"['pop', 'electronic']",['electropop']
+40,Wiggle,Jason Derulo & Snoop Dogg,[],2014,0622cd9b-f46c-425b-8b82-f6b9063aa594,,190000.0,[],[]
+41,Rather Be,Clean Bandit & Jess Glynne,[],2014,463f9e4f-1f4b-49ae-973f-0fdc0d40ba1d,,227000.0,[],[]
+42,Don't Tell 'Em,Jeremih & YG,[],2014,9817e7e5-b1da-483e-8369-a1e8297042f8,1c009a08-74d1-4682-bc56-8bfbe9e66b62,267000.0,[],[]
+43,Show Me,Kid Ink & Chris Brown,[],2014,,,0.0,[],[]
+44,Wrecking Ball,Miley Cyrus,[],2014,,7e9bd05a-117f-4cce-87bc-e011527a8b18,222000.0,['pop'],"['rock music', 'pop music', 'synth-pop']"
+45,Not a Bad Thing,Justin Timberlake,[],2014,b07f41db-a827-4111-b2c1-28b2a3805962,596ffa74-3d08-44ef-b113-765d43d12738,266000.0,[],['pop music']
+46,Roar,Katy Perry,[],2014,,122d63fc-8671-43e4-9752-34e846d62a9c,246000.0,['pop'],['pop music']
+47,Ain't It Fun,Paramore,[],2014,0a9ad3d3-3732-4414-b7cc-8806cf0e63b2,44cf61b8-5197-448a-b82b-cef6ee89fac5,296000.0,"['rock', 'alternative']","['alternative rock', 'new wave', 'pop rock', 'funk rock']"
+48,The Man,Aloe Blacc,[],2014,c68948a7-d8ef-409c-adf8-bcf2afeb656f,4bf89e02-6c30-4603-9f6a-52619b1bea1a,255000.0,[],['soul']
+49,This Is How We Roll,Florida Georgia Line & Luke Bryan,[],2014,87229b01-9e92-4316-8f40-c97c442594ee,,222000.0,[],[]
+50,Classic,MKTO,[],2014,d33b5e17-2e99-45c1-a84b-7044693bc27e,aa25521e-3848-4ff7-ab09-545cc95b8a36,175000.0,"['pop', 'dance']","['pop rap', 'funk']"
+51,A Sky Full of Stars,Coldplay,[],2014,,cc197bad-dc9c-440d-a5b5-d52ba2e14234,268000.0,"['pop', 'electronic', 'dance']",[]
+52,Don't,Ed Sheeran,[],2014,9037fd5b-e74f-49c9-90aa-9c8d08ee160a,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,219000.0,"['pop', 'soul']",[]
+53,Na Na,Trey Songz,[],2014,367f1539-193b-4b52-b007-324cb85c6bba,4d7304f6-7fe3-4959-9d98-01a5af84afe6,231000.0,"['rnb', 'hip hop', 'dance']","['contemporary R&B', 'hip-hop soul']"
+54,Hot Boy,Bobby Shmurda,[],2014,4f2105b9-9052-4c4c-b6d1-6432f030bc75,4ec3b7d8-efbb-4672-8067-5e72bd8dba3e,194000.0,[],[]
+55,"Hold On, We're Going Home",Drake & Majid Jordan,[],2014,020ec4b3-2c6a-4257-a671-689421b198b0,9fff2f8a-21e6-47de-a2b8-7f449929d43f,227000.0,"['pop', 'rnb']",[]
+56,Sing,Ed Sheeran,[],2014,470512a4-a735-4e71-b33d-61eace8d7445,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,235000.0,[],['pop music']
+57,Radioactive,Imagine Dragons,[],2014,,012151a8-0f9a-44c9-997f-ebd68b5389f9,188000.0,"['indie', 'alternative', 'rock']","['electronic rock', 'alternative rock']"
+58,My Hitta,YG & Jeezy & Rich Homie Quan,[],2014,,,0.0,[],[]
+59,Cool Kids,Echosmith,[],2014,cab36bea-a44c-4bdb-b505-1ba222cf7afc,53317371-09a4-4bf4-a832-22a9c6704be2,237000.0,['pop'],"['alternative rock', 'pop rock', 'indie pop']"
+60,Hey Brother,Avicii,[],2014,,c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,194000.0,"['dance', 'pop', 'electronic', 'country']",['house music']
+61,Trumpets,Jason Derulo,[],2014,002c6aff-c219-430b-80b1-5508ac695e1c,,217000.0,[],['pop music']
+62,Animals,Maroon 5,[],2014,,0ab49580-c84f-44d4-875f-d83760ea2cfe,231000.0,"['pop', 'alternative']",['dance-pop']
+63,Burnin' It Down,Jason Aldean,[],2014,3a6b7aae-2a8a-4c85-8e53-036eb6dd6758,f24df11a-7e35-4979-a4db-a3b2a170ce27,219000.0,[],['country pop']
+64,Play It Again,Luke Bryan,[],2014,aee1e5b3-dbc2-45ed-b5cb-e1dc0a8f32c0,aab35942-f176-4f77-bbf9-1d6aa98ccf3f,226000.0,[],['country music']
+65,2 On,Tinashe & ScHoolboy Q,[],2014,,,0.0,[],[]
+66,Dirt,Florida Georgia Line,[],2014,0c405319-993a-48d3-9c7e-ef3748b99168,c16817df-0160-490d-a437-c128cbca9218,231000.0,[],['country music']
+67,Love Runs Out,OneRepublic,[],2014,,c33c2065-b1c3-4406-b066-d33a9e2ea71a,224000.0,[],['rock music']
+68,Bottoms Up,Brantley Gilbert,[],2014,c2f068bb-ada5-4ded-a5a7-915de0514c01,9ad8aede-6938-48f2-93fa-908bc4da9ef6,219000.0,[],['country rock']
+69,Shower,Becky G,[],2014,1d93e0ff-f67b-4dc5-a220-40ed723d1dae,eb90c8b8-d733-4c14-a293-105c3d1ba9b3,232000.0,['pop'],"['teen pop', 'pop rap']"
+70,Me and My Broken Heart,Rixton,[],2014,0af476f3-48f4-4a7e-af4f-2f324dc60249,28aee606-d7a9-4b8d-b234-dd5e0d99c259,207000.0,['pop'],[]
+71,Animals,Martin Garrix,[],2014,,3e1f2ee4-16be-4406-bf18-6173840cf2b1,176000.0,[],['electro house']
+72,Lifestyle,Rich Gang & Young Thug & Rich Homie Quan,[],2014,,,0.0,[],[]
+73,American Kids,Kenny Chesney,[],2014,0bbf3932-7919-4e4a-b659-5f0029482953,5dca4d22-d6c8-4e70-8ca1-4543e43353c7,183000.0,[],['country music']
+74,Brave,Sara Bareilles,[],2014,877c17bc-da1d-46a4-b3ce-093ac493dc1d,e54be6b7-5c26-4b47-bb3f-c137429b9b55,220000.0,[],['power pop']
+75,Sweater Weather,The Neighbourhood,[],2014,c57fc620-9ca2-40be-95ec-2c498a2151a8,53b06622-ec51-4924-a554-58b0affde6b5,240000.0,"['indie', 'alternative']",['indie rock']
+76,Leave the Night On,Sam Hunt,[],2014,,be9a991d-319c-4a58-b115-ee3f4bb3613d,192000.0,[],['country music']
+77,New Flame,Chris Brown & Usher & Rick Ross,[],2014,,,0.0,[],[]
+78,Love Never Felt So Good,Michael Jackson & Justin Timberlake,[],2014,41601c57-0d6d-4f25-878b-e75cdb3a28c5,,189000.0,[],[]
+79,Drunk on a Plane,Dierks Bentley,[],2014,2c9a586e-efc8-4304-97c0-7c94f986e317,6bd7faa9-601f-44db-a2a6-239209f83156,254000.0,[],['country music']
+80,Birthday,Katy Perry,[],2014,04635fe0-b179-4ff5-ae34-ee37c55b2a06,122d63fc-8671-43e4-9752-34e846d62a9c,215000.0,[],['disco']
+81,Bartender,Lady Antebellum,[],2014,24eb8687-f0ef-473b-a075-34b53241a136,,198000.0,[],[]
+82,La La La,Naughty Boy & Sam Smith,[],2014,,,220000.0,[],[]
+83,Blurred Lines,Robin Thicke & T.I. & Pharrell Williams,[],2014,,,0.0,[],[]
+84,Do What U Want,Lady Gaga & R. Kelly,[],2014,f221e67c-0cff-4564-945b-2c852fc02b6a,650e7db6-b795-4eb5-a702-5ea2fc46c848,217000.0,[],[]
+85,Can't Remember to Forget You,Shakira & Rihanna,[],2014,08e41b35-4850-43cd-a690-783b6aab83cd,bf24ca37-25f4-4e34-9aec-460b94364cfc,206000.0,[],[]
+86,Amnesia,5 Seconds of Summer,[],2014,0e18adba-68a8-4852-9a8e-4436faf655ad,830e5c4e-6b7d-431d-86ab-00c751281dc5,236000.0,['pop'],"['pop rock', 'pop rock', 'pop music']"
+87,No Mediocre,T.I. & Iggy Azalea,[],2014,,,0.0,[],[]
+88,Come with Me Now,KONGOS,[],2014,1fe30970-457e-41d0-852b-5e4b39a13253,,212000.0,[],[]
+89,Believe Me,Lil Wayne & Drake,[],2014,,,0.0,[],[]
+90,23,Mike WiLL Made-It & Miley Cyrus & Wiz Khalifa & Juicy J,[],2014,,,0.0,[],[]
+91,Beachin',Jake Owen,[],2014,2c795ae3-3249-4872-847f-1155d37e021d,508f4f83-26dc-4d21-98d9-1a8c04d5ad4a,191000.0,[],['country music']
+92,White Walls,Macklemore & Ryan Lewis & ScHoolboy Q & Hollis,[],2014,4df50ec4-1f51-401d-b22a-2c5f25a26cd5,97b226c8-7140-4da3-91ac-15e62e131a81,220000.0,[],[]
+93,She Looks So Perfect,5 Seconds of Summer,[],2014,,830e5c4e-6b7d-431d-86ab-00c751281dc5,203000.0,['pop'],"['power pop', 'pop rock', 'pop-punk']"
+94,Stay the Night,Zedd & Hayley Williams,[],2014,,,0.0,[],[]
+95,Partition,Beyoncé,[],2014,1772ff0d-596b-43b6-8f07-4b323081a0cf,859d0860-d480-4efd-970c-c05d5f1776b8,145000.0,['rnb'],['electro']
+96,Studio,ScHoolboy Q & BJ the Chicago Kid,[],2014,,,0.0,[],[]
+97,0 to 100 / The Catch Up,Drake,[],2014,394b14f5-b5ff-4058-bcc0-591e2dfa17d1,9fff2f8a-21e6-47de-a2b8-7f449929d43f,275000.0,[],['hip-hop']
+98,I Don't Dance,Lee Brice,[],2014,8c5a697f-39cf-4ee4-89c3-691dcc1aa49a,48a6d065-1fda-4280-ae39-df1394d419cd,221000.0,[],"['country music', 'country music']"
+99,Somethin' Bad,Miranda Lambert & Carrie Underwood,[],2014,c6e1648e-70b8-45d5-a7e1-09d2931e198b,4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c,169000.0,[],[]
+100,Adore You,Miley Cyrus,[],2014,991000ef-b13c-4e79-a206-e50171ac39e5,7e9bd05a-117f-4cce-87bc-e011527a8b18,278000.0,['pop'],"['pop music', 'contemporary R&B']"

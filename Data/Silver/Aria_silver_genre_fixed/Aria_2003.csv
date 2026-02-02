@@ -1,0 +1,101 @@
+rank,song_title,artist,featuring_artists,year,track_mbid,artist_mbid,duration,genre,wiki_genre
+1,Angels Brought Me Here,Guy Sebastian,[],2003,69a901b5-7141-3249-a6d5-5a632ba7ef04,f116b984-45ae-49d0-9445-efc5a61458a1,238000.0,[],['contemporary R&B']
+2,Lose Yourself,Eminem,[],2003,727c60cd-f92b-3c8c-b813-ee5a61fd3a62,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,318000.0,"['rap', 'hip hop']",[]
+3,Where is the Love?,Black Eyed Peas,[],2003,,d5be5333-4171-427e-8e12-732087c6b78e,231000.0,[],[]
+4,Born to Try,Delta Goodrem,[],2003,2e7a77e5-1d69-4f16-ae8e-74ec016f4aa7,8c5755b4-2de6-4158-bca9-e354cbf07437,250000.0,[],['pop music']
+5,In Da Club,50 Cent,[],2003,6dba72a5-14d5-4bf3-a6e4-a2b355f71106,8e68819d-71be-4e7d-b41d-f1df81b01d3f,222000.0,"['rap', 'hip hop']",[]
+6,Bring Me to Life,Evanescence,[],2003,,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,237000.0,['rock'],"['alternative metal', 'nu metal']"
+7,Lost Without You,Delta Goodrem,[],2003,5aefff46-9360-445e-8489-f0bdb9019b34,8c5755b4-2de6-4158-bca9-e354cbf07437,253000.0,[],['pop rock']
+8,The Ketchup Song (Asereje),Las Ketchup,[],2003,3e209f11-97f6-409f-910a-7571156adc81,5c6f6348-15b5-4eb5-a8ae-d8a3ee3354a1,212000.0,[],[]
+9,Nu Flow,Big Brovaz,[],2003,0422fbe3-1e80-3400-ae70-1341b1ac2248,49174736-2f92-48a1-841b-dff2ed74b835,201000.0,[],['contemporary R&B']
+10,Ignition (Remix),R. Kelly,[],2003,,c2d25856-a09a-4d15-b404-77dd19c19e63,186000.0,[],['contemporary R&B']
+11,All I Have,Jennifer Lopez,['LL Cool J'],2003,06f3b0e1-801b-3dec-a284-0aeccef59352,f0602f55-1770-483d-89bd-4bae0d0ac086,490000.0,[],"['hip-hop', 'contemporary R&B']"
+12,Stole,Kelly Rowland,[],2003,,31bea673-d23a-4889-8da1-7cb040863268,247000.0,[],['pop rock']
+13,Angel,Amanda Perez,[],2003,387f533e-129b-43f5-905d-2991984002a5,b8cef818-ae80-4804-a26b-6ae27096e1a1,222000.0,[],['contemporary R&B']
+14,All the Things She Said,t.A.T.u.,[],2003,0b7bf2ef-1ad9-48ba-9e2b-a6ca7142d9d8,7c20f558-d664-42bd-b6f1-81acf9dbb72d,234000.0,"['pop', 'dance']","['electropop', 'pop rock']"
+15,Big Yellow Taxi,Counting Crows,['Vanessa Carlton'],2003,a9ada411-c209-4b3e-8f9b-ccb790528f48,a0327dc2-dc76-44d5-aec6-47cd2dff1469,238000.0,[],[]
+16,'03 Bonnie and Clyde,Jay-Z,['Beyonce'],2003,,,207000.0,[],[]
+17,Predictable,Delta Goodrem,[],2003,003059b9-dc14-4c59-b49b-c59833354c4a,8c5755b4-2de6-4158-bca9-e354cbf07437,219000.0,[],['pop rock']
+18,Innocent Eyes,Delta Goodrem,[],2003,1228f440-e5ef-33bc-aa14-1b2ce393135c,8c5755b4-2de6-4158-bca9-e354cbf07437,231000.0,[],"['pop rock', 'pop rock', 'pop music', 'soft rock']"
+19,Shut Up,Black Eyed Peas,[],2003,,d5be5333-4171-427e-8e12-732087c6b78e,225000.0,[],['rapping']
+20,"Not Me, Not I",Delta Goodrem,[],2003,303ec0f0-b314-3837-9c4e-6083807c9929,8c5755b4-2de6-4158-bca9-e354cbf07437,264000.0,[],['pop music']
+21,Shake Ya Tailfeather,Nelly & P. Diddy & Murphy Lee,[],2003,,,0.0,[],[]
+22,Hey Sexy Lady,Shaggy,"['Brian', 'Tony Gold']",2003,b26f30cf-7493-4091-9659-5fccc4d4ac58,fc63d806-ca89-4ea3-a404-ee6de695743f,201000.0,[],['reggae']
+23,Someday,Nickelback,[],2003,97f14d93-ce4d-4a80-a5be-0f9125688e4d,bc710bcf-8815-42cf-bad2-3f1d12246aeb,195000.0,"['rock', 'alternative']",['post-grunge']
+24,Beautiful,Christina Aguilera,[],2003,,b202beb7-99bd-47e7-8b72-195c8d72ebdd,241000.0,[],[]
+25,"Bump, Bump, Bump",B2K,['P. Diddy'],2003,07523f98-d1bd-4c04-a318-bb85857c04a7,e50519c1-6940-40fe-b920-f73f522005e2,276000.0,[],['hip-hop']
+26,Dilemma,Nelly,['Kelly Rowland'],2003,,811900b2-68fc-4d41-8bad-69b7a1f4d628,104000.0,"['rnb', 'rap', 'hip hop']","['hip-hop', 'contemporary R&B']"
+27,Stuck,Stacie Orrico,[],2003,02df866b-4aa4-4211-a43b-b9f4a75c0a37,eda489f6-afa5-46b0-a4f5-ad42e735dcad,223000.0,[],['pop rock']
+28,Crazy in Love,Beyonce,[],2003,79fbfcb7-68c7-420c-af75-632fa146c968,859d0860-d480-4efd-970c-c05d5f1776b8,233000.0,[],[]
+29,Reign,Ja Rule,[],2003,2ce026ac-cd32-4be6-b321-088c9648c9de,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,246000.0,[],[]
+30,Baby Boy,Beyonce,['Sean Paul'],2003,13b37a9a-f292-4b57-85ea-8a8a693f0ded,859d0860-d480-4efd-970c-c05d5f1776b8,204000.0,[],[]
+31,I Know What You Want,Busta Rhymes and Mariah Carey,['The Flipmode Squad'],2003,d1fbd902-3d2b-41ee-9b09-3a6cf4b2d436,494e8d09-f85b-4543-892f-a5096aed1cd4,252000.0,[],[]
+32,Jenny From the Block,Jennifer Lopez,['Jadakiss and Styles'],2003,7a210dba-0f98-4fa1-9a19-638c2631aefa,f0602f55-1770-483d-89bd-4bae0d0ac086,174000.0,[],[]
+33,P.I.M.P.,50 Cent,[],2003,37979888-ba2d-4c95-9c9d-9c60213fad22,8e68819d-71be-4e7d-b41d-f1df81b01d3f,249000.0,"['rap', 'hip hop']",['gangsta rap']
+34,Lovesong,Amiel,[],2003,995a64e7-f3dd-49b6-aa9b-e53638020247,d29f3aa5-396c-4325-8abd-594e83396fe8,212000.0,[],[]
+35,Mesmerize,Ja Rule,['Ashanti'],2003,1a35c5cc-3f3a-46bd-bcdd-c2c9e51389f2,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,278000.0,[],"['hip-hop', 'contemporary R&B']"
+36,Work It,Missy Elliott,[],2003,86cb69a2-fbf1-4210-a997-d7401e3a9fda,a0b8cb9e-7532-45fe-a74c-30e7c4009a39,263000.0,[],[]
+37,Beautiful,Snoop Dogg,"['Pharrell', 'Uncle Charlie Wilson']",2003,0102b728-d1ac-3f74-b0cc-898d9ccb0778,f90e8b26-9e52-4669-a5c9-e28529c47894,298000.0,"['hip hop', 'rap']",[]
+38,The Tide is High (Get the Feeling),Atomic Kitten,[],2003,1f51b600-2106-446f-b0ed-d1d9a7264264,6fda00c2-449a-4bf4-838f-038d41a07c73,206000.0,[],[]
+39,You Promised Me (Tu Es Foutu),In-Grid,[],2003,,,300000.0,[],[]
+40,She Hates Me,Puddle of Mudd,[],2003,48ccb8d6-1309-487d-bec1-1da3d6ccdf94,ff460a70-fdf4-4aa2-b021-8a04da76d88e,207000.0,"['rock', 'alternative']",['post-grunge']
+41,Do it With Madonna,The Androids,[],2003,dfa5f7ed-153f-430e-8a67-d7a0fbfd584d,00e1d7b8-0399-4f6a-816c-eb865fe4b2a7,228000.0,[],['pop music']
+42,Landslide,Dixie Chicks,[],2003,58ecf88b-a6f2-4191-8318-72ebb9ed1606,,227000.0,[],[]
+43,Intuition,Jewel,[],2003,5b4ca4eb-abb7-441b-bff3-5d2913440b98,abae8575-ec8a-4736-abc3-1ad5093a68aa,229000.0,[],['pop music']
+44,21 Questions,50 Cent,[],2003,043edf79-4fc4-461f-9962-7c2691c90f37,8e68819d-71be-4e7d-b41d-f1df81b01d3f,224000.0,"['rap', 'hip hop']",['alternative hip-hop']
+45,Get Busy,Sean Paul,[],2003,,c3da3346-2643-48a7-93cd-011f6834b3d7,211000.0,"['reggae', 'dance']",['dancehall']
+46,Rock Your Body,Justin Timberlake,[],2003,,596ffa74-3d08-44ef-b113-765d43d12738,267000.0,"['pop', 'dance', 'rnb']","['pop music', 'disco', 'contemporary R&B']"
+47,Thug Lovin',Ja Rule,[],2003,2bf85552-23b2-3622-af51-a388c125372f,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,272000.0,[],"['hip-hop', 'contemporary R&B']"
+48,Me Against the Music,Britney Spears,['Madonna'],2003,0c4054b5-e5ed-4e77-84ac-2fb480fc1a24,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,221000.0,[],['pop music']
+49,So Yesterday,Hilary Duff,[],2003,013038d3-6959-3f80-b3e1-f064ff845657,bfaf9b70-d1fd-4d3e-b730-3e67e6f8f9bb,215000.0,[],['pop rock']
+50,Into You,Fabolous,['Tamia'],2003,75bf243c-4dd5-4b32-ba67-1252cb7140fe,d2299099-e617-46dd-b013-ba0b4c72bc63,264000.0,[],['pop rap']
+51,Right Thurr,Chingy,[],2003,d77a9c2e-f501-49cd-bcdf-ee6bfcd31a59,2c311e1d-5da3-4ffb-a46e-572981b5849f,250000.0,[],['dirty rap']
+52,Breathe,Blu Cantrell,['Sean Paul'],2003,02f2bf1a-a0a1-429f-a945-d50ad2f0e583,f28cabfc-3cf5-4886-b832-36ab708fbb0a,204000.0,[],['contemporary R&B']
+53,Miss Independent,Kelly Clarkson,[],2003,12e7dc04-8d71-44a0-92be-69441d098f19,d339efbb-77b9-4147-ba9e-59f2f24550b2,232000.0,[],"['pop music', 'pop rock']"
+54,Cry Me a River,Justin Timberlake,[],2003,,596ffa74-3d08-44ef-b113-765d43d12738,288000.0,"['pop', 'rnb', 'dance']","['contemporary R&B', 'pop music', 'teen pop']"
+55,Falling,Candice Alley,[],2003,72f5d9db-8f25-49fc-b790-a2dd4dd359c3,2ec840f7-88fb-47a1-99d5-a391d3171950,219000.0,[],['pop music']
+56,Sing for the Moment,Eminem,[],2003,060cb6da-76bd-44fb-b5fd-57521f5903a9,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,340000.0,"['rap', 'hip hop']",[]
+57,Family Portrait,Pink,[],2003,,f4d5cc07-3bc9-4836-9b15-88a08359bc63,229000.0,[],['contemporary R&B']
+58,"My Neck, My Back (Lick It)",Khia,[],2003,9ca1b323-a5ce-3ab1-a217-abf69eccbe2b,dc66a96e-0b02-4ae2-a03c-f883e46c2958,176000.0,[],"['dirty rap', 'hip-hop']"
+59,Slow,Kylie Minogue,[],2003,6a274a1f-a96a-4eff-bcb6-57f4bb705a5c,2fddb92d-24b2-46a5-bf28-3aed46f4684c,194000.0,[],"['electropop', 'synth-pop']"
+60,Naughty Girl,Holly Valance,[],2003,330fcf8d-6978-45e2-8889-428f7111cf3a,fb42bc41-953c-4040-88e7-0f6757339ea1,206000.0,[],['pop music']
+61,Hey Ya!,Outkast,[],2003,7061f60c-d5fe-4a8a-a172-c458b904aa9e,73fdb566-a9b1-494c-9f32-51768ec9fd27,225000.0,"['funk', 'dance', 'pop', 'hip hop']",[]
+62,Hello World,The Saddle Club,[],2003,bb34737e-ba80-3e1a-8364-22601d1d602e,f16b2e19-4c69-48f3-8f8c-07a18b3fae3a,171000.0,[],[]
+63,Rise Up,Australian Idol: The Final 12,[],2003,,,0.0,[],[]
+64,Feel,Robbie Williams,[],2003,,db4624cf-0e44-481e-a9dc-2142b833ec2f,263000.0,[],['pop rock']
+65,Unwell,Matchbox Twenty,[],2003,,75af9d25-cf32-49c0-9192-60bd8e9784e6,229000.0,[],['pop rock']
+66,Business,Eminem,[],2003,c873fb8e-0ec1-4643-9f5d-f7dc382e6f35,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,252000.0,[],[]
+67,(There's Gotta Be) More to Life,Stacie Orrico,[],2003,4933bd5c-4ea6-3449-921c-83592c84b81c,eda489f6-afa5-46b0-a4f5-ad42e735dcad,201000.0,[],['pop music']
+68,Scandalous,Mis-Teeq,[],2003,5887e0d0-b77d-4e5c-a8cc-49d142e30fa5,55d648e3-60d0-4fce-851d-cf6fb1c4e398,239000.0,[],['rhythm and blues']
+69,Boys of Summer,DJ Sammy,[],2003,8dd458e7-b12a-4515-9d3c-b2482ce853bc,c43e35b8-8234-408b-9a25-07f2fcbeb317,240000.0,[],[]
+70,Life Goes On,LeAnn Rimes,[],2003,492d94be-d552-4961-9442-32323999921d,9092d8e1-9b38-4372-a96d-000b8561a8bc,214000.0,[],"['pop music', 'country music']"
+71,The Anthem,Good Charlotte,[],2003,a9beef14-c405-46de-94eb-371ab3b446be,b267ca80-034e-4dc1-9ed4-ec45f1fed41d,178000.0,"['rock', 'punk']",['pop-punk']
+72,Unchained Melody,Gareth Gates,[],2003,0c326ca2-b05f-333c-93d8-0d09daea231e,32b81271-e4e7-4ee0-a095-63c7bdac69b8,233000.0,[],[]
+73,If You're Not the One,Daniel Bedingfield,[],2003,,9169bdc6-5725-45ec-bba5-e9df75dbe8cc,256000.0,[],['pop music']
+74,Fighter,Christina Aguilera,[],2003,,b202beb7-99bd-47e7-8b72-195c8d72ebdd,248000.0,[],['rock music']
+75,Rubberneckin' (Remix),Elvis Presley,[],2003,28376d73-6d3f-3009-ad4b-54a722fbc8a0,01809552-4f87-45b0-afff-2c6f0730a3be,403000.0,[],[]
+76,True Colours,Kasey Chambers,[],2003,04218045-71a8-376f-be5b-7e8c73852c4a,7333182d-8933-4896-adaa-fe98e6b59bd7,0.0,[],[]
+77,Don't Know Why,Norah Jones,[],2003,,985c709c-7771-4de3-9024-7bda29ebe3f9,186000.0,"['jazz', 'blues']","['blues', 'jazz']"
+78,White Flag,Dido,[],2003,9eaae601-9869-40ac-b477-40aedf033b2c,d1353a0c-26fb-4318-a116-defde9c7c9ad,241000.0,['pop'],"['pop music', 'pop music']"
+79,United States of Whatever,Liam Lynch,[],2003,087ddfe4-29e0-32d9-8325-966fcdadbc9f,6e987552-beba-4cc2-900d-ac01c7b4c964,90000.0,[],['comedy rock']
+80,Senorita,Justin Timberlake,[],2003,99dd9b55-8081-4edc-8830-6b790f650b49,596ffa74-3d08-44ef-b113-765d43d12738,296000.0,[],[]
+81,Satisfaction,Benny Benassi pres. The Biz,[],2003,de786709-be86-411e-825a-625d6f637b00,,285000.0,[],[]
+82,What's Your Flava?,Craig David,[],2003,3a0bfa3f-8aa8-4650-99e2-2ba8dd88140d,89e39f67-65cc-4f90-b145-b1b56c209f8a,220000.0,[],['contemporary R&B']
+83,We've Got Tonight,Ronan Keating,['Lulu'],2003,30ca3a69-c7c3-46d7-ac88-39e68ef42608,f1cd545b-f17b-4d3a-98de-68b695bfe211,216000.0,[],[]
+84,When I Get You Alone,Thicke,[],2003,8d7d8b7b-8a37-4592-bf6b-665758e5f53e,ddfd9b2f-186e-4b2c-ad09-01aa5380c225,216000.0,[],[]
+85,Round Round,Sugababes,[],2003,,dfa715ac-b536-44df-af43-570d3ea3edec,236000.0,[],[]
+86,Sk8er Boi,Avril Lavigne,[],2003,,0103c1cc-4a09-4a5d-a344-56ad99a77193,203000.0,"['rock', 'pop']","['skate punk', 'power pop', 'pop-punk', 'pop music']"
+87,Numb,Linkin Park,[],2003,468ba3ac-5255-4c18-970e-59d890765bd9,f59c5520-5f46-4d2c-b2c4-822eabf53419,187000.0,"['rock', 'alternative']","['nu metal', 'alternative rock']"
+88,Cleanin' Out My Closet,Eminem,[],2003,00c3c9cd-65a7-3465-9864-2694b99b9e34,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,300000.0,[],[]
+89,Rise \& Fall,Craig David,['Sting'],2003,,,,[],[]
+90,Your Body is a Wonderland,John Mayer,[],2003,bcf817ea-827e-4449-8513-41c59e5215ad,144ef525-85e9-40c3-8335-02c32d0861f3,249000.0,[],[]
+91,Somewhere I Belong,Linkin Park,[],2003,65748673-dc3d-4b84-83a8-5258c1094dcd,f59c5520-5f46-4d2c-b2c4-822eabf53419,217000.0,"['rock', 'alternative']",['rap rock']
+92,Can I Go Now?,Jennifer Love Hewitt,[],2003,05515b37-3ade-347b-9c25-b4725aa60ba1,2374ec6f-229c-47a8-9853-5efe3c47f5ca,209000.0,[],[]
+93,Trouble,Pink,[],2003,045ee17e-43de-4837-9194-2145e7d77312,f4d5cc07-3bc9-4836-9b15-88a08359bc63,193000.0,[],['alternative rock']
+94,Why Not,Hilary Duff,[],2003,094eb85b-1b53-4f80-98e1-790147c04d42,bfaf9b70-d1fd-4d3e-b730-3e67e6f8f9bb,180000.0,[],['pop rock']
+95,Can't Hold Us Down,Christina Aguilera,"[""Lil' Kim""]",2003,6d195cdb-08b3-4b8d-88bf-d76be1d69735,b202beb7-99bd-47e7-8b72-195c8d72ebdd,250000.0,[],"['contemporary R&B', 'hip-hop']"
+96,Are You Gonna Be My Girl,Jet,[],2003,,4efa55ba-93cf-497f-baf3-2ca9da7e193e,215000.0,"['rock', 'alternative', 'indie']",['rock music']
+97,I Begin to Wonder,Dannii Minogue,[],2003,56a2bf7f-6f98-4154-952c-aa7085d80fcf,4cab12f3-af12-4a55-ade2-606bd9524425,209000.0,[],['nu-disco']
+98,Feel Good Time,Pink,['William Orbit'],2003,d4b36e58-6aa7-3783-8662-88af015dbd2d,9c6158ed-53d0-4094-b424-b641c5cab36d,222000.0,[],"['stage and screen', 'soundtrack', 'psychedelic rock', 'dance-punk']"
+99,Mundian to Bach Ke (Beware of the Boys),Panjabi MC,['Jay-Z'],2003,,fbab6da8-e1e4-4927-b669-502a6e37a8d6,0.0,[],[]
+100,Fever for the Flava,Hot Action Cop,[],2003,0036692b-91e1-34d8-8aea-7a136d2033a1,d6c7f4f4-fbe9-45a9-b175-94aad407bcfe,249000.0,[],[]
